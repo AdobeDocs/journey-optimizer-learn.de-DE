@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
-source-git-commit: 379f3781e8d594fe7be4d9fdfabd4bcbe5a132a9
+source-git-commit: e6d026a3fddd846323290bbff059165050dd56e1
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 23%
@@ -25,7 +25,7 @@ ht-degree: 23%
 + Erstellen von Nachrichten {#create-messages}
 + Personalisieren von Inhalten {#personalize-content}
    + [Profil- und Segmentmitgliedschaft - basierte Personalisierung](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
-   + [Angebote als Personalisierung hinzufügen](/help/personalize-content/add-offer-decisioning-to-messages)
+   + [Angebote als Personalisierung hinzufügen](/help/personalize-content/add-offer-decisioning-to-messages.md)
 + Journey erstellen {#create-journeys}
 + Bericht und Überwachung {#report-and-monitor}
    + [Live- und globale Berichte](/help/report-and-monitor/live-and-global-reports.md)
