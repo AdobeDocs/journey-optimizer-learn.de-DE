@@ -2,13 +2,13 @@
 title: Angebote als Personalisierung hinzufügen
 description: Erfahren Sie, wie Sie Nachrichten in Journey Optimizer eine offer decisioning-Komponente hinzufügen.
 kt: 8033
-thumbnail: 334086.jpg
+thumbnail: 334088.jpg
 feature: Personalisierung
 doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: b2088add97c592d1d9d1f360217370630214cbfa
+source-git-commit: bad49acacba7c110fceecc4d21b8d2b2d2c9befd
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 23%
@@ -20,7 +20,7 @@ ht-degree: 23%
 
 Erfahren Sie, wie Sie Nachrichten in Journey Optimizer eine offer decisioning-Komponente hinzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/334086?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12)
 
 ## Weitere Informationen
 
