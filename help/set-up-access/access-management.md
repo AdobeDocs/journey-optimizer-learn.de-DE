@@ -2,13 +2,13 @@
 title: 'Zugriffsverwaltung '
 description: Machen Sie sich mit dem Zugriffskontrollsystem von Adobe Journey Optimizer und den acht benutzerdefinierten Profilen vertraut. Erfahren Sie, wie Sie Produktprofile und Berechtigungen verwalten und Benutzer hinzufügen und verwalten können.
 kt: 7677
-thumbnail: 333998
+thumbnail: 333998.jpg
 feature: Zugriffsverwaltung
 doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
-source-git-commit: 50dd912c4a0a64af3d98ecad28b1805abfd89daa
+source-git-commit: 1debd81aa3cc2fa8d20a514b07a4278f1a02f13a
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 10%
