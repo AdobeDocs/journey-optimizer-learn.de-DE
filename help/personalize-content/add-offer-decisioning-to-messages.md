@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: bad49acacba7c110fceecc4d21b8d2b2d2c9befd
+source-git-commit: 1debd81aa3cc2fa8d20a514b07a4278f1a02f13a
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 23%
+source-wordcount: '71'
+ht-degree: 19%
 
 ---
 
@@ -26,3 +26,4 @@ Erfahren Sie, wie Sie Nachrichten in Journey Optimizer eine offer decisioning-Ko
 
 * [Videos und Tutorials zu Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=de)
 * [Über die Entscheidungsverwaltung (Dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
+* [Personalisierte Angebote hinzufügen (Dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html)
