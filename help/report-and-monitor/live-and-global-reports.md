@@ -1,21 +1,23 @@
 ---
 title: Live- und globale Berichte
-description: Erfahren Sie, wie Sie auf Journey zugreifen und diese analysieren und Live- und globale Berichte bereitstellen können.
-kt: 7677
-thumbnail: 333998
+description: Erfahren Sie mehr über den Unterschied zwischen Live- und globalen Berichten, wie Sie auf die Journey und die Message-spezifischen Berichte zugreifen und diese analysieren und wie Sie die Berichts-Dashboards ändern können.  
+kt: 7690
+thumbnail: 334108.jpg
 feature: 'Berichterstellung '
 doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
-source-git-commit: 50dd912c4a0a64af3d98ecad28b1805abfd89daa
+source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
 workflow-type: tm+mt
-source-wordcount: '35'
-ht-degree: 2%
+source-wordcount: '63'
+ht-degree: 1%
 
 ---
 
 
 # Live- und globale Berichte
 
-Erfahren Sie, wie Sie auf Journey zugreifen und diese analysieren und Live- und globale Berichte bereitstellen können.
+Erfahren Sie mehr über den Unterschied zwischen Live- und globalen Berichten, wie Sie auf die Journey und die Message-spezifischen Berichte zugreifen und diese analysieren und wie Sie die Berichts-Dashboards ändern können.  
+
+>[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12)
