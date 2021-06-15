@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: fd49b5aa72d3e23ebadedb67a19e1e16be7f390e
+source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 4%
+source-wordcount: '113'
+ht-degree: 7%
 
 ---
 
@@ -24,4 +24,6 @@ Erfahren Sie, wie Sie vorhandenen HTML-Inhalt importieren, das Design anpassen, 
 
 ## Zusätzliche Ressourcen
 
-[Importieren oder Code Ihres E-Mail-Inhalts (Dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/existing-content.html)
+* [Importieren oder Code Ihres E-Mail-Inhalts (Dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/existing-content.html)
+* [Erste Schritte mit dem E-Mail-Design in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
+* [Verwenden von Inhaltskomponenten von Email Designer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
