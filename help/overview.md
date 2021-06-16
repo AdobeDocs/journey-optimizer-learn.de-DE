@@ -4,8 +4,8 @@ description: Dieses Benutzerhandbuch enthält Videos und Tutorials zu Funktionen
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: d2f39bb7d8e1688f6b6f20096cc6cda4242366c8
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 16%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
