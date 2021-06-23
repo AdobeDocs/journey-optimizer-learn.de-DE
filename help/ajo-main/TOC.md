@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
-source-git-commit: f034a2ef8f339d5a3e1b1ecc9ee014ec05d667c9
+source-git-commit: 5c15bb3a96033cb7cf4514a440be73d83cf9efc7
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 9%
+source-wordcount: '133'
+ht-degree: 11%
 
 ---
 
@@ -23,11 +23,12 @@ ht-degree: 9%
    + [Zugriffsverwaltung ](/help/set-up-access/access-management.md)
    + Datenkonfiguration {#data-configuration}
    + Kanalkonfiguration {#channel-configuration}
-   + Ressourcen-Setup {#resource-set-up}
    + Konfiguration der Entscheidungsverwaltung {#decision-management-configuration}
    + Journey-Konfiguration{#journey-configuration}
       + [Konfigurieren von Datenquellen](/help/set-up-journeys/configure-data-sources.md)
       + [Aktionen erstellen](/help/set-up-journeys/create-actions.md)
++ Einrichten von Ressourcen {#set-up-resources}
+   + [Segmente erstellen](/help/set-up-resources/create-segments.md)
 + Erstellen von Nachrichten {#create-messages}
    + [E-Mail-Inhalt mit dem Nachrichteneditor erstellen](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/create-messages/import-and-author-html-email-content.md)
