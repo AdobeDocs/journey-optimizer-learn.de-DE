@@ -1,6 +1,6 @@
 ---
 title: Konfigurieren von Datenquellen
-description: Machen Sie sich mit den verschiedenen Status einer Journey und den Auswirkungen der Veröffentlichung vertraut.
+description: Erfahren Sie, was eine Datenquelle ist, und lernen Sie, wie Sie eine Experience Platform und externe Datenquellen konfigurieren.
 kt: 7538
 thumbnail: 334256.jpg
 feature: Journey, Data Sources
@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Administrator, Developer
 level: Beginner
-source-git-commit: 5bc7711f64af5d0dbffcb47d71996c3caa1a89d8
+source-git-commit: 359377095abbf30572f671b61f363abef67074aa
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 15%
+source-wordcount: '45'
+ht-degree: 13%
 
 ---
 
