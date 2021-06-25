@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Administrator, Developer
 level: Beginner
-source-git-commit: 359377095abbf30572f671b61f363abef67074aa
+source-git-commit: 4c5bbbca213048a26fb2c07980cf71e2658e680b
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 5%
+source-wordcount: '90'
+ht-degree: 13%
 
 ---
 
@@ -21,3 +21,8 @@ ht-degree: 5%
 Erfahren Sie, wie Sie einen Datensatz erstellen, ihn einem Schema zuordnen, ihm Daten hinzufügen und bestätigen, dass die Daten erfasst wurden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12)
+
+## Zusätzliche Ressourcen
+
+* [Erstellen eines Schemas, eines Datensatzes und Erfassen von Daten zum Hinzufügen von Testprofilen](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html)
+* [Erstellen und Verwalten von Datensätzen](https://experienceleague.adobe.com/docs/experience-platform/catalog/datasets/user-guide.html?lang=de)
