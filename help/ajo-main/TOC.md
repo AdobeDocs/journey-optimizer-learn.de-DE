@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
-source-git-commit: 359377095abbf30572f671b61f363abef67074aa
+source-git-commit: f10e783ce8a830fd41da567ddadbf6b17b55a1af
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 11%
+source-wordcount: '139'
+ht-degree: 10%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 11%
    + Datenkonfiguration {#data-configuration}
       + [Erstellen von Datensätzen und Erfassen von Daten](/help/set-up-data/create-datasets-and-ingest-data.md)
    + Kanalkonfiguration {#channel-configuration}
+      + [E-Mail-Kanal einrichten](/help/set-up-email-channel/set-up-email-channel.md)
    + Konfiguration der Entscheidungsverwaltung {#decision-management-configuration}
    + Journey-Konfiguration{#journey-configuration}
       + [Konfigurieren von Datenquellen](/help/set-up-journeys/configure-data-sources.md)
