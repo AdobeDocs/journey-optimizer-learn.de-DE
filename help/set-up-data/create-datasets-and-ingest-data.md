@@ -8,15 +8,15 @@ doc-type: feature video
 team: PM
 role: Administrator, Developer
 level: Beginner
-source-git-commit: 4c5bbbca213048a26fb2c07980cf71e2658e680b
+source-git-commit: f10e783ce8a830fd41da567ddadbf6b17b55a1af
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 13%
+source-wordcount: '92'
+ht-degree: 9%
 
 ---
 
 
-# Konfigurieren von Datenquellen
+# Erstellen von Datensätzen und Erfassen von Daten
 
 Erfahren Sie, wie Sie einen Datensatz erstellen, ihn einem Schema zuordnen, ihm Daten hinzufügen und bestätigen, dass die Daten erfasst wurden.
 
