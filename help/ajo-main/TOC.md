@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
-source-git-commit: 638d5d7727d0e653d8f31cefdf8a5c311f11eec9
+source-git-commit: 470f4d5e329dd2823d9498c66da2d8609f2a524c
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 10%
+source-wordcount: '146'
+ht-degree: 12%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 10%
    + [Zugriffsverwaltung ](/help/set-up-access/access-management.md)
    + [Erstellen und Verwalten von Sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
    + Datenkonfiguration {#data-configuration}
+      + [Erstellen von Schemas](/help/set-up-data/create-schema.md)
       + [Erstellen von Datensätzen und Erfassen von Daten](/help/set-up-data/create-datasets-and-ingest-data.md)
    + Kanalkonfiguration {#channel-configuration}
       + [E-Mail-Kanal einrichten](/help/set-up-email-channel/set-up-email-channel.md)
