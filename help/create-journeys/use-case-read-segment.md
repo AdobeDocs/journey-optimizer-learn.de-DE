@@ -1,6 +1,6 @@
 ---
-title: Anwendungsfall - Segment lesen
-description: Machen Sie sich mit den anwendbaren Anwendungsfällen für Journey zum Lesen von Segmenten vertraut. Erfahren Sie, wie Sie Batch-basierte Journey erstellen und welche Best Practices angewendet werden.
+title: 'Anwendungsfall: Segment lesen'
+description: Machen Sie sich mit den entsprechenden Anwendungsfällen für „Segment lesen“-Journeys vertraut. Erfahren Sie, wie Sie Batch-basierte Journeys erstellen und welche Best Practices anzuwenden sind.
 kt: 7964
 thumbnail: 334206.jpg
 feature: Journeys
@@ -10,20 +10,20 @@ role: Business Practitioner
 level: Beginner
 exl-id: 7116a20e-f46a-4676-8b16-21699723828a
 source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-# Anwendungsfall - Segment lesen
+# Anwendungsfall: Segment lesen
 
-Machen Sie sich mit den anwendbaren Anwendungsfällen für Journey zum Lesen von Segmenten vertraut. Erfahren Sie, wie Sie Batch-basierte Journey erstellen und welche Best Practices angewendet werden.
+Machen Sie sich mit den entsprechenden Anwendungsfällen für „Segment lesen“-Journeys vertraut. Erfahren Sie, wie Sie Batch-basierte Journeys erstellen und welche Best Practices anzuwenden sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334206?quality=12)
 
 ## Zusätzliche Ressourcen
 
-* [Erstellen eines Segments in Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/segment/creating-a-segment.html)
-* [Segment in einer Journey verwenden](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/read-segment.html)
-* [Erfahren Sie, wie Sie eine Journey erstellen](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/using-the-journey-designer.html)
+* [Erstellen eines Segments in Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/segment/creating-a-segment.html?lang=de)
+* [Segment in einer Journey verwenden](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journey-building/read-segment.html?lang=de)
+* [Erfahren Sie, wie Sie eine Journey entwerfen](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/create-journey/using-the-journey-designer.html?lang=de)
