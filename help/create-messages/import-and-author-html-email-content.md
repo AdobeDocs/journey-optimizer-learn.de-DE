@@ -1,6 +1,6 @@
 ---
-title: Importieren und Erstellen von HTML-E-Mail-Inhalten mit dem Nachrichteneditor
-description: Erfahren Sie, wie Sie vorhandenen HTML-Inhalt importieren, das Design anpassen, Mirrorseite hinzufügen und Links abmelden und wie Sie Ihren Inhalt kodieren können.
+title: Importieren und Erstellen von HTML-E-Mail-Inhalten mit dem Nachrichten-Editor
+description: Erfahren Sie, wie Sie vorhandenen HTML-Inhalt importieren, das Design anpassen, Mirrorseiten- und Abmelde-Links hinzufügen und Ihren Inhalt kodieren können.
 kt: 7535
 thumbnail: 334102.jpg
 feature: E-Mail-Erstellung
@@ -8,22 +8,22 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
-workflow-type: tm+mt
+exl-id: 6b8b5c30-5b12-486e-8787-352670e0b164
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
+# Importieren und Erstellen von HTML-E-Mail-Inhalten mit dem Nachrichten-Editor
 
-# Importieren und Erstellen von HTML-E-Mail-Inhalten mit dem Nachrichteneditor
-
-Erfahren Sie, wie Sie vorhandenen HTML-Inhalt importieren, das Design anpassen, Mirrorseite hinzufügen und Links abmelden und wie Sie Ihren Inhalt kodieren können.
+Erfahren Sie, wie Sie vorhandenen HTML-Inhalt importieren, das Design anpassen, Mirrorseiten- und Abmelde-Links hinzufügen und Ihren Inhalt kodieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334102?quality=12)
 
 ## Zusätzliche Ressourcen
 
-* [Importieren oder Code Ihres E-Mail-Inhalts (Dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/existing-content.html)
-* [Erste Schritte mit dem E-Mail-Design in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
-* [Verwenden von Inhaltskomponenten von Email Designer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
+* [Importieren oder Codieren Ihres E-Mail-Inhalts (Dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/existing-content.html?lang=de)
+* [Erste Schritte beim Gestalten von E-Mails in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html?lang=de)
+* [Verwenden von Inhaltskomponenten von Email Designer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html?lang=de)
