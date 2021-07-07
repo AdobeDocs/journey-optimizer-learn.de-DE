@@ -1,22 +1,22 @@
 ---
-title: Aktionen erstellen
-description: Machen Sie sich mit den verschiedenen Status einer Journey und den Auswirkungen der Veröffentlichung vertraut.
+title: Erstellen von Aktionen
+description: Machen Sie sich mit den verschiedenen Status einer Journey und der Wirkung der Veröffentlichung vertraut.
 kt: 7536
 thumbnail: 334257.jpg
-feature: Journey, Data Sources
+feature: Journeys, Datenquellen
 doc-type: feature video
 team: PM
 role: Administrator, Developer
 level: Beginner
 source-git-commit: f034a2ef8f339d5a3e1b1ecc9ee014ec05d667c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '34'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Aktionen erstellen
+# Erstellen von Aktionen
 
 Erfahren Sie, was eine Aktion in Journey Optimizer ist und wie Sie eine benutzerdefinierte Aktion konfigurieren.
 
