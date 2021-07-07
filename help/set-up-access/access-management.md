@@ -8,13 +8,13 @@ doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
-workflow-type: tm+mt
+exl-id: c1b3f804-7c41-4856-ba87-4d8e22abc5a9
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
-
 
 # Zugriffsverwaltung 
 
@@ -24,4 +24,4 @@ Machen Sie sich mit dem Zugriffskontrollsystem von Adobe Journey Optimizer und d
 
 ## Zusätzliche Ressourcen
 
-* [Produktprofile (Dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/administration/ootb-product-profiles.html)
+* [Produktprofile (Dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/administration/ootb-product-profiles.html?lang=de)
