@@ -2,10 +2,10 @@
 title: Videos und Tutorials zu Journey Optimizer
 description: Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2799f18144fc994e47f63368655006e8d1f09f79
+source-git-commit: 666a96d7fb4650f108ecbc947f6da73f5c1f2a15
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 84%
+source-wordcount: '193'
+ht-degree: 77%
 
 ---
 
@@ -19,6 +19,10 @@ Journey Optimizer hilft Unternehmen, ihren Kunden vernetzte, kontextbezogene und
 Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer.
 
 ## Neuerungen
+
+* **[Einführung in das Erstellen einer Journey](/help/create-journeys/introduction-to-building-a-journey.md)**
+
+   *Machen Sie sich mit den Grundlagen zum Erstellen einer Journey auf der Journey-Arbeitsfläche vertraut.*
 
 * **[Anwendungsfall - Fehlermeldung](/help/create-journeys/use-case-read-burst-message.md)**
 
