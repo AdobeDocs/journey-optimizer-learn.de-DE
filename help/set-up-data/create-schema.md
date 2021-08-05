@@ -3,15 +3,15 @@ title: Erstellen von Schemas
 description: Erfahren Sie, wie Sie ein Schema erstellen, Feldergruppen hinzufügen, benutzerdefinierte Feldergruppen erstellen und konfigurieren.
 kt: 7565
 thumbnail: 334461.jpg
-feature: Schema
+feature: Schemas
 doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
-source-git-commit: e920c13276400fbb69467818cf49c2dfa46f28ca
+source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Erfahren Sie, wie Sie ein Schema erstellen, Feldergruppen hinzufügen, benutzerd
 
 ## Zusätzliche Ressourcen
 
-* [Erstellen eines Schemas, eines Datensatzes und Erfassen von Daten zum Hinzufügen von Testprofilen](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html)
+* [Erstellen eines Schemas und eines Datensatzes und Aufnehmen von Daten zum Hinzufügen von Testprofilen](https://experienceleague.adobe.com/docs/journey-optimizer/using/orchestrate-journeys/about-journeys/creating-test-profiles.html?lang=de)
