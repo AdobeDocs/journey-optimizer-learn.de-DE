@@ -8,7 +8,7 @@ doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
-source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
+source-git-commit: dcd0c4342392f4eed800d8a03b1ff21fe9d76e84
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 17%
@@ -27,4 +27,4 @@ Erfahren Sie mehr über Echtzeit-Kundenprofildaten und welche Schritte zum Einri
 * [Erstellen von Schemas](/help/set-up-data/create-schema.md)
 * [Zuordnungsidentitäten](/help/set-up-data/map-identities.md)
 * [Erstellen von Datensätzen und Aufnehmen von Daten](/help/set-up-data/create-datasets-and-ingest-data.md)
-* [Konfigurieren von Quellen](/help/set-up-data/configure-sources.md)
+* [Konfigurieren von Quellen](/help/set-up-data/configure-data-sources.md)
