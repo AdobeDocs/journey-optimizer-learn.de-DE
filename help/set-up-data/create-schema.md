@@ -1,5 +1,5 @@
 ---
-title: Erstellen von Schemas
+title: Erstellen eines Schemas
 description: Erfahren Sie, wie Sie ein Schema erstellen, Feldergruppen hinzufügen, benutzerdefinierte Feldergruppen erstellen und konfigurieren.
 kt: 7565
 thumbnail: 334461.jpg
@@ -9,14 +9,14 @@ team: PM
 role: Developer
 level: Beginner
 source-git-commit: 0098487cdb38c4acaedfc8608ce0d2f53b2dfe45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
 ht-degree: 100%
 
 ---
 
 
-# Erstellen von Schemas
+# Erstellen eines Schemas
 
 Erfahren Sie, wie Sie ein Schema erstellen, Feldergruppen hinzufügen, benutzerdefinierte Feldergruppen erstellen und konfigurieren.
 
