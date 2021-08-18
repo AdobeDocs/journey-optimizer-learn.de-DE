@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 source-git-commit: dcd0c4342392f4eed800d8a03b1ff21fe9d76e84
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 90%
    + [Erstellen und Verwalten von Sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
    + Datenkonfiguration {#data-configuration}
       + [Übersicht](/help/set-up-data/set-up-data-overview.md)
-      + [Erstellen von Schemas](/help/set-up-data/create-schema.md)
-      + [Zuordnungsidentitäten](/help/set-up-data/map-identities.md)
+      + [Erstellen eines Schemas](/help/set-up-data/create-schema.md)
+      + [Zuordnen von Identitäten](/help/set-up-data/map-identities.md)
       + [Erstellen von Datensätzen und Aufnehmen von Daten](/help/set-up-data/create-datasets-and-ingest-data.md)
       + [Konfigurieren von Datenquellen](/help/set-up-data/configure-data-sources.md)
    + Kanalkonfiguration {#channel-configuration}
@@ -50,7 +50,7 @@ ht-degree: 90%
    + [Anwendungsfall: Segment lesen](/help/create-journeys/use-case-read-segment.md)
    + [Anwendungsfall: Geschäftsereignis](/help/create-journeys/use-case-business-event.md)
    + [Anwendungsfall: Segmentqualifikation](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Anwendungsfall - Fehlermeldung](/help/create-journeys/use-case-read-burst-message.md)
+   + [Anwendungsfall: Burst-Nachricht](/help/create-journeys/use-case-read-burst-message.md)
    + [Testen einer Journey](/help/create-journeys/test-a-journey.md)
    + [Veröffentlichen einer Journey](/help/create-journeys/publish-a-journey.md)
 + Reporting und Überwachung {#report-and-monitor}
