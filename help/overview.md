@@ -3,9 +3,9 @@ title: Videos und Tutorials zu Journey Optimizer
 description: Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '265'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -20,25 +20,25 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 ## Neuerungen
 
-* **[Einrichten von Daten - Übersicht](/help/set-up-data/set-up-data-overview.md)**
+* **[Einrichten von Daten – Übersicht](/help/set-up-data/set-up-data-overview.md)**
 
    *Erfahren Sie mehr über Echtzeit-Kundenprofildaten und welche Schritte zum Einrichten von Kundenprofildaten für Journey Optimizer erforderlich sind.*
 
-* **[Zuordnungsidentitäten](/help/set-up-data/map-identities.md)**
+* **[Zuordnen von Identitäten](/help/set-up-data/map-identities.md)**
 
-   *Erfahren Sie, wie und wann ein Schemafeld als Identität bezeichnet werden kann, wie ein Namespace erstellt wird, wann eine Identität als primär festgelegt wird und wie Identitätsdaten erfasst und überprüft werden.*
+   *Erfahren Sie, wie und wann ein Schemafeld als Identität bezeichnet wird, wie ein Namespace erstellt wird, wann eine Identität als primär festgelegt wird und wie Identitätsdaten aufgenommen und überprüft werden.*
 
 * **[Konfigurieren von Datenquellen](/help/set-up-data/configure-data-sources.md)**
 
-   *Informationen zu Quell-Connectoren und deren Konfiguration in Journey Optimizer*
+   *Erfahren Sie mehr über Quell-Connectoren und deren Konfiguration in Journey Optimizer*
 
 * **[Einführung in das Erstellen einer Journey](/help/create-journeys/introduction-to-building-a-journey.md)**
 
-   *Machen Sie sich mit den Grundlagen zum Erstellen einer Journey auf der Journey-Arbeitsfläche vertraut.*
+   *Machen Sie sich mit den Grundlagen zum Erstellen einer Journey in der Journey-Arbeitsfläche vertraut.*
 
-* **[Anwendungsfall - Fehlermeldung](/help/create-journeys/use-case-read-burst-message.md)**
+* **[Anwendungsfall: Burst-Nachricht](/help/create-journeys/use-case-read-burst-message.md)**
 
-   *Machen Sie sich mit den anwendbaren Anwendungsfällen für Burst-Messaging vertraut. Erfahren Sie, wie Sie eine Journey für Burst-Nachrichten konfigurieren und welche Best Practices angewendet werden.*
+   *Machen Sie sich mit den Anwendungsfällen für Bust-Messaging vertraut. Erfahren Sie, wie Sie eine Journey für Burst-Nachrichten konfigurieren und welche Best Practices zur Anwendung kommen.*
 
 ## Favoriten unserer Mitarbeiter
 
