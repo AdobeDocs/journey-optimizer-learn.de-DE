@@ -2,10 +2,10 @@
 title: Videos und Tutorials zu Journey Optimizer
 description: Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 16d5e81f4fc19c62dbc700ff1dfdb06cd9d01662
+source-git-commit: 21123c70cfc929dccb8dcf65e1939e2dd367a0ec
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 93%
+source-wordcount: '210'
+ht-degree: 91%
 
 ---
 
@@ -20,25 +20,13 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 ## Neuerungen
 
-* ** [Erstellen von Ereignissen](/help/set-up-journeys/create-events.md)**
+* **[Ereignisse erstellen](/help/set-up-journeys/create-events.md)**
 
    *Erfahren Sie, wie Sie ein Ereignis konfigurieren, den Streaming-Endpunkt und die Payload für ein Ereignis angeben.*
-
-* **[Einrichten von Daten – Übersicht](/help/set-up-data/set-up-data-overview.md)**
-
-   *Erfahren Sie mehr über Echtzeit-Kundenprofildaten und welche Schritte zum Einrichten von Kundenprofildaten für Journey Optimizer erforderlich sind.*
-
-* **[Zuordnen von Identitäten](/help/set-up-data/map-identities.md)**
-
-   *Erfahren Sie, wie und wann ein Schemafeld als Identität bezeichnet wird, wie ein Namespace erstellt wird, wann eine Identität als primär festgelegt wird und wie Identitätsdaten aufgenommen und überprüft werden.*
 
 * **[Konfigurieren von Datenquellen](/help/set-up-data/configure-data-sources.md)**
 
    *Erfahren Sie mehr über Quell-Connectoren und deren Konfiguration in Journey Optimizer*
-
-* **[Einführung in das Erstellen einer Journey](/help/create-journeys/introduction-to-building-a-journey.md)**
-
-   *Machen Sie sich mit den Grundlagen zum Erstellen einer Journey in der Journey-Arbeitsfläche vertraut.*
 
 * **[Anwendungsfall: Burst-Nachricht](/help/create-journeys/use-case-read-burst-message.md)**
 
