@@ -3,14 +3,14 @@ title: Verwenden von Helper-Funktionen für die Personalisierung
 description: Erfahren Sie, wie Sie Personalisierungswerte mithilfe von Personalisierungs-Helper-Funktionen umwandeln können, und machen Sie sich mit verschiedenen Anwendungsfällen für Helper-Funktionen vertraut.
 kt: 8079
 thumbnail: 334244.jpg
-feature: Personalisierung
+feature: Personalization
 doc-type: feature video
 team: PM
 role: User
 level: Beginner
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
-workflow-type: ht
-source-wordcount: '96'
+source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
+workflow-type: tm+mt
+source-wordcount: '75'
 ht-degree: 100%
 
 ---
@@ -24,6 +24,5 @@ Erfahren Sie, wie Sie Personalisierungswerte mithilfe von Personalisierungs-Help
 
 ## Zusätzliche Ressourcen
 
-* [Erste Schritte mit der Personalisierung in Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalize.html?lang=de)
-* [Vorlagensprache und Helper-Funktionen](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/functions/functions.html?lang=de)
-* [Anwendungsfall: Verwendung mehrerer Personalisierungstypen in einer Nachricht](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/personalization/personalization-use-case.html?lang=de)
+* [Erste Schritte mit der Personalisierung in Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalize.html?lang=de)
+* [Vorlagensprache und Helper-Funktionen](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/functions/functions.html?lang=de)
