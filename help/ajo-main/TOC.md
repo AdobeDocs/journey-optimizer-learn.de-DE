@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
-source-git-commit: c60c70732efc32ff18137b56fc54bbfd43ef256b
+source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 98%
@@ -19,22 +19,22 @@ ht-degree: 98%
    + [Übersicht über Journey Optimizer – Teil 2](/help/introduction/journey-optimizer-overview-part-2.md)
    + [Wichtige Funktionen und die Benutzeroberfläche](/help/introduction/key-capabilities-and-user-interface.md)
    + [Architektur](/help/introduction/architecture.md)
-+ Erste Schritte {#get-started}
++ Zugriffskontrolle {#access-control}
    + [Zugriffsverwaltung ](/help/set-up-access/access-management.md)
    + [Erstellen und Verwalten von Sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
-   + Datenkonfiguration {#data-configuration}
-      + [Übersicht](/help/set-up-data/set-up-data-overview.md)
-      + [Erstellen eines Schemas](/help/set-up-data/create-schema.md)
-      + [Zuordnen von Identitäten](/help/set-up-data/map-identities.md)
-      + [Erstellen von Datensätzen und Aufnehmen von Daten](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [Konfigurieren von Datenquellen](/help/set-up-data/configure-data-sources.md)
-   + Kanalkonfiguration {#channel-configuration}
-      + [Einrichten des E-Mail-Kanals](/help/set-up-email-channel/set-up-email-channel.md)
-   + Konfiguration der Entscheidungsverwaltung {#decision-management-configuration}
-   + Journey-Konfiguration{#journey-configuration}
-      + [Konfigurieren von Datenquellen](/help/set-up-journeys/configure-data-sources.md)
-      + [Ereignisse erstellen](/help/set-up-journeys/create-events.md)
-      + [Erstellen von Aktionen](/help/set-up-journeys/create-actions.md)
++ Datenkonfiguration {#data-configuration}
+   + [Übersicht](/help/set-up-data/set-up-data-overview.md)
+   + [Erstellen eines Schemas](/help/set-up-data/create-schema.md)
+   + [Zuordnen von Identitäten](/help/set-up-data/map-identities.md)
+   + [Erstellen von Datensätzen und Aufnehmen von Daten](/help/set-up-data/create-datasets-and-ingest-data.md)
+   + [Konfigurieren von Datenquellen](/help/set-up-data/configure-data-sources.md)
++ Kanalkonfiguration {#channel-configuration}
+   + [Einrichten des E-Mail-Kanals](/help/set-up-email-channel/set-up-email-channel.md)
++ Konfiguration der Entscheidungsverwaltung {#decision-management-configuration}
++ Journey-Konfiguration{#journey-configuration}
+   + [Konfigurieren von Datenquellen](/help/set-up-journeys/configure-data-sources.md)
+   + [Ereignisse erstellen](/help/set-up-journeys/create-events.md)
+   + [Erstellen von Aktionen](/help/set-up-journeys/create-actions.md)
 + [Segmente erstellen](/help/set-up-resources/create-segments.md)
 + Erstellen von Nachrichten {#create-messages}
    + [Erstellen von E-Mail-Inhalten mit dem Nachrichten-Editor](/help/create-messages/create-email-content-with-the-message-editor.md)
