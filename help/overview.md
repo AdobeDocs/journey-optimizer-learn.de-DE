@@ -2,7 +2,7 @@
 title: Videos und Tutorials zu Journey Optimizer
 description: Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 21123c70cfc929dccb8dcf65e1939e2dd367a0ec
+source-git-commit: 5e8737fdbc77b5f664795209708a5d3b5b6a566f
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 91%
@@ -24,7 +24,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
    *Erfahren Sie, wie Sie ein Ereignis konfigurieren, den Streaming-Endpunkt und die Payload für ein Ereignis angeben.*
 
-* **[Konfigurieren von Datenquellen](/help/set-up-data/configure-data-sources.md)**
+* **[Konfigurieren von Datenquellen](/help/set-up-data/configure-source-connectors.md)**
 
    *Erfahren Sie mehr über Quell-Connectoren und deren Konfiguration in Journey Optimizer*
 
