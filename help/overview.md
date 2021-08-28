@@ -2,7 +2,7 @@
 title: Videos und Tutorials zu Journey Optimizer
 description: Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: a3ac85cfb438b37c36bf97af41d6c41dc666e92d
+source-git-commit: f20dcf654fc2e552b4936860a99b825e40c0e2c6
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 91%
@@ -28,7 +28,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
    *Erfahren Sie mehr über Quell-Connectoren und deren Konfiguration in Journey Optimizer*
 
-* **[Anwendungsfall: Burst-Nachricht](/help/create-journeys/use-case-read-burst-message.md)**
+* **[Anwendungsfall: Burst-Nachricht](/help/create-journeys/use-case-burst-message.md)**
 
    *Machen Sie sich mit den Anwendungsfällen für Bust-Messaging vertraut. Erfahren Sie, wie Sie eine Journey für Burst-Nachrichten konfigurieren und welche Best Practices zur Anwendung kommen.*
 
