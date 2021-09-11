@@ -2,10 +2,10 @@
 title: Videos und Tutorials zu Journey Optimizer
 description: Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: f20dcf654fc2e552b4936860a99b825e40c0e2c6
+source-git-commit: a32d0d147fb6cd2fde1bc6052f2684d21be883da
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 91%
+source-wordcount: '212'
+ht-degree: 79%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 91%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer hilft Unternehmen, ihren Kunden vernetzte, kontextbezogene und personalisierte Erlebnisse bereitzustellen. Die Customer Journey umfasst den gesamten Prozess der Kundeninteraktion mit der Marke, von der ersten Kontaktaufnahme bis zum Kaufabschluss.
+Journey Optimizer hilft Unternehmen, ihren Kunden vernetzte, kontextbezogene und personalisierte Erlebnisse bereitzustellen. Die Journey ist der gesamte Vorgang der Interaktion eines Kunden mit der Marke, vom ersten Moment des Kontakts bis zum Ausstieg des Kunden aus der Site.
 
 Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer.
 
