@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
-source-git-commit: acbdb0e3fa0da0cf7af56b3fdecd9662010e5d9b
+source-git-commit: 7b51c728a8c73a05e89f18e9e7c908a9f835f818
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 95%
+source-wordcount: '190'
+ht-degree: 97%
 
 ---
 
@@ -31,7 +31,16 @@ ht-degree: 95%
 + Kanalkonfiguration {#channel-configuration}
    + [Einrichten des E-Mail-Kanals](/help/set-up-email-channel/set-up-email-channel.md)
 + Konfiguration der Entscheidungsverwaltung {#decision-management-configuration}
-   + [Offer decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=de)
+   + [Einführung in [!DNL Offer Decisioning]](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
+   + [Demo von [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
+   + [Platzierungen erstellen](/help/set-up-decision-management/create-placements.md)
+   + [Erstellen von Regeln](/help/set-up-decision-management/create-rules.md)
+   + [Tags erstellen](/help/set-up-decision-management/create-tags.md)
+   + [Personalisierte Angebote erstellen](/help/set-up-decision-management/create-personalized-offers.md)
+   + [Fallback-Angebote erstellen](/help/set-up-decision-management/create-fallback-offers.md)
+   + [Kollektionen erstellen](/help/set-up-decision-management/create-collections.md)
+   + [Angebotsaktivitäten erstellen](/help/set-up-decision-management/create-offer-activities.md)
+   + [Unterbreiten von Angeboten mithilfe der Decisions-API](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
 + Journey-Konfiguration{#journey-configuration}
    + [Konfigurieren von Datenquellen](/help/set-up-journeys/configure-data-sources.md)
    + [Ereignisse erstellen](/help/set-up-journeys/create-events.md)
