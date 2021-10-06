@@ -1,6 +1,6 @@
 ---
-title: Testen einer Journey mithilfe von Ereignissen und Testprofilen
-description: Erfahren Sie, was ein Testmodus ist. Erfahren Sie, wie Sie ein Testprofil erstellen, den Testmodus ausführen und Testmodusprotokolle lesen.
+title: Erstellen eines Testprofils
+description: Erfahren Sie, wie Sie ein Testprofil erstellen.
 kt: 7529
 thumbnail: 334236.jpg
 feature: Journeys
@@ -9,15 +9,15 @@ team: PM
 role: User
 level: Beginner
 exl-id: b0725be6-2a3d-46cf-b78a-d53b6a88d112
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
-workflow-type: ht
-source-wordcount: '63'
-ht-degree: 100%
+source-git-commit: 0da3158451836e67f9807365dbd5a59d50821230
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Testen einer Journey mithilfe von Ereignissen und Testprofilen
+# Erstellen eines Testprofils
 
-Erfahren Sie, was ein Testmodus ist. Erfahren Sie, wie Sie ein Testprofil erstellen, den Testmodus ausführen und Testmodusprotokolle lesen.
+Erfahren Sie, wie Sie ein Testprofil erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334236?quality=12)
