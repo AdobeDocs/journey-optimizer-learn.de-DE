@@ -3,9 +3,9 @@ title: Videos und Tutorials zu Journey Optimizer
 description: Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: a32d0d147fb6cd2fde1bc6052f2684d21be883da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '212'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 79%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer hilft Unternehmen, ihren Kunden vernetzte, kontextbezogene und personalisierte Erlebnisse bereitzustellen. Die Journey ist der gesamte Vorgang der Interaktion eines Kunden mit der Marke, vom ersten Moment des Kontakts bis zum Ausstieg des Kunden aus der Site.
+Journey Optimizer hilft Unternehmen, ihren Kunden vernetzte, kontextbezogene und personalisierte Erlebnisse bereitzustellen. Die Customer Journey umfasst den gesamten Prozess der Kundeninteraktion mit der Marke, von der ersten Kontaktaufnahme bis der Kunde die Site verlässt.
 
 Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer.
 
@@ -22,7 +22,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 * **[Ereignisse erstellen](/help/set-up-journeys/create-events.md)**
 
-   *Erfahren Sie, wie Sie ein Ereignis konfigurieren, den Streaming-Endpunkt und die Payload für ein Ereignis angeben.*
+   *Erfahren Sie, wie Sie ein Ereignis konfigurieren und den Streaming-Endpunkt und die Payload für ein Ereignis angeben.*
 
 * **[Konfigurieren von Datenquellen](/help/set-up-journeys/configure-data-sources.md)**
 
