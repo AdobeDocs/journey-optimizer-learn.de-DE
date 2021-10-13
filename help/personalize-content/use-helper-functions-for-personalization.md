@@ -8,13 +8,13 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
-source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
-workflow-type: tm+mt
+exl-id: 20dfc3a7-aa09-4ca2-a02e-3134fd680e2b
+source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 
 ---
-
 
 # Verwenden von Helper-Funktionen für die Personalisierung
 
@@ -22,7 +22,7 @@ Erfahren Sie, wie Sie Personalisierungswerte mithilfe von Personalisierungs-Help
 
 >[!VIDEO](https://video.tv.adobe.com/v/334244?quality=12)
 
-## Zusätzliche Ressourcen
+## Weitere Ressourcen
 
 * [Erste Schritte mit der Personalisierung in Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/personalize.html?lang=de)
 * [Vorlagensprache und Helper-Funktionen](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/functions/functions.html?lang=de)
