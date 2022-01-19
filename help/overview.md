@@ -2,10 +2,10 @@
 title: Videos und Tutorials zu Journey Optimizer
 description: Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer.
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: a32d0d147fb6cd2fde1bc6052f2684d21be883da
+source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 100%
+source-wordcount: '201'
+ht-degree: 92%
 
 ---
 
@@ -20,6 +20,10 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 ## Neuerungen
 
+* **[Zuweisen von CName-Subdomains](/help/set-up-email-channel/delegate-cname-subdomains.md)**
+
+   *Erfahren Sie, wie Sie eine Subdomain mit CNAME erstellen, um auf Adobe-spezifische Datensätze zu verweisen.*
+
 * **[Ereignisse erstellen](/help/set-up-journeys/create-events.md)**
 
    *Erfahren Sie, wie Sie ein Ereignis konfigurieren und den Streaming-Endpunkt und die Payload für ein Ereignis angeben.*
@@ -28,9 +32,6 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
    *Erfahren Sie mehr über Quell-Connectoren und deren Konfiguration in Journey Optimizer*
 
-* **[Anwendungsfall: Burst-Nachricht](/help/create-journeys/use-case-burst-message.md)**
-
-   *Machen Sie sich mit den Anwendungsfällen für Bust-Messaging vertraut. Erfahren Sie, wie Sie eine Journey für Burst-Nachrichten konfigurieren und welche Best Practices zur Anwendung kommen.*
 
 ## Favoriten unserer Mitarbeiter
 

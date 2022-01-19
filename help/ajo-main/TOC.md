@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
-source-git-commit: 73c14dba1d95e0bdd369ee5530fc0c3f763be385
+source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 100%
+source-wordcount: '194'
+ht-degree: 98%
 
 ---
 
@@ -30,6 +30,7 @@ ht-degree: 100%
    + [Source Connectors konfigurieren](/help/set-up-data/configure-source-connectors.md)
 + Kanalkonfiguration {#channel-configuration}
    + [Einrichten des E-Mail-Kanals](/help/set-up-email-channel/set-up-email-channel.md)
+   + [Zuweisen von CName-Subdomains](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + Konfiguration der Entscheidungsverwaltung {#decision-management-configuration}
    + [Einführung in  [!DNL Offer Decisioning]](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
    + [Demo von  [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
@@ -37,7 +38,7 @@ ht-degree: 100%
    + [Regeln erstellen](/help/set-up-decision-management/create-rules.md)
    + [Tags erstellen](/help/set-up-decision-management/create-tags.md)
    + [Personalisierte Angebote erstellen](/help/set-up-decision-management/create-personalized-offers.md)
-   + [Fallback-Angebote erstellen](/help/set-up-decision-management/create-fallback-offers.md)
+   + [Erstellen von Fallback-Angeboten](/help/set-up-decision-management/create-fallback-offers.md)
    + [Regeln erstellen](/help/set-up-decision-management/create-collections.md)
    + [Angebotsaktivitäten erstellen](/help/set-up-decision-management/create-offer-activities.md)
    + [Unterbreiten von Angeboten mithilfe der Decisions-API](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
