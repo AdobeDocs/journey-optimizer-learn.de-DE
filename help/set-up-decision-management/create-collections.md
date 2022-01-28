@@ -1,13 +1,13 @@
 ---
 title: Regeln erstellen
 description: Erfahren Sie, wie Sie in  [!DNL Offer Decisioning] Regeln erstellen. Sammlungen sind Eignungsregeln zugeordnet, die Ihnen helfen, sie nur relevanten Kunden anzuzeigen.
-feature: Offers
+feature: Offers, Collections
 kt: 6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
@@ -21,9 +21,3 @@ Erfahren Sie, wie Sie in [!DNL Offer Decisioning] Regeln erstellen. Sammlungen w
 >[!INFO]
 >
 > Dieses Video ist Teil eines Kurses [Erste Schritte mit Offer Decisioning für Marketing-Experten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos in Experience League verfügbar ist!
-
-
-## Weitere Ressourcen
-
-* [Erstellen von Sammlungen (Dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-collections.html?lang=de)
-* [Erstellen von Sammlungen mit API (Dokumentation)](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/collections/create.html?lang=de)

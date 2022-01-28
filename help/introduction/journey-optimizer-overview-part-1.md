@@ -9,14 +9,14 @@ team: Evangelism
 role: User
 level: Beginner
 exl-id: 6977cc53-9dad-4dee-9cbf-90f7b11ea9c8
-source-git-commit: a8e4b4fe22a1fc9f10eae0ac33e2eef328f650f3
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '50'
 ht-degree: 100%
 
 ---
 
-# Journey Optimizer – Teil 1: Bereitstellen von Omni-Channel-Journeys
+# Übersicht über Journey Optimizer – Teil 1: Bereitstellen von Omni-Channel-Journeys
 
 In diesem Video wird gezeigt, wie Marken mit Adobe Journey Optimizer personalisierte Omni-Channel-Journeys für ihre Kunden bereitstellen können.
 
