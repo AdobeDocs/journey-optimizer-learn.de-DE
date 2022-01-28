@@ -6,12 +6,13 @@ feature: Offers, API
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
+source-git-commit: 31d7353f5b82b9024835a763bb41deb9722fbbf0
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 100%
 
 ---
+
 
 # Unterbreiten von Angeboten mithilfe der Decisions-API
 
@@ -23,8 +24,8 @@ Erfahren Sie, wie Sie mit der Decisions-API [!DNL Offer Decisioning][-Angebote u
 >
 > Dieses Video ist Teil eines Kurses [Erste Schritte mit Offer Decisioning für Marketing-Experten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos in Experience League verfügbar ist!
 
-
 ## Weitere Ressourcen
+
 * [Experience Platform-APIs authentifizieren und aufrufen (Tutorial)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html?lang=de)
 * [[!DNL Postman] Sammlung für Nicht-Produktions-Authentifizierung](https://github.com/adobe/experience-platform-postman-samples/tree/master/apis/ims)
 * [[!DNL Postman]](https://www.postman.com/)
