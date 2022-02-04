@@ -4,9 +4,9 @@ description: Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funkti
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '201'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 ## Neuerungen
 
-* **[Zuweisen von CName-Subdomains](/help/set-up-email-channel/delegate-cname-subdomains.md)**
+* **[Delegieren von CName-Subdomains](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
    *Erfahren Sie, wie Sie eine Subdomain mit CNAME erstellen, um auf Adobe-spezifische Datensätze zu verweisen.*
 
