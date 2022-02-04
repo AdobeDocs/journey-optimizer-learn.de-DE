@@ -7,7 +7,7 @@ kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
 source-git-commit: 31d7353f5b82b9024835a763bb41deb9722fbbf0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
 ht-degree: 100%
 
@@ -16,13 +16,13 @@ ht-degree: 100%
 
 # Unterbreiten von Angeboten mithilfe der Decisions-API
 
-Erfahren Sie, wie Sie mit der Decisions-API [!DNL Offer Decisioning][-Angebote unterbreiten](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=de). Anhand von [!DNL Postman] wird gezeigt, dass ein API-Aufruf zum Abrufen der Container-ID erfolgt. Als Nächstes wird ein Beispiel für einen Decisions-API-Aufruf mit der Aktivitäts-ID, der Platzierungs-ID, dem Identity-Namespace und der Kunden-ID angepasst, um ein personalisiertes Angebot abzurufen. Nachdem Sie ein personalisiertes Angebot mit der Decisions-API abgerufen haben, können Sie den Angebotsinhalt in Ihr Marketing-System integrieren.
+Erfahren Sie, wie Sie [!DNL Offer Decisioning]-[Angebote mit der Decisions API](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=de) unterbreiten können. Anhand von [!DNL Postman] wird gezeigt, dass ein API-Aufruf zum Abrufen der Container-ID erfolgt. Als Nächstes wird ein Beispiel für einen Decisions-API-Aufruf mit der Aktivitäts-ID, der Platzierungs-ID, dem Identity-Namespace und der Kunden-ID angepasst, um ein personalisiertes Angebot abzurufen. Nachdem Sie ein personalisiertes Angebot mit der Decisions-API abgerufen haben, können Sie den Angebotsinhalt in Ihr Marketing-System integrieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on)
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses [Erste Schritte mit Offer Decisioning für Marketing-Experten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos in Experience League verfügbar ist!
+> Dieses Video ist Teil des Kurses [Erste Schritte mit Offer Decisioning für Marketing-Experten](https://experienceleague.adobe.com/?lang=de?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos in Experience League verfügbar ist!
 
 ## Weitere Ressourcen
 
