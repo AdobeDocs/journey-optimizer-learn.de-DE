@@ -10,14 +10,14 @@ role: Admin
 level: Beginner
 exl-id: c1b3f804-7c41-4856-ba87-4d8e22abc5a9
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
 # Zugriffsverwaltung 
 
-Grundlegendes zum Zugriffskontrollsystem der Adobe Journey Optimizer und den acht [benutzerdefinierte Produktprofile](https://experienceleague.adobe.com/docs/journey-optimizer/using/administration/ootb-product-profiles.html?lang=de). Erfahren Sie, wie Sie Produktprofile und Berechtigungen verwalten und Benutzer hinzufügen und verwalten können.
+Machen Sie sich mit dem Zugriffskontrollsystem von Adobe Journey Optimizer und den acht [benutzerdefinierten Profilen](https://experienceleague.adobe.com/docs/journey-optimizer/using/administration/ootb-product-profiles.html?lang=de) vertraut. Erfahren Sie, wie Sie Produktprofile und Berechtigungen verwalten und Benutzer hinzufügen und verwalten können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333998?quality=12)
