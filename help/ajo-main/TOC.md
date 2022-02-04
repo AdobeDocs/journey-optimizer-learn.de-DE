@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '194'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 88%
    + [Personalisierte Angebote erstellen](/help/set-up-decision-management/create-personalized-offers.md)
    + [Erstellen von Fallback-Angeboten](/help/set-up-decision-management/create-fallback-offers.md)
    + [Regeln erstellen](/help/set-up-decision-management/create-collections.md)
-   + [Angebotsaktivitäten erstellen](/help/set-up-decision-management/create-offer-activities.md)
+   + [Erstellen von Angebotsaktivitäten](/help/set-up-decision-management/create-offer-activities.md)
    + [Unterbreiten von Angeboten mithilfe der Decisions-API](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
 + Journey-Konfiguration{#journey-configuration}
    + [Konfigurieren von Datenquellen](/help/set-up-journeys/configure-data-sources.md)
@@ -58,11 +58,11 @@ ht-degree: 88%
    + [Verwenden von Helper-Funktionen für die Personalisierung](/help/personalize-content/use-helper-functions-for-personalization.md)
 + Erstellen von Journeys {#create-journeys}
    + [Einführung in das Erstellen einer Journey](/help/create-journeys/introduction-to-building-a-journey.md)
-   + [Anwendungsfall - Transaktions-Journey](/help/create-journeys/use-case-transactional-journey.md)
-   + [Anwendungsfall - Segment lesen](/help/create-journeys/use-case-read-segment.md)
-   + [Anwendungsfall - Geschäftsereignis](/help/create-journeys/use-case-business-event.md)
-   + [Anwendungsfall - Segmentqualifizierung](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Anwendungsfall - Fehlermeldung](/help/create-journeys/use-case-burst-message.md)
+   + [Anwendungsfall: Journey mit Transaktion](/help/create-journeys/use-case-transactional-journey.md)
+   + [Anwendungsfall: Segment lesen](/help/create-journeys/use-case-read-segment.md)
+   + [Anwendungsfall: Geschäftsereignis](/help/create-journeys/use-case-business-event.md)
+   + [Anwendungsfall: Segmentqualifikation](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [Anwendungsfall: Burst-Nachricht](/help/create-journeys/use-case-burst-message.md)
    + [Erstellen eines Testprofils](/help/create-journeys/test-a-journey.md)
    + [Veröffentlichen einer Journey](/help/create-journeys/publish-a-journey.md)
 + Reporting und Überwachung {#report-and-monitor}
