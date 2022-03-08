@@ -3,10 +3,10 @@ title: Videos und Tutorials zu Journey Optimizer
 description: Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 676f0b268f7f67d179bfa944b72cb68191640c74
+source-git-commit: 9af3eb252d38eb94cc81d4fd8723af8d44fd90da
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 100%
+source-wordcount: '214'
+ht-degree: 86%
 
 ---
 
@@ -21,6 +21,10 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 ## Neuerungen
 
+* **[Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
+
+   *Erfahren Sie, wie Sie gespeicherte Personalisierungselemente in einer Nachricht verwenden und wie Sie Elemente der Personalisierungsbibliothek erstellen und verwalten.*
+
 * **[Delegieren von CName-Subdomains](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
    *Erfahren Sie, wie Sie eine Subdomain mit CNAME erstellen, um auf Adobe-spezifische Datensätze zu verweisen.*
@@ -28,10 +32,6 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 * **[Ereignisse erstellen](/help/set-up-journeys/create-events.md)**
 
    *Erfahren Sie, wie Sie ein Ereignis konfigurieren und den Streaming-Endpunkt und die Payload für ein Ereignis angeben.*
-
-* **[Konfigurieren von Datenquellen](/help/set-up-journeys/configure-data-sources.md)**
-
-   *Erfahren Sie mehr über Quell-Connectoren und deren Konfiguration in Journey Optimizer*
 
 
 ## Favoriten unserer Mitarbeiter
@@ -65,7 +65,3 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
     <p>
   </td>
 </table>
-
-
-
-
