@@ -3,10 +3,10 @@ title: Videos und Tutorials zu Journey Optimizer
 description: Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 01781ab4fe33afb8e8c387b53c164428d7bcdff6
+source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 86%
+source-wordcount: '210'
+ht-degree: 81%
 
 ---
 
@@ -21,6 +21,10 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 ## Neuerungen
 
+* **[Abonnements und Landingpages](/help/subscriptions-and-landing-pages.md)**
+
+   *Hier erfahren Sie, wie Sie Abonnements konfigurieren und Landingpages erstellen.*
+
 * **[Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
    *Erfahren Sie, wie Sie gespeicherte Elemente der Personalisierungsbibliothek in einer Nachricht verwenden und wie Sie Elemente der Personalisierungsbibliothek erstellen und verwalten.*
@@ -28,11 +32,6 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 * **[Delegieren von CName-Subdomains](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
    *Erfahren Sie, wie Sie eine Subdomain mit CNAME erstellen, um auf Adobe-spezifische Datensätze zu verweisen.*
-
-* **[Ereignisse erstellen](/help/set-up-journeys/create-events.md)**
-
-   *Erfahren Sie, wie Sie ein Ereignis konfigurieren und den Streaming-Endpunkt und die Payload für ein Ereignis angeben.*
-
 
 ## Favoriten unserer Mitarbeiter
 
