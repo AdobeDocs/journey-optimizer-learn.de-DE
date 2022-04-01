@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
-source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
+source-git-commit: 43d3e290d3e481fd8ae88813fedd48692a85f118
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 100%
+source-wordcount: '217'
+ht-degree: 96%
 
 ---
 
@@ -47,7 +47,9 @@ ht-degree: 100%
    + [Ereignisse erstellen](/help/set-up-journeys/create-events.md)
    + [Erstellen von Aktionen](/help/set-up-journeys/create-actions.md)
 + [Segmente erstellen](/help/set-up-resources/create-segments.md)
++ [Assets Essentials](/help/assets-essentials-overview.md)
 + Erstellen von Nachrichten {#create-messages}
+   + [Übersicht über Massenersteller](/help/create-messages/message-designer-overview.md)
    + [Erstellen von E-Mail-Inhalten mit dem Nachrichten-Editor](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/create-messages/import-and-author-html-email-content.md)
    + [Vorschau, Testversand und Veröffentlichung](/help/create-messages/preview-proof-and-publish.md)
@@ -59,6 +61,7 @@ ht-degree: 100%
    + [Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
 + [Abonnements und Landingpages](/help/subscriptions-and-landing-pages.md)
 + Erstellen von Journeys {#create-journeys}
+   + [Übersicht über die Journey-Arbeitsfläche](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Einführung in das Erstellen einer Journey](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Anwendungsfall: Journey mit Transaktion](/help/create-journeys/use-case-transactional-journey.md)
    + [Anwendungsfall: Segment lesen](/help/create-journeys/use-case-read-segment.md)
