@@ -1,20 +1,20 @@
 ---
-title: Übersicht
+title: Einheitliches Profil und Segmentierung - Übersicht
 description: Erfahren Sie, wie Sie ein einheitliches Profil erstellen und anschließend Segmente basierend auf Profilattributen erstellen, um Journey zu personalisieren.
 feature: Profiles, Segments
 role: User
 level: Beginner
 kt: 10183
 thumbnail: 342114.jpg
-source-git-commit: ca3c1cd1741e2e42a6067013f670e10eb7ae1a2e
+source-git-commit: 319eef07c1088b6bc8ba13d404ddffb3383fab82
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 4%
+source-wordcount: '52'
+ht-degree: 0%
 
 ---
 
 
-# Übersicht
+# Einheitliches Profil und Segmentierung - Übersicht
 
 Erfahren Sie, wie Sie ein einheitliches Profil erstellen und anschließend Segmente basierend auf Profilattributen erstellen, um Journey zu personalisieren.
 
