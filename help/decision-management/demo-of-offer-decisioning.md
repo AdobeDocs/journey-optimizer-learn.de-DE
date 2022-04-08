@@ -1,20 +1,20 @@
 ---
-title: Demo von Offer Decisioning
-description: Hier erfahren Sie, wie Marken mit dem neuen Offer Decisioning-Service von Adobe ihre Angebote bestimmen und verwalten und ihren Kunden unter Verwendung von Echtzeit-Kundendaten auf ihre Bedürfnisse abgestimmte Erlebnisse bereitstellen können.
+title: Demo der Entscheidungsverwaltungsfunktionen
+description: Erfahren Sie, wie Marken die Entscheidungsverwaltungsfunktionen nutzen können, um ihre Angebote zu definieren und zu verwalten, Echtzeit-Kundendaten anzuwenden und die richtigen Erlebnisse für ihre Kunden bereitzustellen.
 feature: Offers
 kt: 6492
 thumbnail: 326841.jpg
 exl-id: 44136443-a3fd-435f-9f6d-23c7696acabe
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+source-git-commit: e8a34a26ce5794c8181537edaac592d8219c0dcd
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 27%
 
 ---
 
-# Demo von [!DNL Offer Decisioning]
+# Demo der Entscheidungsverwaltungsfunktionen
 
-Hier erfahren Sie, wie Marken mit dem neuen [!DNL Offer Decisioning]-Service von Adobe ihre Angebote bestimmen und verwalten und ihren Kunden unter Verwendung von Echtzeit-Kundendaten auf ihre Bedürfnisse abgestimmte Erlebnisse bereitstellen können.
+Erfahren Sie, wie Marken die Entscheidungsverwaltungsfunktionen nutzen können, um ihre Angebote zu definieren und zu verwalten, Echtzeit-Kundendaten anzuwenden und die richtigen Erlebnisse für ihre Kunden bereitzustellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326841?quality=12&learn=on)
 
