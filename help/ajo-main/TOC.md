@@ -5,7 +5,7 @@ user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 source-git-commit: 4471e139da3693a2b13ec49c260c87f4787238ac
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 86%
+ht-degree: 97%
 
 ---
 
@@ -47,12 +47,12 @@ ht-degree: 86%
    + [Ereignisse erstellen](/help/set-up-journeys/create-events.md)
    + [Erstellen von Aktionen](/help/set-up-journeys/create-actions.md)
 + Kundenprofile, Segmente und Abonnements {#profiles-segments-subscriptions}
-   + [Einheitliches Profil und Segmentierung - Übersicht](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
-   + [Segmente erstellen](/help/set-up-resources/create-segments.md)
+   + [Einheitliches Profil und Segmentierung – Überblick](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
+   + [Erstellen von Segmenten](/help/set-up-resources/create-segments.md)
    + [Abonnements und Landingpages](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Erstellen von Nachrichten {#create-messages}
-   + [Übersicht über Massenersteller](/help/create-messages/message-designer-overview.md)
+   + [Überblick über Massage Designer](/help/create-messages/message-designer-overview.md)
    + [Erstellen von E-Mail-Inhalten mit dem Nachrichten-Editor](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/create-messages/import-and-author-html-email-content.md)
    + [Vorschau, Testversand und Veröffentlichung](/help/create-messages/preview-proof-and-publish.md)
