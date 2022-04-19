@@ -1,21 +1,21 @@
 ---
-title: Personalisierte Angebote erstellen
-seo-title: Create personalized offers in Offer Decisioning
-description: Erfahren Sie, wie Sie in  [!DNL Offer Decisioning] personalisierte Angebote erstellen. Personalisierte Angebote sind mit Eignungsregeln verknüpft, die Ihnen helfen, sie nur relevanten Kunden anzuzeigen.
+title: Erstellen von personalisierten Angeboten
+seo-title: Create personalized offers for decision management
+description: Erfahren Sie, wie Sie personalisierte Angebote für die Entscheidungsverwaltung erstellen. Personalisierte Angebote sind mit Eignungsregeln verknüpft, die Ihnen helfen, sie nur relevanten Kunden anzuzeigen.
 feature: Offers, Personalization
 kt: 6781
 thumbnail: 329375.jpg
 exl-id: 03428751-340f-4400-9162-b0f3021f1af1
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '135'
-ht-degree: 100%
+source-git-commit: 307c19ca15e0fd63002c0932713e265824ea2621
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Personalisierte Angebote erstellen
 
-Erfahren Sie, wie Sie in [!DNL Offer Decisioning] [personalisierte Angebote](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=de) erstellen können. Personalisierte Angebote sind mit Eignungsregeln verknüpft, die Ihnen helfen, sie nur relevanten Kunden anzuzeigen. Sie können beispielsweise ein Angebot für Schneeschippen auf Regionen beschränken, in denen es schneit, und zwar nur während der Winterzeit.
+Erfahren Sie, wie Sie [personalisierte Angebote](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=de) für die Entscheidungsfindung. Personalisierte Angebote sind mit Eignungsregeln verknüpft, die Ihnen helfen, sie nur relevanten Kunden anzuzeigen. Sie können beispielsweise ein Angebot für Schneeschippen auf Regionen beschränken, in denen es schneit, und zwar nur während der Winterzeit.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329375?quality=12&learn=on)
 
