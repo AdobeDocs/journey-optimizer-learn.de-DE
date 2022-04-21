@@ -1,20 +1,20 @@
 ---
-title: Einführung in Offer Decisioning
-description: Sie erhalten einen Überblick über Offer Decisioning, einen auf Adobe Experience Platform aufbauenden Anwendungsdienst.
+title: Einführung in die Entscheidungsverwaltungsfunktionen
+description: Verschaffen Sie sich einen Überblick über die Entscheidungsverwaltungsfunktionen von Journey Optimizer.
 feature: Offers
 kt: 6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '79'
-ht-degree: 100%
+source-git-commit: 8762d5fa187e549df0a6ccda4e42192fda07ebf6
+workflow-type: tm+mt
+source-wordcount: '75'
+ht-degree: 33%
 
 ---
 
-# Einführung in [!DNL Offer Decisioning]
+# Einführung in die Entscheidungsverwaltungsfunktionen
 
-Sie erhalten einen Überblick über [!DNL Offer Decisioning], ein Anwendungs-Service, der auf Adobe Experience Platform aufbaut. In diesem Video werden die durch [!DNL Offer Decisioning] gelösten geschäftlichen Herausforderungen, die wichtigsten Funktionen, die grundlegende Architektur und die wichtigsten Anwendungsfälle behandelt.
+Verschaffen Sie sich einen Überblick über die Entscheidungsverwaltungsfunktionen von Journey Optimizer. In diesem Video werden die geschäftlichen Herausforderungen behandelt, die die Entscheidungsverwaltungsfunktionen lösen, die wichtigsten Funktionen, die grundlegende Architektur und die wichtigsten Anwendungsfälle.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on)
