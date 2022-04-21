@@ -1,22 +1,22 @@
 ---
-title: Unterbreiten von Angeboten mithilfe der Decisions-API
+title: Angebote mit der Decisions-Hub-API bereitstellen
 description: 'Erfahren Sie, wie Sie mit der Decisions-API Offer Decisioning-Angebote unterbreiten. '
 role: Developer
 feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '152'
-ht-degree: 100%
+source-git-commit: cb938ea72b8d3e7f0e9d080346c605b112a7a23f
+workflow-type: tm+mt
+source-wordcount: '154'
+ht-degree: 88%
 
 ---
 
 
 # Unterbreiten von Angeboten mithilfe der Decisions-API
 
-Erfahren Sie, wie Sie [!DNL Offer Decisioning]-[Angebote mit der Decisions API](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=de) unterbreiten können. Anhand von [!DNL Postman] wird gezeigt, dass ein API-Aufruf zum Abrufen der Container-ID erfolgt. Als Nächstes wird ein Beispiel für einen Decisions-API-Aufruf mit der Aktivitäts-ID, der Platzierungs-ID, dem Identity-Namespace und der Kunden-ID angepasst, um ein personalisiertes Angebot abzurufen. Nachdem Sie ein personalisiertes Angebot mit der Decisions-API abgerufen haben, können Sie den Angebotsinhalt in Ihr Marketing-System integrieren.
+Erfahren Sie, wie Sie Angebote bereitstellen [mit der Decisions-Hub-API](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=de). Anhand von [!DNL Postman] wird gezeigt, dass ein API-Aufruf zum Abrufen der Container-ID erfolgt. Als Nächstes wird ein Beispiel für einen Decisions-API-Aufruf mit der Aktivitäts-ID, der Platzierungs-ID, dem Identity-Namespace und der Kunden-ID angepasst, um ein personalisiertes Angebot abzurufen. Nachdem Sie ein personalisiertes Angebot mit der Decisions-API abgerufen haben, können Sie den Angebotsinhalt in Ihr Marketing-System integrieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on)
 
