@@ -6,15 +6,15 @@ feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: cb938ea72b8d3e7f0e9d080346c605b112a7a23f
+source-git-commit: 9f8c88c0ccbefc5089d41b7389dac54371aaa521
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 88%
+source-wordcount: '155'
+ht-degree: 84%
 
 ---
 
 
-# Unterbreiten von Angeboten mithilfe der Decisions-API
+# Angebote mit der Decisions-Hub-API bereitstellen
 
 Erfahren Sie, wie Sie Angebote bereitstellen [mit der Decisions-Hub-API](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=de). Anhand von [!DNL Postman] wird gezeigt, dass ein API-Aufruf zum Abrufen der Container-ID erfolgt. Als Nächstes wird ein Beispiel für einen Decisions-API-Aufruf mit der Aktivitäts-ID, der Platzierungs-ID, dem Identity-Namespace und der Kunden-ID angepasst, um ein personalisiertes Angebot abzurufen. Nachdem Sie ein personalisiertes Angebot mit der Decisions-API abgerufen haben, können Sie den Angebotsinhalt in Ihr Marketing-System integrieren.
 
