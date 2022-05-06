@@ -1,5 +1,5 @@
 ---
-title: Angebote mit der Decisions-Hub-API bereitstellen
+title: Unterbreiten von Angeboten mithilfe der Decisions Hub-API
 description: 'Erfahren Sie, wie Sie mit der Decisions-API Offer Decisioning-Angebote unterbreiten. '
 role: Developer
 feature: Offers
@@ -7,22 +7,22 @@ kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
 source-git-commit: 9f8c88c0ccbefc5089d41b7389dac54371aaa521
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
 
-# Angebote mit der Decisions-Hub-API bereitstellen
+# Unterbreiten von Angeboten mithilfe der Decisions Hub-API
 
-Erfahren Sie, wie Sie Angebote bereitstellen [mit der Decisions-Hub-API](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=de). Anhand von [!DNL Postman] wird gezeigt, dass ein API-Aufruf zum Abrufen der Container-ID erfolgt. Als Nächstes wird ein Beispiel für einen Decisions-API-Aufruf mit der Aktivitäts-ID, der Platzierungs-ID, dem Identity-Namespace und der Kunden-ID angepasst, um ein personalisiertes Angebot abzurufen. Nachdem Sie ein personalisiertes Angebot mit der Decisions-API abgerufen haben, können Sie den Angebotsinhalt in Ihr Marketing-System integrieren.
+Erfahren Sie, wie Sie Angebote [mit der Decisions Hub-API](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=de) unterbreiten können. Anhand von [!DNL Postman] wird gezeigt, dass ein API-Aufruf zum Abrufen der Container-ID erfolgt. Als Nächstes wird ein Beispiel für einen Decisions-API-Aufruf mit der Aktivitäts-ID, der Platzierungs-ID, dem Identity-Namespace und der Kunden-ID angepasst, um ein personalisiertes Angebot abzurufen. Nachdem Sie ein personalisiertes Angebot mit der Decisions-API abgerufen haben, können Sie den Angebotsinhalt in Ihr Marketing-System integrieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on)
 
 >[!INFO]
 >
-> Dieses Video ist Teil des Kurses [Erste Schritte mit Offer Decisioning für Marketing-Experten](https://experienceleague.adobe.com/?lang=de?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos in Experience League verfügbar ist!
+> Dieses Video ist Teil des Kurses [Erste Schritte mit Offer Decisioning für Marketing-Experten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos in Experience League verfügbar ist!
 
 ## Weitere Ressourcen
 
