@@ -1,6 +1,6 @@
 ---
 title: Erstellen von E-Mail-Inhalten mit dem Nachrichten-Editor
-description: Hier erfahren Sie, wie Sie E-Mails von Grund auf neu erstellen. Erfahren Sie, wie Sie Assets aus der AEM Assets Essentials-Bibliothek verwenden, das responsive E-Mail-Design bearbeiten und E-Mails aus Vorlagen erstellen.
+description: Hier erfahren Sie, wie Sie E-Mails von Grund auf neu erstellen. Erfahren Sie, wie Sie Assets aus der AEM Assets Essentials-Bibliothek verwenden, das responsive E-Mail-Design bearbeiten und E-Mails aus Vorlagen mit unserem Journey Optimizer-Support-Video erstellen.
 kt: 8057
 thumbnail: 334150.jpg
 feature: Email Design
@@ -9,10 +9,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
-source-git-commit: cdf98075ebe732cadfbfc36b3c65683c64b15a02
-workflow-type: ht
-source-wordcount: '70'
-ht-degree: 100%
+source-git-commit: c487f98b184b5bb1d525293660e82db319af7ce4
+workflow-type: tm+mt
+source-wordcount: '76'
+ht-degree: 64%
 
 ---
 
