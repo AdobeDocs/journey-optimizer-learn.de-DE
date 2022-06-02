@@ -5,10 +5,10 @@ feature: Offers
 kt: 6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: 03f9ee020d9193e8c2f2b2d36873af91facdc792
-workflow-type: ht
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 100%
+ht-degree: 79%
 
 ---
 
@@ -22,4 +22,4 @@ Sammlungen werden verwendet, um Angebote in logischen Gruppen zu verwalten und s
 
 >[!INFO]
 >
-> Dieses Video ist Teil des Kurses [Erste Schritte mit Offer Decisioning für Marketing-Experten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos in Experience League verfügbar ist!
+> Dieses Video ist Teil eines Kurses, [Erste Schritte mit der Entscheidungsverwaltung für Marketingexperten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kostenlos auf Experience League!

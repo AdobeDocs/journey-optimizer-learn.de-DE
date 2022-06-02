@@ -3,10 +3,10 @@ title: Videos und Tutorials zu Journey Optimizer
 description: Wir haben eine Reihe von Video-Tutorials, die Ihnen zeigen, wie Sie die Vorteile von Journey Optimizer nutzen können.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: c487f98b184b5bb1d525293660e82db319af7ce4
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 91%
+source-wordcount: '214'
+ht-degree: 78%
 
 ---
 
@@ -60,7 +60,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
     </a>
     </div>
     <p>
-    <em>In diesem Video wird gezeigt, wie Marken mithilfe von Offer Decisioning, der Echtzeit-Segmentqualifikation und der Geschäftsereignisverwaltung von Adobe Journey Optimizer ihre Journeys optimieren können.</em>
+    <em>In diesem Video wird gezeigt, wie Marken die Entscheidungsverwaltungsfunktionen von Adobe Journey Optimizer, die Segmentqualifizierung in Echtzeit und das Business Event Management nutzen können, um ihre Journey auf neue Höhen zu bringen.</em>
     <p>
   </td>
 </table>

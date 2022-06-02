@@ -1,15 +1,15 @@
 ---
 title: Unterbreiten von Angeboten mithilfe der Decisions Hub-API
-description: 'Erfahren Sie, wie Sie mit der Decisions-API Offer Decisioning-Angebote unterbreiten. '
+description: 'Erfahren Sie, wie Sie mit der Decisions-API Entscheidungsangebote bereitstellen. '
 role: Developer
 feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 9f8c88c0ccbefc5089d41b7389dac54371aaa521
-workflow-type: ht
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 100%
+ht-degree: 80%
 
 ---
 
@@ -22,7 +22,7 @@ Erfahren Sie, wie Sie Angebote [mit der Decisions Hub-API](https://experiencelea
 
 >[!INFO]
 >
-> Dieses Video ist Teil des Kurses [Erste Schritte mit Offer Decisioning für Marketing-Experten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos in Experience League verfügbar ist!
+> Dieses Video ist Teil eines Kurses, [Erste Schritte mit der Entscheidungsverwaltung für Marketingexperten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kostenlos auf Experience League!
 
 ## Weitere Ressourcen
 

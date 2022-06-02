@@ -5,10 +5,10 @@ feature: Offers
 kt: 6780
 thumbnail: 329383.jpg
 exl-id: 77dad738-4046-410d-8886-e88f9c872320
-source-git-commit: 08748dd508bfd50ca8a0818af45f9aa7711d4202
-workflow-type: ht
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
@@ -22,4 +22,4 @@ Weitere Informationen zum Erstellen von Fallback-Angeboten mit einer API finden 
 
 >[!INFO]
 >
-> Dieses Video ist Teil des Kurses [Erste Schritte mit Offer Decisioning für Marketing-Experten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos in Experience League verfügbar ist!
+> Dieses Video ist Teil eines Kurses, [Erste Schritte mit der Entscheidungsverwaltung für Marketingexperten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kostenlos auf Experience League!

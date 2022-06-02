@@ -6,10 +6,10 @@ feature: Offers, Personalization
 kt: 6781
 thumbnail: 329375.jpg
 exl-id: 03428751-340f-4400-9162-b0f3021f1af1
-source-git-commit: 307c19ca15e0fd63002c0932713e265824ea2621
-workflow-type: ht
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 100%
+ht-degree: 85%
 
 ---
 
@@ -23,4 +23,4 @@ Weiterführende Informationen zum Erstellen personalisierter Angebotsaktivitäte
 
 >[!INFO]
 >
-> Dieses Video ist Teil des Kurses [Erste Schritte mit Offer Decisioning für Marketing-Experten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos in Experience League verfügbar ist!
+> Dieses Video ist Teil eines Kurses, [Erste Schritte mit der Entscheidungsverwaltung für Marketingexperten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kostenlos auf Experience League!
