@@ -3,10 +3,10 @@ title: Videos und Tutorials zu Journey Optimizer
 description: Wir haben eine Reihe von Video-Tutorials, die Ihnen zeigen, wie Sie die Vorteile von Journey Optimizer nutzen können.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9b5107457b134a66b1464a3f6d26bd95a8211ec8
+source-git-commit: d4af15677c5c4baacfd6cae88acffa769ee6e401
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '406'
+ht-degree: 70%
 
 ---
 
@@ -25,7 +25,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 * **[Konfigurieren der Häufigkeitsregeln von Nachrichten](/help/administration/configure-frequency-rules.md)**
 
-   *Erfahren Sie, wie Sie Häufigkeitsregeln erstellen, aktivieren, testen und berichten. Erfahren Sie, wie Sie bestimmen, welche Frequenzregeln für eine Nachricht übernommen werden*
+   *Erfahren Sie, wie Sie Häufigkeitsregeln erstellen, aktivieren, testen und Berichte dazu erstellen. Erfahren Sie, wie Sie bestimmen, welche Frequenzregeln für eine Nachricht übernommen werden.*
 
 * **[Abonnements und Landingpages](/help/subscriptions-and-landing-pages.md)**
 
