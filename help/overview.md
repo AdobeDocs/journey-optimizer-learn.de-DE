@@ -3,10 +3,10 @@ title: Videos und Tutorials zu Journey Optimizer
 description: Wir haben eine Reihe von Video-Tutorials, die Ihnen zeigen, wie Sie die Vorteile von Journey Optimizer nutzen können.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
+source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 65%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,6 +26,10 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 * **[SMS-Nachrichten konfigurieren, erstellen und senden](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
    *Erfahren Sie, wie Sie SMS-Nachrichten konfigurieren, erstellen und in Ihre Journey integrieren können.*
+
+* **[Unterstützung eingehender Suchbegriffe für SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
+
+   *Erfahren Sie, wie die native Unterstützung von eingehenden Keywords (Start, Stopp, Unstop) für SMS funktioniert.*
 
 * **[Konfigurieren der Häufigkeitsregeln von Nachrichten](/help/administration/configure-frequency-rules.md)**
 

@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
-source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
+source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 94%
+source-wordcount: '256'
+ht-degree: 92%
 
 ---
 
@@ -60,6 +60,7 @@ ht-degree: 94%
    + [Mobile-Funktionen für Marketing-Experten](/help/create-messages/mobile-capabilities.md)
    + [Mobile-Funktionen für Designer](/help/create-messages/mobile-capabilities-for-developers.md)
    + [SMS-Nachrichten konfigurieren, erstellen und senden](/help/create-messages/configure-author-and-deliver-sms-messages.md)
+   + [Unterstützung eingehender Suchbegriffe für SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
 + Personalisieren von Inhalten {#personalize-content}
    + [Personalisierung basierend auf Profil und Segmentzugehörigkeit](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Hinzufügen von Angeboten als Personalisierung](/help/personalize-content/add-offer-decisioning-to-messages.md)
