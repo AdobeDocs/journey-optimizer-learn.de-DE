@@ -3,10 +3,10 @@ title: Videos und Tutorials zu Journey Optimizer
 description: Wir haben eine Reihe von Video-Tutorials, die Ihnen zeigen, wie Sie die Vorteile von Journey Optimizer nutzen können.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: d4af15677c5c4baacfd6cae88acffa769ee6e401
+source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 70%
+source-wordcount: '396'
+ht-degree: 65%
 
 ---
 
@@ -23,6 +23,10 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 ### Tutorials
 
+* **[SMS-Nachrichten konfigurieren, erstellen und senden](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
+
+   *Erfahren Sie, wie Sie SMS-Nachrichten konfigurieren, erstellen und in Ihre Journey integrieren können.*
+
 * **[Konfigurieren der Häufigkeitsregeln von Nachrichten](/help/administration/configure-frequency-rules.md)**
 
    *Erfahren Sie, wie Sie Häufigkeitsregeln erstellen, aktivieren, testen und Berichte dazu erstellen. Erfahren Sie, wie Sie bestimmen, welche Frequenzregeln für eine Nachricht übernommen werden.*
@@ -30,10 +34,6 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 * **[Abonnements und Landingpages](/help/subscriptions-and-landing-pages.md)**
 
    *Hier erfahren Sie, wie Sie Abonnements konfigurieren und Landingpages erstellen.*
-
-* **[Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
-
-   *Erfahren Sie, wie Sie gespeicherte Elemente der Personalisierungsbibliothek in einer Nachricht verwenden und wie Sie Elemente der Personalisierungsbibliothek erstellen und verwalten.*
 
 ### Live-Events von Experience League
 
