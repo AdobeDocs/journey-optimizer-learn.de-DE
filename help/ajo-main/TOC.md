@@ -3,16 +3,16 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '256'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
 
 # Journey Optimizer-Tutorials {#tutorials}
 
-+ [Journey Optimizer Tutorials](/help/overview.md)
++ [Journey Optimizer-Tutorials](/help/overview.md)
 + Einführung in Journey Optimizer {#introduction-to-journey-optimizer}
    + [Einführung in Journey Optimizer](/help/introduction/introduction.md)
    + [Übersicht über Journey Optimizer – Teil 1](/help/introduction/journey-optimizer-overview-part-1.md)
@@ -59,8 +59,8 @@ ht-degree: 92%
    + [Vorschau, Testversand und Veröffentlichung](/help/create-messages/preview-proof-and-publish.md)
    + [Mobile-Funktionen für Marketing-Experten](/help/create-messages/mobile-capabilities.md)
    + [Mobile-Funktionen für Designer](/help/create-messages/mobile-capabilities-for-developers.md)
-   + [SMS-Nachrichten konfigurieren, erstellen und senden](/help/create-messages/configure-author-and-deliver-sms-messages.md)
-   + [Unterstützung eingehender Suchbegriffe für SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
+   + [Konfigurieren, Verfassen und Versenden von SMS-Nachrichten](/help/create-messages/configure-author-and-deliver-sms-messages.md)
+   + [Unterstützung eingehender Keywords für SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
 + Personalisieren von Inhalten {#personalize-content}
    + [Personalisierung basierend auf Profil und Segmentzugehörigkeit](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Hinzufügen von Angeboten als Personalisierung](/help/personalize-content/add-offer-decisioning-to-messages.md)
@@ -70,7 +70,7 @@ ht-degree: 92%
 + Erstellen von Journeys {#create-journeys}
    + [Übersicht über die Journey-Arbeitsfläche](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Einführung in das Erstellen einer Journey](/help/create-journeys/introduction-to-building-a-journey.md)
-   + [Anwendungsfall: Journey mit Transaktion](/help/create-journeys/use-case-transactional-journey.md)
+   + [Anwendungsfall: Transaktions-Journey](/help/create-journeys/use-case-transactional-journey.md)
    + [Anwendungsfall: Segment lesen](/help/create-journeys/use-case-read-segment.md)
    + [Anwendungsfall: Geschäftsereignis](/help/create-journeys/use-case-business-event.md)
    + [Anwendungsfall: Segmentqualifikation](/help/create-journeys/use-case-read-segment-qualification.md)
