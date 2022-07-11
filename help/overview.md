@@ -4,9 +4,9 @@ description: Wir haben eine Reihe von Video-Tutorials, die Ihnen zeigen, wie Sie
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '400'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
@@ -23,23 +23,23 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 ### Tutorials
 
-* **[SMS-Nachrichten konfigurieren, erstellen und senden](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
+* **[Konfigurieren, Verfassen und Versenden von SMS-Nachrichten](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
-   *Erfahren Sie, wie Sie SMS-Nachrichten konfigurieren, erstellen und in Ihre Journey integrieren können.*
+   *Erfahren Sie, wie Sie SMS-Nachrichten konfigurieren, verfassen und in Ihre Customer Journeys integrieren können.*
 
 * **[Unterstützung eingehender Suchbegriffe für SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
-   *Erfahren Sie, wie die native Unterstützung von eingehenden Keywords (Start, Stopp, Unstop) für SMS funktioniert.*
+   *Erfahren Sie, wie die native Unterstützung von eingehenden Keywords (start, stop, unstop) für SMS funktioniert.*
 
 * **[Konfigurieren der Häufigkeitsregeln von Nachrichten](/help/administration/configure-frequency-rules.md)**
 
-   *Erfahren Sie, wie Sie Häufigkeitsregeln erstellen, aktivieren, testen und Berichte dazu erstellen. Erfahren Sie, wie Sie bestimmen, welche Frequenzregeln für eine Nachricht übernommen werden.*
+   *Erfahren Sie, wie Sie Häufigkeitsregeln erstellen, aktivieren, testen und Berichte dazu erstellen können. Erfahren Sie, wie Sie bestimmen, welche Frequenzregeln für eine Nachricht übernommen werden.*
 
 ### Live-Events von Experience League
 
 * **[Push-Benachrichtigungen mit Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=de)**
 
-   *In dieser Live-Folge der Experience League besprechen wir die häufigsten Anwendungsfälle für Push-Benachrichtigungen mit Adobe Journey Optimizer und tauchen in die technischen Details zum Konfigurieren einer App für Push-Benachrichtigungen mit Adobe Experience Platform auf.*
+   *In dieser Experience League Live-Episode sprechen wir über die häufigsten Anwendungsfälle für Push-Benachrichtigungen mit Adobe Journey Optimizer und gehen auf die technischen Details zum Konfigurieren einer Mobile App für Push-Benachrichtigungen mit Adobe Experience Platform ein.*
 
 ## Favoriten unserer Mitarbeiter
 
@@ -68,7 +68,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
     </a>
     </div>
     <p>
-    <em>In diesem Video wird gezeigt, wie Marken die Entscheidungsverwaltungsfunktionen von Adobe Journey Optimizer, die Segmentqualifizierung in Echtzeit und das Business Event Management nutzen können, um ihre Journey auf neue Höhen zu bringen.</em>
+    <em>In diesem Video wird gezeigt, wie Marken die Funktionen von Adobe Journey Optimizer für das Entscheidungs-Management, die Echtzeit-Segmentqualifikation und die Verwaltung von Geschäftsereignissen nutzen können, um ihre Customer Journeys auf ein neues Niveau zu heben.</em>
     <p>
   </td>
   </td>
@@ -91,15 +91,15 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 <tr>
   <td>
     <a href="./create-journeys/use-case-transactional-journey.md">
-      <img alt="Anwendungsfall: Journey mit Transaktion " src="./assets/334202.jpeg"/>
+      <img alt="Anwendungsfall: Transaktions-Journey " src="./assets/334202.jpeg"/>
     </a>
     <div>
       <a href="./create-journeys/use-case-transactional-journey.md">
-    <strong>Anwendungsfall: Journey mit Transaktion </strong>
+    <strong>Anwendungsfall: Transaktions-Journey </strong>
     </a>
     </div>
     <p>
-    <em>Machen Sie sich mit den entsprechenden Anwendungsfällen für Journeys mit Transaktionen vertraut. Erfahren Sie, wie Sie Journeys mit Transaktionen erstellen und welche Best Practices anzuwenden sind.</em>
+    <em>Machen Sie sich mit den entsprechenden Anwendungsfällen für Transaktions-Journeys vertraut. Erfahren Sie, wie Sie Transaktions-Journeys erstellen und welche Best Practices anzuwenden sind.</em>
     <p>
   </td>
     <td>
