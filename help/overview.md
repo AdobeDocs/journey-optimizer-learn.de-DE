@@ -3,10 +3,10 @@ title: Videos und Tutorials zu Journey Optimizer
 description: Wir haben eine Reihe von Video-Tutorials, die Ihnen zeigen, wie Sie die Vorteile von Journey Optimizer nutzen können.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
+source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 83%
+source-wordcount: '394'
+ht-degree: 84%
 
 ---
 
@@ -25,7 +25,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 * **[Erstellen einer Kampagne](/help/create-champaigns/create-a-campaign.md)**
 
-   *Erfahren Sie, wie Sie einmalige Inhalte für ein bestimmtes Benutzersegment bereitstellen können, indem Sie Aktionen sofort oder nach einem festgelegten Zeitplan ausführen.*
+   *Erfahren Sie, wie Sie einmalige Inhalte für eine bestimmte Zielgruppe bereitstellen können, indem Sie Aktionen sofort oder in einem festgelegten Zeitplan ausführen.*
 
 
 * **[Konfigurieren, Verfassen und Versenden von SMS-Nachrichten](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
