@@ -3,10 +3,10 @@ title: Videos und Tutorials zu Journey Optimizer
 description: Wir haben eine Reihe von Video-Tutorials, die Ihnen zeigen, wie Sie die Vorteile von Journey Optimizer nutzen können.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
-workflow-type: ht
-source-wordcount: '400'
-ht-degree: 100%
+source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
+workflow-type: tm+mt
+source-wordcount: '395'
+ht-degree: 83%
 
 ---
 
@@ -15,13 +15,18 @@ ht-degree: 100%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer hilft Unternehmen, ihren Kunden vernetzte, kontextbezogene und personalisierte Erlebnisse bereitzustellen. Die Customer Journey umfasst den gesamten Prozess der Kundeninteraktion mit der Marke, von der ersten Kontaktaufnahme bis der Kunde die Site verlässt.
+Journey Optimizer hilft Unternehmen, ihren Kunden vernetzte, kontextbezogene und personalisierte Erlebnisse bereitzustellen. Die Journey ist der gesamte Vorgang der Interaktion eines Kunden mit der Marke, vom ersten Moment des Kontakts bis zum Ausstieg des Kunden aus der Site.
 
 Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer.
 
 ## Neuerungen
 
 ### Tutorials
+
+* **[Erstellen einer Kampagne](/help/create-champaigns/create-a-campaign.md)**
+
+   *Erfahren Sie, wie Sie einmalige Inhalte für ein bestimmtes Benutzersegment bereitstellen können, indem Sie Aktionen sofort oder nach einem festgelegten Zeitplan ausführen.*
+
 
 * **[Konfigurieren, Verfassen und Versenden von SMS-Nachrichten](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
@@ -30,10 +35,6 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 * **[Unterstützung eingehender Suchbegriffe für SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
    *Erfahren Sie, wie die native Unterstützung von eingehenden Keywords (start, stop, unstop) für SMS funktioniert.*
-
-* **[Konfigurieren der Häufigkeitsregeln von Nachrichten](/help/administration/configure-frequency-rules.md)**
-
-   *Erfahren Sie, wie Sie Häufigkeitsregeln erstellen, aktivieren, testen und Berichte dazu erstellen können. Erfahren Sie, wie Sie bestimmen, welche Frequenzregeln für eine Nachricht übernommen werden.*
 
 ### Live-Events von Experience League
 

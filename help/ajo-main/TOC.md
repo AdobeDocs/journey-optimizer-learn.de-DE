@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
-source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
+source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
    + [Source Connectors konfigurieren](/help/set-up-data/configure-source-connectors.md)
 + Kanalkonfiguration {#channel-configuration}
    + [Einrichten des E-Mail-Kanals](/help/set-up-email-channel/set-up-email-channel.md)
-   + [Zuweisen von CName-Subdomains](/help/set-up-email-channel/delegate-cname-subdomains.md)
+   + [Delegieren von CName-Subdomains](/help/set-up-email-channel/delegate-cname-subdomains.md)
    + [Konfigurieren der Häufigkeitsregeln von Nachrichten](/help/administration/configure-frequency-rules.md)
 + Entscheidungs-Management {#decision-management}
    + [Einführung in das Entscheidungs-Management](/help/decision-management/introduction-to-decision-management.md)
@@ -67,6 +67,8 @@ ht-degree: 0%
    + [Verwenden von kontextbezogenen Ereignisinformationen für die Personalisierung](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Verwenden von Helper-Funktionen für die Personalisierung](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
++ Erstellen von Kampagnen {#create-campaigns}
+   + [Erstellen einer Kampagne](/help/create-champaigns/create-a-campaign.md)
 + Erstellen von Journeys {#create-journeys}
    + [Übersicht über die Journey-Arbeitsfläche](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Einführung in das Erstellen einer Journey](/help/create-journeys/introduction-to-building-a-journey.md)
