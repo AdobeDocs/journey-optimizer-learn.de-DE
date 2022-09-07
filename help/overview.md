@@ -1,12 +1,12 @@
 ---
 title: Videos und Tutorials zu Journey Optimizer
-description: Wir haben eine Reihe von Video-Tutorials, die Ihnen zeigen, wie Sie die Vorteile von Journey Optimizer nutzen können.
+description: Wir verfügen über eine Reihe von Video-Tutorials, die Ihnen zeigen, wie Sie die Vorteile von Journey Optimizer nutzen können.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '394'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 84%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer hilft Unternehmen, ihren Kunden vernetzte, kontextbezogene und personalisierte Erlebnisse bereitzustellen. Die Journey ist der gesamte Vorgang der Interaktion eines Kunden mit der Marke, vom ersten Moment des Kontakts bis zum Ausstieg des Kunden aus der Site.
+Journey Optimizer hilft Unternehmen, ihren Kunden vernetzte, kontextbezogene und personalisierte Erlebnisse bereitzustellen. Die Customer Journey umfasst den gesamten Prozess der Kundeninteraktion mit der Marke, von der ersten Kontaktaufnahme, bis zum Verlassen der Site.
 
 Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer.
 
@@ -25,7 +25,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 * **[Erstellen einer Kampagne](/help/create-champaigns/create-a-campaign.md)**
 
-   *Erfahren Sie, wie Sie einmalige Inhalte für eine bestimmte Zielgruppe bereitstellen können, indem Sie Aktionen sofort oder in einem festgelegten Zeitplan ausführen.*
+   *Erfahren Sie, wie Sie einmalige Inhalte für eine bestimmte Zielgruppe bereitstellen können, indem Sie Aktionen sofort oder nach einem festgelegten Zeitplan ausführen.*
 
 
 * **[Konfigurieren, Verfassen und Versenden von SMS-Nachrichten](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
