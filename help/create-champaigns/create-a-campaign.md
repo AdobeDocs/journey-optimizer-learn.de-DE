@@ -1,6 +1,6 @@
 ---
 title: Erstellen einer Kampagne
-description: Erfahren Sie, wie Sie einmalige Inhalte für eine bestimmte Zielgruppe bereitstellen können, indem Sie Aktionen sofort oder in einem festgelegten Zeitplan ausführen.
+description: Erfahren Sie, wie Sie einmalige Inhalte für eine bestimmte Zielgruppe bereitstellen können, indem Sie Aktionen sofort oder nach einem festgelegten Zeitplan ausführen.
 kt: 10590
 thumbnail: 346680.jpg
 feature: Journeys
@@ -8,10 +8,11 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
-source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
-workflow-type: tm+mt
+exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
+source-git-commit: 537d6ed2697aed941efbf572fed8856b5f21ad24
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
@@ -19,10 +20,10 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->Diese Funktion steht nur Benutzern mit Zugriff auf ein Campaign-bezogenes Produktprofil zur Verfügung, z. B. Campaign-Administrator, Campaign Genehmiger, Campaign Manager und/oder Campaign-Viewer. Weitere Informationen zum Zuweisen von Produktprofilen finden Sie unter [dieses Video](/help/set-up-access/access-management.md).
+>Diese Funktion steht nur Benutzenden mit Zugriff auf ein Campaign-bezogenes Produktprofil zur Verfügung, beispielsweise Campaign-Admins, Campaign-Genehmigende, Campaign-Manager und/oder Campaign-Betrachtende. Weitere Informationen zum Zuweisen von Produktprofilen finden Sie in [diesem Video](/help/set-up-access/access-management.md).
 
-Erfahren Sie, wie Sie einmalige Inhalte für eine bestimmte Zielgruppe bereitstellen können, indem Sie Aktionen sofort oder in einem festgelegten Zeitplan ausführen.
+Erfahren Sie, wie Sie einmalige Inhalte für eine bestimmte Zielgruppe bereitstellen können, indem Sie Aktionen sofort oder nach einem festgelegten Zeitplan ausführen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12)
 
-Weitere Informationen finden Sie unter [Produktdokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=en) für weitere Informationen zu dieser Funktion.
+Weitere Informationen zu dieser Funktion finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=de).
