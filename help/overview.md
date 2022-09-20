@@ -3,10 +3,10 @@ title: Journey Optimizer Tutorials - Übersicht
 description: Wir verfügen über eine Reihe von Video-Tutorials, die Ihnen zeigen, wie Sie die Vorteile von Journey Optimizer nutzen können.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 641050d8a2d3487a042ecf5a5a1b8891797e63a7
+source-git-commit: 8e6534b96e8433b21e2846f7ddfeef73cf5400ea
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 97%
+source-wordcount: '396'
+ht-degree: 85%
 
 ---
 
@@ -23,18 +23,17 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 ### Tutorials
 
+* **[Daten in Nachrichten maskieren](/help/privacy/mask-data-in-messages.md)**
+
+   *Erfahren Sie, was Datenmaskierung ist und warum Daten maskieren. Erfahren Sie, wie Sie Daten in Journey Optimizer-Nachrichten maskieren.*
+
 * **[Erstellen einer Kampagne](/help/create-champaigns/create-a-campaign.md)**
 
    *Erfahren Sie, wie Sie einmalige Inhalte für eine bestimmte Zielgruppe bereitstellen können, indem Sie Aktionen sofort oder nach einem festgelegten Zeitplan ausführen.*
 
-
 * **[Konfigurieren, Verfassen und Versenden von SMS-Nachrichten](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
    *Erfahren Sie, wie Sie SMS-Nachrichten konfigurieren, verfassen und in Ihre Customer Journeys integrieren können.*
-
-* **[Unterstützung eingehender Suchbegriffe für SMS](/help/create-messages/inbound-keyword-support-for-sms.md)**
-
-   *Erfahren Sie, wie die native Unterstützung von eingehenden Keywords (start, stop, unstop) für SMS funktioniert.*
 
 ### Live-Events von Experience League
 
@@ -127,7 +126,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
     </a>
     </div>
     <p>
-    <em>Machen Sie sich mit dem Unterschied zwischen Live- und globalen Berichten vertraut und erfahren Sie, wie Sie auf Journey- und nachrichtenspezifische Berichte zugreifen und diese analysieren und die Berichts-Dashboards ändern können.
+    <em>Erfahren Sie mehr über den Unterschied zwischen Live- und globalen Berichten, wie Sie auf die Journey und die nachrichtenspezifischen Berichte zugreifen und diese analysieren und wie Sie die Berichts-Dashboards ändern können.
 
 </em>
     <p>
