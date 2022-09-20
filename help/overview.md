@@ -1,17 +1,17 @@
 ---
-title: Videos und Tutorials zu Journey Optimizer
+title: Journey Optimizer Tutorials - Übersicht
 description: Wir verfügen über eine Reihe von Video-Tutorials, die Ihnen zeigen, wie Sie die Vorteile von Journey Optimizer nutzen können.
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
-workflow-type: ht
-source-wordcount: '394'
-ht-degree: 100%
+source-git-commit: 641050d8a2d3487a042ecf5a5a1b8891797e63a7
+workflow-type: tm+mt
+source-wordcount: '392'
+ht-degree: 97%
 
 ---
 
 
-# Videos und Tutorials zu Journey Optimizer
+# Journey Optimizer Tutorials - Übersicht
 
 ![](./assets/ajo-banner.png)
 
