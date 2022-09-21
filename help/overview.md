@@ -2,8 +2,9 @@
 title: Journey Optimizer Tutorials - Übersicht
 description: Wir verfügen über eine Reihe von Video-Tutorials, die Ihnen zeigen, wie Sie die Vorteile von Journey Optimizer nutzen können.
 recommendations: noDisplay, noCatalog
+doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 8e6534b96e8433b21e2846f7ddfeef73cf5400ea
+source-git-commit: b04f8f49f9b1527aad4e223d7f7df782663a29be
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 85%
