@@ -4,10 +4,10 @@ description: Wir verfügen über eine Reihe von Video-Tutorials, die Ihnen zeige
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b04f8f49f9b1527aad4e223d7f7df782663a29be
+source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 85%
+source-wordcount: '417'
+ht-degree: 82%
 
 ---
 
@@ -23,6 +23,10 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 ## Neuerungen
 
 ### Tutorials
+
+* **[Kopieren einer Journey in eine andere Sandbox](/help/create-journeys/copy-a-journey.md)**
+
+   *Erfahren Sie, wie Sie eine Journey und ihre abhängigen Objekte von einer Sandbox in eine andere kopieren.*
 
 * **[Daten in Nachrichten maskieren](/help/privacy/mask-data-in-messages.md)**
 
