@@ -4,10 +4,10 @@ description: Wir verfügen über eine Reihe von Video-Tutorials, die Ihnen zeige
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
+source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 82%
+source-wordcount: '464'
+ht-degree: 67%
 
 ---
 
@@ -24,6 +24,10 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 ### Tutorials
 
+* **[Warnhinweise verwenden](/help/administration/alerts.md)**
+
+   *Erfahren Sie, wie Sie vordefinierte Warnhinweise für unerwartetes Journey-Verhalten abonnieren und per E-Mail, in Journey Optimizer oder mithilfe einer API benachrichtigt werden können.*
+
 * **[Kopieren einer Journey in eine andere Sandbox](/help/create-journeys/copy-a-journey.md)**
 
    *Erfahren Sie, wie Sie eine Journey und ihre abhängigen Objekte von einer Sandbox in eine andere kopieren.*
@@ -32,15 +36,12 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
    *Erfahren Sie, was Datenmaskierung ist und warum Daten maskieren. Erfahren Sie, wie Sie Daten in Journey Optimizer-Nachrichten maskieren.*
 
-* **[Erstellen einer Kampagne](/help/create-champaigns/create-a-campaign.md)**
-
-   *Erfahren Sie, wie Sie einmalige Inhalte für eine bestimmte Zielgruppe bereitstellen können, indem Sie Aktionen sofort oder nach einem festgelegten Zeitplan ausführen.*
-
-* **[Konfigurieren, Verfassen und Versenden von SMS-Nachrichten](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
-
-   *Erfahren Sie, wie Sie SMS-Nachrichten konfigurieren, verfassen und in Ihre Customer Journeys integrieren können.*
 
 ### Live-Events von Experience League
+
+* **[Ausführen Ihrer Kampagnen in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=de)**
+
+   *In dieser Experience League Live-Folge, die ursprünglich am 22. September 2022 stattfand, diskutieren Gastgeber Sandra Hausmann und Produktexperten Bridgette Darling und Frederic Mary über die Anwendungsfälle, die diese neue Funktion behandelt, und demonstrieren, wie man eine Kampagne in Journey Optimizer einfach einrichten und ausführen kann.*
 
 * **[Push-Benachrichtigungen mit Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=de)**
 
