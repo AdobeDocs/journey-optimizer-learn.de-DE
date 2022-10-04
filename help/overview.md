@@ -4,10 +4,10 @@ description: Wir verfügen über eine Reihe von Video-Tutorials, die Ihnen zeige
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
+source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 67%
+source-wordcount: '492'
+ht-degree: 64%
 
 ---
 
@@ -23,6 +23,10 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 ## Neuerungen
 
 ### Tutorials
+
+* **[Erstellen dynamischer Inhalte mit dem Regel-Builder für Bedingungen](/help/personalize-content/create-dynamic-content.md)**
+
+   *Erfahren Sie, wie Sie Bedingungsregeln erstellen und speichern und wie Sie diese Bedingungsregeln auf Inhalte über alle Kanäle anwenden.*
 
 * **[Warnhinweise verwenden](/help/administration/alerts.md)**
 
