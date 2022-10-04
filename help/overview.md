@@ -4,7 +4,7 @@ description: Wir verfügen über eine Reihe von Video-Tutorials, die Ihnen zeige
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
+source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
 workflow-type: tm+mt
 source-wordcount: '492'
 ht-degree: 64%
@@ -19,6 +19,8 @@ ht-degree: 64%
 Journey Optimizer hilft Unternehmen, ihren Kunden vernetzte, kontextbezogene und personalisierte Erlebnisse bereitzustellen. Die Customer Journey umfasst den gesamten Prozess der Kundeninteraktion mit der Marke, von der ersten Kontaktaufnahme, bis zum Verlassen der Site.
 
 Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer.
+
+<div id="whats-new-section">
 
 ## Neuerungen
 
@@ -40,6 +42,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
    *Erfahren Sie, was Datenmaskierung ist und warum Daten maskieren. Erfahren Sie, wie Sie Daten in Journey Optimizer-Nachrichten maskieren.*
 
+</div>
 
 ### Live-Events von Experience League
 
@@ -50,6 +53,8 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 * **[Push-Benachrichtigungen mit Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=de)**
 
    *In dieser Experience League Live-Episode sprechen wir über die häufigsten Anwendungsfälle für Push-Benachrichtigungen mit Adobe Journey Optimizer und gehen auf die technischen Details zum Konfigurieren einer Mobile App für Push-Benachrichtigungen mit Adobe Experience Platform ein.*
+
+<div id="staff-picks-section">
 
 ## Favoriten unserer Mitarbeiter
 
@@ -143,3 +148,5 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
   </td>
 </tr>
 </table>
+
+</div>
