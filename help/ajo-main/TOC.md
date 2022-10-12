@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
-source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
+source-git-commit: 990ba063c251df6d0f191e5020937bfd6867634f
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 89%
+source-wordcount: '274'
+ht-degree: 90%
 
 ---
 
@@ -53,7 +53,6 @@ ht-degree: 89%
    + [Abonnements und Landingpages](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Erstellen von Nachrichten {#create-messages}
-   + [Übersicht über Message Designer](/help/create-messages/message-designer-overview.md)
    + [Erstellen von Inhalten mit Email Designer](/help/create-messages/create-content-with-the-email-designer.md)
    + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/create-messages/import-and-author-html-email-content.md)
    + [Vorschau, Testversand und Veröffentlichung](/help/create-messages/preview-proof-and-publish.md)
@@ -77,12 +76,11 @@ ht-degree: 89%
    + [Anwendungsfall: Segment lesen](/help/create-journeys/use-case-read-segment.md)
    + [Anwendungsfall: Geschäftsereignis](/help/create-journeys/use-case-business-event.md)
    + [Anwendungsfall: Segmentqualifikation](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [Anwendungsfall: Burst-Nachricht](/help/create-journeys/use-case-burst-message.md)
    + [Erstellen eines Testprofils](/help/create-journeys/test-a-journey.md)
    + [Veröffentlichen einer Journey](/help/create-journeys/publish-a-journey.md)
    + [Kopieren einer Journey in eine andere Sandbox](/help/create-journeys/copy-a-journey.md)
 + Reporting und Überwachung {#report-and-monitor}
    + [Live- und globale Berichte](/help/report-and-monitor/live-and-global-reports.md)
-   + [Warnhinweise verwenden](/help/administration/alerts.md)
+   + [Verwendung von Warnhinweisen](/help/administration/alerts.md)
 + Datenschutz {#privacy}
    + [Daten in Nachrichten maskieren](/help/privacy/mask-data-in-messages.md)
