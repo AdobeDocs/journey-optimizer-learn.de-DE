@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Inhalten mit Email Designer
-description: 'Hier erfahren Sie, wie Sie E-Mails von Grund auf neu erstellen. In unserem Journey Optimizer-Support-Video erfahren Sie, wie Sie Assets aus der AEM Assets Essentials-Bibliothek verwenden, das responsive E-Mail-Design bearbeiten und E-Mails aus Vorlagen erstellen. '
+description: Hier erfahren Sie, wie Sie E-Mails von Grund auf neu erstellen. In unserem Journey Optimizer-Support-Video erfahren Sie, wie Sie Assets aus der AEM Assets Essentials-Bibliothek verwenden, das responsive E-Mail-Design bearbeiten und E-Mails aus Vorlagen erstellen.
 kt: 8057
 thumbnail: 334150.jpg
 feature: Email Design

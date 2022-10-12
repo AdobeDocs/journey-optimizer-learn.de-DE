@@ -1,6 +1,6 @@
 ---
-title: Zuweisen von CName-Subdomains
-description: Erfahren Sie, wie Sie eine Subdomain mit CNAME erstellen, um auf Adobe-spezifische Datensätze zu verweisen.
+title: Delegieren von CName-Subdomains
+description: Erfahren Sie, wie Sie eine Subdomain mit CNAME erstellen, um auf Adobe-spezifische Einträge zu verweisen.
 kt: 9524
 thumbnail: 339484.jpg
 feature: Application Settings
@@ -10,14 +10,14 @@ role: Admin, Developer
 level: Beginner
 exl-id: 758e5ea0-af6a-4a5f-ae25-2ef4212988a2
 source-git-commit: ea14e095bc63e4b99b99bbd5978de74ac8a3d68e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 100%
 
 ---
 
-# Zuweisen von CName-Subdomains
+# Delegieren von CName-Subdomains
 
-Erfahren Sie, wie Sie eine Subdomain mit CNAME erstellen, um auf Adobe-spezifische Datensätze zu verweisen.
+Erfahren Sie, wie Sie eine Subdomain mit CNAME erstellen, um auf Adobe-spezifische Einträge zu verweisen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339484?quality=12)

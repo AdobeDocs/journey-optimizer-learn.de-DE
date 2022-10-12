@@ -1,6 +1,6 @@
 ---
 title: Einrichten des E-Mail-Kanals
-description: Erfahren Sie, wie Sie Nachrichtenvoreinstellungen definieren und verwenden, eine Subdomain zuweisen und einen IP-Pool erstellen.
+description: Erfahren Sie, wie Sie Nachrichtenvoreinstellungen definieren und verwenden, eine Subdomain delegieren und einen IP-Pool erstellen.
 kt: 7854
 thumbnail: 334343.jpg
 feature: Channel Configuration, Email
@@ -10,7 +10,7 @@ role: Admin, Developer
 level: Beginner
 exl-id: 8b96e3b0-84f4-4aa8-b2f5-1bf30e3e4106
 source-git-commit: cdf98075ebe732cadfbfc36b3c65683c64b15a02
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
 
@@ -18,6 +18,6 @@ ht-degree: 100%
 
 # Einrichten des E-Mail-Kanals
 
-Erfahren Sie, wie Sie Nachrichtenvoreinstellungen definieren und verwenden, eine Subdomain zuweisen und einen IP-Pool erstellen.
+Erfahren Sie, wie Sie Nachrichtenvoreinstellungen definieren und verwenden, eine Subdomain delegieren und einen IP-Pool erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12)

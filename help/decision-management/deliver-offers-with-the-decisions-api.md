@@ -1,6 +1,6 @@
 ---
 title: Unterbreiten von Angeboten mithilfe der Decisions Hub-API
-description: 'Erfahren Sie, wie Sie mit der Decisions-API Entscheidungsangebote bereitstellen. '
+description: Erfahren Sie, wie Sie mit der Decisions-API Entscheidungsangebote bereitstellen.
 role: Developer
 feature: Offers
 kt: 6819

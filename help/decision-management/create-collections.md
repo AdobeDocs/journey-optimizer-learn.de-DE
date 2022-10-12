@@ -12,7 +12,7 @@ ht-degree: 79%
 
 ---
 
-# Regeln erstellen
+# Sammlungen erstellen
 
 Erfahren Sie, wie Sie Sammlungen für das Entscheidungs-Management erstellen.
 

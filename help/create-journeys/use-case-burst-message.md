@@ -1,6 +1,6 @@
 ---
 title: 'Anwendungsfall: Burst-Nachricht'
-description: Machen Sie sich mit den Anwendungsfällen für Bust-Messaging vertraut. Erfahren Sie, wie Sie eine Journey für Burst-Nachrichten konfigurieren und welche Best Practices zur Anwendung kommen.
+description: Machen Sie sich mit den Anwendungsfällen für Burst-Messaging vertraut. Erfahren Sie, wie Sie eine Journey für Burst-Nachrichten konfigurieren und welche Best Practices zur Anwendung kommen.
 kt: 7703
 thumbnail: 334523.jpg
 feature: Journeys
@@ -18,6 +18,6 @@ ht-degree: 100%
 
 # Anwendungsfall: Burst-Nachricht
 
-Machen Sie sich mit den Anwendungsfällen für Bust-Messaging vertraut. Erfahren Sie, wie Sie eine Journey für Burst-Nachrichten konfigurieren und welche Best Practices zur Anwendung kommen.
+Machen Sie sich mit den Anwendungsfällen für Burst-Messaging vertraut. Erfahren Sie, wie Sie eine Journey für Burst-Nachrichten konfigurieren und welche Best Practices zur Anwendung kommen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334523?quality=12)
