@@ -9,7 +9,7 @@ exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
 source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Weitere Informationen zum Erstellen von Entscheidungen mit einer API finden Sie 
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses, [Erste Schritte mit der Entscheidungsverwaltung für Marketingexperten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kostenlos auf Experience League!
+> Dieses Video ist Teil des Kurses [Erste Schritte mit Entscheidungs-Management für Marketing-Experten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos auf Experience League verfügbar ist.

@@ -1,6 +1,6 @@
 ---
-title: Daten in Nachrichten maskieren
-description: Erfahren Sie, was Datenmaskierung ist und wann und warum Sie Daten maskieren müssen. Erfahren Sie, wie Sie Daten in Journey Optimizer-Nachrichten maskieren.
+title: Maskieren von Daten in Nachrichten
+description: Erfahren Sie, was Datenmaskierung ist und wann und warum Daten maskiert werden sollten. Erfahren Sie, wie Sie Daten in Nachrichten von Journey Optimizer maskieren.
 kt: 10341
 thumbnail: 3409395.jpg
 feature: Privacy
@@ -11,13 +11,13 @@ last-substantial-update: 2022-09-21T00:00:00Z
 source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Daten in Nachrichten maskieren
+# Maskieren von Daten in Nachrichten
 
-Erfahren Sie, was Datenmaskierung ist und wann und warum Sie Daten maskieren müssen. Erfahren Sie, wie Sie Daten in Journey Optimizer-Nachrichten maskieren.
+Erfahren Sie, was Datenmaskierung ist und wann und warum Daten maskiert werden sollten. Erfahren Sie, wie Sie Daten in Nachrichten von Journey Optimizer maskieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409395?quality=12)

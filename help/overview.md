@@ -1,5 +1,5 @@
 ---
-title: Journey Optimizer Tutorials - Übersicht
+title: Tutorials zu Journey Optimizer – Übersicht
 description: Wir verfügen über eine Reihe von Video-Tutorials, die Ihnen zeigen, wie Sie die Vorteile von Journey Optimizer nutzen können.
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
@@ -7,7 +7,7 @@ exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 71%
+ht-degree: 98%
 
 ---
 
@@ -24,21 +24,21 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 ## Neue Funktionen
 
-* **[Erstellen dynamischer Inhalte mit dem Regel-Builder für Bedingungen](/help/personalize-content/create-dynamic-content.md)**
+* **[Erstellen dynamischer Inhalte mit dem Builder für Bedingungsregeln](/help/personalize-content/create-dynamic-content.md)**
 
-   *Erfahren Sie, wie Sie Bedingungsregeln erstellen und speichern und wie Sie diese Bedingungsregeln auf Inhalte über alle Kanäle anwenden.*
+   *Erfahren Sie, wie Sie Bedingungsregeln erstellen und speichern und wie Sie diese Bedingungsregeln über alle Kanäle hinweg auf Inhalte anwenden können.*
 
-* **[Verwendung von Warnhinweisen](/help/administration/alerts.md)**
+* **[Verwenden von Warnhinweisen](/help/administration/alerts.md)**
 
-   *Erfahren Sie, wie Sie vordefinierte Warnhinweise für unerwartete Verhaltensweisen einer Journey abonnieren und sich per E-Mail, in Journey Optimizer oder über eine API benachrichtigen lassen können.*
+   *Erfahren Sie, wie Sie vordefinierte Warnhinweise für unerwartete Verhaltensweisen von Journeys abonnieren und per E-Mail, in Journey Optimizer oder mithilfe einer API benachrichtigt werden können.*
 
 * **[Kopieren einer Journey in eine andere Sandbox](/help/create-journeys/copy-a-journey.md)**
 
    *Erfahren Sie, wie Sie eine Journey und ihre abhängigen Objekte von einer Sandbox in eine andere kopieren.*
 
-* **[Daten in Nachrichten maskieren](/help/privacy/mask-data-in-messages.md)**
+* **[Maskieren von Daten in Nachrichten](/help/privacy/mask-data-in-messages.md)**
 
-   *Erfahren Sie, was Datenmaskierung ist und warum Daten maskieren. Erfahren Sie, wie Sie Daten in Journey Optimizer-Nachrichten maskieren.*
+   *Erfahren Sie, was Datenmaskierung ist und warum Daten maskiert werden sollten. Erfahren Sie, wie Sie Daten in Nachrichten von Journey Optimizer maskieren.*
 
 </div>
 
@@ -49,7 +49,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 * **[Ausführen Ihrer Kampagnen in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=de)**
 
-   *In dieser Experience League Live-Folge, die ursprünglich am 22. September 2022 stattfand, diskutieren Gastgeber Sandra Hausmann und Produktexperten Bridgette Darling und Frederic Mary über die Anwendungsfälle, die diese neue Funktion behandelt, und demonstrieren, wie man eine Kampagne in Journey Optimizer einfach einrichten und ausführen kann.*
+   *In dieser Folge von Experience League Live, die ursprünglich am 22. September 2022 stattfand, diskutieren Gastgeber Sandra Hausmann und Produktexperten Bridgette Darling und Frederic Mary über die Anwendungsfälle, die diese neue Funktion abdeckt. Sie zeigen außerdem, wie eine Kampagne in Journey Optimizer einfach eingerichtet und ausgeführt werden kann.*
 
 * **[Push-Benachrichtigungen mit Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=de)**
 
@@ -151,7 +151,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
     </a>
     </div>
     <p>
-    <em>Erfahren Sie mehr über den Unterschied zwischen Live- und globalen Berichten, wie Sie auf die Journey und die nachrichtenspezifischen Berichte zugreifen und diese analysieren und wie Sie die Berichts-Dashboards ändern können.
+    <em>Machen Sie sich mit dem Unterschied zwischen Live- und globalen Berichten vertraut und erfahren Sie, wie Sie auf Journey- und nachrichtenspezifische Berichte zugreifen und diese analysieren sowie die Berichts-Dashboards ändern können.
 
 </em>
     <p>

@@ -5,7 +5,7 @@ user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 source-git-commit: 2874a7c5bc9ef8fd553a573069911453f5bc5f2b
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 88%
+ht-degree: 98%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 88%
    + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/create-messages/import-and-author-html-email-content.md)
    + [Vorschau, Testversand und Veröffentlichung](/help/create-messages/preview-proof-and-publish.md)
    + [Mobile-Funktionen für Marketing-Experten](/help/create-messages/mobile-capabilities.md)
-   + [Mobile Funktionen für Entwickler](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [Mobile-Funktionen für Entwickler](/help/create-messages/mobile-capabilities-for-developers.md)
    + [Konfigurieren, Verfassen und Versenden von SMS-Nachrichten](/help/create-messages/configure-author-and-deliver-sms-messages.md)
    + [Unterstützung eingehender Keywords für SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
    + In-App {#in-app}
@@ -68,7 +68,7 @@ ht-degree: 88%
    + [Verwenden von kontextbezogenen Ereignisinformationen für die Personalisierung](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Verwenden von Helper-Funktionen für die Personalisierung](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
-   + [Erstellen dynamischer Inhalte mit dem Regel-Builder für Bedingungen](/help/personalize-content/create-dynamic-content.md)
+   + [Erstellen dynamischer Inhalte mit dem Builder für Bedingungsregeln](/help/personalize-content/create-dynamic-content.md)
 + Erstellen von Kampagnen {#create-campaigns}
    + [Erstellen einer Kampagne](/help/create-champaigns/create-a-campaign.md)
 + Erstellen von Journeys {#create-journeys}
@@ -83,6 +83,6 @@ ht-degree: 88%
    + [Kopieren einer Journey in eine andere Sandbox](/help/create-journeys/copy-a-journey.md)
 + Reporting und Überwachung {#report-and-monitor}
    + [Live- und globale Berichte](/help/report-and-monitor/live-and-global-reports.md)
-   + [Verwendung von Warnhinweisen](/help/administration/alerts.md)
+   + [Verwenden von Warnhinweisen](/help/administration/alerts.md)
 + Datenschutz {#privacy}
-   + [Daten in Nachrichten maskieren](/help/privacy/mask-data-in-messages.md)
+   + [Maskieren von Daten in Nachrichten](/help/privacy/mask-data-in-messages.md)

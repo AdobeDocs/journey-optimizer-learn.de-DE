@@ -12,7 +12,7 @@ exl-id: 20dfc3a7-aa09-4ca2-a02e-3134fd680e2b
 source-git-commit: 0422f806896aeff967ce8526fc52b6265b2804a1
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie Personalisierungswerte mithilfe von Personalisierungs-Help
 
 >[!VIDEO](https://video.tv.adobe.com/v/334244?quality=12)
 
-Lesen Sie das Produkthandbuch, um mehr über [Hilfsfunktionen](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalized-dynamic-content/personalization/build-expressions/functions/functions.html?lang=en) zu erfahren.
+Lesen Sie das Produkthandbuch, um mehr über [Hilfsfunktionen](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalized-dynamic-content/personalization/build-expressions/functions/functions.html?lang=de) zu erfahren.
