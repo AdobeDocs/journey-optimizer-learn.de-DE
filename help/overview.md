@@ -4,15 +4,15 @@ description: Wir verfügen über eine Reihe von Video-Tutorials, die Ihnen zeige
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: c06bfb31fe7964a3bba81873884ee66fd16908a1
+source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 72%
+source-wordcount: '490'
+ht-degree: 71%
 
 ---
 
 
-# Journey Optimizer Tutorials - Übersicht
+# Journey Optimizer-Tutorials
 
 ![](./assets/ajo-banner.png)
 
@@ -22,9 +22,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 <div id="whats-new-section">
 
-## Neuerungen
-
-### Tutorials
+## Neue Funktionen
 
 * **[Erstellen dynamischer Inhalte mit dem Regel-Builder für Bedingungen](/help/personalize-content/create-dynamic-content.md)**
 
@@ -47,7 +45,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 <div id="events-section">
 
-### Live-Events von Experience League
+## Live-Ereignisse der Experience League
 
 * **[Ausführen Ihrer Kampagnen in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=de)**
 
@@ -68,7 +66,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 <div id="staff-picks-section">
 
-## Favoriten unserer Mitarbeiter
+## Mitarbeiterauswahl
 
 <table>
 <tr>
