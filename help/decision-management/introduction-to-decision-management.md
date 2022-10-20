@@ -8,7 +8,7 @@ exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ Verschaffen Sie sich einen Überblick über die Funktionen von Journey Optimizer
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses, [Erste Schritte mit der Entscheidungsverwaltung für Marketingexperten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kostenlos auf Experience League!
+> Dieses Video ist Teil des Kurses [Erste Schritte mit Entscheidungs-Management für Marketing-Experten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos auf Experience League verfügbar ist.
