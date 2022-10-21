@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
-source-git-commit: 2874a7c5bc9ef8fd553a573069911453f5bc5f2b
+source-git-commit: 66f4b0fabea40b5e8f2e5abd42ec89b945dd04e9
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 98%
+source-wordcount: '291'
+ht-degree: 94%
 
 ---
 
@@ -19,56 +19,8 @@ ht-degree: 98%
    + [Übersicht über Journey Optimizer – Teil 2](/help/introduction/journey-optimizer-overview-part-2.md)
    + [Wichtige Funktionen und die Benutzeroberfläche](/help/introduction/key-capabilities-and-user-interface.md)
    + [Architektur](/help/introduction/architecture.md)
-+ Zugriffskontrolle {#access-control}
-   + [Zugriffsverwaltung ](/help/set-up-access/access-management.md)
-   + [Erstellen und Verwalten von Sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
-+ Datenkonfiguration {#data-configuration}
-   + [Übersicht](/help/set-up-data/set-up-data-overview.md)
-   + [Erstellen eines Schemas](/help/set-up-data/create-schema.md)
-   + [Zuordnen von Identitäten](/help/set-up-data/map-identities.md)
-   + [Erstellen von Datensätzen und Aufnehmen von Daten](/help/set-up-data/create-datasets-and-ingest-data.md)
-   + [Source Connectors konfigurieren](/help/set-up-data/configure-source-connectors.md)
-+ Kanalkonfiguration {#channel-configuration}
-   + [Einrichten des E-Mail-Kanals](/help/set-up-email-channel/set-up-email-channel.md)
-   + [Delegieren von CName-Subdomains](/help/set-up-email-channel/delegate-cname-subdomains.md)
-   + [Konfigurieren der Häufigkeitsregeln von Nachrichten](/help/administration/configure-frequency-rules.md)
-+ Entscheidungs-Management {#decision-management}
-   + [Einführung in das Entscheidungs-Management](/help/decision-management/introduction-to-decision-management.md)
-   + [Demo der Funktionen zum Entscheidungs-Management](/help/decision-management/demo-of-decision-management-capabilities.md)
-   + [Platzierungen erstellen](/help/decision-management/create-placements.md)
-   + [Regeln erstellen](/help/decision-management/create-rules.md)
-   + [Tags erstellen](/help/decision-management/create-tags.md)
-   + [Personalisierte Angebote erstellen](/help/decision-management/create-personalized-offers.md)
-   + [Erstellen von Fallback-Angeboten](/help/decision-management/create-fallback-offers.md)
-   + [Erstellen von Sammlungen](/help/decision-management/create-collections.md)
-   + [Erstellen von Entscheidungen](/help/decision-management/create-decisions.md)
-   + [Unterbreiten von Angeboten mithilfe der Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
-+ Journey-Konfiguration{#journey-configuration}
-   + [Konfigurieren von Datenquellen](/help/set-up-journeys/configure-data-sources.md)
-   + [Ereignisse erstellen](/help/set-up-journeys/create-events.md)
-   + [Erstellen von Aktionen](/help/set-up-journeys/create-actions.md)
-+ Kundenprofile, Segmente und Abonnements {#profiles-segments-subscriptions}
-   + [Einheitliches Profil und Segmentierung – Überblick](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
-   + [Erstellen von Segmenten](/help/set-up-resources/create-segments.md)
-   + [Abonnements und Landingpages](/help/subscriptions-and-landing-pages.md)
-+ [Assets Essentials](/help/assets-essentials-overview.md)
-+ Erstellen von Nachrichten {#create-messages}
-   + [Erstellen von Inhalten mit Email Designer](/help/create-messages/create-content-with-the-email-designer.md)
-   + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/create-messages/import-and-author-html-email-content.md)
-   + [Vorschau, Testversand und Veröffentlichung](/help/create-messages/preview-proof-and-publish.md)
    + [Mobile-Funktionen für Marketing-Experten](/help/create-messages/mobile-capabilities.md)
    + [Mobile-Funktionen für Entwickler](/help/create-messages/mobile-capabilities-for-developers.md)
-   + [Konfigurieren, Verfassen und Versenden von SMS-Nachrichten](/help/create-messages/configure-author-and-deliver-sms-messages.md)
-   + [Unterstützung eingehender Keywords für SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
-   + In-App {#in-app}
-      + [In-App-Messaging für Kampagnen](/help/create-messages/in-app-messaging-for-campaigns.md)
-+ Personalisieren von Inhalten {#personalize-content}
-   + [Personalisierung basierend auf Profil und Segmentzugehörigkeit](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
-   + [Hinzufügen von Angeboten als Personalisierung](/help/personalize-content/add-offer-decisioning-to-messages.md)
-   + [Verwenden von kontextbezogenen Ereignisinformationen für die Personalisierung](/help/personalize-content/use-contextual-event-information-for-personalization.md)
-   + [Verwenden von Helper-Funktionen für die Personalisierung](/help/personalize-content/use-helper-functions-for-personalization.md)
-   + [Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
-   + [Erstellen dynamischer Inhalte mit dem Builder für Bedingungsregeln](/help/personalize-content/create-dynamic-content.md)
 + Erstellen von Kampagnen {#create-campaigns}
    + [Erstellen einer Kampagne](/help/create-champaigns/create-a-campaign.md)
 + Erstellen von Journeys {#create-journeys}
@@ -81,8 +33,60 @@ ht-degree: 98%
    + [Erstellen eines Testprofils](/help/create-journeys/test-a-journey.md)
    + [Veröffentlichen einer Journey](/help/create-journeys/publish-a-journey.md)
    + [Kopieren einer Journey in eine andere Sandbox](/help/create-journeys/copy-a-journey.md)
++ Kundenprofile, Segmente und Abonnements {#profiles-segments-subscriptions}
+   + [Einheitliches Profil und Segmentierung – Überblick](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
+   + [Erstellen von Segmenten](/help/set-up-resources/create-segments.md)
+   + [Abonnements und Landingpages](/help/subscriptions-and-landing-pages.md)
++ Erstellen von Nachrichten {#create-messages}
+   + [E-Mails erstellen] {#create-emails}
+      + [Erstellen von Inhalten mit Email Designer](/help/create-messages/create-content-with-the-email-designer.md)
+      + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/create-messages/import-and-author-html-email-content.md)
+      + [Vorschau, Testversand und Veröffentlichung](/help/create-messages/preview-proof-and-publish.md)
+   + SMS-Nachrichten erstellen {#create-sms}
+      + [Konfigurieren, Verfassen und Versenden von SMS-Nachrichten](/help/create-messages/configure-author-and-deliver-sms-messages.md)
+      + [Unterstützung eingehender Keywords für SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
+   + In-App-Nachrichten erstellen {#create-in-app}
+      + [In-App-Messaging für Kampagnen](/help/create-messages/in-app-messaging-for-campaigns.md)
+      + [In-App-Nachricht erstellen](/help/create-messages/author-in-app-messages.md)
++ [Assets Essentials](/help/assets-essentials-overview.md)
++ Personalisieren von Inhalten {#personalize-content}
+   + [Personalisierung basierend auf Profil und Segmentzugehörigkeit](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
+   + [Hinzufügen von Angeboten als Personalisierung](/help/personalize-content/add-offer-decisioning-to-messages.md)
+   + [Verwenden von kontextbezogenen Ereignisinformationen für die Personalisierung](/help/personalize-content/use-contextual-event-information-for-personalization.md)
+   + [Verwenden von Helper-Funktionen für die Personalisierung](/help/personalize-content/use-helper-functions-for-personalization.md)
+   + [Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
+   + [Erstellen dynamischer Inhalte mit dem Builder für Bedingungsregeln](/help/personalize-content/create-dynamic-content.md)
++ Entscheidungs-Management {#decision-management}
+   + [Einführung in das Entscheidungs-Management](/help/decision-management/introduction-to-decision-management.md)
+   + [Demo der Funktionen zum Entscheidungs-Management](/help/decision-management/demo-of-decision-management-capabilities.md)
+   + [Platzierungen erstellen](/help/decision-management/create-placements.md)
+   + [Regeln erstellen](/help/decision-management/create-rules.md)
+   + [Tags erstellen](/help/decision-management/create-tags.md)
+   + [Personalisierte Angebote erstellen](/help/decision-management/create-personalized-offers.md)
+   + [Erstellen von Fallback-Angeboten](/help/decision-management/create-fallback-offers.md)
+   + [Erstellen von Sammlungen](/help/decision-management/create-collections.md)
+   + [Erstellen von Entscheidungen](/help/decision-management/create-decisions.md)
+   + [Unterbreiten von Angeboten mithilfe der Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
 + Reporting und Überwachung {#report-and-monitor}
    + [Live- und globale Berichte](/help/report-and-monitor/live-and-global-reports.md)
    + [Verwenden von Warnhinweisen](/help/administration/alerts.md)
++ Konfiguration {#configuration}
+   + Daten konfigurieren {#data-configuration}
+      + [Übersicht](/help/set-up-data/set-up-data-overview.md)
+      + [Erstellen eines Schemas](/help/set-up-data/create-schema.md)
+      + [Zuordnen von Identitäten](/help/set-up-data/map-identities.md)
+      + [Erstellen von Datensätzen und Aufnehmen von Daten](/help/set-up-data/create-datasets-and-ingest-data.md)
+      + [Source Connectors konfigurieren](/help/set-up-data/configure-source-connectors.md)
+   + Kanäle konfigurieren {#channel-configuration}
+      + [Einrichten des E-Mail-Kanals](/help/set-up-email-channel/set-up-email-channel.md)
+      + [Delegieren von CName-Subdomains](/help/set-up-email-channel/delegate-cname-subdomains.md)
+      + [Konfigurieren der Häufigkeitsregeln von Nachrichten](/help/administration/configure-frequency-rules.md)
+   + Konfigurieren von Journeys {#journey-configuration}
+      + [Konfigurieren von Datenquellen](/help/set-up-journeys/configure-data-sources.md)
+      + [Ereignisse erstellen](/help/set-up-journeys/create-events.md)
+      + [Erstellen von Aktionen](/help/set-up-journeys/create-actions.md)
++ Zugriffskontrolle {#access-control}
+   + [Zugriffsverwaltung ](/help/set-up-access/access-management.md)
+   + [Erstellen und Verwalten von Sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
 + Datenschutz {#privacy}
    + [Maskieren von Daten in Nachrichten](/help/privacy/mask-data-in-messages.md)
