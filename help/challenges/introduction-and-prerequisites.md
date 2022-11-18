@@ -5,7 +5,7 @@ feature: Journeys
 role: Admin
 level: Beginner
 hide: true
-source-git-commit: dd2832c1e99ed9b8407a0aa9356335d3bce40622
+source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 7%
@@ -19,7 +19,7 @@ ht-degree: 7%
 
 Herausforderungen bieten ein Szenario und die Anforderungen, die zum Üben des Gelernten erforderlich sind. Herausforderungen helfen Ihnen dabei, Ihr Qualifikationsniveau zu bewerten und Wissenslücken zu identifizieren.
 
-Jede Herausforderung in diesem Abschnitt behandelt einen einzigartigen Anwendungsfall, den Sie implementieren werden. Zu Beginn jeder Herausforderung werden die Zielgruppe (Persona) sowie die erforderlichen Fertigkeiten aufgelistet.
+Jede Herausforderung in diesem Abschnitt behandelt einen einzigartigen Anwendungsfall, den Sie implementieren werden. Die Zielgruppe (Persona) und die erforderlichen Fähigkeiten werden zu Beginn jeder Herausforderung aufgelistet.
 
 ## Voraussetzungen
 
@@ -67,8 +67,8 @@ Luma ist bestrebt, die neueste Bekleidungs- und Zahnradsammlung zu bewerben und 
       <em>Fördern Sie die neue Sommerkollektion von Luma. </em>
       <p>
       <b>Erforderliche Fähigkeiten:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html"> Erstellen von Segmenten</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html">Importieren und Erstellen von HTML-E-Mail-Inhalten</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Erstellen von Segmenten</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">Importieren und Erstellen von HTML-E-Mail-Inhalten</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">Anwendungsfall: Segment lesen</li>
   </td>
   </tr>
@@ -94,7 +94,7 @@ Luma ist bestrebt, die neueste Bekleidungs- und Zahnradsammlung zu bewerben und 
     <td>
     <div>
     <a href="product-replenishment-challenge.md">
-      <img alt="Website „Luma“" src="./assets/email-assets/luma-ProductReplenishment.jpg"/>
+      <img alt="Website „Luma“" src="./assets/email-assets/luma-ProductReplenishment.png"/>
     </a>
     </div>
     <td>
