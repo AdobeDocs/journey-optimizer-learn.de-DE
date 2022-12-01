@@ -1,5 +1,5 @@
 ---
-title: Bestellbestätigung erstellen
+title: E-Mail zur Bestellbestätigung erstellen
 description: Testen Sie Ihr Wissen über das Erstellen und Personalisieren von Transaktionsnachrichten.
 kt: 7531
 feature: Journeys
@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: c6e28361e1aca183a4cc2906ac90825218141e13
+source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 5%
@@ -15,7 +15,7 @@ ht-degree: 5%
 ---
 
 
-# Transaktions-E-Mail zur Bestellbestätigung erstellen
+# E-Mail zur Bestellbestätigung erstellen
 
 ![Bestellungsbestätigung](/help/challenges/assets/email-assets/luma-transactional-order-confirmation.png)
 

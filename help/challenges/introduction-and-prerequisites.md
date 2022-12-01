@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
+source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
 workflow-type: tm+mt
-source-wordcount: '391'
-ht-degree: 8%
+source-wordcount: '449'
+ht-degree: 12%
 
 ---
 
@@ -61,11 +61,10 @@ Luma ist bestrebt, die neueste Bekleidungs- und Zahnradsammlung zu bewerben und 
       </div>
   </td>
   <td>
-   <a href="summer-collection-announcement-challenge.md">
-    <strong>Ankündigung zur Sommerkollektion erstellen </strong>
+   <strong><a href="summer-collection-announcement-challenge.md">Ankündigung zur Sommerkollektion erstellen </strong>
     </a>
       <p>
-      <em>Fördern Sie die neue Sommerkollektion von Luma. </em>
+      <em>Erstellen Sie eine Journey, die eine E-Mail-Benachrichtigung zur Sommerkollektion an ein Segment bestehender Kunden sendet. </em>
       <p>
       <b>Erforderliche Fähigkeiten:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Erstellen von Segmenten</li>
@@ -82,26 +81,29 @@ Luma ist bestrebt, die neueste Bekleidungs- und Zahnradsammlung zu bewerben und 
   </td>
   <td>
       <a href="order-confirmation-challenge.md">
-    <strong>Bestellbestätigung erstellen</strong>
+    <strong><a href="order-confirmation-challenge.md">Bestellbestätigung erstellen</strong>
     </a>
     <div>
     <p>
-    <em>Senden Sie eine Bestätigungs-E-Mail, wenn ein Benutzer einen Online-Kauf abschließt
+    <em>Testen Sie Ihr Wissen über das Erstellen und Personalisieren von Transaktionsnachrichten.
     </em>
     <p>
+    <b>Erforderliche Fähigkeiten:</b>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html"> Erstellen von E-Mail-Inhalten mit dem Nachrichten-Editor</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">Verwenden von kontextbezogenen Ereignisinformationen für die Personalisierung</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">Verwenden von Helper-Funktionen für die Personalisierung</li>
   </td>
   </tr>
   <tr>
     <td>
     <div>
-    <a href="product-replenishment-challenge.md">
-      <img alt="Website „Luma“" src="./assets/email-assets/luma-ProductReplenishment.png"/>
+    <a>
+      <img alt="Wiederauffüllung des Luma-Produkts" src="./assets/email-assets/luma-ProductReplenishment.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="product-replenishment-challenge.md">
-    <strong>Erstellen einer Produktnachfüllungs-Benachrichtigung </strong>
+      <strong>Erstellen Sie eine Produktnachrüstungsbenachrichtigung (in Kürze verfügbar).</strong>
     </a>
     </div>
     <p>
@@ -112,14 +114,14 @@ Luma ist bestrebt, die neueste Bekleidungs- und Zahnradsammlung zu bewerben und 
   <tr>
     <td>
     <div>
-    <a href="loyalty-status-welcome-email-challenge.md">
+    <a>
       <img alt="Willkommen" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="loyalty-status-welcome-email-challenge.md">
-    <strong>Willkommens-E-Mail zum Treuestatus erstellen </strong>
+      <a>
+    <strong>Erstellen einer Willkommens-E-Mail zum Treuestatus (in Kürze verfügbar) </strong>
     </a>
     </div>
     <p>
