@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 52fb90247fa30d5b5c86d5a464d994e8e7075049
+source-git-commit: 30d2e0b2cad59385c8b9bc98f7db671027f7906a
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '457'
 ht-degree: 8%
 
 ---
@@ -45,8 +45,12 @@ Sie wurden aufgefordert, eine Journey einzurichten, die automatisch eine Begrü�
 
 Senden Sie eine E-Mail, wenn ein Loyalitätskunde auf die Diamond-Ebene wechselt, um ihm zu gratulieren und ihn über seine neuen Vorteile zu informieren. Die Menüauswahlmöglichkeiten für die 
 
-1. Erstellen Sie ein Segment in Journey Optimizer mit dem Namen **Ihr Name - Luma - Diamantenstatus**
-1. Erstellen Sie eine Journey, die ausgelöst wird, wenn ein Kunde in die neue Treuestufe Diamond wechselt (insbesondere wenn der Kunde in das für ein neues Mitglied der Diamantstufe definierte Segment eintritt), um die E-Mail &quot;Luma - Neuer Status - Karo - Transaktionen&quot;zu senden.
+1. Erstellen Sie ein Segment in Journey Optimizer mit dem Namen **Luma - Diamantstatus**
+2. Erstellen Sie eine Journey, die ausgelöst wird, wenn ein Kunde in die neue Treuestufe Diamond wechselt (insbesondere wenn der Kunde in das für ein neues Mitglied der Diamantstufe definierte Segment eintritt), um die E-Mail &quot;Luma - Neuer Status - Karo - Transaktionen&quot;zu senden.
+   1. Erstellen Sie eine Transaktions-E-Mail mit dem Titel `(your name)_Luma – New Status – Diamond – Transactional email message`.
+   2. E-Mail mit Betreffzeile versehen `Welcome to Diamond Status, (recipient's first name)!`.
+   3. Verwenden Sie die bereitgestellte HTML-Datei **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** für den E-Mail-Textkörper.
+3. Schließen Sie die Journey in den Testmodus ein und Trigger die Journey, die Sie sich selbst senden können.  
 
    1. Erstellen Sie eine Transaktions-E-Mail mit dem Titel `(your name)_Luma – New Status – Diamond – Transactional email message`.
    1. E-Mail mit Betreffzeile versehen `Welcome to Diamond Status, (recipient's first name)!`.

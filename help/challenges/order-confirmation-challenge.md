@@ -7,12 +7,13 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: c6e28361e1aca183a4cc2906ac90825218141e13
 workflow-type: tm+mt
-source-wordcount: '754'
-ht-degree: 4%
+source-wordcount: '683'
+ht-degree: 5%
 
 ---
+
 
 # Transaktions-E-Mail zur Bestellbestätigung erstellen
 
@@ -26,21 +27,27 @@ ht-degree: 4%
 
 ## Die Geschichte
 
-Luma startet seinen Online-Shop und möchte ein gutes Kundenerlebnis sicherstellen, indem er eine Bestätigungs-E-Mail sendet, sobald ein Kunde eine Bestellung aufgegeben hat.
+Luma startet seinen Online-Store und möchte ein gutes Kundenerlebnis sicherstellen, indem eine Bestätigungs-E-Mail für die Bestellung bereitgestellt wird, sobald ein Kunde eine Bestellung aufgegeben hat.
 
-Erstellen und personalisieren Sie eine Bestätigungsnachricht für Transaktionsbestellungen.
 
-## Hast du alles, was du brauchst?
 
 ## Ihre Herausforderung
 
-Erstellen Sie eine E-Mail zur Bestellbestätigung, die ausgelöst wird, wenn ein Luma-Kunde eine Online-Bestellung abschließt.
+Erstellen Sie eine Journey, die eine Bestätigungs-E-Mail sendet, wenn ein Luma-Kunde eine Online-Bestellung abschließt.
 
-### E-Mail zur Bestellbestätigung erstellen
+>[!BEGINTABS]
 
-Erstellen Sie eine neue E-Mail-Nachricht mit dem Titel &quot;(Ihr Name)_Luma - Auftragsbestätigung&quot;. Die Betreffzeile muss mit dem Vornamen des Empfängers personalisiert werden und die Phrase &quot;Vielen Dank für Ihren Kauf&quot; enthalten.
+>[!TAB Aufgabe]
 
-Gemäß der Markenrichtlinie von Luma sollte die E-Mail wie folgt strukturiert sein:
+1. Erstellen Sie eine Journey mit dem Namen &quot;Ihr Name _Auftragsbestätigung&quot;.
+2. Verwenden Sie das Ereignis: LumaOnlinePurchase as a Trigger
+
+3. Erstellen Sie die Bestellbestätigungs-E-Mail:
+
+* Kategorietransaktion - Stellen Sie sicher, dass Sie die Transaktions-E-Mail-Oberfläche auswählen.
+* Die Betreffzeile muss mit dem Vornamen des Empfängers personalisiert werden und die Phrase &quot;Vielen Dank für Ihren Kauf&quot; enthalten.
+
+Nach der Markenrichtlinie von Luma sollte die E-Mail wie folgt strukturiert sein - Sie können die **Luma - Bestellübersicht** und ändern Sie sie:
 
 <table>
 <tr>
@@ -56,7 +63,6 @@ Gemäß der Markenrichtlinie von Luma sollte die E-Mail wie folgt strukturiert s
     <li>Größe 35%, zentrierter weißer Hintergrund </li>
     <li>Es sollte einen Link zur Luma-Website enthalten: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
-    Tipp: Sie finden alle Bilder im Ordner "Assets"mit dem Namen "Nachrichtenbilder". <p>
     </td>
   </tr>
   <tr>
@@ -71,7 +77,7 @@ Gemäß der Markenrichtlinie von Luma sollte die E-Mail wie folgt strukturiert s
     <li>Rand: Oben, unten (10)<div>
     <p>
     <strong>Text</strong><p>
-    <em>Danke für den Kauf!</em><p>
+    <em>He {first name}</em><p>
     <li>Ausrichtung: left  </li>
    <li>Textfarbe: rgb(101, 106, 119); Schriftgröße:14 px</li>
     <li>Abstand: links (95), rechts (95)</li><div>
@@ -82,9 +88,12 @@ Gemäß der Markenrichtlinie von Luma sollte die E-Mail wie folgt strukturiert s
     <li>Ausrichtung: left  </li>
     <li>Textfarbe: rgb(101, 106, 119); Schriftgröße:14 px </li>
     <li>Abstand: links (95), rechts (95)</li><div>
-    </a>
-    <p>
-    <strong>Schaltfläche:</strong>
+    </a><p>
+    <em>Versand an:<p>
+    <p>Vorname Nachname</p>
+    Straße<p>
+    Ort, Bundesland, Postleitzahl</p></em>
+    <strong>Schaltfläche:</strong></p>
    <p><em>Bestellung anzeigen</em></p>
       <li>Hintergrundfarbe: rgb(25, 121, 195)</li>
       <li>Textfarbe: weiß</li>
@@ -99,9 +108,10 @@ Gemäß der Markenrichtlinie von Luma sollte die E-Mail wie folgt strukturiert s
      <strong>Bestelldetailabschnitt</strong>
       </div>
       <p>Tipps:
-      <li>Dies sind kontextbezogene Ereignisinformationen. Sie können die Nachricht nur dann im Kontext hinzufügen, wenn Sie sie zu Ihrer Journey hinzufügen (siehe Schritt 2). Veröffentlichen Sie Ihre E-Mail nicht, bevor Sie sie der Journey hinzugefügt und mit den kontextuellen Ereignisinformationen modifiziert haben!</li>
+      <li>Dies sind kontextbezogene Ereignisinformationen.</li>
       <li>Verwenden Sie die Hilfsfunktion: Jeder</li>
-      <li>Verwenden Sie das HTML-Editor-Format für die Kontextdaten. Fügen Sie die Informationen mithilfe von DIV-Tags in Container ein.</li>
+      <li>Wechseln Sie zum Format des Code-Editors , um die Kontextdaten hinzuzufügen. <li>
+      <li>Fügen Sie die Informationen mithilfe von DIV-Tags in Container ein.</li>
   </td>
   <td>
     <strong>Kopfzeile</strong>
@@ -141,19 +151,13 @@ Gemäß der Markenrichtlinie von Luma sollte die E-Mail wie folgt strukturiert s
   </tr>
 </table>
 
-### Journey erstellen
-
-1. Rufen Sie die Journey &quot;Ihr Name _Luma-Auftragsbestätigung&quot;auf.
-1. Verwenden Sie das Ereignis: LumaOnlinePurchase
-1. Aktion: Fügen Sie die in Schritt 1 erstellte Nachricht hinzu.
-1. Kehren Sie zur Nachricht zurück und fügen Sie die Kontextattribute hinzu.
-1. E-Mail veröffentlichen
 
 >[!TIP]
 >
 >Damit Sie eine Fehlerbehebung bei Ihren Journey vornehmen können, empfiehlt es sich, im Fall von Zeitüberschreitung oder Fehlern einen alternativen Pfad zu allen Nachrichten-Aktionen hinzuzufügen.
 
-+++Erfolgskriterien
+
+>[!TAB Überprüfen Sie Ihre Arbeit]
 
 Trigger der Journey, die Sie im Testmodus erstellt haben, und senden Sie die E-Mail an sich:
 
@@ -181,17 +185,20 @@ Sie sollten die personalisierte Kaufbestätigungs-E-Mail mit dem angegebenen Pro
 
    43913 Thierer Terrace, Washington DC 2009
 
-+++
 
-+ + + Prüfung der Arbeit
+>[!TAB Erfolgskriterien]
+
+** Journey
+
+![Journey](/help/challenges/assets/c2-journey.png)
+
+
+** E-Mail
 
 **Betreff:**
 
 {{ profile.person.name.firstName }}, danke für Ihren Kauf!
 
-**Kopfzeile und Bestätigungsabschnitt:**
-
-![Header- und Bestellbestätigung](/help/challenges/assets/c2-header.png)
 
 **Detailabschnitt Oder:**
 
@@ -230,11 +237,4 @@ Die Personalisierung sollte wie folgt aussehen:
 {{profile.homeAddress.city}},{{profile.homeAddress.state}} {{profile.homeAddress.postalCode}}
 ```
 
-**Fußzeile:**
-![Fußzeile](/help/challenges/assets/c2-footer.png)
-
-**Journey**
-
-![Journey](/help/challenges/assets/c2-journey.png)
-
-+++
+>[!ENDTABS]
