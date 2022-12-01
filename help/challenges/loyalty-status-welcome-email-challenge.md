@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
+source-git-commit: 52fb90247fa30d5b5c86d5a464d994e8e7075049
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 8%
@@ -46,18 +46,17 @@ Sie wurden aufgefordert, eine Journey einzurichten, die automatisch eine Begrü�
 Senden Sie eine E-Mail, wenn ein Loyalitätskunde auf die Diamond-Ebene wechselt, um ihm zu gratulieren und ihn über seine neuen Vorteile zu informieren. Die Menüauswahlmöglichkeiten für die 
 
 1. Erstellen Sie ein Segment in Journey Optimizer mit dem Namen **Ihr Name - Luma - Diamantenstatus**
-2. Erstellen Sie eine Journey, die ausgelöst wird, wenn ein Kunde in die neue Treuestufe Diamond wechselt (insbesondere wenn der Kunde in das für ein neues Mitglied der Diamantstufe definierte Segment eintritt), um die E-Mail &quot;Luma - Neuer Status - Karo - Transaktionen&quot;zu senden.
-1. Erstellen Sie eine Transaktions-E-Mail mit dem Titel `(your name)_Luma – New Status – Diamond – Transactional email message`.
-2. E-Mail mit Betreffzeile versehen `Welcome to Diamond Status, (recipient's first name)!`.
-3. Verwenden Sie die bereitgestellte HTML-Datei **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** für den E-Mail-Textkörper.
-3. Schließen Sie die Journey in den Testmodus ein und Trigger die Journey, die Sie sich selbst senden können.  
+1. Erstellen Sie eine Journey, die ausgelöst wird, wenn ein Kunde in die neue Treuestufe Diamond wechselt (insbesondere wenn der Kunde in das für ein neues Mitglied der Diamantstufe definierte Segment eintritt), um die E-Mail &quot;Luma - Neuer Status - Karo - Transaktionen&quot;zu senden.
 
+   1. Erstellen Sie eine Transaktions-E-Mail mit dem Titel `(your name)_Luma – New Status – Diamond – Transactional email message`.
+   1. E-Mail mit Betreffzeile versehen `Welcome to Diamond Status, (recipient's first name)!`.
+   1. Verwenden Sie die bereitgestellte HTML-Datei **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** für den E-Mail-Textkörper.
+
+1. Schließen Sie die Journey in den Testmodus ein und Trigger die Journey, die Sie sich selbst senden können.  
 
 ### Erstellen der Luma - Neuer Status - Raute - Transaktions-E-Mail-Nachricht
 
 Erstellen einer Begrüßungs-E-Mail
-
-1. 
 
 ### **Journey #3 - Diamond status upgrade Begrüßungs-E-Mail**
 
@@ -67,10 +66,10 @@ Erstellen einer Begrüßungs-E-Mail
 Testen Sie Ihre Journey:
 
 1. Stellen Sie sicher, dass das Segmentqualifikationsereignis den Namespace = E-Mail aufweist.
-2. Standard-E-Mail-Parameter überschreiben und auf Ihre eigene E-Mail-Adresse festlegen
-3. Journey auf Testmodus setzen
-4. Trigger eines Ereignisses
-5. Fügen Sie die folgende E-Mail-Adresse in das Feld Profilkennung ein: Jenna_Palmer9530@emailsim.io
+1. Standard-E-Mail-Parameter überschreiben und auf Ihre eigene E-Mail-Adresse festlegen
+1. Journey auf Testmodus setzen
+1. Trigger eines Ereignisses
+1. Fügen Sie die folgende E-Mail-Adresse in das Feld Profilkennung ein: Jenna_Palmer9530@emailsim.io
 
 Sie sollten die personalisierte E-Mail &quot;Luma - New Status - Diamond-Transactional&quot; erhalten.
 
