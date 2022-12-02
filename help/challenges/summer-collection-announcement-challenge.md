@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: 697f4e6b11e7c40be726471ab368781f32dad165
 workflow-type: tm+mt
-source-wordcount: '1250'
+source-wordcount: '1138'
 ht-degree: 2%
 
 ---
@@ -24,21 +24,14 @@ ht-degree: 2%
 | Erforderliche Fähigkeiten | <ul><li>[Erstellen von Segmenten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [Importieren und Erstellen von HTML-E-Mail-Inhalten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[Anwendungsfall: Segment lesen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
 | Herunterzuladende Assets | [Saisonale Sammlungs-E-Mail-Dateien](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
->[!NOTE]
-> Die Übungen wurden anhand der Luma-Beispieldaten entwickelt. Wir haben empfohlen, eine Trainings-Sandbox einzurichten, die mit den Beispieldaten konfiguriert ist. Besuchen Sie das Tutorial [Importieren von Beispieldaten in Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=de) für detaillierte Anweisungen.
-
 ## Die Geschichte
 
 Luma, ein fiktionales Sportbekleidungsunternehmen, möchte seine neueste Bekleidung und Ausrüstung fördern und den Umsatz für bestehende Kunden steigern. Luma startet die neue Sommerkollektion und möchte speziell auf verschiedene Kundensegmente abzielen.
 
 ## Ihre Herausforderung
 
-Das Marketing-Team von Luma bittet Sie, eine Sommerkollektions-Marketing-Kampagne in Journey Optimizer zu implementieren.
+Das Marketing-Team von Luma bittet Sie, eine Sommerkollektions-Marketing-Kampagne in Journey Optimizer zu implementieren. Ihre Herausforderung besteht darin, eine Journey in Journey Optimizer zu erstellen. Insbesondere müssen Sie das erforderliche Segment erstellen, vier Nachrichten erstellen und die Journey erstellen.
 
-Ihre Herausforderung besteht darin, eine Journey in Journey Optimizer zu erstellen. Insbesondere müssen Sie das erforderliche Segment erstellen, vier Nachrichten erstellen und die Journey erstellen.
-
->[!NOTE]
-> Wenn Sie in einer freigegebenen Trainings-Sandbox arbeiten, empfiehlt es sich, Ihren Namen oder Ihre Initialen als Präfix zum Namen eines von Ihnen erstellten Elements hinzuzufügen.
 
 ### Schritt 1: Definieren des Segments - Aktive Kunden
 
@@ -46,7 +39,7 @@ Ihre Herausforderung besteht darin, eine Journey in Journey Optimizer zu erstell
 
 >[!TAB Aufgabe]
 
-Erstellen Sie ein Segment in Journey Optimizer mit dem Namen **Ihr Name - Aktive Kunden**.
+Erstellen Sie ein Segment in Journey Optimizer mit dem Namen **Aktive Kunden**.
 
 * Das Segment darf nur aktive Luma-Kunden umfassen.
 * Aktive Kunden werden definiert als Kunden, die eine Ebene im Treueprogramm von Luma haben (Silber, Gold, Platin oder Diamant).
@@ -54,7 +47,10 @@ Erstellen Sie ein Segment in Journey Optimizer mit dem Namen **Ihr Name - Aktive
 
 >[!TAB Erfolgskriterien]
 
-Im Segment Builder können Sie die geschätzte Anzahl qualifizierter Profile anzeigen. Wenn Sie in einer Trainings-Sandbox arbeiten, in der die Luma-Beispieldaten verwendet werden, wird die [!UICONTROL geschätzte qualifizierte Profile] sollte etwa 292 Profile von 500 sein.
+Im Segment Builder können Sie die geschätzte Anzahl qualifizierter Profile anzeigen.
+
+>[!NOTE]
+>Es kann bis zu 24 Stunden dauern, bis die Segmentzugehörigkeit für vorhandene Profile angezeigt wird, da die vorhandenen Profile aufgestockt werden müssen.
 
 **Dem Segment wurde ein qualifizierendes Profil hinzugefügt:**
 
@@ -66,9 +62,6 @@ Sie können die Qualifizierung der Profile überprüfen, die zum Segment hinzuge
 
 Sie können auch die [!UICONTROL Segmentmitgliedschaft] tab: Ihr Segment sollte aufgelistet werden.
 
->[!NOTE]
->Es kann bis zu 24 Stunden dauern, bis die Segmentzugehörigkeit für vorhandene Profile angezeigt wird, da die vorhandenen Profile aufgestockt werden müssen.
-
 ![Segmentzugehörigkeit](assets/C1-S1-profile-segment-membership.png)
 
 >[!TAB Überprüfen der Arbeit]
@@ -79,12 +72,10 @@ So sollte Ihr Segment aussehen:
 
 ![Segment - Aktive Kunden](/help/challenges/assets/C1-S1.png)
 
-Überprüfen Sie den Code in der rechten unteren Ecke des Bildschirms Segment bearbeiten unter Ereignisse.
-
 Der Code sollte wie folgt aussehen:
 
 ```javascript
-loyalty.tier.equals("diamond", false) or loyalty.tier.equals("gold", false) or loyalty.tier.equals("platinum", false) or loyalty.tier.equals("silver", false)
+stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"], false)
 ```
 
 >[!ENDTABS]
