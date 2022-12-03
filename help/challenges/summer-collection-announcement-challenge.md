@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: e6364990cbe6e157ddc2754c1095052ce133ea8e
+source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1161'
 ht-degree: 3%
 
 ---
@@ -103,20 +103,20 @@ Eine Agentur stellte Ihnen vier HTML-Dateien mit dem Design für E-Mails zur Ver
 
 2. Erstellen Sie eine Journey mit dem Namen `Luma - Summer collection announcement` auf der Grundlage der folgenden Leitlinien:
 
-   1. Senden *Luma - Neue Ankündigung zur saisonalen Sammlung* E-Mail an die *Aktive Kunden* Segment, das 10 % der Zielgruppe als Kontrollgruppe ausmacht
-      * Nachrichtentitel `Luma New Seasonal Collection Announcement`.
-      * Betreff `(recipient's first name), the new Luma collection is here!`.
+   1. Senden *Luma - Ankündigung der neuen Sommerkollektion* E-Mail an die *Aktive Kunden* Segment, das 10 % der Zielgruppe als Kontrollgruppe ausmacht
+      * Nachrichtentitel `Luma - Summer Collection Announcement`.
+      * Betreff `(recipient's first name), the new Luma summer collection is here!`.
       * Verwenden Sie die bereitgestellte HTML-Datei *SeasonalCollectionEmail.html* für den E-Mail-Textkörper.
    2. Warten Sie zwei Tage und senden Sie dann eine Folgenachricht mit zielgerichteteren Inhalten:
-      * Männliche Kunden sollten die **Luma Men&#39;s Collection E-Mail**
+      * Männliche Kunden sollten die **Luma Men&#39;s Collection** E-Mail.
          * Nachrichtentitel: `Luma Men's Collection`
          * Betreff: `(recipient's first name), explore Men's New athletic gear!`
          * E-Mail-Hauptteil: *MensCollectionEmail.html* für den E-Mail-Textkörper.
-      * Weibliche Kunden sollten die **Luma Women&#39;s Collection E-Mail**
+      * Weibliche Kunden sollten die **Luma Women&#39;s Collection** E-Mail.
          * Nachrichtentitel: `Luma Women's Collection`
          * Betreff: `(recipient's first name), explore Luma's Women Collection!`
          * E-Mail-Hauptteil: *WomensCollectionEmail.html*
-      * Andere Kunden sollten **Luma - 20 % Rabatt auf E-Mail-Erfassung**
+      * Andere Kunden sollten **Luma - 20 % Ermäßigung der Sammlung** E-Mail.
          * Nachrichtentitel: `Luma - 20 % off Collection`
          * Betreff: `(recipient's first name), enjoy 20% off sales!`
          * E-Mail-Hauptteil: *20OffCollectionEmail.html*
@@ -128,36 +128,48 @@ Eine Agentur stellte Ihnen vier HTML-Dateien mit dem Design für E-Mails zur Ver
 
 #### Vorschau der E-Mails
 
-**E-Mail-Nachricht Nr. 1: Neue Mitteilung zur saisonalen Erfassung**
+**E-Mail-Nachricht Nr. 1: Luma - Mitteilung zur Sommerkollektion**
 
-Vorschau der E-Mail mit dem Identitäts-Namespace: *Email* und dem Identitätswert: *Jenna_Palmer9530@emailsim.io*
+Vorschau der E-Mail:
 
-* Die Betreffzeile sollte lauten: Jenna, die neue Luma Kollektion ist hier!
+1. Fügen Sie ein Testprofil hinzu: Louise Petti:
+   1. Identitäts-Namespace: *Luma CRM ID*
+   2. Identitätswert: *d1f132f9f9502bba047a6ec86c4b61f9*
+
+Ergebnis:
+* Die Betreffzeile sollte lauten: Louise, die neue Luma Kollektion ist da!
 * Der Hauptteil der E-Mail sollte mit dem übereinstimmen, was Sie in der Vorschau gesehen haben: [Neue Mitteilung zur saisonalen Sammlung](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 
 **E-Mail-Nachricht Nr. 2: Luma Men&#39;s Collection**
 
-Testversand an dich selbst durchführen
+Senden Sie einen Testversand an sich:
 
-* E-Mail-Adresse eingeben
-* Wählen Sie das Testprofil aus: Chris_Scott1244@emailsim.io
+1. Fügen Sie ein Testprofil hinzu: Stanleigh Stooke:
+   1. Identitäts-Namespace: *Luma CRM ID*
+   2. Identitätswert: `4f34057d9d9e792c28ba18ecae378e98`
+1. Wählen Sie das Testprofil aus: Stanleigh Stooke
+2. Testversand an dich selbst durchführen
 
-Sie sollten eine E-Mail erhalten. Die Betreffzeile sollte lauten: &quot;Chris, exploration Men&#39;s New athletic ausrüstung!&quot; und der E-Mail-Textkörper sollte mit dem übereinstimmen, was Sie in der Vorschau gesehen haben: [Luma Men&#39;s Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+Ergebnis:\
+Sie sollten eine E-Mail erhalten. Die Betreffzeile sollte lauten: &quot;Stanleigh, erforsche die neue Sportausrüstung von Men&#39;s New!&quot; und der E-Mail-Textkörper sollte mit dem übereinstimmen, was Sie in der Vorschau gesehen haben: [Luma Men&#39;s Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+
+>[!NOTE]
+>Es kann einige Minuten dauern, bis Sie den Testversand erhalten.
 
 **E-Mail-Nachricht Nr. 3: Luma Women&#39;s Collection**
 
-Vorschau der E-Mail mit dem Identitäts-Namespace: *Email* und dem Identitätswert: *Jenna_Palmer9530@emailsim.io*
+Vorschau der E-Mail mit dem Testprofil &quot;Louise Petti&quot;
 
-* Die Betreffzeile sollte lauten: *Jenna, entdecken Sie Lumas Frauensammlung!*
+* Die Betreffzeile sollte lauten: *Louise, entdecken Sie Lumas Frauensammlung!*
 * Der Hauptteil der E-Mail sollte mit dem übereinstimmen, was Sie in der Vorschau gesehen haben: [Luma Women&#39;s Collection](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 
 **E-Mail-Nachricht Nr. 4 - Luma: 20 % Rabatt**
 
-Vorschau der E-Mail mit dem Identitäts-Namespace: *Email* und dem Identitätswert: *Benny_Steer4909@emailsim.io*
+Vorschau der E-Mail mit dem Testprofil &quot;Louise Petti&quot;
 
-* Die Betreffzeile sollte lauten: *Benny, genieße 20% Rabatt!*
+* Die Betreffzeile sollte lauten: *Louise, genießen Sie 20% Rabatt!*
 * Der Hauptteil der E-Mail sollte mit dem übereinstimmen, was Sie in der Vorschau gesehen haben: [Luma: 20 % Abholung](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 **Vergessen Sie nicht, Ihre E-Mails zu veröffentlichen!**
@@ -168,16 +180,16 @@ Vorschau der E-Mail mit dem Identitäts-Namespace: *Email* und dem Identitätswe
 >
 >Bevor Sie die Journey in den Testmodus einstellen:
 >
->1. Stellen Sie sicher, dass der Namespace der Aktivität Segment lesen auf E-Mail gesetzt ist.
+>1. Stellen Sie sicher, dass für die Aktivität &quot;Segment lesen&quot;der Namespace auf **Luma CRM id(lumaCrmId)**
 >1. Überschreiben Sie für jede E-Mail die standardmäßigen E-Mail-Parameter, damit sie an Ihre E-Mail-Adresse gesendet werden:
->1. Zeigen Sie die verborgenen Werte an, indem Sie auf das Augensymbol klicken.
->1. Klicken Sie in den E-Mail-Parametern auf das T-Symbol (Parameter überschreiben aktivieren).
+   >    * Zeigen Sie die verborgenen Werte an, indem Sie auf das Augensymbol klicken.
+   >    * Klicken Sie in den E-Mail-Parametern auf das T-Symbol (Parameter überschreiben aktivieren).
 
-   >
-   >      ![E-Mail-Parameter überschreiben](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->1. Klicken Sie in das Adressfeld
->1. Fügen Sie im nächsten Bildschirm Ihre E-Mail-Adresse in Klammern ein: *yourname@yourdomain* im Ausdruckseditor und klicken Sie auf &quot;OK&quot;.
+      >
+      >      ![E-Mail-Parameter überschreiben](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Klicken Sie in das Adressfeld
+   >    * Fügen Sie im nächsten Bildschirm Ihre E-Mail-Adresse in Klammern ein: `"yourname@yourdomain"` im Ausdruckseditor und klicken Sie auf &quot;OK&quot;.
 
 >
 
@@ -189,9 +201,9 @@ Testen Sie die Journey und lassen Sie die E-Mails an Ihr eigenes Konto senden:
 3. Wartezeit: Setzen Sie den Timer auf 120 Sekunden (geben Sie ihn in das Feld ein).
 4. Trigger-Profileingang
 5. Sie können jede Verzweigung mithilfe einer der folgenden E-Mail-Adressen als Profilkennung testen:
-   * Weiblich: Jenna Palmer: Jenna_Palmer9530@emailsim.io
-   * Männlich: Chris Scott: Chris_Scott1244@emailsim.io
-   * Geschlecht nicht angegeben: Benny Steer: Benny_Steer4909@emailsim.io
+   * Weiblich: Louise Petti, Identitätswert: *d1f132f9f9502bba047a6ec86c4b61f9*
+   * Männlich: Stanleigh Stooke, Identitätswert: `4f34057d9d9e792c28ba18ecae378e98`
+   * Geschlecht nicht angegeben: Leora Dietsche, a8f14eab3b483c2b96171b575ecd90b1
 
 6. Sobald Sie den Profileingang Trigger haben, sollten Sie die erste E-Mail erhalten. Der Header sollte entsprechend dem ausgewählten Profil personalisiert werden.
 7. Die Journey sollte in die jeweilige Verzweigung weitergehen und Sie sollten die entsprechende E-Mail erhalten (wenn Sie beispielsweise Jenna auswählen, sollten Sie die E-Mail &quot;Luma Women&#39;s Collection&quot;erhalten).
