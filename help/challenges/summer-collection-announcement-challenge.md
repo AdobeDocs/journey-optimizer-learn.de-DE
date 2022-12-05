@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
+source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
 workflow-type: tm+mt
 source-wordcount: '1161'
 ht-degree: 3%
@@ -147,9 +147,9 @@ Senden Sie einen Testversand an sich:
 
 1. Fügen Sie ein Testprofil hinzu: Stanleigh Stooke:
    1. Identitäts-Namespace: *Luma CRM ID*
-   2. Identitätswert: `4f34057d9d9e792c28ba18ecae378e98`
+   1. Identitätswert: `4f34057d9d9e792c28ba18ecae378e98`
 1. Wählen Sie das Testprofil aus: Stanleigh Stooke
-2. Testversand an dich selbst durchführen
+1. Testversand an dich selbst durchführen
 
 Ergebnis:\
 Sie sollten eine E-Mail erhalten. Die Betreffzeile sollte lauten: &quot;Stanleigh, erforsche die neue Sportausrüstung von Men&#39;s New!&quot; und der E-Mail-Textkörper sollte mit dem übereinstimmen, was Sie in der Vorschau gesehen haben: [Luma Men&#39;s Collection](/help/challenges/assets/email-assets/MensCollectionEmail.html)
