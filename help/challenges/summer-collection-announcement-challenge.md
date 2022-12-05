@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
+source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
 workflow-type: tm+mt
-source-wordcount: '1161'
+source-wordcount: '1149'
 ht-degree: 3%
 
 ---
@@ -172,7 +172,6 @@ Vorschau der E-Mail mit dem Testprofil &quot;Louise Petti&quot;
 * Die Betreffzeile sollte lauten: *Louise, genießen Sie 20% Rabatt!*
 * Der Hauptteil der E-Mail sollte mit dem übereinstimmen, was Sie in der Vorschau gesehen haben: [Luma: 20 % Abholung](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
-**Vergessen Sie nicht, Ihre E-Mails zu veröffentlichen!**
 
 #### Testen einer Journey
 
@@ -200,10 +199,10 @@ Testen Sie die Journey und lassen Sie die E-Mails an Ihr eigenes Konto senden:
 2. Jeweils ein Profil auswählen
 3. Wartezeit: Setzen Sie den Timer auf 120 Sekunden (geben Sie ihn in das Feld ein).
 4. Trigger-Profileingang
-5. Sie können jede Verzweigung mithilfe einer der folgenden E-Mail-Adressen als Profilkennung testen:
-   * Weiblich: Louise Petti, Identitätswert: *d1f132f9f9502bba047a6ec86c4b61f9*
+5. Sie können jede Verzweigung mit einer der folgenden Methoden testen *Luma CRM-IDs* als Profilkennungen:
+   * Weiblich: Leora Dietsche, Identitätswert:`a8f14eab3b483c2b96171b575ecd90b1`
    * Männlich: Stanleigh Stooke, Identitätswert: `4f34057d9d9e792c28ba18ecae378e98`
-   * Geschlecht nicht angegeben: Leora Dietsche, a8f14eab3b483c2b96171b575ecd90b1
+   * Geschlecht nicht angegeben: Louise Petti, Identitätswert: `d1f132f9f9502bba047a6ec86c4b61f9&#39;
 
 6. Sobald Sie den Profileingang Trigger haben, sollten Sie die erste E-Mail erhalten. Der Header sollte entsprechend dem ausgewählten Profil personalisiert werden.
 7. Die Journey sollte in die jeweilige Verzweigung weitergehen und Sie sollten die entsprechende E-Mail erhalten (wenn Sie beispielsweise Jenna auswählen, sollten Sie die E-Mail &quot;Luma Women&#39;s Collection&quot;erhalten).
@@ -216,9 +215,9 @@ Sie sollten die folgenden E-Mails erhalten:
 
 * Luma - Neue Ankündigung zur saisonalen Sammlung
 * Je nachdem, welches Testprofil Sie verwendet haben, sollten Sie eine der folgenden E-Mails erhalten:
-   * Jenna: Luma Women&#39;s Collection
-   * Chris: Luma Men&#39;s Collection
-   * Benny: Luma - 20 % Rabatt auf Sammlung
+   * Leora: Luma Women&#39;s Collection
+   * Stanleigh: Luma Men&#39;s Collection
+   * Louise: Luma - 20 % Rabatt auf Sammlung
 * Wenn Sie die zweite E-Mail nicht geöffnet haben: Die Luma - 20 % Rabatt
 
 >[!TAB Überprüfen Sie Ihre Arbeit]
