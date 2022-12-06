@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 27139d8f3b7fc5d6bb2a862789116f5e1f911766
+source-git-commit: a9b6559d308823f5af7c2b26c3b2ae59d60d5a60
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 4%
+source-wordcount: '437'
+ht-degree: 5%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 4%
 |---|---|
 | Persona | Journey-Manager |
 | Erforderliche Fähigkeiten | <ul><li>[Erstellen von Segmenten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[Segmentqualifizierung](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[HTML-Inhalt importieren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html)</li></ul> |
-| Herunterzuladende Assets | [platinumStatusEmail.zip](/help/challenges/assets/email-assets/platinumStatusEmail.zip) |
+| Herunterzuladende Assets | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 ## Die Geschichte
 
@@ -56,21 +56,18 @@ Testen Sie Ihre Journey:
 
 1. Stellen Sie sicher, dass die Variable [!UICONTROL Segmentaktivität lesen] hat die [!UICONTROL namespace] auf **[!DNL Luma CRM id(lumaCrmId)]**
 2. Standardeinstellung überschreiben [!UICONTROL E-Mail-Parameter] und legen Sie sie auf Ihre eigene E-Mail-Adresse fest
+   * Zeigen Sie die verborgenen Werte an, indem Sie auf das Augensymbol klicken.
+   * Im [!UICONTROL E-Mail-Parameter]klicken Sie auf das T-Symbol (Parameter überschreiben aktivieren)
 
-++ + Klicken Sie hier , um weitere Informationen zum Überschreiben der [!!UICONTROL E-Mail-Parameter].
+       ![E-Mail-Parameter überschreiben](/help/challenges/assets/c3-override-email-paramters.jpg)
+   
+   * Klicken Sie in die [!UICONTROL Adressfeld]
+   * Fügen Sie im nächsten Bildschirm Ihre E-Mail-Adresse in Klammern ein: `"yourname@yourdomain"` im Ausdruckseditor und klicken Sie auf &quot;OK&quot;.
 
-* Zeigen Sie die verborgenen Werte an, indem Sie auf das Augensymbol klicken.
-* Im [!UICONTROL E-Mail-Parameter]klicken Sie auf das T-Symbol (Parameter überschreiben aktivieren)
 
-![E-Mail-Parameter überschreiben](/help/challenges/assets/c3-override-email-paramters.jpg)
-
-* Klicken Sie in die [!UICONTROL Adressfeld]
-* Fügen Sie im nächsten Bildschirm Ihre E-Mail-Adresse in Klammern ein: `"yourname@yourdomain"` im Ausdruckseditor und klicken Sie auf &quot;OK&quot;.
-+++
-
-1. Journey auf Testmodus setzen
-2. Trigger eines Ereignisses
-3. Fügen Sie Folgendes hinzu: [!DNL CRM ID] für [!DNL Stanleigh Stooke] in [!UICONTROL Profilkennung] -Feld: `4f34057d9d9e792c28ba18ecae378e98`
+3. Journey auf Testmodus setzen
+4. Trigger eines Ereignisses
+5. Fügen Sie Folgendes hinzu: [!DNL CRM ID] für [!DNL Stanleigh Stooke] in [!UICONTROL Profilkennung] -Feld: `4f34057d9d9e792c28ba18ecae378e98`
 
 Sie sollten personalisierte *Luma - Platin-Status - Willkommen* E-Mail.
 
