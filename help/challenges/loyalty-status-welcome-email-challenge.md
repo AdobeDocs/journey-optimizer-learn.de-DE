@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7ef41f1ddd9369d45b60e1e257121ef4daabbc0e
+source-git-commit: 27139d8f3b7fc5d6bb2a862789116f5e1f911766
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 4%
@@ -57,7 +57,7 @@ Testen Sie Ihre Journey:
 1. Stellen Sie sicher, dass die Variable [!UICONTROL Segmentaktivität lesen] hat die [!UICONTROL namespace] auf **[!DNL Luma CRM id(lumaCrmId)]**
 2. Standardeinstellung überschreiben [!UICONTROL E-Mail-Parameter] und legen Sie sie auf Ihre eigene E-Mail-Adresse fest
 
-+++ Klicken Sie hier , um weitere Informationen zum Außerkraftsetzen des [!!UICONTROL E-Mail-Parameter].
+++ + Klicken Sie hier , um weitere Informationen zum Überschreiben der [!!UICONTROL E-Mail-Parameter].
 
 * Zeigen Sie die verborgenen Werte an, indem Sie auf das Augensymbol klicken.
 * Im [!UICONTROL E-Mail-Parameter]klicken Sie auf das T-Symbol (Parameter überschreiben aktivieren)
