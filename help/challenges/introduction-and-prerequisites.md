@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
+source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 13%
+source-wordcount: '447'
+ht-degree: 11%
 
 ---
 
@@ -19,13 +19,13 @@ ht-degree: 13%
 
 Herausforderungen bieten ein Szenario und die Anforderungen, die zum Üben des Gelernten erforderlich sind. Herausforderungen helfen Ihnen dabei, Ihr Qualifikationsniveau zu bewerten und Wissenslücken zu identifizieren.
 
-Jede Herausforderung in diesem Abschnitt behandelt einen einzigartigen Anwendungsfall, den Sie implementieren werden. Die Zielgruppe (Persona) und die erforderlichen Fähigkeiten werden zu Beginn jeder Herausforderung aufgelistet.
+Jede Herausforderung in diesem Abschnitt behandelt einen einzigartigen Anwendungsfall, den Sie implementieren. Die Zielgruppe (Persona) und die erforderlichen Fähigkeiten werden zu Beginn jeder Herausforderung aufgelistet.
 
 ## Voraussetzungen
 
 ### Systemanforderungen
 
-* Zugriff auf eine Journey Optimizer-Sandbox - wir empfehlen, die Herausforderung in einer eigenen Trainings-Sandbox zu bewältigen.
+* Zugriff auf eine Journey Optimizer-Sandbox - wir haben empfohlen, die Herausforderung in einer speziellen Trainings-Sandbox zu erledigen.
 * AEM Assets Essentials muss für Ihre Instanz bereitgestellt werden
 * Der E-Mail-Kanal muss für Transaktions- und Marketingnachrichten konfiguriert werden
 
@@ -68,8 +68,8 @@ Luma ist bestrebt, die neueste Bekleidungs- und Zahnradsammlung zu bewerben und 
       <p>
       <b>Erforderliche Fähigkeiten:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Erstellen von Segmenten</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">Importieren und Erstellen von HTML-E-Mail-Inhalten</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">Anwendungsfall: Segment lesen</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">Segment lesen</li>
+       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">HTML-E-Mail-Inhalt importieren</li>
   </td>
   </tr>
    <tr>
@@ -82,12 +82,16 @@ Luma ist bestrebt, die neueste Bekleidungs- und Zahnradsammlung zu bewerben und 
     <td>
     <div >
       <a>
-    <strong>Erstellen einer Willkommens-E-Mail zum Treuestatus (in Kürze verfügbar) </strong>
+    <strong><a href="loyalty-status-welcome-email-challenge.md">Willkommens-E-Mail zum Treuestatus erstellen </strong>
     </a>
     </div>
     <p>
-    <em>Senden Sie eine E-Mail, wenn ein Treuekunden zu einer neuen Ebene wechselt, um ihn zu beglückwünschen und ihm über seine neuen Vorteile zu informieren.</em>
+    <em>Senden Sie eine E-Mail, wenn ein Treuekunden zu einer neuen Ebene wechselt, um ihm zu gratulieren und ihn über seine neuen Vorteile zu informieren.</em>
     <p>
+    <b>Erforderliche Fähigkeiten:</b>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Erstellen von Segmenten</li>
+      <li><a [href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html">Segmentqualifizierung</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">Importieren und Erstellen von HTML-E-Mail-Inhalten</li>
   </td>
   </tr>
   <tr>
@@ -107,7 +111,7 @@ Luma ist bestrebt, die neueste Bekleidungs- und Zahnradsammlung zu bewerben und 
     </em>
     <p>
     <b>Erforderliche Fähigkeiten:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html"> Erstellen von E-Mail-Inhalten mit dem Nachrichten-Editor</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-content-with-the-email-designer.html"> Erstellen von E-Mail-Inhalten mit dem Nachrichten-Editor</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">Verwenden von kontextbezogenen Ereignisinformationen für die Personalisierung</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">Verwenden von Helper-Funktionen für die Personalisierung</li>
   </td>
