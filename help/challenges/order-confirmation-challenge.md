@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: eb31a78738ec32e4f468f620a96525714997ad04
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '682'
 ht-degree: 5%
 
 ---
@@ -40,7 +40,7 @@ Erstellen Sie eine Journey, die eine Bestätigungs-E-Mail sendet, wenn ein Luma-
 >[!TAB Aufgabe]
 
 1. Erstellen Sie eine Journey mit dem Namen &quot;Ihr Name _Auftragsbestätigung&quot;.
-2. Verwenden Sie das Ereignis: LumaOnlinePurchase as a Trigger
+2. Verwenden Sie das Ereignis: [!DNL LumaOnlinePurchase] als Trigger
 
 3. Erstellen Sie die Bestellbestätigungs-E-Mail:
 
