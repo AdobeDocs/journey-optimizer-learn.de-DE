@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
+source-git-commit: fa78749a6b768bd637ef5b5a7cda907a7b2030f4
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1138'
 ht-degree: 3%
 
 ---
@@ -202,7 +202,7 @@ Testen Sie die Journey und lassen Sie die E-Mails an Ihr eigenes Konto senden:
 5. Sie können jede Verzweigung mit einer der folgenden Methoden testen *Luma CRM-IDs* als Profilkennungen:
    * Weiblich: Leora Dietsche, Identitätswert:`a8f14eab3b483c2b96171b575ecd90b1`
    * Männlich: Stanleigh Stooke, Identitätswert: `4f34057d9d9e792c28ba18ecae378e98`
-   * Geschlecht nicht angegeben: Louise Petti, Identitätswert: `d1f132f9f9502bba047a6ec86c4b61f9&#39;
+   * Geschlecht nicht angegeben: Louise Petti, Identitätswert: `d1f132f9f9502bba047a6ec86c4b61f9`
 
 6. Sobald Sie den Profileingang Trigger haben, sollten Sie die erste E-Mail erhalten. Der Header sollte entsprechend dem ausgewählten Profil personalisiert werden.
 7. Die Journey sollte in die jeweilige Verzweigung weitergehen und Sie sollten die entsprechende E-Mail erhalten (wenn Sie beispielsweise Jenna auswählen, sollten Sie die E-Mail &quot;Luma Women&#39;s Collection&quot;erhalten).
