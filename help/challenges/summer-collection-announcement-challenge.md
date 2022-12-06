@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: fa78749a6b768bd637ef5b5a7cda907a7b2030f4
+source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
 workflow-type: tm+mt
 source-wordcount: '1138'
 ht-degree: 3%
@@ -45,7 +45,7 @@ Das Marketing-Team von Luma bittet Sie, eine Sommerkollektions-Marketing-Kampagn
 
 * Erstellen Sie ein Segment in Journey Optimizer mit dem Namen `Active Customers`.
 * Das Segment darf nur aktive Luma-Kunden umfassen.
-* Aktive Kunden werden definiert als Kunden, die eine Ebene im Treueprogramm von Luma haben (Silber, Gold, Platin oder Diamant).
+* Aktive Kunden werden definiert als Kunden, die eine Ebene im Treueprogramm von Luma haben (Bronze, Silber, Gold oder Platin).
 
 
 >[!TAB Erfolgskriterien]
