@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: cfd438e198fdf62859569eed0c6ac22087ddbc75
+source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1175'
 ht-degree: 2%
 
 ---
@@ -196,7 +196,7 @@ Vorschau der E-Mail mit dem Testprofil *Louise Petti.*
 Testen Sie die Journey und lassen Sie die E-Mails an Ihr eigenes Konto senden:
 
 1. Setzen Sie die Journey in den Testmodus.
-1. Wählen Sie jeweils ein Profil aus.
+1. Auswählen **[!UICONTROL Jeweils ein einzelnes Profil]**.
 1. Wartezeit: Setzen Sie den Timer auf 120 Sekunden (geben Sie ihn in das Feld ein).
 1. Trigger-Profileingang
 1. Sie können jede Verzweigung mit einer der folgenden Methoden testen *Luma CRM-IDs* als Profilkennungen:
