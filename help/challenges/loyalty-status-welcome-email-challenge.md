@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: a9b6559d308823f5af7c2b26c3b2ae59d60d5a60
+source-git-commit: 1b6f6cadc2d85a8baa5c95aca026f868a27e78fa
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '432'
 ht-degree: 5%
 
 ---
@@ -43,12 +43,8 @@ Wenn sich ein Treuekunden für die Platin-Stufe qualifiziert, sollte er eine E-M
 1. Erstellen Sie eine [!UICONTROL Segment] in Journey Optimizer `Luma – status upgrade`.
 2. Erstellen Sie eine Journey mit dem Namen `Luma – New Status – platinum`.
    1. Ein Kunde tritt in die Journey ein, wenn er sich für die Platinloyalitätsstufe qualifiziert.
-   2. Der Kunde sollte eine E-Mail mit der Bezeichnung erhalten `Luma – Platinum Status - Welcome`durch die Betreffzeile `Welcome to Platinum Status, (recipient's first name)!` mit dem E-Mail-Textkörper, der vom Kreativteam bereitgestellt wird.
+   2. Der Kunde sollte eine E-Mail mit der Bezeichnung erhalten `Luma – Platinum Status - Welcome`durch die Betreffzeile `Welcome to Platinum Status, (recipient's first name)!` mit dem E-Mail-Textkörper, der vom Kreativteam bereitgestellt wird. Dies ist ein [!UICONTROL transactional] E-Mail.
    3. Beim Hochladen der HTML-Datei wird in der E-Mail der Status &quot;diamond&quot; und nicht &quot;platinum&quot; angegeben. Aktualisieren Sie die E-Mail in Email Designer, anstatt eine neue Datei vom Kreativteam anzufordern.
-
->[TIPP!]
-> Stellen Sie sicher, dass Luma - Platinum Status - Welcome eMail:[!UICONTROL transactional].
-
 
 >[!TAB Erfolgskriterien]
 
@@ -69,7 +65,7 @@ Testen Sie Ihre Journey:
 4. Trigger eines Ereignisses
 5. Fügen Sie Folgendes hinzu: [!DNL CRM ID] für [!DNL Stanleigh Stooke] in [!UICONTROL Profilkennung] -Feld: `4f34057d9d9e792c28ba18ecae378e98`
 
-Sie sollten personalisierte *Luma - Platin-Status - Willkommen* E-Mail.
+**Ergebnis:** Sie sollten personalisierte *Luma - Platin-Status - Willkommen* E-Mail.
 
 >[!TAB Überprüfen Sie Ihre Arbeit]
 
