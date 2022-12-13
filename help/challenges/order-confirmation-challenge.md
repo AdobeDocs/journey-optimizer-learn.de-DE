@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: eb31a78738ec32e4f468f620a96525714997ad04
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '706'
 ht-degree: 5%
 
 ---
@@ -39,16 +39,15 @@ Erstellen Sie eine Journey, die eine Bestätigungs-E-Mail sendet, wenn ein Luma-
 
 >[!TAB Aufgabe]
 
-1. Erstellen Sie eine Journey mit dem Namen &quot;Ihr Name _Auftragsbestätigung&quot;.
-2. Verwenden Sie das Ereignis: [!DNL LumaOnlinePurchase] als Trigger
-
-3. Erstellen Sie die Bestellbestätigungs-E-Mail:
+1. Erstellen Sie eine Journey mit dem Namen `Luma - Order Confirmation`
+1. Verwenden Sie das Ereignis: [!DNL LumaOnlinePurchase] als Trigger
+1. Erstellen Sie die Bestätigungs-E-Mail mit dem Namen `Luma - Order Confirmation`
 
 * Kategorietransaktion - Stellen Sie sicher, dass Sie die Transaktions-E-Mail-Oberfläche auswählen.
 * Die Betreffzeile muss mit dem Vornamen des Empfängers personalisiert werden und die Phrase &quot;Vielen Dank für Ihren Kauf&quot; enthalten.
+* Verwenden Sie die **Luma - Bestellübersicht** und ändern Sie sie:
 
-Nach der Markenrichtlinie von Luma sollte die E-Mail wie folgt strukturiert sein - Sie können die **Luma - Bestellübersicht** und ändern Sie sie:
-
+Gemäß der Markenrichtlinie von Luma sollte die E-Mail wie folgt strukturiert sein:
 <table>
 <tr>
 <td>
@@ -79,22 +78,30 @@ Nach der Markenrichtlinie von Luma sollte die E-Mail wie folgt strukturiert sein
     <strong>Text</strong><p>
     <em>He {first name}</em><p>
     <li>Ausrichtung: left  </li>
-   <li>Textfarbe: rgb(101, 106, 119); Schriftgröße:14 px</li>
-    <li>Abstand: links (95), rechts (95)</li><div>
+   <li>Textfarbe: rgb(69, 97, 162) #4461a2; 
+   <li>Schriftgröße: 20 px</li>
+   <div>
     <p>
      <em>Ihre Bestellung wurde aufgegeben.
     <p>Sobald Ihr Package versandt wurde, senden wir Ihnen eine E-Mail mit einer Trackingnummer, damit Sie Ihre Bestellung verfolgen können.</p></em>
-    </strong><p>
-    <li>Ausrichtung: left  </li>
-    <li>Textfarbe: rgb(101, 106, 119); Schriftgröße:14 px </li>
-    <li>Abstand: links (95), rechts (95)</li><div>
-    </a><p>
-    <em>Versand an:<p>
-    <p>Vorname Nachname</p>
-    Straße<p>
-    Ort, Bundesland, Postleitzahl</p></em>
-    <strong>Schaltfläche:</strong></p>
-   <p><em>Bestellung anzeigen</em></p>
+    </strong>
+    </tr>
+  </td>
+ <td>
+  <div>
+     <strong> Zu Abschnitt schicken</strong>
+      </div>
+      <p><li>Ersetzen Sie die hartcodierte Adresse in der Vorlage durch die Adresse-Payload aus dem Profil.
+      <li> Rabatt, Gesamtsumme, Ankunft entfernen</p>
+  </td>
+  <td>
+  <p> Versand an:</p>
+      <em>Vorname Nachname<br>
+      Straße<br>
+      Ort, Bundesland, Postleitzahl</em></p>
+
+    &lt;strong>Schaltfläche:&lt;/strong>&lt;/p>
+<p><em>Bestellung anzeigen</em></p>
       <li>Hintergrundfarbe: rgb(25, 121, 195)</li>
       <li>Textfarbe: weiß</li>
       <li>Kein Rahmen</li>
@@ -107,11 +114,13 @@ Nach der Markenrichtlinie von Luma sollte die E-Mail wie folgt strukturiert sein
   <div>
      <strong>Bestelldetailabschnitt</strong>
       </div>
-      <p>Tipps:
-      <li>Dies sind kontextbezogene Ereignisinformationen.</li>
-      <li>Verwenden Sie die Hilfsfunktion: Jeder</li>
-      <li>Wechseln Sie zum Format des Code-Editors , um die Kontextdaten hinzuzufügen. <li>
-      <li>Fügen Sie die Informationen mithilfe von DIV-Tags in Container ein.</li>
+       <p><li>Fügen Sie diesen Abschnitt zwischen den <b>Versand an</b> und <b>Bestellung anzeigen</b> button
+      </p><br>
+      <p><b>Tipps:</b>
+      <li>Dies sind kontextbezogene Ereignisinformationen.
+      <li>Verwenden Sie die !UICONTROL Helper-Funktion]: [!UICONTROL each]
+      <li>Wechseln Sie zum Format des Code-Editors , um die Kontextdaten hinzuzufügen.
+      <li>Fügen Sie die Informationen mithilfe von DIV-Tags in Container ein.
   </td>
   <td>
     <strong>Kopfzeile</strong>
@@ -156,8 +165,7 @@ Nach der Markenrichtlinie von Luma sollte die E-Mail wie folgt strukturiert sein
 >
 >Damit Sie eine Fehlerbehebung bei Ihren Journey vornehmen können, empfiehlt es sich, im Fall von Zeitüberschreitung oder Fehlern einen alternativen Pfad zu allen Nachrichten-Aktionen hinzuzufügen.
 
-
->[!TAB Überprüfen Sie Ihre Arbeit]
+>[!TAB Erfolgskriterien]
 
 Trigger der Journey, die Sie im Testmodus erstellt haben, und senden Sie die E-Mail an sich:
 
@@ -186,7 +194,8 @@ Sie sollten die personalisierte Kaufbestätigungs-E-Mail mit dem angegebenen Pro
    43913 Thierer Terrace, Washington DC 2009
 
 
->[!TAB Erfolgskriterien]
+
+>[!TAB Überprüfen Sie Ihre Arbeit]
 
 ** Journey
 

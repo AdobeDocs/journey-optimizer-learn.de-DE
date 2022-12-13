@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 9%
+source-wordcount: '224'
+ht-degree: 8%
 
 ---
 
@@ -37,7 +37,7 @@ Video ansehen [Erstellen von Ereignissen](/help/set-up-journeys/create-events.md
    | [!UICONTROL TYP] | [!UICONTROL Einzelfall] |
    | [!UICONTROL Ereignis-ID-Typ] | [!UICONTROL Regelbasiert] |
    | [!UICONTROL Schema] | Luma-Produktinteraktionen |
-   | [!UICONTROL Felder] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>In Produktlistenelementen > Luma-Produkte > _*[!DNL yourOrganizationID]* > Produkt:</b> <br> Name<br>Preis<br>ProductImageURL<br>ProductURL |
+   | [!UICONTROL Felder] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>In Produktlistenelementen > Luma-Produktkatalog-Schema > _*[!DNL yourOrganizationID]* > Produkt:</b> <br> Name<br>Preis<br>ProductImageURL<br>ProductURL |
 
 1. Fügen Sie die [!UICONTROL Ereignis-ID-Bedingung]: **[!DNL LumaOnlinePurchase.eventType is commerce.purchases]**
 
@@ -49,9 +49,9 @@ Video ansehen [Erstellen von Ereignissen](/help/set-up-journeys/create-events.md
 
 ![Ereignisbedingung hinzufügen](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
 
-1. Auswählen [!UICONTROL NAMESPACE]: `Email(Email)`
+1. Auswählen [!UICONTROL NAMESPACE]: `Luma CRM ID (lumaCrmId)`
 
-1. Wählen Sie **[!UICONTROL Speichern]** aus.
+2. Wählen Sie **[!UICONTROL Speichern]** aus.
 
 ## Erstellen *[!DNL Luma Wishlist Add]* Ereignis
 
