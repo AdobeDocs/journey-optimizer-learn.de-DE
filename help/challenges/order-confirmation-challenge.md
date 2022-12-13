@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '701'
 ht-degree: 5%
 
 ---
@@ -41,13 +41,13 @@ Erstellen Sie eine Journey, die eine Bestätigungs-E-Mail sendet, wenn ein Luma-
 
 1. Erstellen Sie eine Journey mit dem Namen `Luma - Order Confirmation`
 1. Verwenden Sie das Ereignis: [!DNL LumaOnlinePurchase] als Trigger
-1. Erstellen Sie die Bestätigungs-E-Mail mit dem Namen `Luma - Order Confirmation`
+1. Erstellen Sie die Bestätigungs-E-Mail mit dem Namen `Luma - Order Confirmation`:
 
 * Kategorietransaktion - Stellen Sie sicher, dass Sie die Transaktions-E-Mail-Oberfläche auswählen.
 * Die Betreffzeile muss mit dem Vornamen des Empfängers personalisiert werden und die Phrase &quot;Vielen Dank für Ihren Kauf&quot; enthalten.
 * Verwenden Sie die **Luma - Bestellübersicht** und ändern Sie sie:
 
-Gemäß der Markenrichtlinie von Luma sollte die E-Mail wie folgt strukturiert sein:
+Die E-Mail sollte wie folgt strukturiert sein:
 <table>
 <tr>
 <td>
@@ -118,7 +118,7 @@ Gemäß der Markenrichtlinie von Luma sollte die E-Mail wie folgt strukturiert s
       </p><br>
       <p><b>Tipps:</b>
       <li>Dies sind kontextbezogene Ereignisinformationen.
-      <li>Verwenden Sie die !UICONTROL Helper-Funktion]: [!UICONTROL each]
+      <li>Verwenden Sie die [!UICONTROL Helper-Funktion]: [!UICONTROL each]
       <li>Wechseln Sie zum Format des Code-Editors , um die Kontextdaten hinzuzufügen.
       <li>Fügen Sie die Informationen mithilfe von DIV-Tags in Container ein.
   </td>
