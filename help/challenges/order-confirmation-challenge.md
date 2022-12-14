@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '671'
 ht-degree: 5%
 
 ---
@@ -33,19 +33,19 @@ Luma startet seinen Online-Store und möchte ein gutes Kundenerlebnis sicherstel
 
 ## Ihre Herausforderung
 
-Erstellen Sie eine Journey, die eine Bestätigungs-E-Mail sendet, wenn ein Luma-Kunde eine Online-Bestellung abschließt.
+Erstellen Sie eine Journey, die eine Bestätigungs-E-Mail sendet, wenn ein Luma-Kunde eine Online-Bestellung abschließt. Die Luma
 
 >[!BEGINTABS]
 
 >[!TAB Aufgabe]
 
 1. Erstellen Sie eine Journey mit dem Namen `Luma - Order Confirmation`
-1. Verwenden Sie das Ereignis: [!DNL LumaOnlinePurchase] als Trigger
-1. Erstellen Sie die Bestätigungs-E-Mail mit dem Namen `Luma - Order Confirmation`:
+2. Verwenden Sie das Ereignis: `LumaOnlinePurchase` als Trigger
+3. Erstellen Sie die Bestätigungs-E-Mail mit dem Namen `Luma - Order Confirmation`:
 
 * Kategorietransaktion - Stellen Sie sicher, dass Sie die Transaktions-E-Mail-Oberfläche auswählen.
 * Die Betreffzeile muss mit dem Vornamen des Empfängers personalisiert werden und die Phrase &quot;Vielen Dank für Ihren Kauf&quot; enthalten.
-* Verwenden Sie die **Luma - Bestellübersicht** und ändern Sie sie:
+* Verwenden Sie die `Luma - Order summary` und ändern Sie sie:
 
 Die E-Mail sollte wie folgt strukturiert sein:
 <table>
@@ -59,7 +59,6 @@ Die E-Mail sollte wie folgt strukturiert sein:
     <strong>Luma-Logo</strong>
       <p>
      <li>luma_logo.png</li>
-    <li>Größe 35%, zentrierter weißer Hintergrund </li>
     <li>Es sollte einen Link zur Luma-Website enthalten: https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
     </td>
@@ -71,9 +70,6 @@ Die E-Mail sollte wie folgt strukturiert sein:
     </strong>
   </td>
   <td>
-    <strong>Bild</strong><p>
-    <li>luma-transactional-order-confirmation-2.jpg </li>
-    <li>Rand: Oben, unten (10)<div>
     <p>
     <strong>Text</strong><p>
     <em>He {first name}</em><p>
@@ -91,23 +87,15 @@ Die E-Mail sollte wie folgt strukturiert sein:
   <div>
      <strong> Zu Abschnitt schicken</strong>
       </div>
-      <p><li>Ersetzen Sie die hartcodierte Adresse in der Vorlage durch die Adresse-Payload aus dem Profil.
+      <p><li>Ersetzen Sie die hartcodierte Adresse in der Vorlage durch die Lieferadresse. 
+      <li>Die Details sind kontextbezogene Attribute der Veranstaltung (Straße, Stadt, Postleitzahl, Bundesland)
+      <li>Vorname und Nachname stammen aus dem Profil
       <li> Rabatt, Gesamtsumme, Ankunft entfernen</p>
   </td>
   <td>
   <p> Versand an:</p>
       <em>Vorname Nachname<br>
-      Straße<br>
-      Ort, Bundesland, Postleitzahl</em></p>
-
-    &lt;strong>Schaltfläche:&lt;/strong>&lt;/p>
-<p><em>Bestellung anzeigen</em></p>
-      <li>Hintergrundfarbe: rgb(25, 121, 195)</li>
-      <li>Textfarbe: weiß</li>
-      <li>Kein Rahmen</li>
-      <li>Höhe: 40</li>
-      <li>Einen Link zu einer Website Ihrer Wahl hinzufügen </li>
-      <li>Linksbündig am Text oben ausrichten (Spitze: den Containerrand verwenden)</li>
+      Adresse<br></em></p>
   </td>
  <tr>
 <td>
