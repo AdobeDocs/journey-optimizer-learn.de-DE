@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1058'
 ht-degree: 8%
 
 ---
@@ -286,9 +286,9 @@ Sie verfügen jetzt über die [!UICONTROL namespace] und [!DNL Luma Loyalty sche
 
    * Typ: [!UICONTROL Objekt]
 
-   * Feldergruppe: [!DNLLUMA-Feldergruppe &quot;Produktinventarereignisdetails&quot;]
+   * Feldergruppe: `Luma Product Inventory Event Details Field Group`
 
-1. Fügen Sie die folgenden Felder zum **[!DNL Product Inventory Event Details]** -Objekt:
+1. Fügen Sie die folgenden Felder zum `Product Inventory Event Details` -Objekt:
 
    | [!UICONTROL fieldName] | [!UICONTROL Anzeigename] | [!UICONTROL Typ] |
    |-------------|-----------|----------|
@@ -311,9 +311,9 @@ Sie verfügen jetzt über die [!UICONTROL namespace] und [!DNL Luma Loyalty sche
 
       ![enum](assets/enum.png)
 
-2. Satz `productId` Feld als **[!UICONTROL primäre Identität]** using **[!DNL Luma Product namespace]**.
+1. Satz `productId` Feld als **[!UICONTROL primäre Identität]** using **[!DNL Luma Product namespace]**.
 
-3. Wählen Sie die `sku` und definieren Sie eine Beziehung zum `product.sku` im Feld **[!DNL Luma Product catalog Schema]** Schema:
+1. Wählen Sie die `sku` und definieren Sie eine Beziehung zum `product.sku` im Feld **[!DNL Luma Product catalog Schema]** Schema:
 
    1. Scrollen Sie nach unten zum unteren Rand des **[!UICONTROL Feldeigenschaften]**.
 
@@ -329,9 +329,9 @@ Sie verfügen jetzt über die [!UICONTROL namespace] und [!DNL Luma Loyalty sche
       ![SKU-Beziehung](assets/sku_relationship.png)
 
 
-4. Aktivieren für **Profil**.
+1. Aktivieren für **Profil**.
 
-5. Auswählen [!UICONTROL Speichern] , um das Schema zu speichern.
+1. Auswählen [!UICONTROL Speichern] , um das Schema zu speichern.
 
 ### Erstellen Sie die [!DNL Luma CRM] und [!DNL Luma Product Interactions] Schemas {#create-luma-crm-and-luma-product-interactions-schemas}
 

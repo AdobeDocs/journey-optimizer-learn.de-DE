@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
+source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 9%
@@ -39,7 +39,7 @@ Video ansehen [Erstellen von Ereignissen](/help/set-up-journeys/create-events.md
    | [!UICONTROL Schema] | `Luma Web Events Schema` |
    | [!UICONTROL Felder] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-2. Fügen Sie die [!UICONTROL Ereignis-ID-Bedingung]: `LumaOnlinePurchase.eventType is commerce.purchases`
+1. Fügen Sie die [!UICONTROL Ereignis-ID-Bedingung]: `LumaOnlinePurchase.eventType is commerce.purchases`
 
    1. Wählen Sie das Stiftsymbol aus, um das Feld zu bearbeiten
    2. Im [!UICONTROL Ereignis-ID-Bedingung hinzufügen] modal, ziehen Sie die `eventType` auf die Arbeitsfläche
