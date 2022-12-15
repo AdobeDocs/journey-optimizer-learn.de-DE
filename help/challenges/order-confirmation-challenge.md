@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
+source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '692'
 ht-degree: 5%
 
 ---
@@ -113,7 +113,7 @@ Die E-Mail sollte wie folgt strukturiert sein:
   <td>
     <strong>Kopfzeile</strong>
     <p>
-    <em>Bestellung {Bestellnummer}</em>
+    <em>Reihenfolge: `purchaseOrderNumber`</em>
     </p>
     <strong>Liste der bestellten Produkte:
   </strong>
@@ -164,7 +164,7 @@ Trigger der Journey, die Sie im Testmodus erstellt haben, und senden Sie die E-M
    3. Fügen Sie im nächsten Bildschirm Ihre E-Mail-Adresse in Klammern ein: *yourname@yourdomain* im Ausdruckseditor und klicken Sie auf &quot;OK&quot;.
 2. Journey in den Testmodus versetzen
 3. Trigger des Ereignisses mit den folgenden Parametern:
-   * Legen Sie die Profilkennung auf Folgendes fest: Jenna_Palmer9530@emailsim.io
+   * Legen Sie die Profilkennung auf Folgendes fest: Identitätswert:`a8f14eab3b483c2b96171b575ecd90b1`
    * Ereignistyp: commerce.purchases
    * Name: Sprite Yoga Companion Kit
    * Menge: 1
@@ -172,12 +172,13 @@ Trigger der Journey, die Sie im Testmodus erstellt haben, und senden Sie die E-M
    * Bestellnummer: 6253728
    * SKU: 24-WG080
    * productImageURL: <https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/luma-yoga-kit-2.jpg>
+   * 
 
 Sie sollten die personalisierte Kaufbestätigungs-E-Mail mit dem angegebenen Produkt erhalten.
 
-* Die Betreffzeile sollte mit dem Vornamen Ihres Testprofils beginnen: Jenna
+* Die Betreffzeile sollte den Vornamen des Testprofils enthalten: Leora
 * Der Abschnitt mit Bestelldetails sollte mit den Bestelldetails gefüllt werden, die Sie beim Testen eingegeben haben
-* Die Kundeninformationen sollten die Stadt und Postleitzahl Ihres Testprofils enthalten:
+* Die *Versand an* -Abschnitt sollte die Stadt und Postleitzahl Ihres Testprofils enthalten:
 
    43913 Thierer Terrace, Washington DC 2009
 
@@ -185,17 +186,30 @@ Sie sollten die personalisierte Kaufbestätigungs-E-Mail mit dem angegebenen Pro
 
 >[!TAB Überprüfen Sie Ihre Arbeit]
 
-** Journey
+**Journey**
 
 ![Journey](/help/challenges/assets/c2-journey.png)
 
 
-** E-Mail
+**E-Mail**
 
 **Betreff:**
 
 {{ profile.person.name.firstName }}, danke für Ihren Kauf!
 
+**Zu Abschnitt schicken:**
+
+So sollte Ihr Code aussehen:
+
+```javascript
+{{ profile.person.name.firstName }} {{ profile.person.name.lastName }}
+{{context.journey.events.454181416.commerce.shipping.address.street1}}
+{{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
+```
+
+*event.45481416* wird eine andere Nummer für Sie sein.
+
+TIPP: Jede Zeile separat personalisieren
 
 **Detailabschnitt Oder:**
 
