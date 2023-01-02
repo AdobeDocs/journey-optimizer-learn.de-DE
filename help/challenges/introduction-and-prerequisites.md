@@ -1,5 +1,5 @@
 ---
-title: Journey Optimizer-Herausforderungen - Einführung und Voraussetzungen
+title: Journey Optimizer-Challenges – Einführung und Voraussetzungen
 description: Machen Sie sich mit den Grundlagen zum Erstellen einer Journey in der Journey-Arbeitsfläche vertraut.
 feature: Journeys
 role: Admin
@@ -7,27 +7,27 @@ level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '454'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
-# Journey Optimizer-Herausforderungen - Einführung und Voraussetzungen
+# Journey Optimizer-Challenges – Einführung und Voraussetzungen
 
-![AJO Challenges-Banner](./assets/ajo-banner-challenges.png)
+![Banner AJO-Challenges](./assets/ajo-banner-challenges.png)
 
-Herausforderungen bieten ein Szenario und die Anforderungen, die zum Üben des Gelernten erforderlich sind. Herausforderungen helfen Ihnen dabei, Ihr Qualifikationsniveau zu bewerten und Wissenslücken zu identifizieren.
+Challenges bieten ein Szenario und die Voraussetzungen, die zum Üben des Gelernten erforderlich sind. Challenges helfen Ihnen dabei, Ihr Qualifikationsniveau einzuschätzen und Wissenslücken zu erkennen.
 
-Jede Herausforderung in diesem Abschnitt behandelt einen einzigartigen Anwendungsfall, den Sie implementieren. Die Zielgruppe (Persona) und die erforderlichen Fähigkeiten werden zu Beginn jeder Herausforderung aufgelistet.
+Jede Challenge in diesem Abschnitt behandelt einen einzigen Anwendungsfall, den Sie implementieren. Die Ziel-Audience (Persona) und die erforderlichen Fähigkeiten werden zu Beginn jeder Challenge aufgelistet.
 
 ## Voraussetzungen
 
 ### Systemanforderungen
 
-* Zugriff auf eine Journey Optimizer-Sandbox - wir haben empfohlen, die Herausforderung in einer speziellen Trainings-Sandbox zu erledigen.
+* Zugriff auf eine Journey Optimizer-Sandbox – Wir haben empfohlen, die Challenge in einer speziellen Trainings-Sandbox zu absolvieren.
 * AEM Assets Essentials muss für Ihre Instanz bereitgestellt werden
-* Der E-Mail-Kanal muss für Transaktions- und Marketingnachrichten konfiguriert werden
+* Der E-Mail-Kanal muss für Transaktions- und Marketing-Nachrichten konfiguriert werden
 
 ### Zugriffsberechtigungen
 
@@ -36,40 +36,40 @@ Sie benötigen die folgenden Zugriffsberechtigungen:
 * Anzeigen von Testprofilen und ihren Attributen
 
 >[!NOTE]
-> Die Übungen wurden anhand der Luma-Beispieldaten entwickelt. Es wird empfohlen, eine mit den Beispieldaten konfigurierte Trainings-Sandbox einzurichten. Besuchen Sie das Tutorial [Trainings-Sandbox konfigurieren](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) für Anweisungen für detaillierte Anweisungen.
+> Die Übungen wurden anhand der Luma-Beispieldaten entwickelt. Es wird empfohlen, eine mit den Beispieldaten konfigurierte Trainings-Sandbox einzurichten. Eine detaillierte Anleitung wird im Tutorial [Konfigurieren einer Trainings-Sandbox](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) gegeben.
 
 ### Erforderliche Aktionen
 
-* Wenn Sie Adobe Journey Optimizer noch nicht kennen, absolvieren Sie den Kurs [Erste Schritte mit Journey Optimizer für Journey-Manager und Administratoren](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1&amp;lang=de).
+* Wenn Sie Adobe Journey Optimizer noch nicht kennen, absolvieren Sie den Kurs [Erste Schritte mit Journey Optimizer für Journey-Manager und -Admins](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1).
 
 
-## Die Geschichte
+## Die Story
 
-Luma ist ein fiktionales Sportbekleidungsunternehmen mit Geschäften in mehreren Ländern, einer Online-Präsenz mit einer Website und mobilen Apps. Luma verwendet Adobe Journey Optimizer, um seinen Kunden vernetzte, kontextbezogene und personalisierte Erlebnisse bereitzustellen.
+Luma ist ein fiktionales Sportbekleidungsunternehmen mit Geschäften in mehreren Ländern, einer Online-Präsenz mit einer Website und mobilen Apps. Luma verwendet Adobe Journey Optimizer, um seinen Kundinnen und Kunden vernetzte, kontextbezogene und personalisierte Erlebnisse zu bieten.
 
-Luma ist bestrebt, die neueste Bekleidungs- und Zahnradsammlung zu bewerben und den Umsatz für bestehende Kunden zu steigern. Sie wurden eingestellt, um die Marketing- und Treuekampagnen für Luma in Journey Optimizer zu implementieren.
+Luma möchte für die neueste Bekleidungs- und Ausrüstungskollektion werben und den Absatz bei Bestandskunden steigern. Sie wurden eingestellt, um für Luma die Marketing- und Kundenbindungskampagnen in Journey Optimizer zu implementieren.
 
-## Ihre Herausforderungen
+## Herausforderungen, vor denen Sie stehen
 
 <table>
 <tr>
 <td>
  <div>
       <a href="summer-collection-announcement-challenge.md">
-        <img alt="Bild für Ankündigung zur Sommerkollektion" src="./assets/email-assets/luma-transactional-onboarding-3.png"/>
+        <img alt="Bild für Ankündigung der Sommerkollektion" src="./assets/email-assets/luma-transactional-onboarding-3.png"/>
       </a>
       </div>
   </td>
   <td>
-   <strong><a href="summer-collection-announcement-challenge.md">Ankündigung zur Sommerkollektion erstellen </strong>
-    </a>
+   <strong><a href="summer-collection-announcement-challenge.md">Erstellen einer Ankündigung der Sommerkollektion </strong>
+ </a>
       <p>
-      <em>Erstellen Sie eine Journey, die eine E-Mail-Benachrichtigung zur Sommerkollektion an ein Segment bestehender Kunden sendet. </em>
+      <em>Erstellen Sie eine Journey, die eine E-Mail zur Ankündigung der Sommerkollektion an ein Segment von Bestandskunden sendet. </em>
       <p>
       <b>Erforderliche Fähigkeiten:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Erstellen von Segmenten</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">Segment lesen</li>
-       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">HTML-E-Mail-Inhalt importieren</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=de"> Erstellen von Segmenten</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=de">Segment lesen</li>
+       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=de">Importieren von HTML-Inhalten für E-Mails</li>
   </td>
   </tr>
    <tr>
@@ -82,37 +82,37 @@ Luma ist bestrebt, die neueste Bekleidungs- und Zahnradsammlung zu bewerben und 
     <td>
     <div >
       <a>
-    <strong><a href="loyalty-status-welcome-email-challenge.md">Willkommens-E-Mail zum Treuestatus erstellen </strong>
-    </a>
+ <strong><a href="loyalty-status-welcome-email-challenge.md">Erstellen einer Willkommens-E-Mail zum Treuestatus </strong>
+ </a>
     </div>
     <p>
-    <em>Senden Sie eine E-Mail, wenn ein Treuekunden zu einer neuen Ebene wechselt, um ihm zu gratulieren und ihn über seine neuen Vorteile zu informieren.</em>
+    <em>Senden Sie eine E-Mail, wenn ein Kunde, der am Kundenbindungsprogramm teilnimmt, auf eine neue Stufe aufsteigt, um ihm zu gratulieren und über seine neuen Vorteile zu informieren.</em>
     <p>
     <b>Erforderliche Fähigkeiten:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> Erstellen von Segmenten</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html">Segmentqualifizierung</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">Importieren und Erstellen von HTML-E-Mail-Inhalten</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=de"> Erstellen von Segmenten</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=de">Segmentqualifizierung</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=de">Importieren und Erstellen von HTML-E-Mail-Inhalten</li>
   </td>
   </tr>
   <tr>
   <td>
   <div>
     <a href="order-confirmation-challenge.md">
-      <img alt="Luma Email" src="./assets/email-assets/luma-transactional-order-confirmation.png"/>
+      <img alt="Luma-E-Mail" src="./assets/email-assets/luma-transactional-order-confirmation.png"/>
     </a>
   </td>
   <td>
       <a href="order-confirmation-challenge.md">
-    <strong><a href="order-confirmation-challenge.md">Bestellbestätigung erstellen</strong>
-    </a>
+ <strong><a href="order-confirmation-challenge.md">Erstellen einer Bestellbestätigung</strong>
+ </a>
     <div>
     <p>
-    <em>Testen Sie Ihr Wissen über das Erstellen und Personalisieren von Transaktionsnachrichten.
-    </em>
+    <em>Testen Sie Ihr Wissen über das Erstellen und Personalisieren von Transaktionsnachrichten
+ </em>
     <p>
     <b>Erforderliche Fähigkeiten:</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-content-with-the-email-designer.html"> Erstellen von E-Mail-Inhalten mit dem Nachrichten-Editor</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">Verwenden von kontextbezogenen Ereignisinformationen für die Personalisierung</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">Verwenden von Helper-Funktionen für die Personalisierung</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-content-with-the-email-designer.html?lang=de"> Erstellen von E-Mail-Inhalten mit dem Nachrichten-Editor</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=de">Verwenden von kontextbezogenen Ereignisinformationen für die Personalisierung</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=de">Verwenden von Helper-Funktionen für die Personalisierung</li>
   </td>
 </table>
