@@ -1,11 +1,11 @@
 ---
 user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: Hier sind Journey Optimizer-Tutorials.
+user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '289'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 98%
    + [Abonnements und Landingpages](/help/subscriptions-and-landing-pages.md)
 + Erstellen von Nachrichten {#create-messages}
    + Erstellen von E-Mails {#create-emails}
-      + [Erstellen von Inhalten mit Email Designer](/help/create-messages/create-content-with-the-email-designer.md)
+      + [Erstellen von Inhalten mit dem E-Mail-Designer](/help/create-messages/create-content-with-the-email-designer.md)
       + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/create-messages/import-and-author-html-email-content.md)
       + [Vorschau, Testversand und Veröffentlichung](/help/create-messages/preview-proof-and-publish.md)
    + Erstellen von SMS-Textnachrichten {#create-sms}
@@ -76,7 +76,7 @@ ht-degree: 98%
       + [Erstellen eines Schemas](/help/set-up-data/create-schema.md)
       + [Zuordnen von Identitäten](/help/set-up-data/map-identities.md)
       + [Erstellen von Datensätzen und Aufnehmen von Daten](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [Source Connectors konfigurieren](/help/set-up-data/configure-source-connectors.md)
+      + [Konfigurieren von Quellkonnektoren](/help/set-up-data/configure-source-connectors.md)
    + Konfigurieren der Kanäle {#channel-configuration}
       + [Einrichten des E-Mail-Kanals](/help/set-up-email-channel/set-up-email-channel.md)
       + [Delegieren von CName-Subdomains](/help/set-up-email-channel/delegate-cname-subdomains.md)
