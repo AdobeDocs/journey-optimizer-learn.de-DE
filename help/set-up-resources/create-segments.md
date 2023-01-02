@@ -1,5 +1,5 @@
 ---
-title: Segmente erstellen
+title: Erstellen von Segmenten
 description: Erfahren Sie, wie Sie Segmentregeln erstellen, und machen Sie sich damit vertraut, wie Journey Optimizer Regeln zum Generieren von Audiences verwendet.
 kt: 7553
 thumbnail: 334281.jpg
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ---
 
-# Segmente erstellen
+# Erstellen von Segmenten
 
 Erfahren Sie, wie Sie Segmentregeln erstellen, und machen Sie sich damit vertraut, wie Journey Optimizer Regeln zum Generieren von Audiences verwendet.
 
