@@ -8,7 +8,7 @@ exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 73%
+ht-degree: 92%
 
 ---
 
@@ -22,4 +22,4 @@ Weitere Informationen zum Erstellen von Tags mit einer API finden Sie im [Produk
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses, [Erste Schritte mit der Entscheidungsverwaltung für Marketingexperten](https://experienceleague.adobe.com/?lang=de?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kostenlos auf Experience League!
+> Dieses Video ist Teil des Kurses [Erste Schritte mit Entscheidungs-Management für Marketing-Experten](https://experienceleague.adobe.com/?lang=de?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos auf Experience League verfügbar ist.

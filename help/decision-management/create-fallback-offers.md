@@ -8,7 +8,7 @@ exl-id: 77dad738-4046-410d-8886-e88f9c872320
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Weitere Informationen zum Erstellen von Fallback-Angeboten mit einer API finden 
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses, [Erste Schritte mit der Entscheidungsverwaltung für Marketingexperten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kostenlos auf Experience League!
+> Dieses Video ist Teil des Kurses [Erste Schritte mit Entscheidungs-Management für Marketing-Experten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos auf Experience League verfügbar ist.

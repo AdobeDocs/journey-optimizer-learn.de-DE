@@ -10,7 +10,7 @@ exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
 source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
 workflow-type: tm+mt
 source-wordcount: '349'
-ht-degree: 6%
+ht-degree: 10%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 Dieses Tutorial richtet sich an Administratoren und Dateningenieure, die mit der Bereitstellung einer Adobe Journey Optimizer-Schulungsumgebung beauftragt sind. Erfahren Sie, wie Sie die Schemas konfigurieren, Beispieldaten erfassen und Ereignisse erstellen können. Außerdem werden drei Testprofile erstellt, mit denen die Lernenden ihre Arbeit überprüfen können.
 
-Die bereitgestellten Beispieldaten basieren auf einer fiktiven Sportbekleidung namens _[!DNL Luma]_. [!DNL Luma] verfügt über Geschäfte in mehreren Ländern, eine Online-Präsenz mit einer Website und mobile Apps. [!DNL Luma] verwendet Adobe Journey Optimizer, um ihren Kunden verknüpfte, kontextbezogene und personalisierte Erlebnisse bereitzustellen.
+Die bereitgestellten Beispieldaten basieren auf einer fiktiven Sportbekleidung namens _[!DNL Luma]_. [!DNL Luma] verfügt über Geschäfte in mehreren Ländern, eine Online-Präsenz mit einer Website und mobile Apps. [!DNL Luma] verwendet Adobe Journey Optimizer, um seinen Kundinnen und Kunden vernetzte, kontextbezogene und personalisierte Erlebnisse zu bieten.
 
 Am Ende dieses Tutorials verfügen Sie über eine Sandbox, die die [!DNL Luma] Anwendungsfälle, die in den praktischen Übungen im [Journey Optimizer-Herausforderungen](/help/challenges/introduction-and-prerequisites.md) Abschnitt.
 
@@ -43,7 +43,7 @@ Bevor Sie mit der Einrichtung Ihrer Trainings-Sandbox beginnen können, stellen 
 
       Diese Dateien enthalten die Beispieldaten, die Sie in Ihre Sandbox aufnehmen.
 
-   1. Öffnen Sie jede Datei und suchen Sie **`yourOrganizationID`** und ersetzen Sie sie durch Ihre [Organisations-ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=en).
+   1. Öffnen Sie jede Datei und suchen Sie **`yourOrganizationID`** und ersetzen Sie sie durch Ihre [Organisations-ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=de).
 
    1. Speichern Sie die Dateien.
 

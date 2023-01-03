@@ -9,7 +9,7 @@ exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 80%
+ht-degree: 92%
 
 ---
 
@@ -22,7 +22,7 @@ Erfahren Sie, wie Sie Angebote [mit der Decisions Hub-API](https://experiencelea
 
 >[!INFO]
 >
-> Dieses Video ist Teil eines Kurses, [Erste Schritte mit der Entscheidungsverwaltung für Marketingexperten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), kostenlos auf Experience League!
+> Dieses Video ist Teil des Kurses [Erste Schritte mit Entscheidungs-Management für Marketing-Experten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos auf Experience League verfügbar ist.
 
 ## Weitere Ressourcen
 
