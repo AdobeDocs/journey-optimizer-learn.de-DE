@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
-source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
+source-git-commit: cba8982f4be9c60ab1d9efe9a6009033369f10a3
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 100%
+source-wordcount: '291'
+ht-degree: 95%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 100%
    + [Architektur](/help/introduction/architecture.md)
    + [Mobile-Funktionen für Marketing-Fachleute](/help/create-messages/mobile-capabilities.md)
    + [Mobile-Funktionen für Entwickler](/help/create-messages/mobile-capabilities-for-developers.md)
-+ Erstellen von Kampagnen {#create-campaigns}
++ Kampagnen {#create-campaigns}
    + [Erstellen einer Kampagne](/help/create-champaigns/create-a-campaign.md)
-+ Erstellen von Journeys {#create-journeys}
++ Journeys {#create-journeys}
    + [Übersicht über die Journey-Arbeitsfläche](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [Einführung in das Erstellen einer Journey](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Anwendungsfall: Transaktions-Journey](/help/create-journeys/use-case-transactional-journey.md)
@@ -33,6 +33,10 @@ ht-degree: 100%
    + [Erstellen eines Testprofils](/help/create-journeys/test-a-journey.md)
    + [Veröffentlichen einer Journey](/help/create-journeys/publish-a-journey.md)
    + [Kopieren einer Journey in eine andere Sandbox](/help/create-journeys/copy-a-journey.md)
++ SMS-Kanal{#sms-channel}
+   + [SMS-API-Anmeldeinformationen und Kanaloberflächen konfigurieren](/help/set-up-channels/set-up-sms-channel.md)
+   + [SMS erstellen und senden](/help/channels/author-and-deliver-sms-messages.md)
+   + [Unterstützung eingehender Keywords für SMS](/help/channels/inbound-keyword-support-for-sms.md)
 + Kundenprofile, Segmente und Abonnements {#profiles-segments-subscriptions}
    + [Einheitliches Profil und Segmentierung – Überblick](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Erstellen von Segmenten](/help/set-up-resources/create-segments.md)
@@ -42,9 +46,6 @@ ht-degree: 100%
       + [Erstellen von Inhalten mit dem E-Mail-Designer](/help/create-messages/create-content-with-the-email-designer.md)
       + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/create-messages/import-and-author-html-email-content.md)
       + [Vorschau, Testversand und Veröffentlichung](/help/create-messages/preview-proof-and-publish.md)
-   + Erstellen von SMS-Textnachrichten {#create-sms}
-      + [Konfigurieren, Verfassen und Versenden von SMS-Nachrichten](/help/create-messages/configure-author-and-deliver-sms-messages.md)
-      + [Unterstützung eingehender Keywords für SMS](/help/create-messages/inbound-keyword-support-for-sms.md)
    + Erstellen von In-App-Nachrichten {#create-in-app}
       + [In-App-Nachrichten für Kampagnen](/help/create-messages/in-app-messaging-for-campaigns.md)
       + [Verfassen einer In-App-Nachricht ](/help/create-messages/author-in-app-messages.md)
@@ -52,7 +53,7 @@ ht-degree: 100%
 + Personalisieren von Inhalten {#personalize-content}
    + [Personalisierung basierend auf Profil und Segmentzugehörigkeit](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [Hinzufügen von Angeboten als Personalisierung](/help/personalize-content/add-offer-decisioning-to-messages.md)
-   + [Verwenden von kontextbezogenen Ereignisinformationen für die Personalisierung](/help/personalize-content/use-contextual-event-information-for-personalization.md)
+   + [Verwenden von kontextuellen Ereignisinformationen für die Personalisierung](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Verwenden von Helper-Funktionen für die Personalisierung](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Erstellen dynamischer Inhalte mit dem Builder für Bedingungsregeln](/help/personalize-content/create-dynamic-content.md)
@@ -78,8 +79,8 @@ ht-degree: 100%
       + [Erstellen von Datensätzen und Aufnehmen von Daten](/help/set-up-data/create-datasets-and-ingest-data.md)
       + [Konfigurieren von Quellkonnektoren](/help/set-up-data/configure-source-connectors.md)
    + Konfigurieren der Kanäle {#channel-configuration}
-      + [Einrichten des E-Mail-Kanals](/help/set-up-email-channel/set-up-email-channel.md)
-      + [Delegieren von CName-Subdomains](/help/set-up-email-channel/delegate-cname-subdomains.md)
+      + [Einrichten des E-Mail-Kanals](/help/set-up-channels/set-up-email-channel.md)
+      + [Delegieren von CName-Subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Konfigurieren der Häufigkeitsregeln von Nachrichten](/help/administration/configure-frequency-rules.md)
    + Konfigurieren von Journeys {#journey-configuration}
       + [Konfigurieren von Datenquellen](/help/set-up-journeys/configure-data-sources.md)
