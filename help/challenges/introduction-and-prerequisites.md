@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
+source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
 workflow-type: tm+mt
 source-wordcount: '454'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -27,7 +27,7 @@ Jede Challenge in diesem Abschnitt behandelt einen einzigen Anwendungsfall, den 
 
 * Zugriff auf eine Journey Optimizer-Sandbox – Wir haben empfohlen, die Challenge in einer speziellen Trainings-Sandbox zu absolvieren.
 * AEM Assets Essentials muss für Ihre Instanz bereitgestellt werden
-* Der E-Mail-Kanal muss für Transaktions- und Marketing-Nachrichten konfiguriert werden
+* Die E-Mail-Kanäle müssen für Transaktions- und Marketingnachrichten konfiguriert werden
 
 ### Zugriffsberechtigungen
 
@@ -45,7 +45,7 @@ Sie benötigen die folgenden Zugriffsberechtigungen:
 
 ## Die Story
 
-Luma ist ein fiktionales Sportbekleidungsunternehmen mit Geschäften in mehreren Ländern, einer Online-Präsenz mit einer Website und mobilen Apps. Luma verwendet Adobe Journey Optimizer, um seinen Kundinnen und Kunden vernetzte, kontextbezogene und personalisierte Erlebnisse zu bieten.
+Luma ist ein fiktionales Sportbekleidungsunternehmen mit Geschäften in mehreren Ländern, einer Online-Präsenz mit einer Website und mobilen Apps. Luma verwendet Adobe Journey Optimizer, um seinen Kundinnen und Kunden vernetzte, kontextuelle und personalisierte Erlebnisse zu bieten.
 
 Luma möchte für die neueste Bekleidungs- und Ausrüstungskollektion werben und den Absatz bei Bestandskunden steigern. Sie wurden eingestellt, um für Luma die Marketing- und Kundenbindungskampagnen in Journey Optimizer zu implementieren.
 
@@ -112,7 +112,7 @@ Luma möchte für die neueste Bekleidungs- und Ausrüstungskollektion werben und
     <p>
     <b>Erforderliche Fähigkeiten:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-content-with-the-email-designer.html?lang=de"> Erstellen von E-Mail-Inhalten mit dem Nachrichten-Editor</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=de">Verwenden von kontextbezogenen Ereignisinformationen für die Personalisierung</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=de">Verwenden von kontextuellen Ereignisinformationen für die Personalisierung</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=de">Verwenden von Helper-Funktionen für die Personalisierung</li>
   </td>
 </table>
