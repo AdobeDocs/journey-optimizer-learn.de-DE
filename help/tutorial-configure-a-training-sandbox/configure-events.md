@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
+source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 9%
+source-wordcount: '198'
+ht-degree: 10%
 
 ---
 
@@ -23,13 +23,9 @@ Video ansehen [Erstellen von Ereignissen](/help/set-up-journeys/create-events.md
 
 ## Erstellen des Online-Kaufereignisses &quot;Luma&quot;
 
-1. Navigieren Sie in der linken Navigation zu [!UICONTROL VERWALTUNG] und wählen Sie *[!UICONTROL Konfiguration]*
-1. Aus dem [!UICONTROL Dashboard]auswählen *[!UICONTROL Verwalten*]* Veranstaltungen
+Bei Verwendung dieses Ereignisses erhält Journey Optimizer Informationen, wenn ein Benutzer Luma-Produkte online kauft.
 
-![Ereignisse verwalten](assets/create-events.png)
-
-1. Klicken *[!UICONTROL Ereignis erstellen]*
-1. Füllen Sie die Ereignisdetails und -parameter aus:
+1. Erstellen Sie ein Ereignis mit den folgenden Parametern:
 
    | [!UICONTROL Parameter] | [!UICONTROL Wert] |
    |-------------|-----------|
@@ -39,7 +35,7 @@ Video ansehen [Erstellen von Ereignissen](/help/set-up-journeys/create-events.md
    | [!UICONTROL Schema] | `Luma Web Events Schema` |
    | [!UICONTROL Felder] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
-1. Fügen Sie die [!UICONTROL Ereignis-ID-Bedingung]: `LumaOnlinePurchase.eventType is commerce.purchases`
+2. Fügen Sie die [!UICONTROL Ereignis-ID-Bedingung]: `LumaOnlinePurchase.eventType is commerce.purchases`
 
    1. Wählen Sie das Stiftsymbol aus, um das Feld zu bearbeiten
    2. Im [!UICONTROL Ereignis-ID-Bedingung hinzufügen] modal, ziehen Sie die `eventType` auf die Arbeitsfläche
