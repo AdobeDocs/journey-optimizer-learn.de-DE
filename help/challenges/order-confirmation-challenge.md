@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
+source-git-commit: 02625ddf2348f2754c821c8e49a1e70154fd6e63
 workflow-type: tm+mt
-source-wordcount: '654'
-ht-degree: 61%
+source-wordcount: '653'
+ht-degree: 50%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 61%
 | Challenge | Erstellen einer Transaktions-E-Mail zur Bestellbestätigung |
 |---|---|
 | Persona | Journey-Manager |
-| Erforderliche Fähigkeiten | <ul><li>[Erstellen von E-Mail-Inhalten mit dem Nachrichten-Editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=de)</li> <li>[Verwenden von kontextuellen Ereignisinformationen für die Personalisierung](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=de)</li><li>[Verwenden von Helper-Funktionen für die Personalisierung](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=de)</li></ul> |
+| Erforderliche Fähigkeiten | <ul><li>[Erstellen von E-Mail-Inhalten mit dem Nachrichten-Editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[Verwenden von kontextuellen Ereignisinformationen für die Personalisierung](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=de)</li><li>[Verwenden von Helper-Funktionen für die Personalisierung](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=de)</li></ul> |
 | Herunterzuladende Assets | [Bestellbestätigungs-Assets](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
 ## Die Story
@@ -129,15 +129,15 @@ Die E-Mail sollte wie folgt strukturiert sein:
 
 >[!TIP]
 >
->Damit Sie eine Fehlerbehebung bei Ihrer Journey vornehmen können, empfiehlt es sich, für alle Nachrichtenaktionen einen alternativen Pfad für den Fall einer Zeitüberschreitung oder eines Fehlers anzugeben.
+>Damit Sie eine Fehlerbehebung bei Ihren Journey vornehmen können, sollten Sie allen Nachrichtenaktionen einen alternativen Pfad hinzufügen, wenn eine Zeitüberschreitung oder ein Fehler auftritt.
 
 >[!TAB Erfolgskriterien]
 
-Triggern Sie die Journey, die Sie im Testmodus erstellt haben, und senden Sie die E-Mail an sich selbst:
+Trigger der Journey, die Sie im Testmodus erstellt haben, und senden Sie die E-Mail an sich:
 
 1. Bevor Sie in den Testmodus wechseln, überschreiben Sie die E-Mail-Parameter, die an die Test-E-Mail-Adresse gesendet werden sollen:
    1. Öffnen Sie die E-Mail-Detailansicht.
-   2. Klicken Sie in den E-Mail-Parametern auf das T-Symbol (Parameterüberschreibungen aktivieren)
+   2. Klicken Sie im Abschnitt E-Mail-Parameter auf das T-Symbol (Parameter überschreiben aktivieren).
    3. Klicken Sie in das Adressfeld
    4. Fügen Sie im nächsten Bildschirm Ihre E-Mail-Adresse in Klammern ein: *&quot;yourname@yourdomain&quot;* im Ausdruckseditor und klicken Sie auf &quot;OK&quot;.
 2. Setzen Sie die Journey in den Testmodus
@@ -159,7 +159,7 @@ Sie sollten die personalisierte Kaufbestätigungs-E-Mail erhalten.
 
 * So sollte Ihr E-Mail-Textkörper aussehen:
 
-![E-Mail](//help/challenges/assets/c2-email.png)
+![E-Mail](/help/challenges/assets/c2-email.png)
 
 >[!TAB Überprüfen Sie Ihre Arbeit]
 
@@ -184,11 +184,11 @@ So sollte Ihr Code aussehen:
 {{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
 ```
 
-*event.45481416* wird für Sie eine andere Nummer sein.
+*event.45481416* ist eine andere Nummer für Sie.
 
 TIPP: Personalisieren Sie jede Zeile separat
 
-**Abschnitt „Bestelldetails“:**
+**Bestelldetailabschnitt:**
 
 So sollte Ihr Code aussehen:
 
@@ -200,7 +200,7 @@ Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}
 
 **Produktliste:**
 
-Verwenden Sie zum Erstellen der Liste von Produkten die Helper-Funktion „each“. Zeigen Sie diese in einer Tabelle an. So sollte Ihr Code aussehen (mit Ihren spezifischen Variablen wie Ihrer Ereignis-ID - anstatt `454181416` und Ihrer Organisation anstelle von `techmarketingdemos` ):
+Verwenden Sie zum Erstellen der Liste von Produkten die Helper-Funktion „each“. Zeigen Sie diese in einer Tabelle an. So sollte Ihr Code aussehen (mit Ihren spezifischen Variablen wie Ihrer Ereignis-ID - anstatt `454181416` und Ihre -Organisation anstelle von `techmarketingdemos` ):
 
 ```javascript
 {{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}
