@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7a178b9c523ead0cf27aaa87d25b3752ef53f519
+source-git-commit: a4fafe243435a9a52c6aa555c745f917a4e8663d
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 100%
+source-wordcount: '426'
+ht-degree: 86%
 
 ---
 
@@ -38,13 +38,13 @@ Sie wurden gebeten, eine Journey einzurichten, die automatisch eine Willkommens-
 
 >[!TAB Aufgabe]
 
-Wenn sich ein Treuekunde für die Platin-Stufe qualifiziert, sollte er eine E-Mail erhalten, um ihm zu gratulieren und ihn über seine neuen Vorteile zu informieren. Das Kreativ-Team hat eine HTML-Datei **[Luma – Status-Upgrade – Willkommens-E-Mail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** mit dem E-Mail-Textkörper bereitgestellt.
+Wenn sich ein Treuekunden für die Platin-Stufe qualifiziert, sollte er eine E-Mail erhalten, um ihm zu gratulieren und ihn über seine neuen Vorteile zu informieren. Das Kreativ-Team hat eine HTML-Datei **[Luma – Status-Upgrade – Willkommens-E-Mail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** mit dem E-Mail-Textkörper bereitgestellt.
 
-1. Erstellen Sie ein [!UICONTROL Segment] namens `Luma – status upgrade` in Journey Optimizer.
+1. Erstellen Sie ein [!UICONTROL Segment] namens `Luma – platinum status` in Journey Optimizer.
 2. Erstellen Sie eine Journey namens `Luma – New Status – platinum`.
    1. Ein Kunde tritt in die Journey ein, wenn er sich für die Platin-Loyalitätsstufe qualifiziert.
-   2. Der Kunde sollte eine E-Mail-Nachricht mit der Bezeichnung `Luma – Platinum Status - Welcome` und der Betreffzeile `Welcome to Platinum Status, (recipient's first name)!` erhalten, deren Textkörper vom Kreativ-Team bereitgestellt wird. Dies ist eine [!UICONTROL Transaktions]-E-Mail.
-   3. Beim Hochladen der HTML-Datei stellen Sie fest, dass in der E-Mail vom Status „Diamant“ die Rede ist und nicht von „Platin“. Aktualisieren Sie die E-Mail im E-Mail-Designer, anstatt eine neue Datei vom Kreativ-Team anzufordern.
+   2. Der Kunde sollte eine E-Mail-Nachricht mit der Bezeichnung `Luma – Platinum Status - Welcome` und der Betreffzeile `Welcome to Platinum Status, {firstName}!` erhalten, deren Textkörper vom Kreativ-Team bereitgestellt wird. Dies ist eine [!UICONTROL Transaktions]-E-Mail.
+   3. Beim Hochladen der HTML-Datei stellen Sie fest, dass in der E-Mail vom Status „Diamant“ die Rede ist und nicht von „Platin“. Aktualisieren Sie die E-Mail im [!UICONTROL Email Designer].
 
 >[!TAB Erfolgskriterien]
 
@@ -52,30 +52,27 @@ Testen Sie Ihre Journey:
 
 1. Stellen Sie sicher, dass für die [!UICONTROL Aktivität „Segment lesen“] der [!UICONTROL Namespace] auf **[!DNL Luma CRM id(lumaCrmId)]** gesetzt ist.
 2. Überschreiben Sie die standardmäßigen [!UICONTROL E-Mail-Parameter] und setzen Sie sie auf Ihre eigene E-Mail-Adresse
-   * Zeigen Sie die ausgeblendeten Werte an, indem Sie auf das Augensymbol klicken.
    * Klicken Sie in den [!UICONTROL E-Mail-Parametern] auf das T-Symbol (Parameterüberschreibungen aktivieren)
-
-       ![E-Mail-Parameter überschreiben](/help/challenges/assets/c3-override-email-paramters.jpg)
-   
    * Klicken Sie in das [!UICONTROL Adressfeld]
-   * Fügen Sie im nächsten Bildschirm im Ausdruckseditor Ihre E-Mail-Adresse `"yourname@yourdomain"` in Klammern ein und klicken Sie auf „OK“
-
-
+   * Fügen Sie im nächsten Bildschirm Ihre E-Mail-Adresse in Klammern hinzu: `"yourname@yourdomain"` im Ausdruckseditor, dann auf „OK“ klicken.
 3. Setzen Sie die Journey in den Testmodus
-4. Auslösen eines Ereignisses
+4. Auswählen **Trigger eines Ereignisses**
 5. Fügen Sie in das Feld [!UICONTROL Profilkennung] die folgende [!DNL CRM ID] für `Stanleigh Stooke` ein: `4f34057d9d9e792c28ba18ecae378e98`
 
 **Ergebnis**: Sie sollten eine personalisierte E-Mail *Luma – Platin-Status – Willkommen* erhalten.
 
+So sollte die E-Mail aussehen:
+
+![Luma – Status-Upgrade – Willkommens-E-Mail](/help/challenges/assets/status-upgrade-welcome-email.png)
+
 >[!TAB Überprüfen Sie Ihre Arbeit]
+
+So sollte das Segment aussehen:
+
+![Luma - Platinstatus-Segment](/help/challenges/assets/c3-segment.png)
 
 So sollte Ihre Journey aussehen:
 
 ![platinum-status-upgrade-journey](/help/challenges/assets/journey-luma-status-upgrade.png)
-
-
-So sollte die E-Mail aussehen:
-
-![Luma – Status-Upgrade – Willkommens-E-Mail](/help/challenges/assets/status-upgrade-welcome-email.png)
 
 >[!ENDTABS]
