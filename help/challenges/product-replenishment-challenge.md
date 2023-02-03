@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
 workflow-type: tm+mt
-source-wordcount: '609'
-ht-degree: 100%
+source-wordcount: '570'
+ht-degree: 89%
 
 ---
 
@@ -30,62 +30,34 @@ Wenn Kundinnen und Kunden auf der Website navigieren, können sie Produkte, die 
 
 Luma bittet Sie, eine Journey in Journey Optimizer zu implementieren. Diese benachrichtigt Kundinnen und Kunden, die einen vergriffenen Artikel auf ihrer Wunschliste haben, wenn dieser Artikel wieder vorrätig ist.
 
-## Definieren des Segments – Nicht vorrätige Artikel auf der Wunschliste
+>[!BEGINTABS]
 
-Um potenzielle interessierte Kundinnen und Kunden im Fall der erneuten Verfügbarkeit von Produkten anzusprechen, erstellen Sie ein Segment, das aus Personen besteht,
+>[!TAB Aufgabe]
 
-* die mindestens einen Artikel zu ihrer Wunschliste hinzugefügt haben (Verwenden des Ereignistyps: [!UICONTROL Commerce – für später speichern])
-* Welche in den letzten 3 Monaten **nicht vorrätig** waren (Verwenden der Lagermenge = 0)
+## 1. Definieren Sie das Segment - Nicht vorrätige Wunschlisten-Elemente
+
+Um potenzielle interessierte Kunden bei der erneuten Speicherung von Produkten anzusprechen, erstellen Sie ein Segment, das aus Kunden besteht:
+
+* Wer mindestens ein Element zu seiner Wunschliste hinzugefügt hat (Verwenden Sie den Ereignistyp: [!UICONTROL Commerce Save For Laters])
+* Welche in den letzten 3 Monaten nicht vorrätig waren (Verwenden der Lagermenge = 0)
 * Und den Artikel seitdem nicht gekauft haben.
 
-Benennen Sie dieses Segment: *Ihr Name – Wunschliste für nicht vorrätige Artikel*
-
-+++**ÜBERPRÜFEN SIE IHRE ARBEIT**
-
-So sollte Ihr Segment aussehen:
-
-![Segment – Nicht vorrätige Artikel auf der Wunschliste](/help/challenges/assets/C1-S2.png)
-
-Kundinnen und Kunden, die in den letzten drei Monaten einen Artikel auf ihre Wunschliste gesetzt haben, der nicht vorrätig war:
-
-* Ereignis: Für später speichern
-   * Mindestens 1 einschließen
-   * Wenn die Lagermenge 0 beträgt
-
-und seitdem den Artikel nicht gekauft haben:
-
-* Schließen Sie alle „Purchases“-Ereignistypen aus, bei denen die SKU mit der SKU aus dem Ereignis **Für später speichern** übereinstimmt.
-
 >[!TIP]
-> * Wählen Sie die SKU unter „Für später speichern“ im Abschnitt *Variablen durchsuchen*
-> * Verwenden Sie die Vergleichsoption, wenn Sie die SKU unter „Für später speichern“ in das Ereignisfeld ablegen
+>Schließen Sie alle „Purchases“-Ereignistypen aus, bei denen die SKU mit der SKU aus dem Ereignis *Für später speichern* übereinstimmt. Sie finden das Feld im *Variablen durchsuchen* Abschnitt.
+
+Benennen Sie dieses Segment: `Out-of-stock-Wishlist`
 
 
-Überprüfen Sie den Code in der rechten unteren Ecke des Bildschirms „Segment bearbeiten“ unter „Ereignisse“. Der Code sollte wie folgt aussehen:
-
-Code:
-```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
-
-+++
-
-### E-Mail erstellen – Wiederauffüllung von Luma-Produkten
-
-Benachrichtigen Sie Kunden, die einen nicht vorrätigen Artikel hinzugefügt hatten, mit einem Aufruf, jetzt einzukaufen, da der Artikel wieder auf Lager ist.
-
-### Erstellen der Journey – Benachrichtigung zur Wiederverfügbarkeit des Produkts
+### 2. Erstellen Sie die Journey - Produktneuvorratsbenachrichtigung
 
 Wenn ein zuvor nicht vorrätiger Artikel wieder auf Lager ist, benachrichtigen Sie Kunden, die einen nicht vorrätigen Artikel hinzugefügt hatten, mit einem Aufruf, jetzt einzukaufen, da der Artikel wieder auf Lager ist.
 
-1. Erstellen Sie eine Journey mit dem Namen „Ihr Name_Luma – Produkt-Wiederverfügbarkeit“
-1. Die Journey sollte ausgelöst werden, wenn ein Produkt wieder auf Lager ist
-1. Senden Sie die E-Mail *Luma-Produktauffüllung* an
-1. Benutzende, die diesen Artikel ihrer Wunschliste hinzugefügt haben, während er nicht vorrätig war
+1. Rufen Sie die Journey auf: `Product Restock`
+2. Die Journey sollte ausgelöst werden, wenn ein Produkt wieder auf Lager ist
+3. Senden Sie die E-Mail *Luma-Produktauffüllung* an
+4. Benutzende, die diesen Artikel ihrer Wunschliste hinzugefügt haben, während er nicht vorrätig war
 
->[!TIP]
->
-> Nutzen Sie das vorliegende Geschäftsereignis. Sie müssen eine Bedingung hinzufügen, mit der überprüft wird, ob die SKU für die Auffüllung der Lagerbestände in (irgend)einem Ereignistyp enthalten ist, für später.
-
-+++**ERFOLGSKRITERIEN**
+>[!TAB Erfolgskriterien]
 
 Testen Sie Ihre Journey:
 
@@ -104,9 +76,14 @@ Testen Sie Ihre Journey:
 
 Sie sollten die E-Mail „Luma E-Mail Produktnachschubdisposition“ mit den Produktdetails und der Personalisierung für Jenna erhalten.
 
-+++
+>[!TAB Überprüfen Sie Ihre Arbeit]
 
-+++**ÜBERPRÜFEN SIE IHRE ARBEIT**
+So sollte Ihr Segment aussehen:
+
+![Segment – Nicht vorrätige Artikel auf der Wunschliste](/help/challenges/assets/C1-S2.png)
+
+
+
 
 So sollte Ihre Journey aussehen:
 
@@ -120,4 +97,29 @@ Bedingungs-Code:
 
 ```in(@{LumaProductRestock._wwfovlab065.sku},#{ExperiencePlatform.ExperienceEvents.experienceevent.all(currentDataPackField.eventType=="commerce.saveForLaters").productListItems.all().SKU})```
 
-+++
+
+>[!TIP]
+> * Wählen Sie die SKU unter „Für später speichern“ im Abschnitt *Variablen durchsuchen*
+> * Verwenden Sie die Vergleichsoption, wenn Sie die SKU unter „Für später speichern“ in das Ereignisfeld ablegen
+
+
+Überprüfen Sie den Code in der rechten unteren Ecke des Bildschirms „Segment bearbeiten“ unter „Ereignisse“. Der Code sollte wie folgt aussehen:
+
+Code:
+```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
+
+>[!ENDTABS]
+
+### E-Mail erstellen – Wiederauffüllung von Luma-Produkten
+
+Benachrichtigen Sie Kunden, die einen nicht vorrätigen Artikel hinzugefügt hatten, mit einem Aufruf, jetzt einzukaufen, da der Artikel wieder auf Lager ist.
+
+
+
+>[!TIP]
+>
+> Nutzen Sie das vorliegende Geschäftsereignis. Sie müssen eine Bedingung hinzufügen, mit der überprüft wird, ob die SKU für die Auffüllung der Lagerbestände in (irgend)einem Ereignistyp enthalten ist, für später.
+
+
+
+
