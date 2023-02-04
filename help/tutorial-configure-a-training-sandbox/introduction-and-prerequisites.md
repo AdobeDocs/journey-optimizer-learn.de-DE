@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
+source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '340'
 ht-degree: 10%
 
 ---
@@ -33,18 +33,11 @@ Bevor Sie mit der Einrichtung Ihrer Trainings-Sandbox beginnen können, stellen 
 1. [E-Mail-Nachrichtenvorgaben](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channel-configuration/set-up-email-channel.html?lang=en) für Marketing- und Transaktionsnachrichten konfiguriert wurden.
 1. **[!UICONTROL Journey-Administrator]** und **[!UICONTROL Data Manager]** Berechtigungen für die Trainings-Sandbox.
 1. Ihre [Organisations-ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=de).
-
 1. Die JSON-Dateien mit den Beispieldaten, die für Ihre Journey Optimizer-Instanz konfiguriert sind:
-
    1. Laden Sie die `luma-sample-data.zip` file [here](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-sample-data.zip), die alle für dieses Tutorial erforderlichen JSON-Dateien enthält.
-
-   1. Verschieben Sie aus dem Ordner Downloads den `luma-data.zip` an den gewünschten Speicherort auf Ihrem Computer zu kopieren und zu dekomprimieren.
-
-      Diese Dateien enthalten die Beispieldaten für Ihre Trainings-Sandbox.
-
-   2. Öffnen Sie jede Datei und suchen Sie **`yourOrganizationID`** und ersetzen Sie sie durch Ihre [Organisations-ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=de).
-
-   3. Speichern Sie die Dateien.
+   1. Verschieben Sie aus dem Ordner Downloads den `luma-data.zip` Datei an den gewünschten Speicherort auf Ihrem Computer und entpacken Sie sie. Diese Dateien enthalten die Beispieldaten für Ihre Trainings-Sandbox.
+   1. Öffnen Sie jede Datei und suchen Sie **`yourOrganizationID`** und ersetzen Sie sie durch Ihre [Organisations-ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=de).
+   1. Speichern Sie die Dateien.
 
 ## Los geht‘s
 

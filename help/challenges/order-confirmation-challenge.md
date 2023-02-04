@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 02625ddf2348f2754c821c8e49a1e70154fd6e63
+source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 50%
@@ -42,7 +42,6 @@ Erstellen Sie eine Journey, die eine Bestätigungs-E-Mail sendet, wenn ein Luma-
 1. Erstellen Sie eine Journey namens `Luma - Order Confirmation`
 2. Verwenden Sie das Ereignis: `LumaOnlinePurchase`
 3. Erstellen Sie eine **transactional**  E-Mail namens `Luma - Order Confirmation`
-
 * Betreffzeile &quot;Vielen Dank für Ihren Kauf, `FirstName`&quot;
 * Verwenden Sie die Vorlage `Luma - Order summary` und ändern Sie sie:
    * Entfernen Sie die `You may also like` Abschnitte
