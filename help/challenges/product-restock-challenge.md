@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 2f7074e5d9109cdbc1db69f6f5c48667b2276da7
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 83%
+source-wordcount: '580'
+ht-degree: 69%
 
 ---
 
@@ -19,12 +19,12 @@ ht-degree: 83%
 | Challenge | Produktauffüllung |
 |---|---|
 | Persona | Journey-Manager |
-| Erforderliche Fähigkeiten | <ul><li>[Erstellen von Segmenten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=de)</li><li> [Importieren und Erstellen von HTML-E-Mail-Inhalten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=de)</li><li>[Anwendungsfall: Segment lesen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=de)</li> |
+| Erforderliche Fähigkeiten | <ul><li>[Erstellen von Segmenten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=de)</li><li> [Importieren und Erstellen von HTML-E-Mail-Inhalten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=en)</li><li>[Anwendungsfall: Segment lesen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=de)</li> |
 | Herunterzuladende Assets | [E-Mail-Datei für Produktvorräte](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## Die Story
 
-Wenn Kundinnen und Kunden auf der Website navigieren, können sie Produkte, die sie interessieren, auf eine Wunschliste setzen. So kann Luma den Kundinnen und Kunden gezielte Marketing-Nachrichten und Informationen zu den Produkten senden.
+Kunden können auf der Luma-Website Produkte hinzufügen, die sie interessieren, und so auf eine Wunschliste setzen, sodass Luma Kunden, die Marketingnachrichten und -informationen zu den Produkten auswählen, senden kann.
 
 ## Ihre Challenge
 
@@ -38,8 +38,8 @@ Luma bittet Sie, eine Journey in Journey Optimizer zu implementieren. Diese bena
 
 Um potenzielle interessierte Kunden bei der erneuten Speicherung von Produkten anzusprechen, erstellen Sie ein Segment, das aus Kunden besteht:
 
-* Wer mindestens ein Element zu seiner Wunschliste hinzugefügt hat (Verwenden Sie den Ereignistyp: [!UICONTROL Commerce Save For Laters])
-* Welche in den letzten 3 Monaten nicht vorrätig waren (Verwenden der Lagermenge = 0)
+* Wer mindestens ein Element zu seiner Wunschliste hinzugefügt hat (Ereignistyp verwenden: [!UICONTROL Commerce Save For Laters])
+* Die in den letzten drei Monaten nicht vorrätig war (Lagermenge = 0)
 * Und den Artikel seitdem nicht gekauft haben.
 
 >[!TIP]
@@ -54,7 +54,7 @@ Wenn ein zuvor nicht vorrätiger Artikel wieder auf Lager ist, benachrichtigen S
 
 1. Rufen Sie die Journey auf: `Product Restock`
 2. Die Journey sollte ausgelöst werden, wenn ein Produkt wieder auf Lager ist
-3. Senden Sie die *Produkt-Repository-E* E-Mail an
+3. Senden Sie die *Produkt-Repository-E* nach
 4. Benutzende, die diesen Artikel ihrer Wunschliste hinzugefügt haben, während er nicht vorrätig war
 
 >[!TAB Erfolgskriterien]
@@ -101,7 +101,7 @@ Bedingungs-Code:
 > * Verwenden Sie die Vergleichsoption, wenn Sie die SKU unter „Für später speichern“ in das Ereignisfeld ablegen
 
 
-Überprüfen Sie den Code in der rechten unteren Ecke des Bildschirms „Segment bearbeiten“ unter „Ereignisse“. Der Code sollte wie folgt aussehen:
+Überprüfen Sie den Code in der rechten unteren Ecke des Bildschirms Segment bearbeiten unter Ereignisse. Der Code sollte wie folgt aussehen:
 
 Code:
 ```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
@@ -116,7 +116,7 @@ Benachrichtigen Sie Kunden, die einen nicht vorrätigen Artikel hinzugefügt hat
 
 >[!TIP]
 >
-> Nutzen Sie das vorliegende Geschäftsereignis. Sie müssen eine Bedingung hinzufügen, mit der überprüft wird, ob die SKU für die Auffüllung der Lagerbestände in (irgend)einem Ereignistyp enthalten ist, für später.
+> Nutzen Sie das vorliegende Geschäftsereignis. Fügen Sie eine Bedingung hinzu, mit der überprüft wird, ob die SKU erneut gespeichert im Ereignistyp (beliebig) enthalten ist, der für Später gespeichert werden soll.
 
 
 
