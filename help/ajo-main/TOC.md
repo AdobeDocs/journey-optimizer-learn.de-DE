@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
-source-git-commit: ac590d04a50f20f3767d82c17f9548a372044b6b
+source-git-commit: 31b554c145e78f1486e43dfb5f84d74751a0b966
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 94%
+source-wordcount: '294'
+ht-degree: 93%
 
 ---
 
@@ -91,3 +91,4 @@ ht-degree: 94%
    + [Erstellen und Verwalten von Sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
 + Datenschutz {#privacy}
    + [Maskieren von Daten in Nachrichten](/help/privacy/mask-data-in-messages.md)
++ [Summit Lab 2023 - Assets](/help/summit-lab-731/l731-assets.md)
