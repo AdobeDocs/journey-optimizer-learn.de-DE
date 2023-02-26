@@ -8,13 +8,13 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: ce271a2bbddd7cd36d773cc9360d9a0724f0c77d
+exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
+source-git-commit: 5557b1d2005c62ce738120e80c3450545725ba65
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '178'
 ht-degree: 6%
 
 ---
-
 
 # Summit Lab L731
 
@@ -38,7 +38,12 @@ Diese Seite enthält Text und Links, die im L731 Summit Lab verwendet werden. Si
 
 ## Lektion 3 Omni-Channel-Journey erstellen
 
-| Nachricht | Text | Links |
+| Nachricht | Text | Links | Bild |
 |----|----|----|
 | SMS | Willkommen bei Vegas Stay. Überspringen Sie die Zeile und checken Sie mit der Mobile App ein: lab://checkin |  |
-| Push-Benachrichtigung | Willkommen bei Vegas Stay. Überspringen Sie die Zeile und checken Sie mit der App ein. | lab://checkin |
+| Push-Benachrichtigung | Willkommen bei Vegas Stay. Überspringen Sie die Zeile und checken Sie mit der App ein. | lab://checkin |  |
+
+
+Dies ist das Bild, das wir für die SMS und die Push-Benachrichtigung verwenden:
+
+![Online-Check-in](/help/assets/vegas_online_check_in.jpeg)
