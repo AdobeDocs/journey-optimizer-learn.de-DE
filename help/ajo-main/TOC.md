@@ -1,11 +1,11 @@
 ---
 user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
+user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 source-git-commit: 3bc6680939544f5c4e054a658d1e17e077b9fa63
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 94%
    + [In-App-Nachrichten für Kampagnen](/help/channels/in-app-messaging-for-campaigns.md)
    + [Verfassen einer In-App-Nachricht ](/help/channels/author-in-app-messages.md)
 + SMS-Kanal{#sms-channel}
-   + [SMS erstellen und senden](/help/channels/author-and-deliver-sms-messages.md)
+   + [Verfassen und Versenden von SMS-Nachrichten](/help/channels/author-and-deliver-sms-messages.md)
    + [Unterstützung eingehender Keywords für SMS](/help/channels/inbound-keyword-support-for-sms.md)
 + Kundenprofile, Segmente und Abonnements {#profiles-segments-subscriptions}
    + [Einheitliches Profil und Segmentierung – Überblick](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
@@ -80,7 +80,7 @@ ht-degree: 94%
    + Konfigurieren der Kanäle {#channel-configuration}
       + [Einrichten des E-Mail-Kanals](/help/set-up-channels/set-up-email-channel.md)
       + [Delegieren von CName-Subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
-      + [SMS-API-Anmeldeinformationen und Kanaloberflächen konfigurieren](/help/set-up-channels/set-up-sms-channel.md)
+      + [Konfigurieren von SMS-API-Anmeldeinformationen und Kanaloberflächen](/help/set-up-channels/set-up-sms-channel.md)
       + [Konfigurieren der Häufigkeitsregeln von Nachrichten](/help/administration/configure-frequency-rules.md)
    + Konfigurieren von Journeys {#journey-configuration}
    + [Konfigurieren von Datenquellen](/help/set-up-journeys/configure-data-sources.md)
