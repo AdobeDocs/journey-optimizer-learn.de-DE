@@ -8,9 +8,9 @@ level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '653'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 50%
 | Challenge | Erstellen einer Transaktions-E-Mail zur Bestellbestätigung |
 |---|---|
 | Persona | Journey-Manager |
-| Erforderliche Fähigkeiten | <ul><li>[Erstellen von E-Mail-Inhalten mit dem Nachrichten-Editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[Verwenden von kontextuellen Ereignisinformationen für die Personalisierung](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=de)</li><li>[Verwenden von Helper-Funktionen für die Personalisierung](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=de)</li></ul> |
+| Erforderliche Fähigkeiten | <ul><li>[Erstellen von E-Mail-Inhalten mit dem Nachrichten-Editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=de)</li> <li>[Verwenden von kontextuellen Ereignisinformationen für die Personalisierung](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=de)</li><li>[Verwenden von Helper-Funktionen für die Personalisierung](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=de)</li></ul> |
 | Herunterzuladende Assets | [Bestellbestätigungs-Assets](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
 ## Die Story
@@ -33,7 +33,7 @@ Luma startet seinen Online-Store und möchte ein gutes Kundenerlebnis sicherstel
 
 ## Ihre Challenge
 
-Erstellen Sie eine Journey, die eine Bestätigungs-E-Mail sendet, wenn ein Luma-Kunde eine Online-Bestellung abschließt.
+Erstellen Sie eine Journey, die eine Bestätigungs-E-Mail sendet, wenn eine Kundin oder ein Kunde von Luma eine Online-Bestellung abschließt.
 
 >[!BEGINTABS]
 
@@ -41,11 +41,11 @@ Erstellen Sie eine Journey, die eine Bestätigungs-E-Mail sendet, wenn ein Luma-
 
 1. Erstellen Sie eine Journey namens `Luma - Order Confirmation`
 2. Verwenden Sie das Ereignis: `LumaOnlinePurchase`
-3. Erstellen Sie eine **transactional**  E-Mail namens `Luma - Order Confirmation`
-* Betreffzeile &quot;Vielen Dank für Ihren Kauf, `FirstName`&quot;
+3. Erstellen Sie eine **Transaktions**-E-Mail namens `Luma - Order Confirmation`
+* Die Betreffzeile „Vielen Dank für Ihren Kauf, `FirstName`“
 * Verwenden Sie die Vorlage `Luma - Order summary` und ändern Sie sie:
-   * Entfernen Sie die `You may also like` Abschnitte
-   * Fügen Sie den Abmelde-Link am Ende der E-Mail hinzu.
+   * Entfernen Sie die `You may also like`-Abschnitte
+   * Fügen Sie den Abo kündigen-Link am Ende der E-Mail ein.
 
 Die E-Mail sollte wie folgt strukturiert sein:
 <table>
@@ -58,7 +58,7 @@ Die E-Mail sollte wie folgt strukturiert sein:
   <td>
       <p>
      <li>luma_logo.png</li>
-    <li>Es sollte einen Link zur Luma-Website enthalten: https://luma.enablementadobe.com/content/luma/us/en.html</li>
+    <li>Sie sollte einen Link zur Luma-Website enthalten: https://luma.enablementadobe.com/content/luma/us/en.html</li>
     <p>
     </td>
   </tr>
@@ -71,7 +71,7 @@ Die E-Mail sollte wie folgt strukturiert sein:
   <td>
     <p>
     <strong>Text</strong><p>
-    <em>He {firstName},</em><p>
+    <em>Hallo {firstName},</em><p>
    <div>
     <p>
      <em>Ihre Bestellung wurde aufgegeben.
@@ -86,8 +86,8 @@ Die E-Mail sollte wie folgt strukturiert sein:
       <p>
       <li>Vorname und Nachname stammen aus dem Profil
       <li>Ersetzen Sie die hartcodierte Adresse in der Vorlage durch die <b>Lieferadresse</b>
-      <li>Die Adressdetails sind kontextbezogene Attribute der Veranstaltung (Straße 1, Stadt, Postleitzahl, Bundesland)
-      <li> Entfernen <i>Rabatt, gesamt, Ankunft</i></p>
+      <li>Die Adressdetails sind kontextuelle Attribute des Ereignisses (Straße 1, Stadt, Postleitzahl, Bundesland)
+      <li> Entfernen Sie <i>Rabatt, Gesamtsumme und Lieferung</i></p>
   </td>
   <td>
   <p> Versand an:</p>
@@ -100,10 +100,10 @@ Die E-Mail sollte wie folgt strukturiert sein:
   <div>
      <strong>Bestelldetailabschnitt</strong>
       </div>
-       <p><li>Fügen Sie diesen Abschnitt unterhalb der <b>Versand an</b> Abschnitt.
+       <p><li>Fügen Sie diesen Abschnitt unterhalb des <b>Versand an</b>-Abschnitts ein.
       </p><br>
       <p><b>Tipps:</b>
-      <li>Strukturkomponente verwenden <b>1:2 Spalte links</b> für diesen Abschnitt
+      <li>Verwenden Sie für diesen Abschnitt die Strukturkomponente <b>1:2 Spalte links</b>
       <li>Dies sind kontextuelle Ereignisinformationen.
       <li>Verwenden Sie die [!UICONTROL helper function]: [!UICONTROL Each]
       <li>Wechseln Sie zum Format des Code-Editors, um die kontextuellen Daten hinzuzufügen.
@@ -111,14 +111,14 @@ Die E-Mail sollte wie folgt strukturiert sein:
   <td>
     <strong>Kopfzeile</strong>
     <p>
-  Reihenfolge: <em>{purchaseOrderNumber}</em>
+  Bestellung: <em>{purchaseOrderNumber}</em>
     </p>
     <strong>Liste der bestellten Produkte:
  </strong>
-  <p>Führen Sie jedes Produkt in der Bestellung mit einem Bild, dem Preis und dem Namen auf.
-  <p>Das Layout der einzelnen Elemente sollte wie folgt aussehen:
-   <img alt="Reihenfolge" src="./assets/c2-order.png"> 
-<p><b>Link zum Warenkorb hinzufügen</b>
+  <p>Führen Sie jedes Produkt in der Bestellung mit seinem Bild, dem Preis und dem Namen auf.
+  <p>Das Layout der einzelnen Artikel sollte wie folgt aussehen:
+   <img alt="Bestellung" src="./assets/c2-order.png"> 
+<p><b>Fügen Sie den Link zum Warenkorb hinzu</b>
 <p>Ersetzen Sie die Bestell-ID in der URL durch die Bestellnummer:
    <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
 </td>
@@ -128,17 +128,17 @@ Die E-Mail sollte wie folgt strukturiert sein:
 
 >[!TIP]
 >
->Damit Sie eine Fehlerbehebung bei Ihren Journey vornehmen können, sollten Sie allen Nachrichtenaktionen einen alternativen Pfad hinzufügen, wenn eine Zeitüberschreitung oder ein Fehler auftritt.
+>Um eine Fehlersuche in Ihren Journeys zu ermöglichen, ist die Best Practice, einen alternativen Pfad zu allen Nachrichtenaktionen hinzuzufügen, wenn eine Zeitüberschreitung oder ein Fehler auftritt.
 
 >[!TAB Erfolgskriterien]
 
-Trigger der Journey, die Sie im Testmodus erstellt haben, und senden Sie die E-Mail an sich:
+Lösen Sie die Journey, die Sie im Testmodus erstellt haben, aus und senden Sie die E-Mail an sich selbst:
 
-1. Bevor Sie in den Testmodus wechseln, überschreiben Sie die E-Mail-Parameter, die an die Test-E-Mail-Adresse gesendet werden sollen:
+1. Bevor Sie in den Testmodus wechseln, überschreiben Sie die E-Mail-Parameter, um die Test-E-Mail an Ihre E-Mail-Adresse zu senden:
    1. Öffnen Sie die E-Mail-Detailansicht.
-   2. Klicken Sie im Abschnitt E-Mail-Parameter auf das T-Symbol (Parameter überschreiben aktivieren).
+   2. Klicken Sie im Abschnitt „E-Mail-Parameter“ auf das „T“-Symbol (Überschreiben der Parameter aktivieren
    3. Klicken Sie in das Adressfeld
-   4. Fügen Sie im nächsten Bildschirm Ihre E-Mail-Adresse in Klammern ein: *&quot;yourname@yourdomain&quot;* im Ausdruckseditor und klicken Sie auf &quot;OK&quot;.
+   4. Auf dem nächsten Bildschirm fügen Sie Ihre E-Mail-Adresse in Klammern *„IhrName@IhreDomain“* in den Ausdruckseditor ein und klicken Sie auf OK.
 2. Setzen Sie die Journey in den Testmodus
 3. Lösen Sie das Ereignis mit den folgenden Parametern aus:
    * Setzen Sie die Profilkennung auf: Identitätswert:`a8f14eab3b483c2b96171b575ecd90b1`
@@ -156,7 +156,7 @@ Sie sollten die personalisierte Kaufbestätigungs-E-Mail erhalten.
 
 * Die Betreffzeile sollte den Vornamen des Testprofils enthalten: Leora
 
-* So sollte Ihr E-Mail-Textkörper aussehen:
+* So sollte der Text Ihrer E-Mail aussehen:
 
 ![E-Mail](/help/challenges/assets/c2-email.png)
 
@@ -171,7 +171,7 @@ Sie sollten die personalisierte Kaufbestätigungs-E-Mail erhalten.
 
 **Betreffzeile:**
 
-Vielen Dank für Ihren Einkauf. {{ profile.person.name.firstName }}!
+Vielen Dank für Ihren Kauf, {{ profile.person.name.firstName }}!
 
 **Abschnitt „Versand an“:**
 
@@ -183,11 +183,11 @@ So sollte Ihr Code aussehen:
 {{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
 ```
 
-*event.45481416* ist eine andere Nummer für Sie.
+*event.45481416* ist eine andere Zahl für Sie.
 
-TIPP: Personalisieren Sie jede Zeile separat
+TIPP: Personalisieren Sie jede Zeile separat.
 
-**Bestelldetailabschnitt:**
+**Abschnitt „Bestelldetails“**
 
 So sollte Ihr Code aussehen:
 
@@ -199,13 +199,13 @@ Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}
 
 **Produktliste:**
 
-Verwenden Sie zum Erstellen der Liste von Produkten die Helper-Funktion „each“. Zeigen Sie diese in einer Tabelle an. So sollte Ihr Code aussehen (mit Ihren spezifischen Variablen wie Ihrer Ereignis-ID - anstatt `454181416` und Ihre -Organisation anstelle von `techmarketingdemos` ):
+Verwenden Sie zum Erstellen der Liste von Produkten die Helper-Funktion „each“. Zeigen Sie diese in einer Tabelle an. So sollte Ihr Code aussehen (mit Ihren spezifischen Variablen wie beispielsweise Ihre Ereignis-ID – anstelle von `454181416` und Ihrer Organisation-ID anstelle von `techmarketingdemos` ):
 
 ```javascript
 {{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}
 ```
 
-**Schaltfläche &quot;Bestellung anzeigen&quot;:**
+**Schaltfläche „Bestellung anzeigen“:**
 
 `https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId={{context.journey.events.454181416.commerce.order.purchaseOrderNumber}}`
 
