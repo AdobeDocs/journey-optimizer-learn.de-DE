@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 01216aba7c23af67ad131aa24f017f95e6fa9025
+source-git-commit: b9c836756122dd555cbc1e6150f91e5e5ff9b176
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 5%
+source-wordcount: '219'
+ht-degree: 6%
 
 ---
 
@@ -38,10 +38,12 @@ Diese Seite enthält Text und Links, die im L731 Summit Lab verwendet werden. Si
 
 | Feld | Text | Links |
 |----|----|----|
+| Kampagnenname | `<your seat number> March Vegas Campaign` |  |
 | Medien-URL-Option |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
 | Titel | Es ist passiert und es ist live! |  |
 | Textkörper | Adobe Summit kehrt am 21.-23. März 2023 zu Las Vegas zurück. Bereiten Sie sich auf inspirierende Redner, kompetente Sitzungen und neue Verbindungen vor. |  |
 | Schaltfläche | Buchen Sie jetzt Hotel und sparen Sie 10 % | lab://booking?suite=presidential&amp;discount=10 |
+| Basis-URL |  | lab:// |
 
 
 
