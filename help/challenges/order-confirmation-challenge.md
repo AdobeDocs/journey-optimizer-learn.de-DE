@@ -1,16 +1,16 @@
 ---
 title: Erstellen einer E-Mail zur Auftragsbestätigung
-description: Testen Sie Ihr Wissen über das Erstellen und Personalisieren von Transaktionsnachrichten.
+description: Testen Sie Ihr Wissen über das Erstellen und Personalisieren von Transaktionsnachrichten..
 kt: 7531
 feature: Journeys
 role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
-workflow-type: ht
-source-wordcount: '653'
-ht-degree: 100%
+source-git-commit: 6737f81f9cd9fc34740ce60e10c8036e29f97f68
+workflow-type: tm+mt
+source-wordcount: '657'
+ht-degree: 94%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 100%
 | Erforderliche Fähigkeiten | <ul><li>[Erstellen von E-Mail-Inhalten mit dem Nachrichten-Editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=de)</li> <li>[Verwenden von kontextuellen Ereignisinformationen für die Personalisierung](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=de)</li><li>[Verwenden von Helper-Funktionen für die Personalisierung](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=de)</li></ul> |
 | Herunterzuladende Assets | [Bestellbestätigungs-Assets](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
+{style=&quot;table-layout:auto&quot;}
+
 ## Die Story
 
-Luma startet seinen Online-Store und möchte ein gutes Kundenerlebnis sicherstellen, indem eine Bestätigungs-E-Mail für die Bestellung gesendet wird, sobald ein Kunde eine Bestellung aufgegeben hat.
-
-
+Luma startet seinen Online-Shop und möchte ein gutes Kundenerlebnis sicherstellen. Sie senden eine E-Mail zur Bestellbestätigung, sobald ein Kunde eine Bestellung aufgegeben hat.
 
 ## Ihre Challenge
 
@@ -39,13 +39,19 @@ Erstellen Sie eine Journey, die eine Bestätigungs-E-Mail sendet, wenn eine Kund
 
 >[!TAB Aufgabe]
 
-1. Erstellen Sie eine Journey namens `Luma - Order Confirmation`
-2. Verwenden Sie das Ereignis: `LumaOnlinePurchase`
-3. Erstellen Sie eine **Transaktions**-E-Mail namens `Luma - Order Confirmation`
-* Die Betreffzeile „Vielen Dank für Ihren Kauf, `FirstName`“
-* Verwenden Sie die Vorlage `Luma - Order summary` und ändern Sie sie:
-   * Entfernen Sie die `You may also like`-Abschnitte
-   * Fügen Sie den Abo kündigen-Link am Ende der E-Mail ein.
+1. Erstellen Sie eine Journey namens `Luma - Order Confirmation`.
+
+1. Verwenden Sie das Ereignis: `LumaOnlinePurchase`.
+
+1. Erstellen Sie eine **Transaktions**-E-Mail namens `Luma - Order Confirmation`.
+
+   * Die Betreffzeile „Vielen Dank für Ihren Kauf, `FirstName`“
+
+   * Verwenden Sie die Vorlage `Luma - Order summary` und ändern Sie sie:
+
+      * Entfernen Sie die `You may also like`-Abschnitte
+
+      * Fügen Sie den Abo kündigen-Link am Ende der E-Mail ein.
 
 Die E-Mail sollte wie folgt strukturiert sein:
 <table>
@@ -65,8 +71,8 @@ Die E-Mail sollte wie folgt strukturiert sein:
   <tr>
   <td>
   <div>
-    <strong>Abschnitt zur Bestellbestätigung
- </strong>
+    <strong>Bestellbestätigungsabschnitt
+    </strong>
   </td>
   <td>
     <p>
@@ -125,7 +131,6 @@ Die E-Mail sollte wie folgt strukturiert sein:
   </tr>
 </table>
 
-
 >[!TIP]
 >
 >Um eine Fehlersuche in Ihren Journeys zu ermöglichen, ist die Best Practice, einen alternativen Pfad zu allen Nachrichtenaktionen hinzuzufügen, wenn eine Zeitüberschreitung oder ein Fehler auftritt.
@@ -136,11 +141,11 @@ Lösen Sie die Journey, die Sie im Testmodus erstellt haben, aus und senden Sie 
 
 1. Bevor Sie in den Testmodus wechseln, überschreiben Sie die E-Mail-Parameter, um die Test-E-Mail an Ihre E-Mail-Adresse zu senden:
    1. Öffnen Sie die E-Mail-Detailansicht.
-   2. Klicken Sie im Abschnitt „E-Mail-Parameter“ auf das „T“-Symbol (Überschreiben der Parameter aktivieren
-   3. Klicken Sie in das Adressfeld
-   4. Auf dem nächsten Bildschirm fügen Sie Ihre E-Mail-Adresse in Klammern *„IhrName@IhreDomain“* in den Ausdruckseditor ein und klicken Sie auf OK.
-2. Setzen Sie die Journey in den Testmodus
-3. Lösen Sie das Ereignis mit den folgenden Parametern aus:
+   1. Klicken Sie im Abschnitt „E-Mail-Parameter“ auf das „T“-Symbol (Überschreiben der Parameter aktivieren
+   1. Klicken Sie in das Adressfeld
+   1. Auf dem nächsten Bildschirm fügen Sie Ihre E-Mail-Adresse in Klammern *„IhrName@IhreDomain“* in den Ausdruckseditor ein und klicken Sie auf OK.
+1. Setzen Sie die Journey in den Testmodus
+1. Lösen Sie das Ereignis mit den folgenden Parametern aus:
    * Setzen Sie die Profilkennung auf: Identitätswert:`a8f14eab3b483c2b96171b575ecd90b1`
    * Ereignistyp: commerce.purchases
    * `Quantity`: 1
