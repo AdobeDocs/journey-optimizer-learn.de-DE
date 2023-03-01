@@ -1,5 +1,5 @@
 ---
-title: Daten manuell erfassen
+title: Erstellen von Datensätzen und Erfassen von Daten
 description: Erstellen Sie Datensätze und erfassen Sie Beispieldaten manuell.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
@@ -9,19 +9,18 @@ level: Beginner
 hide: true
 recommendations: noDisplay, noCatalog
 exl-id: 5e7bf81d-4d70-48ef-b357-c361b28359db
-source-git-commit: a0f089635df6af8fce9127083ecf582a56b5d569
+source-git-commit: 2a671ad01f1cdb60c731a707b0584bf2f4262d9b
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '88'
 ht-degree: 10%
 
 ---
 
 # Erstellen von Datensätzen und Aufnehmen von Daten
 
-Im folgenden Video-Tutorial wird beschrieben, wie Sie Datensätze manuell erstellen und Daten erfassen:
+Im folgenden Video-Tutorial wird beschrieben, wie Sie Datensätze erstellen und Daten manuell erfassen:
 
 >[!VIDEO](https://video.tv.adobe.com/v/334293?quality=12)
-
 
 Erstellen Sie die folgenden Datensätze:
 

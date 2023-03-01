@@ -9,10 +9,10 @@ level: Beginner
 hide: true
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
+source-git-commit: 4df1bdca81a585f728aa68519aa7ec7cd0c2f014
 workflow-type: tm+mt
-source-wordcount: '1027'
-ht-degree: 9%
+source-wordcount: '1020'
+ht-degree: 11%
 
 ---
 
@@ -29,7 +29,7 @@ In diesem Schritt erstellen Sie Identitäts-Namespaces für die [!DNL Luma] benu
 
 Erstellen Sie zunächst eine [!UICONTROL namespace] für [!DNL Luma Loyalty ID] schema:
 
-1. Navigieren Sie in der Journey Optimizer-Benutzeroberfläche zu ***[!UICONTROL Kunde]** > **[!UICONTROL Identitäten]** in der linken Navigation.
+1. Navigieren Sie in der Journey Optimizer-Benutzeroberfläche zu **[!UICONTROL Kunde]** > **[!UICONTROL Identitäten]** in der linken Navigation.
 
 1. Auswählen **[!UICONTROL Identitäts-Namespace erstellen]**.
 
@@ -72,28 +72,27 @@ In diesem Schritt definieren Sie die Struktur der Beispieldaten, indem Sie sechs
 >
 >Video-Tutorial ansehen: [Schema erstellen](/help/set-up-data/create-schema.md) bevor Sie beginnen.
 
-### Erstellen [!DNL Luma Loyalty] [!UICONTROL Schema] {#create-luma-loyalty-schema}
+### Erstellen [!DNL Luma Loyalty Schema] {#create-luma-loyalty-schema}
+
+In diesem Abschnitt wird beschrieben, wie Sie die [!DNL Luma Loyalty] Schema und konfigurieren Sie Feldgruppen.
 
 #### Schema erstellen
-
-Erstellen Sie zunächst das [!DNL Luma Loyalty] schema:
 
 1. Navigieren Sie zu **[!UICONTROL DATENVERWALTUNG]** > **[!UICONTROL Schemas]** in der linken Navigation.
 
 1. Auswählen **[!UICONTROL Schema erstellen]** oben rechts.
 
-1. Wählen Sie aus dem Dropdown-Menü **[!UICONTROL XDM Individual Profile]**, da Sie Attribute eines einzelnen Kunden modellieren (Punkte, Status usw.).
+1. Wählen Sie aus dem Dropdown-Menü **[!UICONTROL XDM Individual Profile]**.
 
+   Sie wählen diese Option aus, da Sie Attribute eines einzelnen Kunden modellieren (Punkte, Status usw.).
 
 #### Hinzufügen vorhandener Feldergruppen
 
-Als Nächstes werden Sie aufgefordert, dem Schema Feldergruppen hinzuzufügen. Fügen Sie alle Felder mithilfe von Gruppen zu Schemas hinzu. Sie fügen vorhandene Feldergruppen hinzu und müssen eine Feldergruppe erstellen.
+Als Nächstes werden Sie mithilfe von Gruppen aufgefordert, dem Schema Feldergruppen hinzuzufügen. Sie müssen vorhandene Feldergruppen hinzufügen und eine Feldergruppe erstellen.
 
->[!NOTE]
->
->Wenn die Variable [!UICONTROL Feldergruppen] modal wird nicht automatisch im [!UICONTROL Schemas] Seite, wählen Sie **[!UICONTROL Hinzufügen]** (wie in der folgenden Abbildung gezeigt).
+1. Im [!UICONTROL Schema] Seite, wenn das Modal Feldgruppen nicht automatisch geöffnet wurde, wählen Sie **[!UICONTROL Hinzufügen]**.
 
-![Feldergruppe hinzufügen](assets/add_field_group.png)
+   ![Hinzufügen der Feldergruppe](assets/add_field_group.png)
 
 1. Im **[!UICONTROL Feldergruppen hinzufügen]** aktivieren Sie die folgenden Feldergruppen:
 
@@ -109,9 +108,9 @@ Als Nächstes werden Sie aufgefordert, dem Schema Feldergruppen hinzuzufügen. F
 
 1. Wählen Sie den obersten Knoten des Schemas aus.
 
-1. Eingabe `Luma Loyalty Schema` als [!UICONTROL Anzeigename].
+1. Eingabe `Luma Loyalty Schema` als **[!UICONTROL Anzeigename]**.
 
-#### Erstellen Sie eine [!UICONTROL Feldergruppe]
+#### Erstellen Sie eine [!UICONTROL Feldergruppe] {#create-field-group}
 
 Um die Konsistenz der Schemas zu gewährleisten, empfiehlt Adobe, alle Systemkennungen in einer Gruppe zu verwalten:
 
@@ -123,7 +122,7 @@ Um die Konsistenz der Schemas zu gewährleisten, empfiehlt Adobe, alle Systemken
 
 1. Hinzufügen `system identifiers for XDM Individual Profile class` als **[!UICONTROL Beschreibung]**.
 
-1. Auswählen **[!UICONTROL Feldergruppen hinzufügen]**.
+1. Wählen Sie **[!UICONTROL Feldergruppen hinzufügen]** aus.
 
    ![Neue Feldergruppe erstellen](assets/addnewfieldgroup.png)
 
@@ -145,7 +144,7 @@ Die neue leere Feldergruppe wird Ihrem Schema hinzugefügt. Mit den Schaltfläch
 
    * **[!UICONTROL Feldergruppe zuweisen]:** [!DNL Luma identifiers]
 
-1. Auswählen **[!UICONTROL Anwenden]**.
+1. Wählen Sie **[!UICONTROL Anwenden]** aus.
 
    ![Systemkennung hinzufügen](assets/addsysteidentifier.png)
 
@@ -174,9 +173,9 @@ Sie verfügen jetzt über die [!UICONTROL namespace] und [!DNL Luma Loyalty sche
 
    4. Aktivieren Sie die **[!UICONTROL Primäre Identität]** ankreuzen.
 
-   5. Wählen Sie die `Luma Loyalty Id` Namespace aus **[!UICONTROL Identitäts-Namespaces]** Dropdown-Liste.
+   5. Wählen Sie die `Luma Loyalty Id` Namespace aus **[!UICONTROL Identitäts-Namespaces]** Dropdown-Menü.
 
-   6. Auswählen **[!UICONTROL Anwenden]**.
+   6. Wählen Sie **[!UICONTROL Anwenden]** aus.
 
       ![primäre Identität](/help/tutorial-configure-a-training-sandbox/assets/primary_identity.png)
 
@@ -192,7 +191,7 @@ Sie verfügen jetzt über die [!UICONTROL namespace] und [!DNL Luma Loyalty sche
 
    4. Wählen Sie die `Luma CRM Id` Namespace aus **[!UICONTROL Identitäts-Namespaces]** Dropdown-Liste.
 
-   5. Auswählen **[!UICONTROL Anwenden]**.
+   5. Wählen Sie **[!UICONTROL Anwenden]** aus.
 
 #### Aktivieren für Profil und Speichern des Schemas
 
@@ -206,15 +205,15 @@ Sie verfügen jetzt über die [!UICONTROL namespace] und [!DNL Luma Loyalty sche
 
 1. Wählen Sie **[!UICONTROL Speichern]** aus.
 
-### Erstellen [!DNL Luma Product catalog Schema] {#create-luma-product-catalog-schema}
+### Erstellen [!DNL Luma Product Catalog Schema] {#create-luma-product-catalog-schema}
 
-1. Navigieren Sie zu [!UICONTROL DATENVERWALTUNG] -> **[!UICONTROL Schemas]** in der linken Navigation.
+1. Navigieren Sie zu **[!UICONTROL DATENVERWALTUNG]** > **[!UICONTROL Schemas]** in der linken Navigation.
 
-1. Wählen Sie die **[!UICONTROL Schema erstellen]** rechts oben.
+1. Auswählen **[!UICONTROL Schema erstellen]** (oben rechts).
 
-1. Wählen Sie aus dem Dropdown-Menü **[!UICONTROL Alle Schematypen durchsuchen]**, mit dem Sie eine Klasse erstellen können.
+1. Um eine Klasse zu erstellen, wählen Sie **[!UICONTROL Alle Schematypen durchsuchen]** aus dem Dropdown-Menü.
 
-1. Wählen Sie **[!UICONTROL Neue Klasse erstellen].
+1. Auswählen **[!UICONTROL Neue Klasse erstellen]**.
 
 1. Fügen Sie den Anzeigenamen hinzu: `Luma Product Catalog Class`.
 
@@ -234,7 +233,7 @@ Sie verfügen jetzt über die [!UICONTROL namespace] und [!DNL Luma Loyalty sche
 
    * Feldergruppe: [!DNL Luma Product Catalog Field Group]
 
-1. Auswählen **[!UICONTROL Anwenden]**.
+1. Wählen Sie **[!UICONTROL Anwenden]** aus.
 
 1. Fügen Sie die folgenden Felder zum **[!DNL Product]** -Objekt:
 
@@ -251,16 +250,14 @@ Sie verfügen jetzt über die [!UICONTROL namespace] und [!DNL Luma Loyalty sche
    | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL Zeichenfolge] |
    | `url` | `Product URL` | [!UICONTROL Zeichenfolge] |
 
-1. Legen Sie die **[!DNL SKU]** als primäre Identität
+1. Legen Sie die **[!DNL SKU]** als primäre Identität.
 1. Fügen Sie die **[!UICONTROL Anzeigename]** `Luma Product Catalog Field Group` der [!UICONTROL Feldergruppe].
 
 1. Wählen Sie **[!UICONTROL Speichern]** aus.
 
-
 ### Erstellen [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
 
-
-1. Navigieren Sie zu **[!UICONTROL DATENVERWALTUNG]** -> **[!UICONTROL Schemas]** in der linken Navigation.
+1. Navigieren Sie zu **[!UICONTROL DATENVERWALTUNG]** > **[!UICONTROL Schemas]** in der linken Navigation.
 
 1. Wählen Sie die **[!UICONTROL Schema erstellen]** rechts oben.
 
@@ -309,7 +306,7 @@ Sie verfügen jetzt über die [!UICONTROL namespace] und [!DNL Luma Loyalty sche
 
    6. Eingabe **[!UICONTROL values] ([!UICONTROL label)]**: `outOfStock` (`Out of Stock`).
 
-   7. Auswählen **[!UICONTROL Anwenden]**.
+   7. Wählen Sie **[!UICONTROL Anwenden]** aus.
 
       ![enum](assets/enum.png)
 
@@ -324,7 +321,7 @@ Sie verfügen jetzt über die [!UICONTROL namespace] und [!DNL Luma Loyalty sche
       1. **[!UICONTROL Referenzschema]**: [!DNL Luma Product Catalog Schema].
 
       2. **[!UICONTROL Referenz-Identitäts-Namespace]**: [!DNL LumaProductSKU].
-   3. Auswählen **[!UICONTROL Anwenden]**.
+   3. Wählen Sie **[!UICONTROL Anwenden]** aus.
 
       Das Schema sollte wie folgt aussehen:
 
