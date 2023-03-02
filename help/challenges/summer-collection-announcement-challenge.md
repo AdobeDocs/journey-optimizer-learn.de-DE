@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
+source-git-commit: fc439f6e3875e859f5c4b9a6012c98b8d5d4be32
 workflow-type: tm+mt
-source-wordcount: '1175'
+source-wordcount: '1178'
 ht-degree: 100%
 
 ---
@@ -23,6 +23,8 @@ ht-degree: 100%
 | Persona | Journey-Manager |
 | Erforderliche Fähigkeiten | <ul><li>[Erstellen von Segmenten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=de)</li><li> [Importieren und Erstellen von HTML-E-Mail-Inhalten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=de)</li><li>[Anwendungsfall: Segment lesen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=de)</li> |
 | Herunterzuladende Assets | [E-Mail-Dateien zur saisonalen Kollektion](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## Die Story
 
@@ -69,7 +71,7 @@ Sie können auch zur Registerkarte [!UICONTROL Segmentzugehörigkeit] gehen. Ihr
 
 >[!TAB Überprüfen Sie Ihre Arbeit]
 
-Segmentfelder: [!UICONTROL Attribute] > [!UICONTROL individuelles XDM-Profil] > [!UICONTROL Treue] > [!UICONTROL Ebene]
+Segmentfelder: **[!UICONTROL Attribute]** > **[!UICONTROL individuelles XDM-Profil]** > **[!UICONTROL Treue]** > **[!UICONTROL Ebene]**
 
 So sollte Ihr Segment aussehen:
 
@@ -101,13 +103,13 @@ Eine Agentur hat Ihnen vier HTML-Dateien mit dem Design für die E-Mails zur Ver
 
 1. [Herunterladen der E-Mail-Dateien zur saisonalen Kollektion](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip).
 
-2. Erstellen Sie eine Journey mit dem Namen *Luma – Ankündigung zur Sommerkollektion* basierend auf den folgenden Leitlinien:
+1. Erstellen Sie eine Journey mit dem Namen *Luma – Ankündigung zur Sommerkollektion* basierend auf den folgenden Leitlinien:
 
    1. Senden Sie die E-Mail *Luma – Ankündigung der neuen Sommerkollektion* an das Segment *Aktive Kunden*, wobei 10 % der Audience als Kontrollgruppe dient
       * Titel der Nachricht: *Luma – Ankündigung zur Sommerkollektion*
       * Betreff: *(Vorname des Empfängers), die neue Sommerkollektion von Luma ist hier!*
       * Verwenden Sie die bereitgestellte HTML-Datei `SeasonalCollectionEmail.html` für den Textkörper der E-Mail.
-   2. Warten Sie zwei Tage und senden Sie dann eine Folgenachricht mit zielgerichteteren Inhalten:
+   1. Warten Sie zwei Tage und senden Sie dann eine Folgenachricht mit zielgerichteteren Inhalten:
       * Männliche Kunden sollten die E-Mail zur **Herrenkollektion von Luma** erhalten.
          * Titel der Nachricht: *Herrenkollektion von Luma*
          * Betreffzeile: *(Vorname des Empfängers), erkunden Sie die neue Sportbekleidung für Herren!*
@@ -117,11 +119,11 @@ Eine Agentur hat Ihnen vier HTML-Dateien mit dem Design für die E-Mails zur Ver
          * Betreffzeile: *(Vorname der Empfängerin), erkunden Sie die Damenkollektion von Luma!*
          * Textkörper der E-Mail: `WomensCollectionEmail.html`
       * Andere Kundinnen und Kunden sollten die E-Mail **Luma – 20 % Rabatt auf die Kollektion** erhalten.
-         * Titel der Nachricht: *Luma – 20 % Rabatt auf die Kollektion*
-         * Betreffzeile: *(Vorname des Empfängers/der Empfängerin), erhalten Sie 20 % Rabatt auf Ihre Käufe!*
-         * Textkörper der E-Mail: `20OOffCollectionEmail.html`
-   3. Warten Sie nach dem Versand der oben genannten zielgerichteten E-Mails zwei Tage, bis die E-Mail geöffnet wird.
-   4. Wenn die zielgerichtete E-Mail nicht innerhalb von 2 Tagen geöffnet wird, senden Sie die E-Mail **Luma – 20 % Rabatt auf die Kollektion** als letzten Retargeting-Versuch
+      * Titel der Nachricht: *Luma – 20 % Rabatt auf die Kollektion*
+      * Betreffzeile: *(Vorname des Empfängers/der Empfängerin), erhalten Sie 20 % Rabatt auf Ihre Käufe!*
+      * Textkörper der E-Mail: `20OOffCollectionEmail.html`
+   1. Warten Sie nach dem Versand der oben genannten zielgerichteten E-Mails zwei Tage, bis die E-Mail geöffnet wird.
+   1. Wenn die zielgerichtete E-Mail nicht innerhalb von 2 Tagen geöffnet wird, senden Sie die E-Mail **Luma – 20 % Rabatt auf die Kollektion** als letzten Retargeting-Versuch
 
 
 >[!TAB Erfolgskriterien]
@@ -133,21 +135,21 @@ Eine Agentur hat Ihnen vier HTML-Dateien mit dem Design für die E-Mails zur Ver
 Vorschau der E-Mail:
 
 1. Fügen Sie ein Testprofil hinzu: Louise Petti:
-   1. Identity-Namespace: *Luma CRM ID*
-   2. Identitätswert: *d1f132f9f9502bba047a6ec86c4b61f9*
+   * Identity-Namespace: *Luma CRM ID*
+   * Identitätswert: *d1f132f9f9502bba047a6ec86c4b61f9*
 
 Ergebnis:
+
 * Die Betreffzeile sollte lauten: Louise, die neue Kollektion von Luma ist hier!
 * Der Textkörper der E-Mail sollte mit dem übereinstimmen, was Sie in der Vorschau gesehen haben: [Ankündigung zur neuen saisonalen Kollektion](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
-
 
 **E-Mail-Nachricht Nr. 2: Herrenkollektion von Luma**
 
 Senden Sie sich selbst eine Test-E-Mail:
 
 1. Fügen Sie ein Testprofil hinzu: Stanleigh Stooke:
-   1. Identity-Namespace: *Luma CRM ID*
-   1. Identitätswert: `4f34057d9d9e792c28ba18ecae378e98`
+   * Identity-Namespace: *Luma CRM ID*
+   * Identitätswert: `4f34057d9d9e792c28ba18ecae378e98`
 1. Wählen Sie das Testprofil aus: Stanleigh Stooke.
 1. Führen Sie einen Testversand an Sie selbst durch.
 
@@ -164,14 +166,12 @@ Zeigen Sie eine Vorschau der E-Mail mit dem Testprofil *Louise Petti* an.
 * Die Betreffzeile sollte lauten: *Louise, erkunden Sie die Damenkollektion von Luma!*
 * Der Textkörper der E-Mail sollte mit dem übereinstimmen, was Sie in der Vorschau gesehen haben: [Damenkollektion von Luma](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
-
 **E-Mail-Nachricht Nr. 4: Luma – 20 % Rabatt auf die Kollektion**
 
 Zeigen Sie eine Vorschau der E-Mail mit dem Testprofil *Louise Petti* an.
 
 * Die Betreffzeile sollte lauten: *Louise, erhalten Sie 20% Rabatt auf Ihre Käufe!*
 * Der Textkörper der E-Mail sollte mit dem übereinstimmen, was Sie in der Vorschau gesehen haben: [20 % Rabatt auf die Kollektion von Luma](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
-
 
 #### Testen der Journey
 
@@ -181,13 +181,15 @@ Zeigen Sie eine Vorschau der E-Mail mit dem Testprofil *Louise Petti* an.
 >
 >1. Stellen Sie sicher, dass der Namespace für die Aktivität [!UICONTROL Segment lesen] auf **Luma CRM id(lumaCrmId)** eingestellt ist
 >1. Überschreiben Sie für jede E-Mail die standardmäßigen E-Mail-Parameter, damit sie an Ihre E-Mail-Adresse gesendet werden:
->    * Zeigen Sie die ausgeblendeten Werte an, indem Sie auf das Augensymbol klicken.
->    * Klicken Sie in den E-Mail-Parametern auf das T-Symbol (Parameterüberschreibungen aktivieren).
->
->      ![E-Mail-Parameter überschreiben](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * Klicken Sie in das Feld [!UICONTROL Adresse]
->    * Fügen Sie im nächsten Bildschirm Ihre E-Mail-Adresse in Klammern hinzu: `"yourname@yourdomain"` im Ausdruckseditor, dann auf „OK“ klicken.
+   >    * Zeigen Sie die ausgeblendeten Werte an, indem Sie auf das Augensymbol klicken.
+   >    * Klicken Sie in den E-Mail-Parametern auf das T-Symbol (Parameterüberschreibungen aktivieren).
+
+      >
+      >      ![E-Mail-Parameter überschreiben](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Klicken Sie in das Feld [!UICONTROL Adresse]
+   >    * Fügen Sie im nächsten Bildschirm Ihre E-Mail-Adresse in Klammern hinzu: `"yourname@yourdomain"` im Ausdruckseditor, dann auf „OK“ klicken.
+
 >
 
 
