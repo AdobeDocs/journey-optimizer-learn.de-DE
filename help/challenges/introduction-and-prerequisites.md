@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
-workflow-type: ht
-source-wordcount: '456'
-ht-degree: 100%
+source-git-commit: dfa4c8a0fd984bdd1a99e4b0a819dbb9cbd4c321
+workflow-type: tm+mt
+source-wordcount: '463'
+ht-degree: 81%
 
 ---
 
@@ -23,15 +23,18 @@ Jede Challenge in diesem Abschnitt behandelt einen einzigen Anwendungsfall, den 
 
 ## Voraussetzungen
 
+Stellen Sie sicher, dass die folgenden Voraussetzungen erfüllt sind.
+
 ### Systemanforderungen
 
-* Zugriff auf eine Journey Optimizer-Sandbox – Wir empfehlen, die Challenge in einer speziellen Trainings-Sandbox zu absolvieren.
+* Zugriff auf eine Journey Optimizer-Sandbox: Es wird empfohlen, die Herausforderung in einer eigenen Trainings-Sandbox zu erledigen.
 * AEM Assets Essentials muss für Ihre Instanz bereitgestellt werden.
-* Die E-Mail-Kanäle müssen für Transaktions- und Marketing-Nachrichten konfiguriert werden.
+* Die E-Mail-Kanäle müssen für Transaktions- und Marketingnachrichten konfiguriert werden.
 
 ### Zugriffsberechtigungen
 
 Sie benötigen die folgenden Zugriffsberechtigungen:
+
 * *Journey-Manager* oder *Journey-Administrator*
 * Anzeigen von Testprofilen und ihren Attributen
 
@@ -40,8 +43,7 @@ Sie benötigen die folgenden Zugriffsberechtigungen:
 
 ### Erforderliche Aktionen
 
-* Wenn Sie Adobe Journey Optimizer noch nicht kennen, absolvieren Sie den Kurs [Erste Schritte mit Journey Optimizer für Journey-Manager und -Admins](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=de).
-
+* Wenn Sie Adobe Journey Optimizer noch nicht kennen, absolvieren Sie den Kurs [Erste Schritte mit Journey Optimizer für Journey-Manager und Administratoren](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=de).
 
 ## Die Story
 
@@ -86,7 +88,7 @@ Luma möchte für die neueste Bekleidungs- und Ausrüstungskollektion werben und
  </a>
     </div>
     <p>
-    <em>Senden Sie eine E-Mail, wenn ein Kunde, der am Kundenbindungsprogramm teilnimmt, auf eine neue Stufe aufsteigt, um ihm zu gratulieren und über seine neuen Vorteile zu informieren.</em>
+    <em>Senden Sie eine E-Mail, wenn ein Treuekunden zu einer neuen Ebene wechselt, um ihm zu gratulieren und ihn über seine neuen Vorteile zu informieren.</em>
     <p>
     <b>Erforderliche Fähigkeiten:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=de"> Erstellen von Segmenten</li>
