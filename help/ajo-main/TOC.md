@@ -5,7 +5,7 @@ user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 source-git-commit: 3bc6680939544f5c4e054a658d1e17e077b9fa63
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -91,4 +91,4 @@ ht-degree: 99%
    + [Erstellen und Verwalten von Sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
 + Datenschutz {#privacy}
    + [Maskieren von Daten in Nachrichten](/help/privacy/mask-data-in-messages.md)
-+ [Summit Lab](/help/summit-lab-731/l731-assets.md)
++ [Summit-Lab](/help/summit-lab-731/l731-assets.md)
