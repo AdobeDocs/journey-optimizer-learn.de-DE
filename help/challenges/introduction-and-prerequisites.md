@@ -1,19 +1,19 @@
 ---
-title: Journey Optimizer-Challenges – Einführung und Voraussetzungen
+title: Journey Optimizer-Herausforderungen - Einführung und Voraussetzungen
 description: Machen Sie sich mit den Grundlagen zum Erstellen einer Journey in der Journey-Arbeitsfläche vertraut.
 feature: Journeys
 role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: f56ada2b4adeced3a77f2313a1a211f71260d0b7
 workflow-type: tm+mt
 source-wordcount: '463'
-ht-degree: 81%
+ht-degree: 78%
 
 ---
 
-# Journey Optimizer-Challenges – Einführung und Voraussetzungen
+# Journey Optimizer-Herausforderungen - Einführung und Voraussetzungen
 
 ![Banner AJO-Challenges](./assets/ajo-banner-challenges.png)
 
@@ -51,7 +51,7 @@ Luma ist ein fiktionales Sportbekleidungsunternehmen mit Geschäften in mehreren
 
 Luma möchte für die neueste Bekleidungs- und Ausrüstungskollektion werben und den Absatz bei Bestandskunden steigern. Sie wurden eingestellt, um für Luma die Marketing- und Kundenbindungskampagnen in Journey Optimizer zu implementieren.
 
-## Herausforderungen, vor denen Sie stehen
+## Ihre Herausforderungen
 
 <table>
 <tr>
