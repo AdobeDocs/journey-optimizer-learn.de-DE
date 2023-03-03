@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
-source-git-commit: 3bc6680939544f5c4e054a658d1e17e077b9fa63
+source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 100%
+source-wordcount: '301'
+ht-degree: 97%
 
 ---
 
@@ -91,4 +91,7 @@ ht-degree: 100%
    + [Erstellen und Verwalten von Sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
 + Datenschutz {#privacy}
    + [Maskieren von Daten in Nachrichten](/help/privacy/mask-data-in-messages.md)
++ Übungen und Herausforderungen {#exercises-and-challenges}
+   + [Trainings-Sandbox konfigurieren](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
+   + [Herausforderungen](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
 + [Summit-Lab](/help/summit-lab-731/l731-assets.md)

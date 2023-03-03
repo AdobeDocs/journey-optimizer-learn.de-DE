@@ -1,5 +1,5 @@
 ---
-title: L731-Assets
+title: L731 Hitzbogen
 description: Diese Seite enthält Text und Links, die im Summit-Lab L731 verwendet werden.
 feature: In App, SMS, Push, Email
 doc-type: article
@@ -9,14 +9,14 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: b9c836756122dd555cbc1e6150f91e5e5ff9b176
+source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 78%
+source-wordcount: '222'
+ht-degree: 76%
 
 ---
 
-# Summit-Lab L731
+# Summit-Lab L731 - Heizblatt
 
 Diese Seite enthält Text und Links, die im Summit-Lab L731 verwendet werden. Dadurch lässt sich der Inhalt kopieren und in die Journey Optimizer-Nachrichten einfügen.
 
