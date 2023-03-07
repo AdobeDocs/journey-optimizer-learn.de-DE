@@ -7,8 +7,8 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
-source-wordcount: '1178'
+workflow-type: ht
+source-wordcount: '1175'
 ht-degree: 100%
 
 ---
@@ -180,13 +180,15 @@ Zeigen Sie eine Vorschau der E-Mail mit dem Testprofil *Louise Petti* an.
 >
 >1. Stellen Sie sicher, dass der Namespace für die Aktivität [!UICONTROL Segment lesen] auf **Luma CRM id(lumaCrmId)** eingestellt ist
 >1. Überschreiben Sie für jede E-Mail die standardmäßigen E-Mail-Parameter, damit sie an Ihre E-Mail-Adresse gesendet werden:
->    * Zeigen Sie die ausgeblendeten Werte an, indem Sie auf das Augensymbol klicken.
->    * Klicken Sie in den E-Mail-Parametern auf das T-Symbol (Parameterüberschreibungen aktivieren).
->
->      ![E-Mail-Parameter überschreiben](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * Klicken Sie in das Feld [!UICONTROL Adresse]
->    * Fügen Sie im nächsten Bildschirm Ihre E-Mail-Adresse in Klammern hinzu: `"yourname@yourdomain"` im Ausdruckseditor, dann auf „OK“ klicken.
+   >    * Zeigen Sie die ausgeblendeten Werte an, indem Sie auf das Augensymbol klicken.
+   >    * Klicken Sie in den E-Mail-Parametern auf das T-Symbol (Parameterüberschreibungen aktivieren).
+
+      >
+      >      ![E-Mail-Parameter überschreiben](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Klicken Sie in das Feld [!UICONTROL Adresse]
+   >    * Fügen Sie im nächsten Bildschirm Ihre E-Mail-Adresse in Klammern hinzu: `"yourname@yourdomain"` im Ausdruckseditor, dann auf „OK“ klicken.
+
 >
 
 
