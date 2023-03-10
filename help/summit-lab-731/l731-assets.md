@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: c0b7fa47fac1ad16121d0f568de358c83de44a90
+source-git-commit: 066b26ab466094c90edbde1887867f1aa0a618dc
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 53%
+source-wordcount: '259'
+ht-degree: 52%
 
 ---
 
@@ -30,7 +30,7 @@ Diese Seite enthält Text und Links, die im Summit-Lab L731 verwendet werden. Da
 
 ![QR-Code für iOS](/help/assets/lab731-ios-qr-code.png)
 
->[!TAB Android]
+>[!TAB Android™]
 
 ![QR-Code für Android](/help/assets/lab731-android-qr-code.png)
 
@@ -57,7 +57,7 @@ Diese Seite enthält Text und Links, die im Summit-Lab L731 verwendet werden. Da
 | Textkörper | Adobe Summit kehrt vom 21.–23. März 2023 nach Las Vegas zurück. Es warten inspirierende Rednerinnen und Redner, Sessions zur Vertiefung von Kenntnissen und neue Vernetzungen. |  |
 | Schaltfläche | Jetzt Hotel buchen und 10 % sparen | lab://booking?suite=presidential&amp;discount=10 |
 | Schaltfläche: Interaktives Ereignis | In-App-CTA |  |
-| Basis-URL |  | iOS: lab:// <br>Android: https://lab |
+| Basis-URL |  | iOS: lab:// <br>Android™: https://lab |
 
 
 ## Lektion 3 – Erstellen einer Omni-Channel-Journey
