@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 066b26ab466094c90edbde1887867f1aa0a618dc
+source-git-commit: 55d91b1ebe1b55a2c0a7d2a7e4ff1a63187b7fdf
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 52%
+source-wordcount: '325'
+ht-degree: 42%
 
 ---
 
@@ -30,9 +30,21 @@ Diese Seite enthält Text und Links, die im Summit-Lab L731 verwendet werden. Da
 
 ![QR-Code für iOS](/help/assets/lab731-ios-qr-code.png)
 
+Sie werden gebeten, Testflight zu installieren. Nachdem Sie Testflight installiert haben, führen Sie die Schritte zum Installieren der Vegas Stay App aus:
+
+![Schritte zur Installation von iOS](/help/assets/lab731-install-ios.png)
+
 >[!TAB Android™]
 
 ![QR-Code für Android](/help/assets/lab731-android-qr-code.png)
+
+Wenn Sie den Android-Simulator verwenden, verwenden Sie diesen Link: [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
+
+Da die App nicht beim Google Play Store registriert ist, erhalten Sie eine Warnmeldung:
+
+![Android-Warnbildschirm](/help/assets/lab731-install-android.png)
+
+Klicken **Installieren**
 
 >[!ENDTABS]
 
