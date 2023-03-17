@@ -1,5 +1,5 @@
 ---
-title: Erstellen einer Ankündigung zur Sommerkollektion – Challenge
+title: Erstellen einer Ankündigung zur Sommerkollektion – Herausforderung
 description: Senden Sie eine Ankündigung zur Sommerkollektion an ein Segment bestehender Kundinnen und Kunden, um die neue Sommerkollektion von Luma zu bewerben.
 kt: 8109
 role: User
@@ -13,11 +13,11 @@ ht-degree: 100%
 
 ---
 
-# Erstellen einer Ankündigung zur Sommerkollektion – Challenge
+# Erstellen einer Ankündigung zur Sommerkollektion – Herausforderung
 
 ![Banner für die Ankündigung zur AJO-Sommerkollektion](/help/challenges/assets/email-assets/luma-transactional-onboarding-3.png)
 
-| Challenge | Erstellen einer Ankündigung zur Sommerkollektion |
+| Herausforderung | Erstellen einer Ankündigung zur Sommerkollektion |
 |---|---|
 | Persona | Journey-Manager |
 | Erforderliche Fähigkeiten | <ul><li>[Erstellen von Segmenten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=de)</li><li> [Importieren und Erstellen von HTML-E-Mail-Inhalten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=de)</li><li>[Anwendungsfall: Segment lesen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=de)</li> |
@@ -29,7 +29,7 @@ ht-degree: 100%
 
 Luma, ein fiktionales Sportbekleidungsunternehmen, vermarktet die neueste Bekleidungs- und Zubehörkollektion, um den Umsatz durch bestehende Kundinnen und Kunden zu steigern. Luma startet die neue Sommerkollektion und möchte verschiedene Kundensegmente speziell ansprechen.
 
-## Ihre Challenge
+## Ihre Herausforderung
 
 Das Marketing-Team von Luma bittet Sie, eine Marketing-Kampagne für Sommerkollektionen in Journey Optimizer zu implementieren. Ihre Herausforderung besteht in Folgendem:
 
@@ -180,13 +180,15 @@ Zeigen Sie eine Vorschau der E-Mail mit dem Testprofil *Louise Petti* an.
 >
 >1. Stellen Sie sicher, dass der Namespace für die Aktivität [!UICONTROL Segment lesen] auf **Luma CRM id(lumaCrmId)** eingestellt ist
 >1. Überschreiben Sie für jede E-Mail die standardmäßigen E-Mail-Parameter, damit sie an Ihre E-Mail-Adresse gesendet werden:
->    * Zeigen Sie die ausgeblendeten Werte an, indem Sie auf das Augensymbol klicken.
->    * Klicken Sie in den E-Mail-Parametern auf das T-Symbol (Parameterüberschreibungen aktivieren).
->
->      ![E-Mail-Parameter überschreiben](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * Klicken Sie in das Feld [!UICONTROL Adresse]
->    * Fügen Sie im nächsten Bildschirm Ihre E-Mail-Adresse in Klammern hinzu: `"yourname@yourdomain"` im Ausdruckseditor, dann auf „OK“ klicken.
+   >    * Zeigen Sie die ausgeblendeten Werte an, indem Sie auf das Augensymbol klicken.
+   >    * Klicken Sie in den E-Mail-Parametern auf das T-Symbol (Parameterüberschreibungen aktivieren).
+
+      >
+      >      ![E-Mail-Parameter überschreiben](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Klicken Sie in das Feld [!UICONTROL Adresse]
+   >    * Fügen Sie im nächsten Bildschirm Ihre E-Mail-Adresse in Klammern hinzu: `"yourname@yourdomain"` im Ausdruckseditor, dann auf „OK“ klicken.
+
 >
 
 
