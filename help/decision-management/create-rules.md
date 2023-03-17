@@ -6,7 +6,7 @@ kt: 6738
 thumbnail: 329373.jpg
 exl-id: 1b4cd1cd-f082-46ec-a331-9733d7c87bde
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
 ht-degree: 100%
 
@@ -22,4 +22,4 @@ Weitere Informationen zum Erstellen von Entscheidungsregeln mit einer API finden
 
 >[!INFO]
 >
-> Dieses Video ist Teil des Kurses [Erste Schritte mit Entscheidungs-Management für Marketing-Experten](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos auf Experience League verfügbar ist.
+> Dieses Video ist Teil des Kurses [Erste Schritte mit Entscheidungs-Management für Marketing-Fachleute](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos auf Experience League verfügbar ist.
