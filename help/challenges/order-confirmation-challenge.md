@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 94%
+workflow-type: ht
+source-wordcount: '654'
+ht-degree: 100%
 
 ---
 
@@ -19,19 +19,19 @@ ht-degree: 94%
 
 ![Bestellungsbestätigung](/help/challenges/assets/email-assets/luma-transactional-order-confirmation.png)
 
-| Challenge | Erstellen einer Transaktions-E-Mail zur Bestellbestätigung |
+| Herausforderung | Erstellen einer Transaktions-E-Mail zur Bestellbestätigung |
 |---|---|
 | Persona | Journey-Manager |
 | Erforderliche Fähigkeiten | <ul><li>[Erstellen von E-Mail-Inhalten mit dem Nachrichten-Editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=de)</li> <li>[Verwenden von kontextuellen Ereignisinformationen für die Personalisierung](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=de)</li><li>[Verwenden von Helper-Funktionen für die Personalisierung](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=de)</li></ul> |
 | Herunterzuladende Assets | [Bestellbestätigungs-Assets](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Die Story
 
-Luma startet seinen Online-Shop und möchte ein gutes Kundenerlebnis sicherstellen. Sie senden eine E-Mail zur Bestellbestätigung, sobald ein Kunde eine Bestellung aufgegeben hat.
+Luma startet seinen Online-Shop und möchte ein gutes Kundenerlebnis sicherstellen. Es wird eine E-Mail zur Bestellbestätigung gesendet, sobald eine Kundin oder ein Kunde eine Bestellung aufgegeben hat.
 
-## Ihre Challenge
+## Ihre Herausforderung
 
 Erstellen Sie eine Journey, die eine Bestätigungs-E-Mail sendet, wenn eine Kundin oder ein Kunde von Luma eine Online-Bestellung abschließt.
 
@@ -41,7 +41,7 @@ Erstellen Sie eine Journey, die eine Bestätigungs-E-Mail sendet, wenn eine Kund
 
 1. Erstellen Sie eine Journey namens `Luma - Order Confirmation`.
 
-1. Verwenden Sie das Ereignis: `LumaOnlinePurchase`.
+1. Verwenden Sie das Ereignis `LumaOnlinePurchase`.
 
 1. Erstellen Sie eine **Transaktions**-E-Mail namens `Luma - Order Confirmation`.
 
@@ -71,8 +71,8 @@ Die E-Mail sollte wie folgt strukturiert sein:
   <tr>
   <td>
   <div>
-    <strong>Bestellbestätigungsabschnitt
-    </strong>
+    <strong>Abschnitt mit der Bestellbestätigung
+ </strong>
   </td>
   <td>
     <p>
@@ -104,7 +104,7 @@ Die E-Mail sollte wie folgt strukturiert sein:
  <tr>
 <td>
   <div>
-     <strong>Bestelldetailabschnitt</strong>
+     <strong>Abschnitt mit den Bestelldetails</strong>
       </div>
        <p><li>Fügen Sie diesen Abschnitt unterhalb des <b>Versand an</b>-Abschnitts ein.
       </p><br>
