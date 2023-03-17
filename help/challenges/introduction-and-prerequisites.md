@@ -1,25 +1,25 @@
 ---
-title: Journey Optimizer-Herausforderungen - Einführung und Voraussetzungen
-description: Challenges bieten ein Szenario und die Voraussetzungen, die zum Üben des Gelernten erforderlich sind. Jede Herausforderung behandelt einen einzigartigen Anwendungsfall, den Sie implementieren.
+title: Journey Optimizer-Herausforderungen – Einführung und Voraussetzungen
+description: Herausforderungen bieten ein Szenario und die Voraussetzungen, die zum Üben des Gelernten erforderlich sind. Jede Herausforderung in diesem Abschnitt behandelt einen einzigen Anwendungsfall, den Sie implementieren.
 feature: Journeys
 role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '475'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
-# Journey Optimizer-Herausforderungen - Einführung und Voraussetzungen
+# Journey Optimizer-Herausforderungen – Einführung und Voraussetzungen
 
-![Banner AJO-Challenges](./assets/ajo-banner-challenges.png)
+![AJO-Herausforderungen: Banner](./assets/ajo-banner-challenges.png)
 
-Challenges bieten ein Szenario und die Voraussetzungen, die zum Üben des Gelernten erforderlich sind. Challenges helfen Ihnen dabei, Ihr Qualifikationsniveau einzuschätzen und Wissenslücken zu erkennen.
+Herausforderungen bieten ein Szenario und die Voraussetzungen, die zum Üben des Gelernten erforderlich sind. Herausforderungen helfen Ihnen dabei, Ihr Qualifikationsniveau einzuschätzen und Wissenslücken zu erkennen.
 
-Jede Challenge in diesem Abschnitt behandelt einen einzigen Anwendungsfall, den Sie implementieren. Die Ziel-Audience (Persona) und die erforderlichen Fähigkeiten werden zu Beginn jeder Challenge aufgelistet.
+Jede Herausforderung in diesem Abschnitt behandelt einen einzigen Anwendungsfall, den Sie implementieren. Die Ziel-Audience (Persona) und die erforderlichen Fähigkeiten werden zu Beginn jeder Herausforderung aufgelistet.
 
 ## Voraussetzungen
 
@@ -27,9 +27,9 @@ Stellen Sie sicher, dass die folgenden Voraussetzungen erfüllt sind.
 
 ### Systemanforderungen
 
-* Zugriff auf eine Journey Optimizer-Sandbox: Es wird empfohlen, die Herausforderung in einer eigenen Trainings-Sandbox zu erledigen.
+* Zugriff auf eine Journey Optimizer-Sandbox: Wir empfehlen, die Herausforderung in einer speziellen Trainings-Sandbox zu absolvieren.
 * AEM Assets Essentials muss für Ihre Instanz bereitgestellt werden.
-* Die E-Mail-Kanäle müssen für Transaktions- und Marketingnachrichten konfiguriert werden.
+* Die E-Mail-Kanäle müssen für Transaktions- und Marketing-Nachrichten konfiguriert werden.
 
 ### Zugriffsberechtigungen
 
@@ -43,7 +43,7 @@ Sie benötigen die folgenden Zugriffsberechtigungen:
 
 ### Erforderliche Aktionen
 
-* Wenn Sie Adobe Journey Optimizer noch nicht kennen, absolvieren Sie den Kurs [Erste Schritte mit Journey Optimizer für Journey-Manager und Administratoren](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=de).
+* Wenn Sie Adobe Journey Optimizer noch nicht kennen, absolvieren Sie zuerst den Kurs [Erste Schritte mit Journey Optimizer für Journey-Manager und -Administrierende](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=de).
 
 ## Die Story
 
@@ -88,7 +88,7 @@ Luma möchte für die neueste Bekleidungs- und Ausrüstungskollektion werben und
  </a>
     </div>
     <p>
-    <em>Senden Sie eine E-Mail, wenn ein Treuekunden zu einer neuen Ebene wechselt, um ihm zu gratulieren und ihn über seine neuen Vorteile zu informieren.</em>
+    <em>Senden Sie eine E-Mail, wenn eine Person, die als Kundin oder Kunde am Kundentreueprogramm teilnimmt, auf eine neue Stufe aufsteigt, um der Person zu gratulieren und sie über ihre neuen Vorteile zu informieren.</em>
     <p>
     <b>Erforderliche Fähigkeiten:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=de"> Erstellen von Segmenten</li>
