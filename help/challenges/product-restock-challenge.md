@@ -1,5 +1,5 @@
 ---
-title: Challenge zur Produktauffüllung
+title: 'Herausforderung: Produktauffüllung'
 description: Wenden Sie Ihr erworbenes Wissen über das Erstellen von Segmenten an und testen Sie Ihre Fähigkeiten.
 kt: 8417
 feature: Segments
@@ -15,9 +15,9 @@ ht-degree: 100%
 
 ---
 
-# Challenge zur Produktauffüllung
+# Herausforderung: Produktauffüllung
 
-| Challenge | Produktauffüllung |
+| Herausforderung | Produktauffüllung |
 |---|---|
 | Persona | Journey-Manager |
 | Erforderliche Fähigkeiten | <ul><li>[Erstellen von Segmenten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=de)</li><li> [Importieren und Erstellen von HTML-E-Mail-Inhalten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=de)</li><li>[Anwendungsfall: Segment lesen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=de)</li> |
@@ -27,7 +27,7 @@ ht-degree: 100%
 
 Beim Surfen auf der Luma-Website können die Kundinnen und Kunden Produkte, die sie interessieren, einer Wunschliste hinzufügen, was es Luma ermöglicht, ihnen gezielte Marketing-Nachrichten und -Informationen über die Produkte zu senden.
 
-## Ihre Challenge
+## Ihre Herausforderung
 
 Luma bittet Sie, eine Journey in Journey Optimizer zu implementieren. Diese benachrichtigt Kundinnen und Kunden, die einen vergriffenen Artikel auf ihrer Wunschliste haben, wenn dieser Artikel wieder vorrätig ist. Das Kreativ-Team stellt Ihnen die [E-Mail zur Wiederverfügbarkeit von Produkten](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) zur Verfügung.
 
