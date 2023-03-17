@@ -5,7 +5,7 @@ recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
 ht-degree: 100%
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer hilft Unternehmen, ihren Kunden vernetzte, kontextbezogene und personalisierte Erlebnisse bereitzustellen. Die Customer Journey umfasst den gesamten Prozess der Kundeninteraktion mit der Marke, von der ersten Kontaktaufnahme, bis zum Verlassen der Site.
+Journey Optimizer hilft Unternehmen, ihren Kunden vernetzte, kontextuelle und personalisierte Erlebnisse bereitzustellen. Die Customer Journey umfasst den gesamten Prozess der Kundeninteraktion mit der Marke, von der ersten Kontaktaufnahme, bis zum Verlassen der Site.
 
 Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer.
 
@@ -129,7 +129,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
   </td>
     <td>
     <a href="./personalize-content/use-contextual-event-information-for-personalization.md">
-      <img alt="Verwenden von kontextbezogenen Ereignisinformationen für die Personalisierung" src="./assets/334165.jpg"/>
+      <img alt="Verwenden von kontextuellen Ereignisinformationen für die Personalisierung" src="./assets/334165.jpg"/>
     </a>
     <div>
       <a href="./personalize-content/use-contextual-event-information-for-personalization.md">
@@ -137,7 +137,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
     </a>
     </div>
     <p>
-    <em>Erfahren Sie, wie Sie kontextbezogene Ereignisinformationen aus einer Journey verwenden können, um eine Nachricht zu personalisieren.</em>
+    <em>Erfahren Sie, wie Sie kontextuelle Ereignisinformationen aus einer Journey verwenden können, um eine Nachricht zu personalisieren.</em>
     <p>
   </td>
   </td>
