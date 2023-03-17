@@ -1,5 +1,5 @@
 ---
-title: L731 Hitzbogen
+title: L731 Cheat Sheet
 description: Diese Seite enthält Text und Links, die im Summit-Lab L731 verwendet werden.
 feature: In App, SMS, Push, Email
 doc-type: article
@@ -12,15 +12,15 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 40%
+ht-degree: 55%
 
 ---
 
-# Summit-Lab L731 - Heizblatt
+# Summit-Lab L731 – Cheat Sheet
 
 Diese Seite enthält Text und Links, die im Summit-Lab L731 verwendet werden. Dadurch lässt sich der Inhalt kopieren und in die Journey Optimizer-Nachrichten einfügen.
 
-## Übung 1.1 - Herunterladen und Installieren der App
+## Lektion 1.1 – Herunterladen und Installieren der App
 
 Überprüfen Sie den QR-Code, um die App herunterzuladen.
 
@@ -50,7 +50,7 @@ Klicken **Installieren**
 
 ## Übung 1.3: Bei Adobe Journey Optimizer anmelden
 
-[Klicken Sie hier , um sich bei Journey Optimizer anzumelden.](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
+[Klicken Sie hier, um sich bei Journey Optimizer anzumelden](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
 
 **Anmeldedetails:**
 
@@ -63,7 +63,7 @@ Klicken **Installieren**
 | Feld | Text | Links |
 |----|----|----|
 | Kampagnenname | `<your seat number> March Vegas Campaign` |  |
-| Matcher | booknow |  |
+| Matcher | jetzt buchen |  |
 | Medien-URL-Option |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
 | Titel | Es ist Happening &amp; es ist Live! |  |
 | Textkörper | Adobe Summit kehrt vom 21.–23. März 2023 nach Las Vegas zurück. Es warten inspirierende Rednerinnen und Redner, Sessions zur Vertiefung von Kenntnissen und neue Vernetzungen. |  |
