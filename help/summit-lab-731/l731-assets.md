@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
+source-git-commit: ea4ba49056ad3e575c0953ad963966bcecf54c9f
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 55%
+source-wordcount: '355'
+ht-degree: 53%
 
 ---
 
@@ -30,11 +30,97 @@ Diese Seite enthält Text und Links, die im Summit-Lab L731 verwendet werden. Da
 
 ![QR-Code für iOS](/help/assets/lab731-ios-qr-code.png)
 
-Sie werden gebeten, Testflight zu installieren. Nachdem Sie Testflight installiert haben, führen Sie die Schritte zum Installieren der Vegas Stay App aus:
+Sie werden aufgefordert, Testflight zu installieren (Schritte 1 bis 4). Nachdem Sie Testflight installiert haben, führen Sie die Schritte 5 bis 8 aus, um die Vegas Stay App zu installieren:
 
-![Schritte zur Installation von iOS](/help/assets/lab731-install-ios.png)
-
->[!TAB Android™]
+<table>
+<tr>
+</tr>
+<tr>
+<td>
+ <div>
+      <p>
+      <b>Schritt 1 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="Testflight 1" src="../assets/l731-ios-install/ios-install-1.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Schritt 2 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="Testflight 1" src="../assets/l731-ios-install/ios-install-2.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Schritt 3 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="Testflight 1" src="../assets/l731-ios-install/ios-install-3.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Schritt 4 </b>
+      <p>
+      <a href="Step 4">
+        <img alt="Testflight 1" src="../assets/l731-ios-install/ios-install-4.PNG"/>
+      </a>
+      </div>
+  </td>
+  </tr>
+  <tr>
+<td>
+ <div>
+      <p>
+      <b>Schritt 5 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="Testflight 1" src="../assets/l731-ios-install/ios-install-5.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Schritt 6 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="Testflight 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Schritt 7 </b>
+      <p>
+      <a href="Step 1:">
+        <img alt="Testflight 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
+      </a>
+      </div>
+  </td>
+  <td>
+ <div>
+      <p>
+      <b>Schritt 8 </b>
+      <p>
+      <a href="Step 4">
+        <img alt="Testflight 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
+      </a>
+      </div>
+  </td>
+  </tr>
+</table>
+&gt;[!TAB Android™]
 
 ![QR-Code für Android](/help/assets/lab731-android-qr-code.png)
 
@@ -74,9 +160,15 @@ Klicken **Installieren**
 
 ## Lektion 3 – Erstellen einer Omni-Channel-Journey
 
+**Journey Label:**
+<your seat number> - Willkommens-Journey
+
 >[!BEGINTABS]
 
 >[!TAB Push-Nachricht]
+
+**Titel:**
+Willkommensnachricht
 
 **Titel:**\
 Willkommen bei Vegas Stay!
@@ -97,10 +189,16 @@ Dies ist das Bild, das wir für die Push-Benachrichtigung verwenden:
 
 >[!TAB SMS-Nachricht]
 
+**Titel:**
+Willkommensnachricht
+
 **Nachricht:**
 Willkommen bei Vegas Stay. Mit dem Check-in per App umgehen Sie Warteschlangen: lab://checkin
 
 >[!TAB E-Mail-Nachricht]
+
+**Titel:**
+Bestätigungsnachricht
 
 **Betreffzeile:**
 {{profile.person.name.firstName}}, Sie sind eingecheckt, sehen Sie sich jetzt unsere Angebote für Ihren Aufenthalt an!
