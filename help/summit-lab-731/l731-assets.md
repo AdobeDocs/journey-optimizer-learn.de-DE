@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: ea4ba49056ad3e575c0953ad963966bcecf54c9f
+source-git-commit: 675f402b8c2ad8511736bbb683922fc07763e247
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 53%
@@ -120,7 +120,7 @@ Sie werden aufgefordert, Testflight zu installieren (Schritte 1 bis 4). Nachdem 
   </td>
   </tr>
 </table>
-&gt;[!TAB Android™]
+&gt;[!TAB Android]
 
 ![QR-Code für Android](/help/assets/lab731-android-qr-code.png)
 
@@ -155,13 +155,13 @@ Klicken **Installieren**
 | Textkörper | Adobe Summit kehrt vom 21.–23. März 2023 nach Las Vegas zurück. Es warten inspirierende Rednerinnen und Redner, Sessions zur Vertiefung von Kenntnissen und neue Vernetzungen. |  |
 | Schaltfläche | Jetzt Hotel buchen und 10 % sparen | lab://booking?suite=presidential&amp;discount=10 |
 | Schaltfläche: Interaktives Ereignis | In-App-CTA |  |
-| Basis-URL |  | iOS: lab:// <br>Android™: https://lab |
+| Basis-URL |  | iOS: lab:// <br>Android&amp;: https://lab |
 
 
 ## Lektion 3 – Erstellen einer Omni-Channel-Journey
 
 **Journey Label:**
-<your seat number> - Willkommens-Journey
+`<your seat number>` - Willkommens-Journey
 
 >[!BEGINTABS]
 
