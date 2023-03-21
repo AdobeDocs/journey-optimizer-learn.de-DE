@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 3d39dc6e04992175331a3bf2855370359a8d4527
+source-git-commit: 879eeea18f565db742f62d7dbdf65f61341ead2e
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 53%
@@ -30,7 +30,7 @@ Diese Seite enthält Text und Links, die im Summit-Lab L731 verwendet werden. Da
 
 ![QR-Code für iOS](/help/assets/lab731-ios-qr-code.png)
 
-Sie werden aufgefordert, Testflight zu installieren (Schritte 1 bis 4). Nachdem Sie Testflight installiert haben, führen Sie die Schritte 5 bis 8 aus, um die Vegas Stay App zu installieren:
+Sie werden gebeten, Testflight zu installieren, Schritte 1 bis 4. Nachdem Sie Testflight installiert haben, führen Sie die Schritte 5 bis 8 aus, um die Vegas Stay App zu installieren:
 
 <table>
 <tr>
@@ -41,7 +41,7 @@ Sie werden aufgefordert, Testflight zu installieren (Schritte 1 bis 4). Nachdem 
       <p>
       <b>Schritt 1 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 1">
         <img alt="Testflight 1" src="../assets/l731-ios-install/ios-install-1.png"/>
       </a>
       </div>
@@ -51,7 +51,7 @@ Sie werden aufgefordert, Testflight zu installieren (Schritte 1 bis 4). Nachdem 
       <p>
       <b>Schritt 2 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 2">
         <img alt="Testflight 1" src="../assets/l731-ios-install/ios-install-2.PNG"/>
       </a>
       </div>
@@ -61,7 +61,7 @@ Sie werden aufgefordert, Testflight zu installieren (Schritte 1 bis 4). Nachdem 
       <p>
       <b>Schritt 3 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 3">
         <img alt="Testflight 1" src="../assets/l731-ios-install/ios-install-3.PNG"/>
       </a>
       </div>
@@ -71,7 +71,7 @@ Sie werden aufgefordert, Testflight zu installieren (Schritte 1 bis 4). Nachdem 
       <p>
       <b>Schritt 4 </b>
       <p>
-      <a href="Step 4">
+      <a href="Step 4" 3>
         <img alt="Testflight 1" src="../assets/l731-ios-install/ios-install-4.PNG"/>
       </a>
       </div>
@@ -83,7 +83,7 @@ Sie werden aufgefordert, Testflight zu installieren (Schritte 1 bis 4). Nachdem 
       <p>
       <b>Schritt 5 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 5">
         <img alt="Testflight 1" src="../assets/l731-ios-install/ios-install-5.PNG"/>
       </a>
       </div>
@@ -93,7 +93,7 @@ Sie werden aufgefordert, Testflight zu installieren (Schritte 1 bis 4). Nachdem 
       <p>
       <b>Schritt 6 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 6">
         <img alt="Testflight 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
       </a>
       </div>
@@ -103,7 +103,7 @@ Sie werden aufgefordert, Testflight zu installieren (Schritte 1 bis 4). Nachdem 
       <p>
       <b>Schritt 7 </b>
       <p>
-      <a href="Step 1:">
+      <a href="Step 7">
         <img alt="Testflight 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
       </a>
       </div>
@@ -113,7 +113,7 @@ Sie werden aufgefordert, Testflight zu installieren (Schritte 1 bis 4). Nachdem 
       <p>
       <b>Schritt 8 </b>
       <p>
-      <a href="Step 4">
+      <a href="Step 8">
         <img alt="Testflight 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
       </a>
       </div>
