@@ -1,6 +1,6 @@
 ---
 title: Einführung
-description: Lernziele und Anwendungsfall für Workshops
+description: Lernziele und der Workshop-Anwendungsfall
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
@@ -8,9 +8,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 source-git-commit: c3f1e87ad556d630d03a359408edb7c23f1cf3e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '395'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
@@ -19,24 +19,24 @@ ht-degree: 1%
 
 ## Lernziele
 
-1. Machen Sie sich mit dem Anwendungsfall für Workshops und der App vertraut.
+1. Machen Sie sich mit dem Workshop-Anwendungsfall und der Mobile App vertraut.
 2. Erste Schritte:
-   * Installieren Sie das Programm und registrieren Sie einen Benutzer bei der App.
+   * Installieren Sie die App und registrieren Sie eine Benutzerin oder einen Benutzer bei der App.
    * Melden Sie sich bei Adobe Journey Optimizer an.
 3. Erfahren Sie, welche Profildaten über die App erfasst werden.
 
-## Erläuterung des Anwendungsbeispiels für Workshop
+## Erläuterung des Workshop-Anwendungsfalls
 
-Sie sind ein mobiler Marketer, der für das Vegas Stay Resort in Las Vegas arbeitet. Sie wissen, dass einige große Veranstaltungen wie das NCAA Sweet 16 Turnier, das Taylor Swift Konzert und, der größte von allen, der Adobe Summit alle in der gleichen Woche im März stattfinden! Sie möchten dies so weit wie möglich nutzen. **Sie haben das Ziel, die Anzahl der über Ihre Mobile App getätigten Zimmerbuchungen zu erhöhen.**.
+Sie sind eine Fachkraft für Mobile-Marketing, die für das Vegas Stay Resort in Las Vegas arbeitet. Sie wissen, dass einige große Veranstaltungen, wie das Basketball-Turnier „NCAA Sweet 16“, das Taylor-Swift-Konzert und – die größte von allen – der Adobe Summit, alle in derselben Märzwoche stattfinden! Sie möchten bestmöglich davon profitieren. **Sie haben daher das Ziel, die Anzahl der über Ihre Mobile App getätigten Zimmerbuchungen zu erhöhen.**.
 
-Um dieses Ziel zu erreichen, haben Sie beschlossen, eine kanalübergreifende Marketing-Strategie zu erstellen, die In-App-, Push-, SMS- und E-Mail-Messaging-Kampagnen umfasst.  Und es überrascht nicht, dass Sie sich dafür entscheiden, das beste Produkt da draußen zu verwenden. **Adobe Journey Optimizer**!
+Um dieses Ziel zu erreichen, haben Sie beschlossen, eine kanalübergreifende Marketing-Strategie zu erstellen, die In-App-, Push-, SMS- und E-Mail-Messaging-Kampagnen umfasst.  Und es ist wenig überraschend, dass Sie sich entscheiden, dafür das beste Produkt auf dem Markt zu verwenden: **Adobe Journey Optimizer**!
 
-Mit der In-App-Kampagne können Sie Benutzer während der Verwendung der Vegas Stay-App als Ziel auswählen. Sie erstellen attraktive Banner und Popups, die angezeigt werden, während die Benutzer die App durchsuchen. Diese Banner markieren Sonderangebote und Rabatte auf Hotelzimmer und beinhalten einen klaren Handlungsaufruf bei der Buchung eines Zimmers.
+Mit der In-App-Kampagne können Sie Benutzerinnen und Benutzer ansprechen, während sie die Vegas Stay-App verwenden. Sie erstellen attraktive Banner und Popups, die angezeigt werden, während die Benutzerinnen und Benutzer die App durchsuchen. Diese Banner heben Sonderangebote und Rabatte auf Hotelzimmer hervor und beinhalten eine klare Handlungsaufforderung für die Zimmerbuchung.
 
-Sie erstellen eine einzelne Push-Benachrichtigungskampagne. Sie möchten eine einfache, aber effektive Push-Benachrichtigung erstellen, um Benutzer, die noch keinen Raum gebucht haben, in die App zu ziehen. Sie möchten eine Nachricht erstellen, die alle über die aufregenden Ereignisse in Las Vegas informiert und Benutzer zur App weiterleitet.
+Sie gestalten eine einzelne Push-Benachrichtigungskampagne. Sie möchten eine einfache, aber effektive Push-Benachrichtigung erstellen, um Benutzerinnen und Benutzer, die noch kein Zimmer gebucht haben, in die App zu holen. Sie möchten eine Nachricht erstellen, die alle über die aufregenden Ereignisse in Las Vegas informiert und Benutzerinnen und Benutzer zur App lockt.
 
-Um dem Gast ein gutes Markenerlebnis zu bieten, erstellen Sie eine kanalübergreifende Journey. Die Journey wird bei der Ankunft des Gastes im Resort ausgelöst. Sie nutzen Push- und SMS-Nachrichten, um den Gast zum Resort willkommen zu heißen und ihn zum Online-Check-in in die App zu leiten. Nach dem Check-in erhält der Gast eine E-Mail-Bestätigung mit einem Gutschein für eine der Annehmlichkeiten des Hotels und zusätzlichen Angeboten, die während seines Aufenthalts zu tun haben.
+Um Gästen ein gutes Markenerlebnis zu bieten, erstellen Sie eine kanalübergreifende Journey. Die Journey wird bei der Ankunft des Gastes im Resort ausgelöst. Sie nutzen Push- und SMS-Nachrichten, um die Gäste im Resort willkommen zu heißen und sie zum Online-Check-in in die App zu leiten. Nach dem Check-in erhalten Gäste eine E-Mail-Bestätigung mit einem Gutschein für eine der Annehmlichkeiten des Hotels und weitere Angebote für Aktivitäten während ihres Aufenthalts.
 
-Mit diesem kanalübergreifenden Ansatz können Sie eine größere Zielgruppe erreichen, die Anzahl der über die App getätigten Zimmerbuchungen erhöhen und gleichzeitig Ihre Bemühungen mit AJO optimieren.
+Mit diesem kanalübergreifenden Ansatz können Sie eine größere Audience erreichen, die Anzahl der über die App getätigten Zimmerbuchungen erhöhen und gleichzeitig Ihre Anstrengungen mithilfe von AJO abstimmen.
 
-Schließlich waren Ihre Bemühungen ein großer Erfolg, und das Unternehmen sah einen signifikanten Anstieg des Umsatzes!
+Ihre Anstrengungen waren schließlich ein großer Erfolg, und das Unternehmen erlebte einen signifikanten Umsatzanstieg.
