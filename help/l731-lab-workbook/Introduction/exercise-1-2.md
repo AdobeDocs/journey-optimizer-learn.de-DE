@@ -1,31 +1,31 @@
 ---
 title: Übung 1.2
-description: Herunterladen und Installieren der mobilen App
+description: Herunterladen und Installieren der Mobile App
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
 recommendations: noDisplay, noCatalog
 hide: true
 source-git-commit: 879eeea18f565db742f62d7dbdf65f61341ead2e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '193'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# Übung 1.2: Als Benutzer bei der App registrieren
+# Übung 1.2: Als Benutzerin bzw. Benutzer bei der App registrieren
 
 >[!IMPORTANT]\
->Bitte melden Sie sich mit einer **E-Mail-Adresse, auf die Sie während der Laborsitzung zugreifen können** und **Ihre Mobiltelefonnummer**.
+>Bitte registrieren Sie sich mit einer **E-Mail-Adresse, auf die Sie während der Laborsitzung zugreifen können**, und mit **Ihrer Mobiltelefonnummer**.
 >
-> Diese Information ist erforderlich, damit Sie die Nachrichten erhalten, die Sie senden. Außerdem können Sie damit auf Ihre Informationen in Journey Optimizer zugreifen. Es wird für keinen anderen Zweck als dieses Labor verwendet.
+> Diese Informationen sind erforderlich, damit Sie die Nachrichten erhalten, die Sie senden werden. Außerdem können Sie damit auf Ihre Informationen in Journey Optimizer zugreifen. Sie werden für keinen anderen Zweck als dieses Labor verwendet.
 
 1. Öffnen Sie die App.
-1. Klicken Sie im Popup-Fenster auf Zulassen.
-1. Registrieren Sie sich:
+1. Klicken Sie im Popup-Fenster auf „Zulassen“.
+1. Registrieren:
 
-   Beim erstmaligen Öffnen der App werden Sie aufgefordert, sich anzumelden. Bitte geben Sie die folgenden Details an:
+   Beim erstmaligen Öffnen der App werden Sie aufgefordert, sich zu registrieren. Bitte geben Sie die folgenden Details ein:
 
    <table>
     <tr>
@@ -35,24 +35,24 @@ ht-degree: 1%
     </div>
     </td>
     <td>
-    <strong>E-Mail: </strong><br>Geben Sie eine E-Mail-Adresse ein, auf die Sie im Labor zugreifen können.
+    <strong>E-Mail: </strong><br>Geben Sie eine E-Mail-Adresse ein, auf die Sie während des Labors zugreifen können.
     </p><p>
     <strong>Vorname, Nachname </strong>
     </p><p>
     <strong>Telefonnummer: </strong> <br>Geben Sie Ihre Mobiltelefonnummer im folgenden Format ein: 
-    <p>+16501245566 (+Telefonnummer des Landes).
+    <p>+16501245566 (+Landesvorwahl Telefonnummer).
     </p><p>
     <strong>Sitznummer: </strong><br>Ihre Sitznummer befindet sich auf Ihrer Workstation. Es ist SEHR WICHTIG, die richtige Sitznummer einzugeben!
     </p><p>
-    <strong>Wählen Sie Interesse aus: </strong></br>Sport, Wellness, Essen oder Unterhaltung
+    <strong>Interesse auswählen: </strong></br>Sport, Wellness, Essen oder Unterhaltung
     </p><p>
-    <strong>Wählen Sie Mitgliedsstufe aus: </strong></br>Rot, Blau, Grün oder Gelb</p>
+    <strong>Mitgliedsstufe auswählen: </strong></br>Rot, Blau, Grün oder Gelb</p>
     </td>
     </tr>
     </table>
 
-1. Klicken Sie auf **Senden**
+1. Klicken Sie auf **Absenden**
 
 >[!SUCCESS]
 >
->Sie haben einen App-Benutzer erstellt und ein Profil für diesen Benutzer wurde in Adobe Journey Optimizer erstellt.
+>Sie haben einen App-Benutzer erstellt und ein Profil für diese Benutzerin oder diesen Benutzer wurde in Adobe Journey Optimizer erstellt.
