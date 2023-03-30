@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
 workflow-type: tm+mt
-source-wordcount: '1020'
-ht-degree: 100%
+source-wordcount: '1021'
+ht-degree: 98%
 
 ---
 
@@ -245,7 +245,7 @@ Sie haben jetzt den [!UICONTROL Namespace] und das [!DNL Luma Loyalty schema] ko
    | `size` | `Product Size` | [!UICONTROL String] |
    | `price` | `Product Price` | [!UICONTROL Double] |
    | `description` | `Product Description` | [!UICONTROL String] |
-   | `imageURL` | `Product Image URL` | [!UICONTROL String] |
+   | `imageUrl` | `Product Image URL` | [!UICONTROL String] |
    | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL String] |
    | `url` | `Product URL` | [!UICONTROL String] |
 
@@ -345,4 +345,4 @@ Erstellen Sie die folgenden zusätzlichen [!UICONTROL Schemata]:
 
 ## Nächste Schritte
 
-Jetzt, da Sie die Datenstruktur erstellt haben, [erstellen Sie Datensätze und nehmen Beispieldaten auf](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
+Nachdem Sie die Datenstruktur erstellt haben, können Sie [Erstellen von Datensätzen und Erfassen von Beispieldaten](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
