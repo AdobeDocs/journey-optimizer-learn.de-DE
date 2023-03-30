@@ -1,21 +1,21 @@
 ---
-user-guide-title: Summit Lab 731 - Arbeitsmappe
-user-guide-description: In diesem praktischen Labor erfahren Sie, wie Sie eine kanalübergreifende Marketingstrategie implementieren, die In-App-, Push-Benachrichtigungen, SMS- und E-Mail-Messaging-Kampagnen und -Journey in Adobe Journey Optimizer umfasst.
-breadcrumb-title: Journey Optimizer - Arbeitsmappe L731
+user-guide-title: Summit Lab 731 – Arbeitsmappe
+user-guide-description: In diesem praxisorientierten Labor erfahren Sie, wie Sie eine kanalübergreifende Marketing-Strategie implementieren, die In-App-, Push-Benachrichtigungen, SMS- und E-Mail-Messaging-Kampagnen und -Journeys in Adobe Journey Optimizer umfasst.
+breadcrumb-title: Journey Optimizer – L731-Arbeitsmappe
 breadcrumb-url: /docs/journey-optimizer-learn/summit-lab/overview.html
 index: false
 hide: true
 source-git-commit: a1751f374f611fcf38db7ad9b51c42315c890b04
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
 # Summit Lab L731: Erstellen personalisierter Mobile-Momente mit Journey Optimizer {#workbook}
 
-+ [Lab-Übersicht]{#overview}
++ [Labor-Übersicht]{#overview}
 + [Einführung]{#introduction}
    + [Einführung](/help/l731-lab-workbook/Introduction/introduction.md)
    + [Übung 1.1](/help/l731-lab-workbook/Introduction/exercise-1-1.md)
