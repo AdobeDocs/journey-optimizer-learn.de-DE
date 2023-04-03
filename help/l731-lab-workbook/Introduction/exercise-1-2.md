@@ -16,7 +16,7 @@ ht-degree: 100%
 
 # Übung 1.2: Als Benutzerin bzw. Benutzer bei der App registrieren
 
->[!IMPORTANT]\
+>[!IMPORTANT]
 >Bitte registrieren Sie sich mit einer **E-Mail-Adresse, auf die Sie während der Laborsitzung zugreifen können**, und mit **Ihrer Mobiltelefonnummer**.
 >
 > Diese Informationen sind erforderlich, damit Sie die Nachrichten erhalten, die Sie senden werden. Außerdem können Sie damit auf Ihre Informationen in Journey Optimizer zugreifen. Sie werden für keinen anderen Zweck als dieses Labor verwendet.
