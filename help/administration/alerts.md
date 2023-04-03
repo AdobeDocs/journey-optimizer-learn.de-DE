@@ -9,7 +9,7 @@ team: PM
 role: Admin
 last-substantial-update: 2022-09-28T00:00:00Z
 exl-id: f4979b56-ee11-45f6-b538-b93a94f6ac41
-source-git-commit: e1dc0c6b12812854368bba162eea4747a3d76db3
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
@@ -27,6 +27,6 @@ Erfahren Sie, wie Sie vordefinierte Warnhinweise für unerwartete Verhaltensweis
 >
 >Beim Zugriff auf Warnhinweise aus Journey Optimizer werden standardmäßig nur Warnhinweise angezeigt, die speziell für Ihre Live-Journey gelten.
 
->[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on)
 
 Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/alerts.html?lang=de).
