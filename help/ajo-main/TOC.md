@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
-source-git-commit: 5e9829459bc3092e60375fca3e759a2aac88446f
+source-git-commit: d714492526fea082f88f09ad528f8725fb3af815
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '315'
 ht-degree: 100%
 
 ---
@@ -67,6 +67,7 @@ ht-degree: 100%
    + [Erstellen von Sammlungen](/help/decision-management/create-collections.md)
    + [Erstellen von Entscheidungen](/help/decision-management/create-decisions.md)
    + [Unterbreiten von Angeboten mithilfe der Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
+   + [Frequenzlimitierung](/help/decision-management/frequency-capping.md)
 + Reporting und Überwachung {#report-and-monitor}
    + [Live- und globale Berichte](/help/report-and-monitor/live-and-global-reports.md)
    + [Verwenden von Warnhinweisen](/help/administration/alerts.md)
