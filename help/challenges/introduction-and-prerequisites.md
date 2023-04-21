@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '482'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Stellen Sie sicher, dass die folgenden Voraussetzungen erfüllt sind.
 
 * Zugriff auf eine Journey Optimizer-Sandbox: Wir empfehlen, die Herausforderung in einer speziellen Trainings-Sandbox zu absolvieren.
 * AEM Assets Essentials muss für Ihre Instanz bereitgestellt werden.
-* Die [E-Mail-Kanäle müssen konfiguriert werden](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html) für Transaktions- und Marketingnachrichten.
+* Die [E-Mail-Kanäle müssen konfiguriert werden](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html?lang=de) für Transaktions- und Marketing-Nachrichten.
 
 ### Zugriffsberechtigungen
 
