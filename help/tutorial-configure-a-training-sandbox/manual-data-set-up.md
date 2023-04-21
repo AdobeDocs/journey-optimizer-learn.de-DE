@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
 source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1021'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -345,4 +345,4 @@ Erstellen Sie die folgenden zusätzlichen [!UICONTROL Schemata]:
 
 ## Nächste Schritte
 
-Nachdem Sie die Datenstruktur erstellt haben, können Sie [Erstellen von Datensätzen und Erfassen von Beispieldaten](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
+Jetzt, da Sie die Datenstruktur erstellt haben, können Sie [Datensätze erstellen und Beispieldaten aufnehmen](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
