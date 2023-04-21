@@ -1,6 +1,6 @@
 ---
-title: Entscheidungs-Management – Häufigkeitsbegrenzung
-description: Erfahren Sie, wie die Häufigkeitsbegrenzung für Offer Decisioning funktioniert. Erfahren Sie, wie Sie die Häufigkeitsbegrenzung für ein benutzerspezifisches Ereignis konfigurieren und wie Sie Inkremente konfigurieren, indem Sie die Häufigkeit festlegen.
+title: Entscheidungs-Management – Frequenzlimitierung
+description: Erfahren Sie, wie die Frequenzlimitierung für Offer Decisioning funktioniert. Erfahren Sie, wie Sie die Frequenzlimitierung für ein benutzerspezifisches Ereignis konfigurieren und Inkremente konfigurieren können, indem Sie die Häufigkeit definieren.
 feature: Offers
 role: User
 level: Beginner
@@ -11,13 +11,13 @@ thumbnail: 3417853.jpeg
 exl-id: 20314ab5-c72e-4f0e-9438-a0e454f23b65
 source-git-commit: a03a7771aef6c9b3aa9e65d7c04267d11daf2254
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Entscheidungs-Management – Häufigkeitsbegrenzung
+# Entscheidungs-Management – Frequenzlimitierung
 
-Erfahren Sie, wie die Häufigkeitsbegrenzung für Offer Decisioning funktioniert. Erfahren Sie, wie Sie die Häufigkeitsbegrenzung für ein benutzerspezifisches Ereignis konfigurieren und wie Sie Inkremente konfigurieren, indem Sie die Häufigkeit festlegen.
+Erfahren Sie, wie die Frequenzlimitierung für Offer Decisioning funktioniert. Erfahren Sie, wie Sie die Frequenzlimitierung für ein benutzerspezifisches Ereignis konfigurieren und Inkremente konfigurieren können, indem Sie die Häufigkeit definieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417853/?quality=12&learn=on)
