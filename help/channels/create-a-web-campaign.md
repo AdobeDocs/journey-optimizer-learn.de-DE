@@ -1,6 +1,6 @@
 ---
 title: Erstellen einer Web-Kampagne
-description: Erfahren Sie, was eine Webkampagne ist. Erfahren Sie, wie Sie die Eigenschaften der Webkampagne konfigurieren, überprüfen und veröffentlichen können.
+description: Erfahren Sie, was eine Web-Kampagne ist. Erfahren Sie, wie Sie die Eigenschaften einer Web-Kampagne konfigurieren, überprüfen und veröffentlichen können.
 feature: Web Channel
 role: User
 level: Beginner
@@ -10,14 +10,14 @@ jira: KT-10283
 thumbnail: 3418800.jpeg
 exl-id: 5b625240-5f55-457c-8ea6-2a3f61af7047
 source-git-commit: ddfc95c3e837b92df3f98598df04c515de22be34
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '44'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
 # Erstellen einer Web-Kampagne
 
-Erfahren Sie, was eine Webkampagne ist. Erfahren Sie, wie Sie die Eigenschaften der Webkampagne konfigurieren, überprüfen und veröffentlichen können.
+Erfahren Sie, was eine Web-Kampagne ist. Erfahren Sie, wie Sie die Eigenschaften einer Web-Kampagne konfigurieren, überprüfen und veröffentlichen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418800/?quality=12&learn=on)
