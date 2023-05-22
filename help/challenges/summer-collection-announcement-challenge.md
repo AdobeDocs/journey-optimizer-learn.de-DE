@@ -6,10 +6,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
 workflow-type: tm+mt
-source-wordcount: '1175'
-ht-degree: 100%
+source-wordcount: '1126'
+ht-degree: 98%
 
 ---
 
@@ -140,7 +140,6 @@ Vorschau der E-Mail:
 Ergebnis:
 
 * Die Betreffzeile sollte lauten: Louise, die neue Kollektion von Luma ist hier!
-* Der Textkörper der E-Mail sollte mit dem übereinstimmen, was Sie in der Vorschau gesehen haben: [Ankündigung zur neuen saisonalen Kollektion](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 **E-Mail-Nachricht Nr. 2: Herrenkollektion von Luma**
 
@@ -149,11 +148,11 @@ Senden Sie sich selbst eine Test-E-Mail:
 1. Fügen Sie ein Testprofil hinzu: Stanleigh Stooke:
    * Identity-Namespace: *Luma CRM ID*
    * Identitätswert: `4f34057d9d9e792c28ba18ecae378e98`
-1. Wählen Sie das Testprofil aus: Stanleigh Stooke.
-1. Führen Sie einen Testversand an Sie selbst durch.
+2. Wählen Sie das Testprofil aus: Stanleigh Stooke.
+3. Führen Sie einen Testversand an Sie selbst durch.
 
 Ergebnis:\
-Sie sollten eine E-Mail erhalten. Die Betreffzeile sollte lauten: *Stanleigh, erkunden Sie die neue Sportbekleidung für Herren!* und der Textkörper der E-Mail sollten mit dem übereinstimmen, was Sie in der Vorschau gesehen haben: [Herrenkollektion von Luma](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+Sie sollten eine E-Mail erhalten. Die Betreffzeile sollte lauten: *Stanleigh, erkunden Sie die neue Sportbekleidung für Herren!* und der E-Mail-Textkörper sollte mit dem übereinstimmen, was Sie in der Vorschau gesehen haben.
 
 >[!NOTE]
 >Es kann einige Minuten dauern, bis Sie die Test-E-Mail erhalten.
@@ -163,14 +162,12 @@ Sie sollten eine E-Mail erhalten. Die Betreffzeile sollte lauten: *Stanleigh, er
 Zeigen Sie eine Vorschau der E-Mail mit dem Testprofil *Louise Petti* an.
 
 * Die Betreffzeile sollte lauten: *Louise, erkunden Sie die Damenkollektion von Luma!*
-* Der Textkörper der E-Mail sollte mit dem übereinstimmen, was Sie in der Vorschau gesehen haben: [Damenkollektion von Luma](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 **E-Mail-Nachricht Nr. 4: Luma – 20 % Rabatt auf die Kollektion**
 
 Zeigen Sie eine Vorschau der E-Mail mit dem Testprofil *Louise Petti* an.
 
 * Die Betreffzeile sollte lauten: *Louise, erhalten Sie 20% Rabatt auf Ihre Käufe!*
-* Der Textkörper der E-Mail sollte mit dem übereinstimmen, was Sie in der Vorschau gesehen haben: [20 % Rabatt auf die Kollektion von Luma](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 #### Testen der Journey
 
@@ -180,13 +177,15 @@ Zeigen Sie eine Vorschau der E-Mail mit dem Testprofil *Louise Petti* an.
 >
 >1. Stellen Sie sicher, dass der Namespace für die Aktivität [!UICONTROL Segment lesen] auf **Luma CRM id(lumaCrmId)** eingestellt ist
 >1. Überschreiben Sie für jede E-Mail die standardmäßigen E-Mail-Parameter, damit sie an Ihre E-Mail-Adresse gesendet werden:
->    * Zeigen Sie die ausgeblendeten Werte an, indem Sie auf das Augensymbol klicken.
->    * Klicken Sie in den E-Mail-Parametern auf das T-Symbol (Parameterüberschreibungen aktivieren).
->
->      ![E-Mail-Parameter überschreiben](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * Klicken Sie in das Feld [!UICONTROL Adresse]
->    * Fügen Sie im nächsten Bildschirm Ihre E-Mail-Adresse in Klammern hinzu: `"yourname@yourdomain"` im Ausdruckseditor, dann auf „OK“ klicken.
+   >    * Zeigen Sie die ausgeblendeten Werte an, indem Sie auf das Augensymbol klicken.
+   >    * Klicken Sie in den E-Mail-Parametern auf das T-Symbol (Parameterüberschreibungen aktivieren).
+
+      >
+      >      ![E-Mail-Parameter überschreiben](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * Klicken Sie in das Feld [!UICONTROL Adresse]
+   >    * Fügen Sie im nächsten Bildschirm Ihre E-Mail-Adresse in Klammern hinzu: `"yourname@yourdomain"` im Ausdruckseditor, dann auf „OK“ klicken.
+
 >
 
 
