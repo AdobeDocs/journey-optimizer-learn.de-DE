@@ -1,13 +1,13 @@
 ---
-title: Erstellen von Fallback-Angeboten
+title: Fallback-Angebote erstellen
 description: Erfahren Sie, wie Sie Fallback-Angebote für das Entscheidungs-Management erstellen. Fallback-Angebote sind Eignungsregeln zugeordnet, die Ihnen helfen, sie nur relevanten Kunden anzuzeigen.
 feature: Offers
 kt: 6780
 thumbnail: 329383.jpg
 exl-id: 77dad738-4046-410d-8886-e88f9c872320
-source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
@@ -20,6 +20,4 @@ Erfahren Sie, wie Sie [Fallback-Angebote](https://experienceleague.adobe.com/doc
 
 Weitere Informationen zum Erstellen von Fallback-Angeboten mit einer API finden Sie im [Produkthandbuch](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/fallback-offers/create.html?lang=de)
 
->[!INFO]
->
-> Dieses Video ist Teil des Kurses [Erste Schritte mit Entscheidungs-Management für Marketing-Fachleute](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos auf Experience League verfügbar ist.
+{{experienceplatform-u-1-2020-1-offerdecisioning}}

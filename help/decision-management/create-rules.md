@@ -1,13 +1,13 @@
 ---
-title: Erstellen von Entscheidungsregeln
+title: Entscheidungsregeln erstellen
 description: Erfahren Sie, wie Sie Entscheidungsregeln für das Entscheidungs-Management erstellen. Regeln sind Teil der erforderlichen Bausteine für personalisierte Angebote.
 feature: Offers
 kt: 6738
 thumbnail: 329373.jpg
 exl-id: 1b4cd1cd-f082-46ec-a331-9733d7c87bde
-source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
@@ -20,6 +20,4 @@ Erfahren Sie, wie Sie [Entscheidungsregeln](https://experienceleague.adobe.com/d
 
 Weitere Informationen zum Erstellen von Entscheidungsregeln mit einer API finden Sie im [Produkthandbuch](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/decision-rules/create.html?lang=de)
 
->[!INFO]
->
-> Dieses Video ist Teil des Kurses [Erste Schritte mit Entscheidungs-Management für Marketing-Fachleute](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos auf Experience League verfügbar ist.
+{{experienceplatform-u-1-2020-1-offerdecisioning}}
