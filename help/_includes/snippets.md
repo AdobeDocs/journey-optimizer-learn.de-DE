@@ -1,5 +1,5 @@
 ---
-source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
+source-git-commit: 28f84590dba39c90cac51ff7edeb6e01efa57211
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 10%
@@ -19,4 +19,4 @@ ht-degree: 10%
 >
 > Dieses Video ist Teil eines Kurses [Kurs Erste Schritte mit dem Entscheidungs-Management für Marketing-Experten](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=de), kostenlos auf Experience League!
 
-## Kurs Erste Schritte mit Journey Optimizer für Journey-Administratoren und -Manager
+## Kurs Erste Schritte mit Journey Optimizer für Journey-Administratoren und -Manager {#}
