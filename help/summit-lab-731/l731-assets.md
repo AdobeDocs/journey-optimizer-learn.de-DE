@@ -10,9 +10,9 @@ hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '357'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -202,6 +202,6 @@ Willkommen bei Vegas Stay. Mit dem Check-in per App umgehen Sie Warteschlangen: 
 Bestätigungsnachricht
 
 **Betreffzeile:**
-`{{profile.person.name.firstName}},` Sie sind eingecheckt, sehen Sie sich jetzt unsere Angebote für Ihren Aufenthalt an!
+`{{profile.person.name.firstName}},`, Sie sind eingecheckt. Jetzt können Sie sich unsere Angebote für Ihren Aufenthalt ansehen!
 
 >[!ENDTABS]
