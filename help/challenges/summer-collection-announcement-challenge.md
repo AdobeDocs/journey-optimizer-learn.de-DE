@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1126'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -152,7 +152,7 @@ Senden Sie sich selbst eine Test-E-Mail:
 3. Führen Sie einen Testversand an Sie selbst durch.
 
 Ergebnis:\
-Sie sollten eine E-Mail erhalten. Die Betreffzeile sollte lauten: *Stanleigh, erkunden Sie die neue Sportbekleidung für Herren!* und der E-Mail-Textkörper sollte mit dem übereinstimmen, was Sie in der Vorschau gesehen haben.
+Sie sollten eine E-Mail erhalten. Die Betreffzeile sollte lauten: *Stanleigh, erkunden Sie die neue Sportbekleidung für Herren!* und der Textkörper der E-Mail sollten mit dem übereinstimmen, was Sie in der Vorschau gesehen haben.
 
 >[!NOTE]
 >Es kann einige Minuten dauern, bis Sie die Test-E-Mail erhalten.
