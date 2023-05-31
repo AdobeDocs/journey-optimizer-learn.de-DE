@@ -1,12 +1,12 @@
 ---
-title: Entscheidungsregeln erstellen
+title: Erstellen von Entscheidungsregeln
 description: Erfahren Sie, wie Sie Entscheidungsregeln für das Entscheidungs-Management erstellen. Regeln sind Teil der erforderlichen Bausteine für personalisierte Angebote.
 feature: Offers
 kt: 6738
 thumbnail: 329373.jpg
 exl-id: 1b4cd1cd-f082-46ec-a331-9733d7c87bde
 source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
 ht-degree: 100%
 
