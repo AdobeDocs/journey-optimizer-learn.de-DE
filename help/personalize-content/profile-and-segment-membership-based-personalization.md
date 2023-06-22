@@ -3,7 +3,7 @@ title: Verwenden von Profil- und Segmentzugehörigkeit zur Personalisierung
 description: Erfahren Sie, wie Sie einer Nachricht eine profilbasierte Personalisierung hinzufügen und die Segmentzugehörigkeit als Vorbedingung für einen Personalisierungsbaustein verwenden.
 landing-page-description: Erfahren Sie, wie Sie einer Nachricht eine profilbasierte Personalisierung hinzufügen und die Segmentzugehörigkeit als Vorbedingung für einen Personalisierungsbaustein verwenden.
 short-description: Erfahren Sie, wie Sie einer Nachricht eine profilbasierte Personalisierung hinzufügen und die Segmentzugehörigkeit als Vorbedingung für einen Personalisierungsbaustein verwenden.
-kt: 8034
+jira: KT-8034
 thumbnail: 334078.jpg
 feature: Personalization
 doc-type: feature video
@@ -11,8 +11,8 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
-workflow-type: tm+mt
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
 source-wordcount: '104'
 ht-degree: 100%
 
