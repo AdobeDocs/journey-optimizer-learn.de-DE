@@ -1,15 +1,15 @@
 ---
 title: 'Herausforderung: Produktauffüllung'
 description: Wenden Sie Ihr erworbenes Wissen über das Erstellen von Segmenten an und testen Sie Ihre Fähigkeiten.
-kt: 8417
+jira: KT-8417
 feature: Segments
 role: User
 level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
-workflow-type: tm+mt
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+workflow-type: ht
 source-wordcount: '580'
 ht-degree: 100%
 
@@ -101,7 +101,6 @@ Bedingungs-Code:
 > * Wählen Sie die SKU unter „Für später speichern“ im Abschnitt *Variablen durchsuchen*
 > * Verwenden Sie die Vergleichsoption, wenn Sie die SKU unter „Für später speichern“ in das Ereignisfeld ablegen
 
-
 Überprüfen Sie den Code in der rechten unteren Ecke des Bildschirms „Segment bearbeiten“ unter „Ereignisse“. Der Code sollte wie folgt aussehen:
 
 Code:
@@ -118,6 +117,7 @@ Benachrichtigen Sie Kunden, die einen nicht vorrätigen Artikel hinzugefügt hat
 >[!TIP]
 >
 > Nutzen Sie das vorliegende Geschäftsereignis. Sie müssen eine Bedingung hinzufügen, mit der überprüft wird, ob die SKU für die Wiederverfügbarkeit in einem (beliebigen) Ereignistyp enthalten ist, der für später gespeichert wird.
+>
 
 
 
