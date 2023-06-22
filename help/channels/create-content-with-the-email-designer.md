@@ -1,7 +1,7 @@
 ---
 title: Erstellen von Inhalten mit dem E-Mail-Designer
 description: Hier erfahren Sie, wie Sie E-Mails von Grund auf neu erstellen. In unserem Journey Optimizer-Support-Video erfahren Sie, wie Sie Assets aus der AEM Assets Essentials-Bibliothek verwenden, das responsive E-Mail-Design bearbeiten und E-Mails aus Vorlagen erstellen.
-kt: 8057
+jira: KT-8057
 thumbnail: 334150.jpg
 feature: Email Design
 doc-type: feature video
@@ -9,7 +9,7 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
-source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
