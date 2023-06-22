@@ -2,12 +2,12 @@
 title: Einführung in die Funktionen zum Entscheidungs-Management
 description: Verschaffen Sie sich einen Überblick über die Funktionen von Journey Optimizer zum Entscheidungs-Management.
 feature: Offers
-kt: 6417
+jira: KT-6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: d2d1a569bd96f2d11ac971c071c3cff179ff2627
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
-source-wordcount: '50'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
