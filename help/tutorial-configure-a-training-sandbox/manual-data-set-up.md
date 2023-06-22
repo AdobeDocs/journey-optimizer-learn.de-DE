@@ -3,14 +3,14 @@ title: Manuelles Einrichten der Datenstruktur
 description: Erstellen Sie die erforderlichen Identity-Namespaces und definieren Sie die Beispieldatenstruktur für Luma.
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
-kt: 9382
+jira: KT-9382
 role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
-source-wordcount: '1021'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -320,12 +320,12 @@ Sie haben jetzt den [!UICONTROL Namespace] und das [!DNL Luma Loyalty schema] ko
       1. **[!UICONTROL Referenzschema]**: [!DNL Luma Product Catalog Schema].
 
       2. **[!UICONTROL Referenz-Identity-Namespace]**: [!DNL LumaProductSKU].
+
    3. Wählen Sie **[!UICONTROL Anwenden]** aus.
 
       Das Schema sollte wie folgt aussehen:
 
       ![SKU-Beziehung](assets/sku_relationship.png)
-
 
 1. Aktivieren Sie es für das **Profil**.
 
@@ -340,7 +340,7 @@ Erstellen Sie die folgenden zusätzlichen [!UICONTROL Schemata]:
 | **[!UICONTROL Klasse]** | [!UICONTROL Individuelles XDM-Profil] | [!UICONTROL XDM-Erlebnisereignis] | [!UICONTROL Individuelles XDM-Profil] | [IUICONTROL XDM ExperienceEvent] |
 | **[!UICONTROL Hinzufügen einer bestehenden Feldergruppe]** | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details` | `Orchestration eventID`<br>`Consumer Experience Event`<br>`AEP Web SDK ExperienceEvent` | `Luma Identity Profile Field Group`<br>`Demographic Details`<br>`Personal Contact Details`<br>`Profile test details` | `Luma Identity Profile Field Group` <br>`Commerce Details` |
 | **[!UICONTROL Beziehung]** |  | `productListItems.SKU`:<br> Referenzschema `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |  | `productListItems.SKU`:<br> Referenzschema `Luma Product Catalog Schema` <br>[!DNL Reference identity namespace] `lumaProductSKU` |
-| **[!UICONTROL Primäre Identität] [!UICONTROL Namespace])** | `systemIdentifier.crmId` |  | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
+| **[!UICONTROL Primäre Identität] [!UICONTROL Namespace])** | `systemIdentifier.crmId` | | `systemIdentifier.crmId` | `systemIdentifier.LoyaltyId` |
 | **[!UICONTROL Für Profil aktivieren]** | ja | ja | ja | ja |
 
 ## Nächste Schritte
