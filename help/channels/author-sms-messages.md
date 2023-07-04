@@ -1,6 +1,6 @@
 ---
 title: Konfigurieren, Verfassen und Versenden von SMS-Nachrichten
-description: Erfahren Sie, wie Sie SMS-Nachrichten in Journey Optimizer-Kampagnen und -Journey konfigurieren, erstellen und senden.
+description: Erfahren Sie, wie Sie SMS-Nachrichten in Kampagnen und Journeys von Journey Optimizer konfigurieren, erstellen und senden.
 feature: SMS
 role: User
 level: Beginner
@@ -11,14 +11,14 @@ hidefromtoc: false
 last-substantial-update: 2023-06-13T00:00:00Z
 exl-id: 5d4b6896-0cf2-470d-bcc6-695caa852072
 source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 28%
+ht-degree: 100%
 
 ---
 
 # Konfigurieren, Verfassen und Versenden von SMS-Nachrichten
 
-Erfahren Sie, wie Sie SMS-Nachrichten in Journey Optimizer-Kampagnen und -Journey konfigurieren, erstellen und senden.
+Erfahren Sie, wie Sie SMS-Nachrichten in Kampagnen und Journeys von Journey Optimizer konfigurieren, erstellen und senden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420509?quality=12&learn=on)
