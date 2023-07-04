@@ -1,6 +1,6 @@
 ---
 title: 'Anwendungsfall: Transaktions-Journey'
-description: Machen Sie sich mit den anwendbaren Anwendungsfällen für Transaktions-Journey und erfahren Sie, wie Sie Transaktions-Journey erstellen.
+description: Machen Sie sich mit den entsprechenden Anwendungsfällen für Transaktions-Journeys vertraut und erfahren Sie, wie Sie Transaktions-Journeys erstellen.
 jira: KT-8030
 thumbnail: 334202.jpg
 feature: Journeys
@@ -13,14 +13,14 @@ last-substantial-update: 2023-06-15T00:00:00Z
 hidefromtoc: false
 hide: false
 source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 21%
+ht-degree: 100%
 
 ---
 
 # Anwendungsfall: Transaktions-Journey
 
-Machen Sie sich mit den anwendbaren Anwendungsfällen für Transaktions-Journey und erfahren Sie, wie Sie Transaktions-Journey erstellen.
+Machen Sie sich mit den entsprechenden Anwendungsfällen für Transaktions-Journeys vertraut und erfahren Sie, wie Sie Transaktions-Journeys erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on)
