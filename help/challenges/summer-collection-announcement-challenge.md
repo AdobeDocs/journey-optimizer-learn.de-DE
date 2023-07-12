@@ -2,12 +2,12 @@
 title: Erstellen einer Ankündigung zur Sommerkollektion – Herausforderung
 description: Senden Sie eine Ankündigung zur Sommerkollektion an ein Segment bestehender Kundinnen und Kunden, um die neue Sommerkollektion von Luma zu bewerben.
 jira: KT-8109
-feature: Segments, Journeys, EMail
+feature: Segments, Journeys, Email
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+source-git-commit: 035d568fc25119142b92e0caa8adfb0ae5e21be8
 workflow-type: ht
 source-wordcount: '0'
 ht-degree: 100%
