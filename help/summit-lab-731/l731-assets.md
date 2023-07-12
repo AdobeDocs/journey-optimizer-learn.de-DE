@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
-workflow-type: ht
-source-wordcount: '357'
-ht-degree: 100%
+source-git-commit: e7deb1d6c57a5b582448542a2679de6aeef44750
+workflow-type: tm+mt
+source-wordcount: '342'
+ht-degree: 92%
 
 ---
 
@@ -125,8 +125,6 @@ Sie werden aufgefordert, Testflight zu installieren, Schritte 1 bis 4. Nachdem S
 
 ![QR-Code für Android](/help/assets/lab731-android-qr-code.png)
 
-Wenn Sie den Android-Simulator verwenden, verwenden Sie diesen Link: [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
-
 Da die App nicht im Google Play Store registriert ist, erhalten Sie eine Warnmeldung:
 
 ![Android-Warnbildschirm](/help/assets/lab731-install-android.png)
@@ -149,14 +147,14 @@ Klicken Sie auf **Trotzdem installieren**
 
 | Feld | Text | Links |
 |----|----|----|
-| Kampagnenname | `<your seat number> March Vegas Campaign` |  |
+| Kampagnenname | `<your seat number> Vegas Stay Campaign` |  |
 | Matcher | jetzt buchen |  |
 | Medien-URL-Option |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| Titel | Es ist vollbracht und es ist live! |  |
-| Textkörper | Adobe Summit kehrt vom 21.–23. März 2023 nach Las Vegas zurück. Es warten inspirierende Rednerinnen und Redner, Sessions zur Vertiefung von Kenntnissen und neue Vernetzungen. |  |
-| Schaltfläche | Jetzt Hotel buchen und 10 % sparen | lab://booking?suite=presidential&amp;discount=10 |
+| Titel | Holen Sie sich Ihren Frühbucherrabatt! |  |
+| Textkörper | Adobe Summit kehrt 2024 zu Las Vegas zurück. Es warten inspirierende Rednerinnen und Redner, Sessions zur Vertiefung von Kenntnissen und neue Vernetzungen. Buchen Sie jetzt Ihre Suite und erhalten Sie 10 % Rabatt. |  |
+| Schaltfläche | Jetzt buchen | lab://booking?suite=presidential&amp;discount=10 |
 | Schaltfläche: Interaktives Ereignis | In-App-CTA |  |
-| Basis-URL |  | iOS: lab:// <br>Android&amp;: https://lab |
+| Basis-URL |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 
 ## Lektion 3: Erstellen einer Omni-Channel-Journey
