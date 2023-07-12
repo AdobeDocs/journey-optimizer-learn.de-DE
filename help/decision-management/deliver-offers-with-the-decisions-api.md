@@ -1,13 +1,14 @@
 ---
 title: Unterbreiten von Angeboten mithilfe der Decisions Hub-API
 description: Erfahren Sie, wie Sie mit der Decisions-API Entscheidungs-Management-Angebote machen.
-role: Developer
 feature: Offers
+role: Developer
+level: Beginner
 jira: KT-6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 100%
 
