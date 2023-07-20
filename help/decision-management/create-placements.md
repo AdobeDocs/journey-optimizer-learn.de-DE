@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6736
 thumbnail: 329372.jpg
 exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
-source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: f49c9748808699309f1d1a3a570e4010a6f287a3
+workflow-type: tm+mt
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
@@ -21,5 +21,3 @@ Erfahren Sie, wie Sie [Platzierungen](https://experienceleague.adobe.com/docs/jo
 >[!VIDEO](https://video.tv.adobe.com/v/329372?quality=12&learn=on)
 
 Weitere Informationen zum Erstellen von Platzierungen mit einer API finden Sie im [Produkthandbuch](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/placements/create.html?lang=de)
-
-{{experienceplatform-u-1-2020-1-offerdecisioning}}

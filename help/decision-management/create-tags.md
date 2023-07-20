@@ -7,9 +7,9 @@ thumbnail: 329374.jpg
 role: User
 level: Beginner
 exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
-source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: f49c9748808699309f1d1a3a570e4010a6f287a3
+workflow-type: tm+mt
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
@@ -21,5 +21,3 @@ Erfahren Sie, wie Sie in [!DNL Decision Management] [Tags](https://experiencelea
 >[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on)
 
 Weitere Informationen zum Erstellen von Tags mit einer API finden Sie im [Produkthandbuch](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/tags/create.html?lang=de)
-
-{{experienceplatform-u-1-2020-1-offerdecisioning}}

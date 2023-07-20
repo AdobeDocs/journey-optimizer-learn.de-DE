@@ -8,9 +8,9 @@ level: Beginner
 thumbnail: 329606.jpg
 last-substantial-update: 2022-09-30T00:00:00Z
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
-source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: f49c9748808699309f1d1a3a570e4010a6f287a3
+workflow-type: tm+mt
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -22,5 +22,3 @@ Erfahren Sie, wie Sie [Entscheidungen](https://experienceleague.adobe.com/docs/j
 >[!VIDEO](https://video.tv.adobe.com/v/329606?quality=12&learn=on)
 
 Weitere Informationen zum Erstellen von Entscheidungen mit einer API finden Sie im [Produkthandbuch](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/activities-api/create.html?lang=de)
-
-{{experienceplatform-u-1-2020-1-offerdecisioning}}
