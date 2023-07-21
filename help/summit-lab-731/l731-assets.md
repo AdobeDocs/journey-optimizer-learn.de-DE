@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: af22cd4dfe86ade11a88428cd44460fad721942a
+source-git-commit: 056965ea13a84a182971b10138e5d9a75522d5c7
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 71%
+source-wordcount: '326'
+ht-degree: 67%
 
 ---
 
@@ -142,7 +142,7 @@ Klicken Sie auf **Trotzdem installieren**
 
 ## Übung 1: Bei Adobe Journey Optimizer anmelden
 
-[Klicken Sie hier, um sich bei Journey Optimizer anzumelden](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
+[Klicken Sie hier, um sich bei Journey Optimizer anzumelden](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"}
 
 **Anmeldedetails:**
 
@@ -152,16 +152,16 @@ Klicken Sie auf **Trotzdem installieren**
 
 ## Übung 2 – Erstellen einer In-App-Kampagne
 
-| Feld | Text | Links |
-|----|----|----|
-| Kampagnenname | `<your seat number> Vegas Stay Campaign` |  |
-| Matcher | jetzt buchen |  |
-| Medien-URL-Option |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
-| Titel | Holen Sie sich Ihren Frühbucherrabatt! |  |
-| Textkörper | Adobe Max kehrt zu Las Vegas zurück. Es warten inspirierende Rednerinnen und Redner, Sessions zur Vertiefung von Kenntnissen und neue Vernetzungen. Buchen Sie jetzt Ihre Suite und erhalten Sie 10 % Rabatt. |  |
-| Schaltfläche | Erhalten Sie 10% Rabatt! | lab://booking?suite=presidential&amp;discount=10 |
-| Schaltfläche: Interaktives Ereignis | In-App-CTA |  |
-| Basis-URL zur Verwendung für die Vorschau auf dem Gerät |  | **iOS:** lab:// <br>**Android**: https://lab |
+| Abschnitt | Feld | Text | Links |
+|----|----|----|----|
+| **Eigenschaften** |  | Kampagnenname | `<your seat number> Vegas Stay Campaign` |  |
+| **Triggers** | Land | jetzt buchen |  |
+| **Inhalt bearbeiten:** Medien | Medien-URL-Option |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
+| **Inhalt bearbeiten:** Inhalt | Titel | Holen Sie sich Ihren Frühbucherrabatt! |  |
+| **Inhalt bearbeiten:** Inhalt | Textkörper | Adobe Max kehrt zu Las Vegas zurück. Es warten inspirierende Rednerinnen und Redner, Sessions zur Vertiefung von Kenntnissen und neue Vernetzungen. Buchen Sie jetzt Ihre Suite und erhalten Sie 10 % Rabatt. |  |
+| **Inhalt bearbeiten:** Schaltflächen | Schaltfläche | Erhalten Sie 10% Rabatt! | lab://booking?suite=presidential&amp;discount=10 |
+| **Inhalt bearbeiten:** Inhalt |  | Schaltfläche: Interaktionsereignis | In-App-CTA |  |
+| **Vorschau auf Gerät** |  | Basis-URL für die Vorschau auf dem Gerät |  | **iOS:** lab:// <br>**Android**: https://lab |
 
 
 ## Übung 3: Push-Benachrichtigung erstellen
