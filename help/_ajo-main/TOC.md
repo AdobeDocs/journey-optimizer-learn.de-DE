@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
-source-git-commit: 88499f15c1019c8f5d9531eb3a0dec3f4c1949a7
+source-git-commit: 16c874b46254d067795bc92bfe06e8f91fca3a10
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 95%
+source-wordcount: '390'
+ht-degree: 94%
 
 ---
 
@@ -47,6 +47,8 @@ ht-degree: 95%
    + [Erstellen einer In-App-Kampagne](/help/channels/create-an-in-app-campaign.md)
    + [Verfassen einer In-App-Nachricht ](/help/channels/author-in-app-messages.md)
    + [Konfigurieren von Inhaltsexperimenten für In-App-Nachrichten](/help/experimentation/content-experiments-for-in-app-messages.md)
++ Push-Kanal{#push-channel}
+   + [Push-Kampagnen konfigurieren und senden](/help/channels/create-a-push-campaign.md)
 + SMS-Kanal{#sms-channel}
    + [Konfigurieren, Verfassen und Versenden von SMS-Nachrichten](/help/channels/author-sms-messages.md)
    + [Unterstützung eingehender Keywords für SMS](/help/channels/inbound-keyword-support-for-sms.md)
