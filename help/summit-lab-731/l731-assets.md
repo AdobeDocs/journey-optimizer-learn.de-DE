@@ -12,7 +12,7 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 67%
+ht-degree: 92%
 
 ---
 
@@ -32,7 +32,7 @@ Scannen Sie den QR-Code, um die App herunterzuladen.
 
 >[!IMPORTANT]
 >
->Wenn Sie nach dem Einlösen-Code gefragt werden, schließen Sie bitte die TestFlight-App und scannen Sie den QR-Code erneut.
+>Wenn Sie nach dem Einlöse-Code gefragt werden, schließen Sie bitte die TestFlight-App und scannen Sie den QR-Code erneut.
 >
 >Bitte erlauben Sie Benachrichtigungen.
 >
@@ -158,16 +158,16 @@ Klicken Sie auf **Trotzdem installieren**
 | **Triggers** | Land | jetzt buchen |  |
 | **Inhalt bearbeiten:** Medien | Medien-URL-Option |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | **Inhalt bearbeiten:** Inhalt | Titel | Holen Sie sich Ihren Frühbucherrabatt! |  |
-| **Inhalt bearbeiten:** Inhalt | Textkörper | Adobe Max kehrt zu Las Vegas zurück. Es warten inspirierende Rednerinnen und Redner, Sessions zur Vertiefung von Kenntnissen und neue Vernetzungen. Buchen Sie jetzt Ihre Suite und erhalten Sie 10 % Rabatt. |  |
-| **Inhalt bearbeiten:** Schaltflächen | Schaltfläche | Erhalten Sie 10% Rabatt! | lab://booking?suite=presidential&amp;discount=10 |
+| **Inhalt bearbeiten:** Inhalt | Textkörper | Adobe MAX kehrt nach Las Vegas zurück. Freuen Sie sich auf inspirierende Rednerinnen und Redner sowie auf Sessions, die Ihre Fähigkeiten erweitern, und auf neue Kontakte. Buchen Sie jetzt Ihre Suite und erhalten Sie 10 % Rabatt. |  |
+| **Inhalt bearbeiten:** Schaltflächen | Schaltfläche | Erhalten Sie 10 % Rabatt! | lab://booking?suite=presidential&amp;discount=10 |
 | **Inhalt bearbeiten:** Schaltflächen | Interaktionsereignis | In-App-CTA |  |
 | **Vorschau auf Gerät** | Basis-URL für die Vorschau auf dem Gerät |  | **iOS:** lab:// <br>**Android**: https://lab |
 
-## Übung 3: Push-Benachrichtigung erstellen
+## Lektion 3: Erstellen einer Push-Benachrichtigung
 
 | Feld | Text | Links |
 |----|----|----|
 | Kampagnenname | `<your seat number> Max Push Campaign` |  |
-| Titel | He! |  |
-| Textkörper | Wusstest du, dass Adobe Max nach Vegas zurückkommt? Buchen Sie jetzt Ihr Zimmer und erhalten Sie 10% Rabatt. |  |
+| Titel | Hallo! |  |
+| Textkörper | Wussten Sie schon, dass Adobe MAX nach Las Vegas zurückkommt? Buchen Sie jetzt Ihr Zimmer und erhalten Sie 10 % Rabatt. |  |
 | Medien-URL-Option |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |

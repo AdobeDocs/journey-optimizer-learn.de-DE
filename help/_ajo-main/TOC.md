@@ -5,7 +5,7 @@ user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 source-git-commit: 391abc80e405fee1e56bbf534d6c0cc822fbc389
 workflow-type: tm+mt
 source-wordcount: '396'
-ht-degree: 94%
+ht-degree: 98%
 
 ---
 
@@ -31,8 +31,8 @@ ht-degree: 94%
    + [Einführung in das Erstellen einer Journey](/help/create-journeys/introduction-to-building-a-journey.md)
    + [Anwendungsfall: Transaktions-Journey](/help/create-journeys/use-case-transactional-journey.md)
    + [Anwendungsfall: Geschäftsereignis](/help/create-journeys/use-case-business-event.md)
-   + [Anwendungsfall - Audience lesen](/help/create-journeys/use-case-read-audience.md)
-   + [Anwendungsfall - Zielgruppenqualifizierung](/help/create-journeys/use-case-audience-qualification.md)
+   + [Anwendungsfall: Zielgruppe lesen](/help/create-journeys/use-case-read-audience.md)
+   + [Anwendungsfall: Zielgruppenqualifikation](/help/create-journeys/use-case-audience-qualification.md)
    + [Erstellen eines Testprofils](/help/create-journeys/test-a-journey.md)
    + [Veröffentlichen einer Journey](/help/create-journeys/publish-a-journey.md)
    + [Kopieren einer Journey in eine andere Sandbox](/help/create-journeys/copy-a-journey.md)
@@ -57,13 +57,13 @@ ht-degree: 94%
 + Web-Kanal {#web-channel}
    + [Erstellen einer Web-Kampagne](/help/channels/create-a-web-campaign.md)
    + [Erstellen einer Web-Kampagne](/help/channels/author-a-web-campaign.md)
-+ Profile, Audiences und Abonnements {#profiles-segments-subscriptions}
++ Profile, Zielgruppen und Abonnements {#profiles-segments-subscriptions}
    + [Einheitliches Profil und Segmentierung – Überblick](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Erstellen von Segmenten](/help/set-up-resources/create-segments.md)
    + [Abonnements und Landingpages](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Personalisieren von Inhalten {#personalize-content}
-   + [Profil- und Zielgruppenmitgliedschaft - basierte Personalisierung](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
+   + [Profil- und zielgruppenspezifische Personalisierung](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Hinzufügen von Angeboten als Personalisierung](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [Verwenden von kontextuellen Ereignisinformationen für die Personalisierung](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [Verwenden von Helper-Funktionen für die Personalisierung](/help/personalize-content/use-helper-functions-for-personalization.md)
@@ -72,9 +72,9 @@ ht-degree: 94%
 + Entscheidungs-Management {#decision-management}
    + [Einführung in das Entscheidungs-Management](/help/decision-management/introduction-to-decision-management.md)
    + [Demo der Funktionen zum Entscheidungs-Management](/help/decision-management/demo-of-decision-management-capabilities.md)
-   + [Platzierungen erstellen](/help/decision-management/create-placements.md)
+   + [Erstellen von Platzierungen](/help/decision-management/create-placements.md)
    + [Regeln erstellen](/help/decision-management/create-rules.md)
-   + [Tags erstellen](/help/decision-management/create-tags.md)
+   + [Erstellen von Tags](/help/decision-management/create-tags.md)
    + [Personalisierte Angebote erstellen](/help/decision-management/create-personalized-offers.md)
    + [Erstellen von KI-Modellen](/help/decision-management/create-ai-models.md)
    + [Erstellen von Fallback-Angeboten](/help/decision-management/create-fallback-offers.md)
