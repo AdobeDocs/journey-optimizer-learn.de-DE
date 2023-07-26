@@ -1,5 +1,5 @@
 ---
-title: Fallback-Angebote erstellen
+title: Erstellen von Fallback-Angeboten
 description: Erfahren Sie, wie Sie Fallback-Angebote für das Entscheidungs-Management erstellen. Fallback-Angebote sind Eignungsregeln zugeordnet, die Ihnen helfen, sie nur relevanten Kunden anzuzeigen.
 feature: Offers
 role: User
