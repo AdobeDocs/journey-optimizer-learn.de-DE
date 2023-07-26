@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ---
 
-# Sammlungen erstellen
+# Erstellen von Sammlungen
 
 Erfahren Sie, wie Sie Sammlungen für das Entscheidungs-Management erstellen.
 
