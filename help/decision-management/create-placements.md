@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ---
 
-# Platzierungen erstellen
+# Erstellen von Platzierungen
 
 Erfahren Sie, wie Sie [Platzierungen](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-placements.html?lang=de) für das Entscheidungs-Management erstellen. Platzierungen sind eine der Baustein-Komponenten von Angeboten. Eine Platzierung ist eine Kombination aus Content-Typ und Kanal, z. B. ein Bild in einer E-Mail oder HTML-Code auf einer Website.
 
