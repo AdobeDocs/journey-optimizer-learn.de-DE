@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
+source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
 workflow-type: tm+mt
 source-wordcount: '482'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ![AJO-Herausforderungen: Banner](./assets/ajo-banner-challenges.png)
 
-Herausforderungen bieten ein Szenario und die Voraussetzungen, die zum Üben des Gelernten erforderlich sind. Herausforderungen helfen Ihnen dabei, Ihr Qualifikationsniveau einzuschätzen und Wissenslücken zu erkennen.
+Herausforderungen bieten ein Szenario und die Voraussetzungen, die zum Üben des Gelernten erforderlich sind. Challenges helfen Ihnen dabei, Ihr Qualifikationsniveau auszuwerten und Wissenslücken zu erkennen.
 
 Jede Herausforderung in diesem Abschnitt behandelt einen einzigen Anwendungsfall, den Sie implementieren. Die Ziel-Audience (Persona) und die erforderlichen Fähigkeiten werden zu Beginn jeder Herausforderung aufgelistet.
 
@@ -66,7 +66,7 @@ Luma möchte für die neueste Bekleidungs- und Ausrüstungskollektion werben und
    <strong><a href="summer-collection-announcement-challenge.md">Erstellen einer Ankündigung der Sommerkollektion </strong>
  </a>
       <p>
-      <em>Erstellen Sie eine Journey, die eine E-Mail zur Ankündigung der Sommerkollektion an ein Segment von Bestandskunden sendet. </em>
+      <em>Erstellen Sie eine Journey, die eine E-Mail-Benachrichtigung zur Sommerkollektion an eine Audience bestehender Kunden sendet. </em>
       <p>
       <b>Erforderliche Fähigkeiten:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=de"> Erstellen von Segmenten</li>

@@ -1,16 +1,16 @@
 ---
 title: Erstellen einer Ankündigung zur Sommerkollektion – Herausforderung
-description: Senden Sie eine Ankündigung zur Sommerkollektion an ein Segment bestehender Kundinnen und Kunden, um die neue Sommerkollektion von Luma zu bewerben.
+description: Senden Sie eine Mitteilung zur Sommerkollektion an eine Audience von Bestandskunden, um die neue Sommerkollektion von Luma zu bewerben.
 jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 035d568fc25119142b92e0caa8adfb0ae5e21be8
+source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
 workflow-type: tm+mt
-source-wordcount: '1126'
-ht-degree: 100%
+source-wordcount: '1125'
+ht-degree: 94%
 
 ---
 
@@ -28,24 +28,24 @@ ht-degree: 100%
 
 ## Die Story
 
-Luma, ein fiktionales Sportbekleidungsunternehmen, vermarktet die neueste Bekleidungs- und Zubehörkollektion, um den Umsatz durch bestehende Kundinnen und Kunden zu steigern. Luma startet die neue Sommerkollektion und möchte verschiedene Kundensegmente speziell ansprechen.
+Luma, ein fiktionales Sportbekleidungsunternehmen, vermarktet die neueste Bekleidungs- und Zubehörkollektion, um den Umsatz durch bestehende Kundinnen und Kunden zu steigern. Luma startet die neue Sommerkollektion und möchte gezielt verschiedene Zielgruppen ansprechen.
 
 ## Ihre Herausforderung
 
 Das Marketing-Team von Luma bittet Sie, eine Marketing-Kampagne für Sommerkollektionen in Journey Optimizer zu implementieren. Ihre Herausforderung besteht in Folgendem:
 
-* Erstellen Sie ein Segment, das definiert, welche Profile für den Erhalt der Promotion qualifiziert sind.
+* Erstellen Sie eine Audience, die definiert, welche Profile für den Erhalt der Promotion qualifiziert sind.
 * Erstellen Sie die Journey.
 
-### Schritt 1: Definieren des Segments – Aktive Kundinnen und Kunden
+### Schritt 1: Bestimmen der Zielgruppe - Aktive Kunden
 
 >[!BEGINTABS]
 
 >[!TAB Aufgabe]
 
-#### Erstellen Sie ein Segment in [!DNL Journey Optimizer]
+#### Erstellen einer Zielgruppe in [!DNL Journey Optimizer]
 
-* Erstellen Sie ein Segment in [!DNL Journey Optimizer] namens *Aktive Kundinnen und Kunden*.
+* Erstellen einer Zielgruppe in [!DNL Journey Optimizer] aufgerufen *Aktive Kunden*.
 * Das Segment darf nur aktive Kundinnen und Kunden von Luma umfassen.
 * Aktive Kundinnen und Kunden werden definiert als Personen, die eine Stufe im Treueprogramm von Luma erreicht haben (Bronze, Silber, Gold oder Platin).
 

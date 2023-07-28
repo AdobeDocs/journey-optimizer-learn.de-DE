@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
-source-wordcount: '190'
-ht-degree: 100%
+source-git-commit: df055830da42b94d751890af6c19074ddfea2237
+workflow-type: tm+mt
+source-wordcount: '159'
+ht-degree: 97%
 
 ---
 
@@ -52,26 +52,14 @@ Bei Verwendung dieses Ereignisses erhält Journey Optimizer Informationen, wenn 
 
 1. Wählen Sie **[!UICONTROL Speichern]** aus.
 
-## Erstellen eines Ereignisses für *[!DNL Luma Wishlist Add]*
-
-| [!UICONTROL Parameter] | [!UICONTROL Wert] |
-|-------------|-----------|
-| [!UICONTROL NAME] | `LumaWishlistAdd` |
-| [!UICONTROL TYP] | [!UICONTROL Unitär] |
-| [!UICONTROL Ereignis-ID-Typ] | [!UICONTROL Regelbasiert] |
-| [!UICONTROL Schema] | `Luma Product Interactions` |
-| [!UICONTROL Felder] | EventType<br>productListItem.quantity<br><b>In Produktlistenelementen > Luma-Produkte > _*[!DNL yourOrganizationID]* > Produkt:</b> <br>Name<br>Preis<br> ProductImageURL<br>ProductURL |
-| [!UICONTROL Bedingung] | [!DNL LumaWishlistAdd.eventType is commerce.saveForLaters] |
-| [!UICONTROL Namespace] | Email(EMail) |
-
 ## Erstellen eines Ereignisses für *[!DNL Luma Product Restock]*
 
 | [!UICONTROL Parameter] | [!UICONTROL Wert] |
 |-------------|-----------|
 | [!UICONTROL NAME] | `LumaProductRestock` |
 | [!UICONTROL TYP] | [!UICONTROL Business] |
-| [!UICONTROL Schema] | [!DNL Luma Product Inventory Events] |
-| [!UICONTROL Felder] | SKU <br> stockEventType<br><b> yourOrganizationID > Produkt:</b> <br>Name<br>Preis<br> ImageURL<br>Beschreibung |
+| [!UICONTROL Schema] | [!DNL Luma Product Inventory Event Schema] |
+| [!UICONTROL Felder] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganisationID.product :</b> <br>Name<br>Preis<br> ImageURL<br>Beschreibung |
 | [!UICONTROL Bedingung] | LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType ist die Wiederverfügbarkeit |
 
 Herzlichen Glückwunsch! Ihre Sandbox kann jetzt verwendet werden.
