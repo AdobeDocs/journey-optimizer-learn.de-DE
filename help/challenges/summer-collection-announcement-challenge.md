@@ -1,6 +1,6 @@
 ---
 title: Erstellen einer Ankündigung zur Sommerkollektion – Herausforderung
-description: Senden Sie eine Mitteilung zur Sommerkollektion an eine Audience von Bestandskunden, um die neue Sommerkollektion von Luma zu bewerben.
+description: Senden Sie eine Ankündigung zur Sommerkollektion an eine Zielgruppe bestehender Kundinnen und Kunden, um die neue Sommerkollektion von Luma zu bewerben.
 jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1125'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,16 +28,16 @@ ht-degree: 94%
 
 ## Die Story
 
-Luma, ein fiktionales Sportbekleidungsunternehmen, vermarktet die neueste Bekleidungs- und Zubehörkollektion, um den Umsatz durch bestehende Kundinnen und Kunden zu steigern. Luma startet die neue Sommerkollektion und möchte gezielt verschiedene Zielgruppen ansprechen.
+Luma, ein fiktionales Sportbekleidungsunternehmen, vermarktet die neueste Bekleidungs- und Zubehörkollektion, um den Umsatz durch bestehende Kundinnen und Kunden zu steigern. Luma startet die neue Sommerkollektion und möchte verschiedene Zielgruppen speziell ansprechen.
 
 ## Ihre Herausforderung
 
 Das Marketing-Team von Luma bittet Sie, eine Marketing-Kampagne für Sommerkollektionen in Journey Optimizer zu implementieren. Ihre Herausforderung besteht in Folgendem:
 
-* Erstellen Sie eine Audience, die definiert, welche Profile für den Erhalt der Promotion qualifiziert sind.
+* Erstellen Sie eine Zielgruppe, die definiert, welche Profile für den Erhalt der Promotion qualifiziert sind.
 * Erstellen Sie die Journey.
 
-### Schritt 1: Bestimmen der Zielgruppe - Aktive Kunden
+### Schritt 1: Definieren der Zielgruppe – Aktive Kundinnen und Kunden
 
 >[!BEGINTABS]
 
@@ -45,7 +45,7 @@ Das Marketing-Team von Luma bittet Sie, eine Marketing-Kampagne für Sommerkolle
 
 #### Erstellen einer Zielgruppe in [!DNL Journey Optimizer]
 
-* Erstellen einer Zielgruppe in [!DNL Journey Optimizer] aufgerufen *Aktive Kunden*.
+* Erstellen einer Zielgruppe namens *Aktive Kundinnen und Kunden* in [!DNL Journey Optimizer].
 * Das Segment darf nur aktive Kundinnen und Kunden von Luma umfassen.
 * Aktive Kundinnen und Kunden werden definiert als Personen, die eine Stufe im Treueprogramm von Luma erreicht haben (Bronze, Silber, Gold oder Platin).
 
@@ -105,7 +105,7 @@ Eine Agentur hat Ihnen vier HTML-Dateien mit dem Design für die E-Mails zur Ver
 
 1. Erstellen Sie eine Journey mit dem Namen *Luma – Ankündigung zur Sommerkollektion* basierend auf den folgenden Leitlinien:
 
-   1. Senden Sie die E-Mail *Luma – Ankündigung der neuen Sommerkollektion* an das Segment *Aktive Kunden*, wobei 10 % der Audience als Kontrollgruppe dient
+   1. Senden Sie die E-Mail *Luma – Ankündigung der neuen Sommerkollektion* an das Segment *Aktive Kunden*, wobei 10 % der Zielgruppe als Kontrollgruppe dient
       * Titel der Nachricht: *Luma – Ankündigung zur Sommerkollektion*
       * Betreff: *(Vorname des Empfängers), die neue Sommerkollektion von Luma ist hier!*
       * Verwenden Sie die bereitgestellte HTML-Datei `SeasonalCollectionEmail.html` für den Textkörper der E-Mail.
@@ -144,7 +144,7 @@ Ergebnis:
 
 **E-Mail-Nachricht Nr. 2: Herrenkollektion von Luma**
 
-Senden Sie sich selbst eine Test-E-Mail:
+Senden Sie sich selbst einen Testversand:
 
 1. Fügen Sie ein Testprofil hinzu: Stanleigh Stooke:
    * Identity-Namespace: *Luma CRM ID*
@@ -156,7 +156,7 @@ Ergebnis:\
 Sie sollten eine E-Mail erhalten. Die Betreffzeile sollte lauten: *Stanleigh, erkunden Sie die neue Sportbekleidung für Herren!* und der Textkörper der E-Mail sollten mit dem übereinstimmen, was Sie in der Vorschau gesehen haben.
 
 >[!NOTE]
->Es kann einige Minuten dauern, bis Sie die Test-E-Mail erhalten.
+>Es kann einige Minuten dauern, bis Sie den Testversand erhalten.
 
 **E-Mail-Nachricht Nr. 3: Damenkollektion von Luma**
 
