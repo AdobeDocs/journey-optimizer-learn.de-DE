@@ -9,9 +9,9 @@ hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
 source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '580'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ Luma bittet Sie, eine Journey in Journey Optimizer zu implementieren. Diese bena
 
 ## 1. Definieren Sie das Segment – Nicht vorrätige Artikel auf der Wunschliste
 
-Um potenzielle interessierte Kunden bei der erneuten Speicherung von Produkten anzusprechen, erstellen Sie eine Zielgruppe, die aus Kunden besteht:
+Um potenziell interessierte Kundinnen und Kunden anzusprechen, wenn Produkte wieder vorrätig sind, erstellen Sie eine Zielgruppe, die aus Kundinnen und Kunden besteht, die:
 
 * mindestens einen Artikel zu ihrer Wunschliste hinzugefügt haben (Verwenden Sie den Ereignistyp: [!UICONTROL Commerce – für später speichern])
 * Welche in den letzten Monaten nicht vorrätig waren (verwenden Sie Lagermenge = 0)
