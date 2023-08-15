@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 1f1b8b3237dccebbf6741253edaf380e4a83753b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '594'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -49,8 +49,8 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 * **[Maximieren Sie das Potenzial Ihrer Mobile App mit Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=de)**
   *Erfahren Sie mehr über die Vorteile von In-App-Nachrichten als Echtzeit-Interaktionskanal und die Konfiguration und Erstellung personalisierter Mobile App-Erlebnisse in Adobe Journey Optimizer.*
 
-* **[Erkunden Sie die Zukunft von Adobe Journey Optimizer mit dem Webkanal und der Inhaltsexperimentierung](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=de)**
-  *Mit dem neuen Webkanal können Marketing-Experten Web-Kampagnen mit einem visuellen WYSIWYG-Designer erstellen. Darüber hinaus können Sie mit Journey Optimizer jetzt mit Inhalten in beliebigen Kanälen - E-Mail, Web, Push, In-App, SMS usw. - experimentieren.*
+* **[Erkunden Sie die Zukunft von Adobe Journey Optimizer mit dem Web-Kanal und Inhaltsexperimenten](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=de)**
+  *Mit dem neuen Web-Kanal können Marketing-Fachleute Web-Kampagnen mit einem visuellen WYSIWYG-Designer erstellen. Darüber hinaus können Sie mit Journey Optimizer jetzt mit Inhalten in jedem Kanal – E-Mail, Web, Push, In-App, SMS usw. – experimentieren.*
 
 * **[Ausführen Ihrer Kampagnen in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=de)**
   *In dieser Folge von Experience League Live, die ursprünglich am 22. September 2022 stattfand, diskutieren Gastgeber Sandra Hausmann und Produktexperten Bridgette Darling und Frederic Mary über die Anwendungsfälle, die diese neue Funktion abdeckt. Sie zeigen außerdem, wie eine Kampagne in Journey Optimizer einfach eingerichtet und ausgeführt werden kann.*
