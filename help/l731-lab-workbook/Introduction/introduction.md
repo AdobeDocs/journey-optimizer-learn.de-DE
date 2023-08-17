@@ -31,7 +31,7 @@ Sie sind eine Fachkraft für Mobile-Marketing, die für das Vegas Stay Resort in
 
 Um dieses Ziel zu erreichen, haben Sie beschlossen, eine kanalübergreifende Marketing-Strategie zu erstellen, die In-App-, Push-, SMS- und E-Mail-Messaging-Kampagnen umfasst.  Und es ist wenig überraschend, dass Sie sich entscheiden, dafür das beste Produkt auf dem Markt zu verwenden: **Adobe Journey Optimizer**!
 
-Mit der In-App-Kampagne können Sie Benutzerinnen und Benutzer ansprechen, während sie die Vegas Stay-App verwenden. Sie erstellen attraktive Banner und Popups, die angezeigt werden, während die Benutzerinnen und Benutzer die App durchsuchen. Diese Banner heben Sonderangebote und Rabatte auf Hotelzimmer hervor und beinhalten eine klare Handlungsaufforderung für die Zimmerbuchung.
+Mit der In-App-Kampagne können Sie Benutzerinnen und Benutzer ansprechen, während sie die Vegas Stay-App verwenden. Sie erstellen attraktive Banner und Popups, die angezeigt werden, während die Benutzerinnen und Benutzer die App durchsuchen. Diese Banner heben Sonderangebote und Rabatte auf Hotelzimmer hervor und beinhalten einen klaren Aktionsaufruf für die Zimmerbuchung.
 
 Sie gestalten eine einzelne Push-Benachrichtigungskampagne. Sie möchten eine einfache, aber effektive Push-Benachrichtigung erstellen, um Benutzerinnen und Benutzer, die noch kein Zimmer gebucht haben, in die App zu holen. Sie möchten eine Nachricht erstellen, die alle über die aufregenden Ereignisse in Las Vegas informiert und Benutzerinnen und Benutzer zur App lockt.
 

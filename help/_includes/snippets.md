@@ -1,6 +1,6 @@
 ---
 source-git-commit: f42f117b47a16536a045688a472f95afff46ecec
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
 
@@ -25,5 +25,5 @@ Experience League LIVE:
 
 * [Maximieren Sie das Potenzial Ihrer Mobile App mit Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=de)
 
-   *Erfahren Sie mehr über die Vorteile von In-App-Nachrichten als Echtzeit-Interaktionskanal und die Konfiguration und Erstellung personalisierter Mobile App-Erlebnisse in Adobe Journey Optimizer.*
+  *Erfahren Sie mehr über die Vorteile von In-App-Nachrichten als Echtzeit-Interaktionskanal und die Konfiguration und Erstellung personalisierter Mobile App-Erlebnisse in Adobe Journey Optimizer.*
 
