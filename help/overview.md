@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 1f1b8b3237dccebbf6741253edaf380e4a83753b
+source-git-commit: cc84bc66485a7136e433ea500352a0b029a71592
 workflow-type: tm+mt
-source-wordcount: '594'
-ht-degree: 100%
+source-wordcount: '627'
+ht-degree: 96%
 
 ---
 
@@ -45,6 +45,9 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 <div id="events-section">
 
 ## Live-Events von Experience League
+
+* **[API-Trigger-Messaging in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=de)**
+  *Erfahren Sie, wie Sie REST-APIs für kontextbezogene, personalisierte und Echtzeit-Transaktions- und Marketing-Kommunikationen verwenden.*
 
 * **[Maximieren Sie das Potenzial Ihrer Mobile App mit Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=de)**
   *Erfahren Sie mehr über die Vorteile von In-App-Nachrichten als Echtzeit-Interaktionskanal und die Konfiguration und Erstellung personalisierter Mobile App-Erlebnisse in Adobe Journey Optimizer.*
