@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: f49c9748808699309f1d1a3a570e4010a6f287a3
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 100%
+source-wordcount: '128'
+ht-degree: 98%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Angebote [mit der Decisions Hub-API](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=de) unterbreiten können. Anhand von [!DNL Postman] wird gezeigt, dass ein API-Aufruf zum Abrufen der Container-ID erfolgt. Als Nächstes wird ein Beispiel für einen Decisions-API-Aufruf mit der Aktivitäts-ID, der Platzierungs-ID, dem Identity-Namespace und der Kunden-ID angepasst, um ein personalisiertes Angebot abzurufen. Nachdem Sie ein personalisiertes Angebot mit der Decisions-API abgerufen haben, können Sie den Angebotsinhalt in Ihr Marketing-System integrieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on){transcript=true}
 
 >[!INFO]
 >

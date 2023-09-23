@@ -9,10 +9,10 @@ team: PM
 role: User
 level: Beginner
 exl-id: e7626542-1399-4fcd-966a-cd9b3c7cd454
-source-git-commit: b1572b918a1d5dffa3cb8618d8efedeb1b9bec72
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 100%
+source-wordcount: '70'
+ht-degree: 97%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Machen Sie sich mit den entsprechenden Anwendungsfällen für Journeys mit Zielgruppenqualifikation vertraut. Erfahren Sie, wie Sie eine Journey mit Zielgruppenqualifikation erstellen und welche Best Practices anzuwenden sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/334231?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334231?quality=12&learn=on){transcript=true}
