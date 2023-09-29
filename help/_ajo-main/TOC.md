@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: bc127e90867bcda59a44881e7e4f462be2e88d5e
+source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 95%
+source-wordcount: '427'
+ht-degree: 94%
 
 ---
 
@@ -87,12 +87,13 @@ ht-degree: 95%
    + [Unterbreiten von Angeboten mithilfe der Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [Frequenzlimitierung](/help/decision-management/frequency-capping.md)
 + Data Management {#data-management}
-   + [Übersicht](/help/set-up-data/set-up-data-overview.md)
-   + [Erstellen eines Schemas](/help/set-up-data/create-schema.md)
-   + [Zuordnen von Identitäten](/help/set-up-data/map-identities.md)
-   + [Erstellen von Datensätzen und Aufnehmen von Daten](/help/set-up-data/create-datasets-and-ingest-data.md)
-   + [Konfigurieren von Quellkonnektoren](/help/set-up-data/configure-source-connectors.md)
-   + [Exportieren von Datensätzen zu Cloud-Speicherorten](/help/set-up-data/export-datasets.md)
+   + [Übersicht](/help/data-management/set-up-data-overview.md)
+   + [Erstellen eines Schemas](/help/data-management/create-schema.md)
+   + [Zuordnen von Identitäten](/help/data-management/map-identities.md)
+   + [Erstellen von Datensätzen und Aufnehmen von Daten](/help/data-management/create-datasets-and-ingest-data.md)
+   + [Konfigurieren von Quellkonnektoren](/help/data-management/configure-source-connectors.md)
+   + [Konfigurieren eines Datensatzexport-Ziels](/help/data-management/configure-dataset-export-destination.md)
+   + [Exportieren von Datensätzen zu Cloud-Speicherorten](/help/data-management/export-datasets.md)
 + Reporting und Überwachung {#report-and-monitor}
    + [Live- und globale Berichte](/help/report-and-monitor/live-and-global-reports.md)
    + [Berichte auf Kanalebene](/help/report-and-monitor/channel-level-reports.md)

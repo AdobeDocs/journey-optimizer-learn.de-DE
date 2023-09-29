@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
 source-wordcount: '1021'
 ht-degree: 100%
@@ -20,7 +20,7 @@ ht-degree: 100%
 In diesem Abschnitt erstellen Sie die erforderlichen Identity-Namespaces und definieren die [!DNL Luma]-Beispieldatenstruktur durch Erstellen der [[!UICONTROL Schemata]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=de).
 
 >[!TIP]
->Sehen Sie sich das Video-Tutorial [Zuordnen von Identitäten](/help/set-up-data/map-identities.md) an, bevor Sie beginnen.
+>Sehen Sie sich das Video-Tutorial [Zuordnen von Identitäten](/help/data-management/map-identities.md) an, bevor Sie beginnen.
 
 ## Schritt 1: Identity-Namespaces erstellen
 
@@ -69,7 +69,7 @@ In diesem Schritt definieren Sie die Struktur der Beispieldaten, indem Sie sechs
 
 >[!TIP]
 >
->Sehen Sie sich das Video-Tutorial [Erstellen eines Schemas](/help/set-up-data/create-schema.md) an, bevor Sie beginnen.
+>Sehen Sie sich das Video-Tutorial [Erstellen eines Schemas](/help/data-management/create-schema.md) an, bevor Sie beginnen.
 
 ### Erstellen von [!DNL Luma Loyalty Schema] {#create-luma-loyalty-schema}
 
