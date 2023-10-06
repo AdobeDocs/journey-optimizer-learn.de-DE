@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
 source-git-commit: f08f646c2317cc17356594052d3174065ef00384
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '420'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 94%
    + [Vorschau, Testversand und Veröffentlichung](/help/channels/preview-proof-and-publish.md)
    + [Inhaltsvorlagen](/help/channels/content-templates.md)
    + [Verwalten, Erstellen und Verwenden von Fragmenten](/help/content-management/manage-author-use-fragments.md)
-   + [Ausdrucksfragmente erstellen und verwenden](/help/content-management/expression-fragments.md)
+   + [Erstellen und Verwenden von Ausdrucksfragmenten](/help/content-management/expression-fragments.md)
    + [Konfigurieren von Inhaltsexperimenten für E-Mails](/help/experimentation/content-experiments-for-emails.md)
 + In-App-Kanal{#in-app-channel}
    + [Erstellen einer In-App-Kampagne](/help/channels/create-an-in-app-campaign.md)
@@ -60,7 +60,7 @@ ht-degree: 94%
 + Web-Kanal {#web-channel}
    + [Erstellen einer Web-Kampagne](/help/channels/create-a-web-campaign.md)
    + [Erstellen einer Web-Kampagne](/help/channels/author-a-web-campaign.md)
-   + [SPA im Web-Editor](/help/channels/singel-page-application-support.md)
+   + [SPA-Unterstützung im Web-Editor](/help/channels/singel-page-application-support.md)
 + Profile, Zielgruppen und Abonnements {#profiles-segments-subscriptions}
    + [Einheitliches Profil und Segmentierung – Überblick](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [Erstellen von Segmenten](/help/set-up-resources/create-segments.md)
@@ -92,12 +92,12 @@ ht-degree: 94%
    + [Zuordnen von Identitäten](/help/data-management/map-identities.md)
    + [Erstellen von Datensätzen und Aufnehmen von Daten](/help/data-management/create-datasets-and-ingest-data.md)
    + [Konfigurieren von Quellkonnektoren](/help/data-management/configure-source-connectors.md)
-   + [Konfigurieren eines Datensatzexport-Ziels](/help/data-management/configure-dataset-export-destination.md)
+   + [Konfigurieren eines Datensatz-Exportziels](/help/data-management/configure-dataset-export-destination.md)
    + [Exportieren von Datensätzen zu Cloud-Speicherorten](/help/data-management/export-datasets.md)
 + Reporting und Überwachung {#report-and-monitor}
    + [Live- und globale Berichte](/help/report-and-monitor/live-and-global-reports.md)
    + [Berichte auf Kanalebene](/help/report-and-monitor/channel-level-reports.md)
-   + [Berichte im CSV-Format exportieren](/help/report-and-monitor/export-reports-in-csv-format.md)
+   + [Exportieren von Berichten im CSV-Format](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Verwenden von Warnhinweisen](/help/administration/alerts.md)
 + Konfiguration {#configuration}
    + Konfigurieren der Kanäle {#channel-configuration}
@@ -111,7 +111,7 @@ ht-degree: 94%
       + [Erstellen von Aktionen](/help/set-up-journeys/create-actions.md)
 + Zugriffskontrolle {#access-control}
    + [Zugriffsverwaltung ](/help/set-up-access/access-management.md)
-   + [Konfigurieren der attributbasierten Zugriffskontrolle](/help/administration/attribute-based-access-control.md)
+   + [Konfigurieren der attributbasierten Zugriffssteuerung](/help/administration/attribute-based-access-control.md)
    + [Erstellen und Verwalten von Sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
 + Datenschutz {#privacy}
    + [Maskieren von Daten in Nachrichten](/help/privacy/mask-data-in-messages.md)
