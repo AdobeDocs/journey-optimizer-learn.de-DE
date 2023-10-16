@@ -6,16 +6,14 @@ role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
-workflow-type: tm+mt
-source-wordcount: '482'
+source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
+workflow-type: ht
+source-wordcount: '479'
 ht-degree: 100%
 
 ---
 
 # Journey Optimizer-Herausforderungen – Einführung und Voraussetzungen
-
-![AJO-Herausforderungen: Banner](./assets/ajo-banner-challenges.png)
 
 Herausforderungen bieten ein Szenario und die Voraussetzungen, die zum Üben des Gelernten erforderlich sind. Herausforderungen helfen Ihnen dabei, Ihr Qualifikationsniveau auszuwerten und Wissenslücken zu erkennen.
 
