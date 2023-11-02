@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 585264701dcffb714c74c37c1605749465a0c92b
+source-git-commit: 78d8e19a8ab0cf1253cdb724a4d05e8d5b4dfdc4
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 98%
@@ -38,8 +38,10 @@ ht-degree: 98%
    + [Erstellen eines Testprofils](/help/create-journeys/test-a-journey.md)
    + [Veröffentlichen einer Journey](/help/create-journeys/publish-a-journey.md)
    + [Kopieren einer Journey in eine andere Sandbox](/help/create-journeys/copy-a-journey.md)
-+ Briefpost-Kanal{#direct-mail-channel}
-   + [Briefpost-Kanal](/help/channels/direct-mail.md)
++ Profile, Zielgruppen und Abonnements {#profiles-audiences-subscriptions}
+   + [Einheitliches Profil und Segmentierung – Überblick](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [Erstellen von Zielgruppen mit dem Rule Builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
+   + [Abonnements und Landingpages](/help/subscriptions-and-landing-pages.md)
 + E-Mail-Kanal{#email-channel}
    + [Erstellen von Inhalten mit dem E-Mail-Designer](/help/channels/create-content-with-the-email-designer.md)
    + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/channels/import-and-author-html-email-content.md)
@@ -48,6 +50,8 @@ ht-degree: 98%
    + [Verwalten, Erstellen und Verwenden von Fragmenten](/help/content-management/manage-author-use-fragments.md)
    + [Erstellen und Verwenden von Ausdrucksfragmenten](/help/content-management/expression-fragments.md)
    + [Konfigurieren von Inhaltsexperimenten für E-Mails](/help/experimentation/content-experiments-for-emails.md)
++ Briefpost-Kanal{#direct-mail-channel}
+   + [Briefpost-Kanal](/help/channels/direct-mail.md)
 + In-App-Kanal{#in-app-channel}
    + [Erstellen einer In-App-Kampagne](/help/channels/create-an-in-app-campaign.md)
    + [Erstellen einer In-App-Nachricht in einer Journey](/help/channels/create-an-in-app-message-in-a-journey.md)
@@ -62,10 +66,6 @@ ht-degree: 98%
    + [Erstellen einer Web-Kampagne](/help/channels/create-a-web-campaign.md)
    + [Erstellen einer Web-Kampagne](/help/channels/author-a-web-campaign.md)
    + [SPA-Unterstützung im Web-Editor](/help/channels/singel-page-application-support.md)
-+ Profile, Zielgruppen und Abonnements {#profiles-segments-subscriptions}
-   + [Einheitliches Profil und Segmentierung – Überblick](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
-   + [Erstellen von Zielgruppen mit dem Rule Builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
-   + [Abonnements und Landingpages](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Personalisieren von Inhalten {#personalize-content}
    + [Profil- und zielgruppenspezifische Personalisierung](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
