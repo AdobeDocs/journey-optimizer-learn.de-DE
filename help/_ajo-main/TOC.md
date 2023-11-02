@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: e775fc958c65a001d3ca1e09b0b43b3c69084310
+source-git-commit: 585264701dcffb714c74c37c1605749465a0c92b
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 100%
+source-wordcount: '428'
+ht-degree: 98%
 
 ---
 
@@ -63,8 +63,8 @@ ht-degree: 100%
    + [Erstellen einer Web-Kampagne](/help/channels/author-a-web-campaign.md)
    + [SPA-Unterstützung im Web-Editor](/help/channels/singel-page-application-support.md)
 + Profile, Zielgruppen und Abonnements {#profiles-segments-subscriptions}
-   + [Einheitliches Profil und Segmentierung – Überblick](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
-   + [Erstellen von Segmenten](/help/set-up-resources/create-segments.md)
+   + [Einheitliches Profil und Segmentierung – Überblick](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [Erstellen von Zielgruppen mit dem Rule Builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Abonnements und Landingpages](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Personalisieren von Inhalten {#personalize-content}
