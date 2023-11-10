@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
 source-git-commit: 78d8e19a8ab0cf1253cdb724a4d05e8d5b4dfdc4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '428'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -39,8 +39,8 @@ ht-degree: 98%
    + [Veröffentlichen einer Journey](/help/create-journeys/publish-a-journey.md)
    + [Kopieren einer Journey in eine andere Sandbox](/help/create-journeys/copy-a-journey.md)
 + Profile, Zielgruppen und Abonnements {#profiles-audiences-subscriptions}
-   + [Einheitliches Profil und Segmentierung – Überblick](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
-   + [Erstellen von Zielgruppen mit dem Rule Builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
+   + [Einheitliches Profil und Segmentierung – Übersicht](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [Erstellen von Zielgruppen mit dem Regel-Builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Abonnements und Landingpages](/help/subscriptions-and-landing-pages.md)
 + E-Mail-Kanal{#email-channel}
    + [Erstellen von Inhalten mit dem E-Mail-Designer](/help/channels/create-content-with-the-email-designer.md)
