@@ -2,25 +2,23 @@
 title: 'Anwendungsfall: Zielgruppenqualifikation'
 description: Machen Sie sich mit den entsprechenden Anwendungsfällen für Journeys mit Zielgruppenqualifikation vertraut. Erfahren Sie, wie Sie eine Journey mit Zielgruppenqualifikation erstellen und welche Best Practices anzuwenden sind.
 jira: KT-7704
-thumbnail: 334231.jpg
+thumbnail: 3425028.jpg
 feature: Journeys
 doc-type: feature video
+last-substantial-update: 2023-11-16T00:00:00Z
 team: PM
 role: User
 level: Beginner
 exl-id: e7626542-1399-4fcd-966a-cd9b3c7cd454
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: ht
-source-wordcount: '70'
+source-git-commit: e72573419ccffbe1cdad3608db46ec3fe9b0b43d
+workflow-type: tm+mt
+source-wordcount: '58'
 ht-degree: 100%
 
 ---
 
 # Anwendungsfall: Zielgruppenqualifikation
 
->[!NOTE]
->Bitte beachten Sie folgende Änderung in der Benutzeroberfläche: **Segmente** heißen jetzt **Zielgruppen**.
-
 Machen Sie sich mit den entsprechenden Anwendungsfällen für Journeys mit Zielgruppenqualifikation vertraut. Erfahren Sie, wie Sie eine Journey mit Zielgruppenqualifikation erstellen und welche Best Practices anzuwenden sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/334231?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3425028?quality=12&learn=on){transcript=true}
