@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
 source-git-commit: 6997e1257b0194fce07fc4ee4e1017e333e7f697
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '470'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -86,7 +86,7 @@ ht-degree: 94%
    + [Erstellen von Sammlungen](/help/decision-management/create-collections.md)
    + [Erstellen von Entscheidungen](/help/decision-management/create-decisions.md)
    + [Unterbreiten von Angeboten mithilfe der Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
-   + [Frequenzlimitierung](/help/decision-management/frequency-capping.md)
+   + [Frequenzbegrenzung](/help/decision-management/frequency-capping.md)
 + Data Management {#data-management}
    + [Übersicht](/help/data-management/set-up-data-overview.md)
    + [Erstellen eines Schemas](/help/data-management/create-schema.md)
@@ -106,7 +106,7 @@ ht-degree: 94%
       + [Delegieren von CName-Subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Konfigurieren von SMS-API-Anmeldeinformationen und Kanaloberflächen](/help/set-up-channels/set-up-sms-channel.md)
       + [Konfigurieren der Häufigkeitsregeln von Nachrichten](/help/administration/configure-frequency-rules.md)
-      + [Erstellen und Ausführen eines IP-Warmup-Plans](/help/administration/create-and-execute-an-ip-warmup-plan.md)
+      + [Erstellen und Ausführen eines IP-Aufwärmplans](/help/administration/create-and-execute-an-ip-warmup-plan.md)
    + Konfigurieren von Journeys {#journey-configuration}
       + [Konfigurieren von Datenquellen](/help/set-up-journeys/configure-data-sources.md)
       + [Ereignisse erstellen](/help/set-up-journeys/create-events.md)
@@ -121,9 +121,9 @@ ht-degree: 94%
    + [Konfigurieren einer Trainings-Sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=de)
    + [Herausforderungen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=de)
 + [Summit-Lab](/help/summit-lab-731/l731-assets.md)
-+ Experience League von Live-Aufzeichnungen{#experience-league-live-recordings}
++ Live-Aufnahmen von Experience League{#experience-league-live-recordings}
    + [Durch APIs ausgelöstes Messaging in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=de){target="_blank"}
-   + [Maximieren Sie das Potenzial Ihrer Mobile App mit Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=de){target="_blank"}
-   + [Bereitstellung des richtigen Angebots zur richtigen Zeit mit Entscheidungsmanagement](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en){target="_blank"}
-   + [Ausführen Ihrer Kampagnen in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en){target="_blank"}
-   + [Push-Benachrichtigungen mit Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en){target="_blank"}
+   + [Maximieren des Potenzials von Mobile Apps mit Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=de){target="_blank"}
+   + [Mit Entscheidungs-Management das richtige Angebot zur richtigen Zeit unterbreiten](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=de){target="_blank"}
+   + [Ausführen von Kampagnen in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=de){target="_blank"}
+   + [Push-Benachrichtigungen mit Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=de){target="_blank"}
