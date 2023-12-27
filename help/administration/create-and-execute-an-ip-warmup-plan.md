@@ -1,6 +1,6 @@
 ---
-title: Erstellen und Ausführen eines IP-Warmup-Plans
-description: Erfahren Sie, wie Sie einen IP-Warmup-Plan erstellen und ausführen.
+title: Erstellen und Ausführen eines IP-Aufwärmplans
+description: Erfahren Sie, wie Sie einen IP-Aufwärmplan erstellen und ausführen.
 feature: IP Warmup Plans
 role: Admin
 level: Beginner
@@ -14,16 +14,16 @@ hide: true
 badgeBeta: label="Beta" type="Informative"
 exl-id: 90b80e5c-ce12-4298-b7be-20a94512062e
 source-git-commit: 507745fa63e82f8fde800c8538fdf8a2e2506c8d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Erstellen und Ausführen eines IP-Warmup-Plans
+# Erstellen und Ausführen eines IP-Aufwärmplans
 
-Erfahren Sie, wie Sie einen IP-Warmup-Plan erstellen und ausführen.
+Erfahren Sie, wie Sie einen IP-Aufwärmplan erstellen und ausführen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425965/?learn=on)
 
-Weitere Informationen finden Sie in der Produktdokumentation [Erste Schritte mit IP-Aufwärmeplänen](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-gs.html) für weitere Informationen.
+Weitere Informationen finden Sie in der Produktdokumentation [Erste Schritte mit IP-Aufwärmplänen](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-gs.html?lang=de).
