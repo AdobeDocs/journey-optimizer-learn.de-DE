@@ -1,23 +1,23 @@
 ---
-title: SMS - Anmeldung mit zweifacher Bestätigung für Sinch und Infobip
+title: Anmeldung mit zweifacher Bestätigung für Sinch und Infobip
 description: Erfahren Sie, wie Sie die Anmeldung mit zweifacher Bestätigung für SMS konfigurieren.
 feature: SMS
 role: User
 level: Beginner
 doc-type: Feature Video
-duration: 0
+duration: 123
 last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14850
 thumbnail: 3427129.jpeg
-source-git-commit: 13bba1375a99df9e92c7eaf479e38444b3909a86
+source-git-commit: a1630802c3f0199e82dd18bba6dc581aa941091f
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '28'
 ht-degree: 0%
 
 ---
 
 
-# SMS - Anmeldung mit zweifacher Bestätigung für Sinch und Infobip
+# Anmeldung mit zweifacher Bestätigung für Sinch und Infobip
 
 Erfahren Sie, wie Sie die Anmeldung mit zweifacher Bestätigung für SMS konfigurieren.
 
