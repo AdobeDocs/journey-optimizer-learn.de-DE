@@ -7,9 +7,9 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 0d3c552a0c66a80447221b5e99945de2615f1404
-workflow-type: ht
-source-wordcount: '588'
+source-git-commit: 146e1ef57ccdc1f192fc377a6c1df893168f447b
+workflow-type: tm+mt
+source-wordcount: '490'
 ht-degree: 100%
 
 ---
@@ -20,25 +20,6 @@ ht-degree: 100%
 Journey Optimizer hilft Unternehmen, ihren Kunden vernetzte, kontextuelle und personalisierte Erlebnisse bereitzustellen. Die Customer Journey umfasst den gesamten Prozess der Kundeninteraktion mit der Marke, von der ersten Kontaktaufnahme, bis zum Verlassen der Site.
 
 Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer.
-
-<div id="whats-new-section">
-
-## Neue Funktionen
-
-* **[Erstellen dynamischer Inhalte mit dem Builder für Bedingungsregeln](/help/personalize-content/create-dynamic-content.md)**
-  *Erfahren Sie, wie Sie Bedingungsregeln erstellen und speichern und wie Sie diese Bedingungsregeln über alle Kanäle hinweg auf Inhalte anwenden können.*
-
-* **[Verwenden von Warnhinweisen](/help/administration/alerts.md)**
-  *Erfahren Sie, wie Sie vordefinierte Warnhinweise für unerwartete Verhaltensweisen von Journeys abonnieren und per E-Mail, in Journey Optimizer oder mithilfe einer API benachrichtigt werden können.*
-
-* **[Kopieren einer Journey in eine andere Sandbox](/help/create-journeys/copy-a-journey.md)**
-  *Erfahren Sie, wie Sie eine Journey und ihre abhängigen Objekte von einer Sandbox in eine andere kopieren.*
-
-* **[Maskieren von Daten in Nachrichten](/help/privacy/mask-data-in-messages.md)**
-  *Erfahren Sie, was Datenmaskierung ist und warum Daten maskiert werden sollten. Erfahren Sie, wie Sie Daten in Nachrichten von Journey Optimizer maskieren.*
-
-</div>
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
