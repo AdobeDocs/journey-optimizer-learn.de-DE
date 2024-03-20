@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 13bba1375a99df9e92c7eaf479e38444b3909a86
+source-git-commit: 1de848b430f61e93d6073d2db4cccca3dbe7676f
 workflow-type: tm+mt
 source-wordcount: '477'
 ht-degree: 98%
@@ -13,7 +13,7 @@ ht-degree: 98%
 
 # Journey Optimizer-Tutorials {#tutorials}
 
-+ [Journey Optimizer-Tutorials](/help/overview.md)
++ [Journey Optimizer-Tutorials](/help/_ajo-main/overview.md)
 + Einführung in Journey Optimizer {#introduction-to-journey-optimizer}
    + [Einführung in Journey Optimizer](/help/introduction/introduction.md)
    + [Übersicht über Journey Optimizer – Teil 1](/help/introduction/journey-optimizer-overview-part-1.md)
