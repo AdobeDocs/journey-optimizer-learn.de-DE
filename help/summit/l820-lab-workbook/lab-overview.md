@@ -9,9 +9,9 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: a447bd23478c2735642548ef573b627889becdf9
+source-git-commit: d53c2218ee69c81881b12dedc435826034a710e3
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,17 @@ ht-degree: 0%
 
 ![Adobe Summit - Alternativtext](/help/summit/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
+>[!IMPORTANT]
+>
+>Vermeiden Sie es, Fotos oder Screenshots aus der Sitzung in Social Media zu veröffentlichen.
+>
+>**Adobe Vertraulichkeit**
+>Die Informationen und Produktangaben, die heute in diesem Labor veröffentlicht werden, sind Adobe Vertraulichkeitsinformationen.
+>Die Teilnehmer dürfen vertrauliche Informationen weder reproduzieren, verwenden, verbreiten noch an andere Personen oder Einrichtungen weitergeben.
+>Produktangaben dienen nur zu Informationszwecken, sind keine Garantie für zukünftige Funktionen und können jederzeit geändert werden. Daher sind solche Produktmerkmale oder -funktionalitäten in keiner Weise Bestandteil Ihrer Vereinbarung mit Adobe oder anderweitig an Sie gebunden.
+>
+>**Haftungsausschluss**
+>Adobe bietet Ihnen frühzeitigen Zugriff auf die Funktionen, die generative KI-Technologie nutzen. Bitte beachten Sie, dass diese Funktionen noch in der Entwicklung sind und Antworten hervorrufen können, die unerwartet oder ungenau sind. Wir freuen uns über Ihr Feedback, da wir diese Funktion auf den Markt bringen.
 
 ## L820 - Erstellen personalisierter Mobile Momente mit Adobe Journey Optimizer
 
