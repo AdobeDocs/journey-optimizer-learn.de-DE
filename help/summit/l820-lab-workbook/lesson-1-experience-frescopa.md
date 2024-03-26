@@ -9,13 +9,13 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14978
 thumbnail: KT-14978.jpeg
-source-git-commit: df3355648178bf049df2f672528e207b53c90f28
+exl-id: 1bbb978b-0401-4383-b507-48b46d84d19f
+source-git-commit: 5f1527824e63dc1c43cb0540b685160a8e71d66e
 workflow-type: tm+mt
 source-wordcount: '559'
 ht-degree: 1%
 
 ---
-
 
 # Lektion 1: Erfahrung Fréscopa
 
@@ -30,7 +30,7 @@ In dieser Lektion erfahren Sie, wie Sie mit der Marke als Verbraucher interagier
 
 ## Übung 1.1 - Konto erstellen
 
-1. Navigieren Sie zum [Website von Fréscopa](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzA5NjAyMzQzLCJleHAiOjE3MTE0MTY3NDN9.V3zEKnVL3vGpPqr_34XjnJ5PSYKApYviBE02zyBalsY){target="_blank"}
+1. Navigieren Sie zum [Website von Fréscopa](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
 1. Klicken Sie auf der Homepage von Fréscopa auf **[!UICONTROL Anmelden]**.
 
@@ -117,7 +117,7 @@ Laden Sie das APK unter Android herunter und installieren Sie es, indem Sie die 
 
 ## Übung 1.3 - Website und App erkunden
 
-Machen Sie sich mit dem [Website von Fréscopa](https://dsn.adobe.com/web/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzA4NjQyNTU4LCJleHAiOjE3MTA0NTY5NTh9.m4N8Bs5ZB1jYbUSdl1B6MaYJvUiolIYI_T_TcR-xMfU){target="_blank"} und Mobile App. Erleben Sie die verschiedenen In-App-, Push- und SMS-Nachrichten, die in AJO implementiert und durch Ihre Interaktionen ausgelöst wurden.
+Machen Sie sich mit dem [Website von Fréscopa](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}  und Mobile App. Erleben Sie die verschiedenen In-App-, Push- und SMS-Nachrichten, die in AJO implementiert und durch Ihre Interaktionen ausgelöst wurden.
 
 Im Folgenden finden Sie einige Dinge, die Sie versuchen sollten:
 
