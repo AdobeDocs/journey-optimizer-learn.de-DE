@@ -6,16 +6,16 @@ role: User
 level: Intermediate
 doc-type: Tutorial
 duration: 0
-recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: 654520e25814eb94c5b19cb13087c1b93b4e4683
+last-substantial-update: 2024-03-26T00:00:00Z
+exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
+source-git-commit: b4eb509d50afeea02eac937be85643aa22370249
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
 
 ---
-
 
 # LAB-ARBEITSMAPPE
 
@@ -67,4 +67,3 @@ Das Kerngeschäft von Fréscopa liegt in der Bereitstellung von Kaffee-Abonnemen
 Ergänzend zu seinen Abonnementdiensten bieten die Website und die mobile App von Fréscopa eine umfassende Palette von Kaffee-bezogenen Produkten, die es Kunden ermöglichen, ihre Kaffeerituale zu erkunden und zu verbessern. Vom Braugerät bis zum handwerklichen Zubehör bietet Fréscopa eine zentrale Anlaufstelle für Kaffeeempfänger, die nach Qualität und Komfort suchen.
 
 Fréscopas Engagement für Exzellenz geht über seine Produkte hinaus, da das Unternehmen sich der Schaffung einer nahtlosen und genussvollen Journey widmet. Durch die Kombination innovativer Technologien und einen kundenorientierten Ansatz steht Fréscopa an der Spitze der sich entwickelnden Kaffeebranche. Im Wesentlichen verkörpert Fréscopa die Fusion von Leidenschaft und Technologie, indem es die Art und Weise neu definiert, wie Einzelpersonen ihren Kaffee genießen und erleben. Fréscopa lädt Kaffeefreunde mit einem Schwerpunkt auf Qualität, Komfort und personalisierten Angeboten zu einem Journey des Geschmacks ein, das direkt vor der Haustür geliefert wird.
-
