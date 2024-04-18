@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 64e4cdd312f1ad9807023c8dca1989d1ca9e30bd
-workflow-type: ht
-source-wordcount: '487'
+source-git-commit: e6b93c32b25c2976828d714ab7230c5cce14da51
+workflow-type: tm+mt
+source-wordcount: '482'
 ht-degree: 100%
 
 ---
@@ -61,7 +61,6 @@ ht-degree: 100%
    + [Konfigurieren und Senden von Push-Kampagnen](/help/channels/create-a-push-campaign.md)
 + SMS-Kanal{#sms-channel}
    + [Konfigurieren, Verfassen und Versenden von SMS-Nachrichten](/help/channels/author-sms-messages.md)
-   + [Unterstützung eingehender Keywords für SMS](/help/channels/inbound-keyword-support-for-sms.md)
    + [SMS – Double-Opt-in für Sinch und Infobip](/help/channels/sms-double-opt-in.md)
 + Web-Kanal {#web-channel}
    + [Erstellen einer Web-Kampagne](/help/channels/create-a-web-campaign.md)
