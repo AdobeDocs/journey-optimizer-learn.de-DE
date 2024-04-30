@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b4eb509d50afeea02eac937be85643aa22370249
-workflow-type: ht
-source-wordcount: '501'
-ht-degree: 100%
+source-git-commit: b58a4f37ac4cba27ff4dcea88ffa0d3b0db037cf
+workflow-type: tm+mt
+source-wordcount: '522'
+ht-degree: 95%
 
 ---
 
@@ -31,6 +31,9 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 <div id="events-section">
 
 ## Live-Events von Experience League
+
+* **[Neuer code-basierter Erlebniskanal in Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
+  *Erfahren Sie, wie Sie eingehende Oberflächen und die granulare Personalisierungssteuerung mit entwicklerorientierten Aktionen aktivieren.*
 
 * **[Durch APIs ausgelöstes Messaging in Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=de){target="_blank"}**
   *Erfahren Sie, wie Sie REST-APIs für kontextbezogene, personalisierte und Echtzeit-Transaktions- und Marketing-Kommunikationen verwenden.*
