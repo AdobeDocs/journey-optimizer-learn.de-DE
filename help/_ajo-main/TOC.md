@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 42e7d88fa169980445d537a85681858675023620
+source-git-commit: 41a651b01380181d2ebc586fdb6a5eb697a92448
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 96%
+source-wordcount: '517'
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,9 @@ ht-degree: 96%
 + Kampagnen {#create-campaigns}
    + [Erstellen einer Kampagne](/help/create-campaigns/create-a-campaign.md)
    + [Erstellen einer In-App-Kampagne](/help/create-campaigns/in-app.md)
-   + [Erstellen einer Web-Kampagne](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=de)
+   + [Konfigurieren und Senden einer Push-Kampagne](/help/create-campaigns/push-campaign.md)
+   + [Erstellen einer Web-Kampagne](/help/create-campaigns/web-campaign.md)
+   + [Codebasierte Erlebniskampagne erstellen](/help/create-campaigns/code-based-experience.md)
    + [Auslösen von Kampagnen mit APIs](/help/create-campaigns/api-triggered-campaigns.md)
    + [Erstellen von Inhaltsexperimenten für E-Mail-Kampagnen](/help/create-campaigns/content-experiments.md)
 + Journeys {#create-journeys}
@@ -51,6 +53,8 @@ ht-degree: 96%
    + [Verwalten, Erstellen und Verwenden von Fragmenten](/help/content-management/manage-author-use-fragments.md)
    + [Erstellen und Verwenden von Ausdrucksfragmenten](/help/content-management/expression-fragments.md)
    + [Konfigurieren von Inhaltsexperimenten für E-Mails](/help/experimentation/content-experiments-for-emails.md)
++ Codebasierter Erlebniskanal{#code-based-experience-channel}
+   + [Codebasierte Erlebniskampagne erstellen](/help/channels/create-a-code-based-experience-campaign.md)
 + Briefpost-Kanal{#direct-mail-channel}
    + [Briefpost-Kanal](/help/channels/direct-mail.md)
 + In-App-Kanal{#in-app-channel}
@@ -62,7 +66,7 @@ ht-degree: 96%
    + [Konfigurieren und Senden von Push-Kampagnen](/help/channels/create-a-push-campaign.md)
 + SMS-Kanal{#sms-channel}
    + [Konfigurieren, Verfassen und Versenden von SMS-Nachrichten](/help/channels/author-sms-messages.md)
-   + [Verfassen eines MMS](/help/channels/author-mms.md)
+   + [MMS-Nachricht erstellen](/help/channels/author-mms.md)
    + [SMS – Double-Opt-in für Sinch und Infobip](/help/channels/sms-double-opt-in.md)
 + Web-Kanal {#web-channel}
    + [Erstellen einer Web-Kampagne](/help/channels/create-a-web-campaign.md)
