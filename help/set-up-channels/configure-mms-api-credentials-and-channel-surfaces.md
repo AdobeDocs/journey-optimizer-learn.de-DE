@@ -1,6 +1,6 @@
 ---
-title: MMS-API-Anmeldeinformationen und Kanaloberflächen konfigurieren
-description: Erfahren Sie, wie Sie Journey Optimizer mit einem MMS-Dienstleister verbinden und wie Sie eine MMS-Kanaloberfläche erstellen.
+title: Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen
+description: Erfahren Sie, wie Sie Journey Optimizer mit einem MMS-Dienstanbieter verbinden und wie Sie eine MMS-Kanaloberfläche erstellen.
 feature: SMS
 role: Admin
 level: Beginner
@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 85
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15386
-source-git-commit: 14ae4c98e2898efb1f0f543bb8f9b889b9222e98
-workflow-type: tm+mt
+exl-id: cc02dacd-522a-47fa-9277-f73c896dd25f
+source-git-commit: d9507c5cc69375b1bae0d5582214d34601a55c75
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen
 
-# MMS-API-Anmeldeinformationen und Kanaloberflächen konfigurieren
-
-Erfahren Sie, wie Sie Journey Optimizer mit einem MMS-Dienstleister verbinden und wie Sie eine MMS-Kanaloberfläche erstellen.
+Erfahren Sie, wie Sie Journey Optimizer mit einem MMS-Dienstanbieter verbinden und wie Sie eine MMS-Kanaloberfläche erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428872/?learn=on)

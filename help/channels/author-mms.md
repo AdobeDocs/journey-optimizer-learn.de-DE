@@ -1,6 +1,6 @@
 ---
-title: MMS-Nachricht erstellen
-description: Erfahren Sie, wie Sie Journey Optimizer mit einem MMS-Dienstleister verbinden und wie Sie eine MMS-Kanaloberfläche erstellen.
+title: Verfassen von MMS-Nachrichten
+description: Erfahren Sie, wie Sie Journey Optimizer mit einem MMS-Dienstanbieter verbinden und wie Sie eine MMS-Kanaloberfläche erstellen.
 feature: SMS
 role: Admin, User
 level: Beginner
@@ -10,15 +10,15 @@ last-substantial-update: 2024-05-01T00:00:00Z
 jira: KT-15444
 exl-id: 810c700b-d629-474c-8ffb-ea44ca187a03
 source-git-commit: 5a6ece502b0638f5d160255dbc3f858d11c773da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
 
-# MMS-Nachricht erstellen
+# Verfassen von MMS-Nachrichten
 
-Erfahren Sie, wie Sie Journey Optimizer mit einem MMS-Dienstleister verbinden und wie Sie eine MMS-Kanaloberfläche erstellen.
+Erfahren Sie, wie Sie Journey Optimizer mit einem MMS-Dienstanbieter verbinden und wie Sie eine MMS-Kanaloberfläche erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428816/?learn=on)
