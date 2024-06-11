@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 11c852e7e52747306ccd3cfa692c142f631859f7
+source-git-commit: 640be5f146208fb7fc3729acbb36edf90aae06e4
 workflow-type: tm+mt
-source-wordcount: '524'
-ht-degree: 100%
+source-wordcount: '525'
+ht-degree: 99%
 
 ---
 
@@ -45,33 +45,34 @@ ht-degree: 100%
    + [Einheitliches Profil und Segmentierung – Übersicht](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Erstellen von Zielgruppen mit dem Regel-Builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Abonnements und Landingpages](/help/subscriptions-and-landing-pages.md)
-+ E-Mail-Kanal{#email-channel}
-   + [Erstellen von Inhalten mit dem E-Mail-Designer](/help/channels/create-content-with-the-email-designer.md)
-   + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/channels/import-and-author-html-email-content.md)
-   + [Vorschau, Testversand und Veröffentlichung](/help/channels/preview-proof-and-publish.md)
-   + [Inhaltsvorlagen](/help/channels/content-templates.md)
-   + [Verwalten, Erstellen und Verwenden von Fragmenten](/help/content-management/manage-author-use-fragments.md)
-   + [Erstellen und Verwenden von Ausdrucksfragmenten](/help/content-management/expression-fragments.md)
-   + [Konfigurieren von Inhaltsexperimenten für E-Mails](/help/experimentation/content-experiments-for-emails.md)
-+ Code-basierter Erlebniskanal{#code-based-experience-channel}
-   + [Erstellen einer Code-basierte Erlebniskampagne](/help/channels/create-a-code-based-experience-campaign.md)
-+ Briefpost-Kanal{#direct-mail-channel}
-   + [Briefpost-Kanal](/help/channels/direct-mail.md)
-+ In-App-Kanal{#in-app-channel}
-   + [Erstellen einer In-App-Kampagne](/help/channels/create-an-in-app-campaign.md)
-   + [Erstellen einer In-App-Nachricht in einer Journey](/help/channels/create-an-in-app-message-in-a-journey.md)
-   + [Verfassen einer In-App-Nachricht ](/help/channels/author-in-app-messages.md)
-   + [Konfigurieren von Inhaltsexperimenten für In-App-Nachrichten](/help/experimentation/content-experiments-for-in-app-messages.md)
-+ Push-Kanal{#push-channel}
-   + [Konfigurieren und Senden von Push-Kampagnen](/help/channels/create-a-push-campaign.md)
-+ SMS-Kanal{#sms-channel}
-   + [Konfigurieren, Verfassen und Versenden von SMS-Nachrichten](/help/channels/author-sms-messages.md)
-   + [Verfassen von MMS-Nachrichten](/help/channels/author-mms.md)
-   + [SMS – Double-Opt-in für Sinch und Infobip](/help/channels/sms-double-opt-in.md)
-+ Web-Kanal {#web-channel}
-   + [Erstellen einer Web-Kampagne](/help/channels/create-a-web-campaign.md)
-   + [Erstellen einer Web-Kampagne](/help/channels/author-a-web-campaign.md)
-   + [SPA-Unterstützung im Web-Editor](/help/channels/singel-page-application-support.md)
++ Kanäle {#channels}
+   + Code-basierter Erlebniskanal{#code-based-experience-channel}
+      + [Erstellen einer Code-basierte Erlebniskampagne](/help/channels/create-a-code-based-experience-campaign.md)
+   + Briefpost-Kanal{#direct-mail-channel}
+      + [Briefpost-Kanal](/help/channels/direct-mail.md)
+   + E-Mail-Kanal{#email}
+      + [Erstellen von Inhalten mit dem E-Mail-Designer](/help/channels/create-content-with-the-email-designer.md)
+      + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/channels/import-and-author-html-email-content.md)
+      + [Vorschau, Testversand und Veröffentlichung](/help/channels/preview-proof-and-publish.md)
+      + [Inhaltsvorlagen](/help/channels/content-templates.md)
+      + [Verwalten, Erstellen und Verwenden von Fragmenten](/help/content-management/manage-author-use-fragments.md)
+      + [Erstellen und Verwenden von Ausdrucksfragmenten](/help/content-management/expression-fragments.md)
+      + [Konfigurieren von Inhaltsexperimenten für E-Mails](/help/experimentation/content-experiments-for-emails.md)
+   + In-App-Kanal{#in-app-channel}
+      + [Erstellen einer In-App-Kampagne](/help/channels/create-an-in-app-campaign.md)
+      + [Erstellen einer In-App-Nachricht in einer Journey](/help/channels/create-an-in-app-message-in-a-journey.md)
+      + [Verfassen einer In-App-Nachricht ](/help/channels/author-in-app-messages.md)
+      + [Konfigurieren von Inhaltsexperimenten für In-App-Nachrichten](/help/experimentation/content-experiments-for-in-app-messages.md)
+   + Push-Kanal{#push-channel}
+      + [Konfigurieren und Senden von Push-Kampagnen](/help/channels/create-a-push-campaign.md)
+   + SMS-Kanal{#sms-channel}
+      + [Konfigurieren, Verfassen und Versenden von SMS-Nachrichten](/help/channels/author-sms-messages.md)
+      + [Verfassen von MMS-Nachrichten](/help/channels/author-mms.md)
+      + [SMS – Double-Opt-in für Sinch und Infobip](/help/channels/sms-double-opt-in.md)
+   + Web-Kanal {#web-channel}
+      + [Erstellen einer Web-Kampagne](/help/channels/create-a-web-campaign.md)
+      + [Erstellen einer Web-Kampagne](/help/channels/author-a-web-campaign.md)
+      + [SPA-Unterstützung im Web-Editor](/help/channels/singel-page-application-support.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + Personalisieren von Inhalten {#personalize-content}
    + [Profil- und zielgruppenspezifische Personalisierung](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
