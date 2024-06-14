@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 93feb322403ee343686d901576a6c70b1a08287a
+source-git-commit: 6a0f50992c7112be09f85cd4b87268c9441d0d4d
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '533'
 ht-degree: 98%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 98%
    + [Erstellen einer In-App-Kampagne](/help/create-campaigns/in-app.md)
    + [Konfigurieren und Senden von Push-Kampagnen](/help/create-campaigns/push-campaign.md)
    + [Erstellen einer Web-Kampagne](/help/create-campaigns/web-campaign.md)
-   + [Erstellen einer Code-basierte Erlebniskampagne](/help/create-campaigns/code-based-experience.md)
+   + [Erstellen einer Code-basierten Erlebniskampagne](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
    + [Auslösen von Kampagnen mit APIs](/help/create-campaigns/api-triggered-campaigns.md)
    + [Erstellen von Inhaltsexperimenten für E-Mail-Kampagnen](/help/create-campaigns/content-experiments.md)
 + Journeys {#create-journeys}
