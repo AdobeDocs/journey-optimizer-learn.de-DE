@@ -14,9 +14,9 @@ hide: true
 badgeBeta: label="Beta" type="Informative"
 exl-id: 90b80e5c-ce12-4298-b7be-20a94512062e
 source-git-commit: 7e8c682b4c7163e659e2cdee62ea05d14d4db7d9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ Erfahren Sie, wie Sie einen IP-Aufwärmplan erstellen und ausführen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425965/?learn=on)
 
-Siehe [Best Practices für die Zustellbarkeit](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/introduction) für Best Practices zu [Targeting-Kriterien](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria), [ISP-spezifische Aspekte bei der IP-Erwärmung](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming), und [Lautstärke](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume) während der IP-Erwärmung.
+Im [Best-Practice-Leitfaden zur Zustellbarkeit](https://experienceleague.adobe.com/de/docs/deliverability-learn/deliverability-best-practice-guide/introduction) finden Sie Informationen zu Best Practices in Bezug auf [Kriterien für die Zielgruppenbestimmung](https://experienceleague.adobe.com/de/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria), [ISP-spezifische Überlegungen beim IP-Warming](https://experienceleague.adobe.com/de/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming) und [Volumen](https://experienceleague.adobe.com/de/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume).

@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
 source-git-commit: 6a0f50992c7112be09f85cd4b87268c9441d0d4d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '533'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 98%
    + [Erstellen einer In-App-Kampagne](/help/create-campaigns/in-app.md)
    + [Konfigurieren und Senden von Push-Kampagnen](/help/create-campaigns/push-campaign.md)
    + [Erstellen einer Web-Kampagne](/help/create-campaigns/web-campaign.md)
-   + [Erstellen einer Code-basierten Erlebniskampagne](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
+   + [Erstellen einer Code-basierten Erlebniskampagne](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
    + [Auslösen von Kampagnen mit APIs](/help/create-campaigns/api-triggered-campaigns.md)
    + [Erstellen von Inhaltsexperimenten für E-Mail-Kampagnen](/help/create-campaigns/content-experiments.md)
 + Journeys {#create-journeys}
@@ -40,7 +40,7 @@ ht-degree: 98%
    + [Anwendungsfall: Zielgruppenqualifikation](/help/create-journeys/use-case-audience-qualification.md)
    + [Erstellen eines Testprofils](/help/create-journeys/test-a-journey.md)
    + [Veröffentlichen einer Journey](/help/create-journeys/publish-a-journey.md)
-   + [Inhalt in einer Live-Journey aktualisieren](/help/create-journeys/update-content-in-live-journey.md)
+   + [Aktualisieren von Inhalten in einer Live-Journey](/help/create-journeys/update-content-in-live-journey.md)
    + [Kopieren einer Journey in eine andere Sandbox](/help/create-journeys/copy-a-journey.md)
 + Profile, Zielgruppen und Abonnements {#profiles-audiences-subscriptions}
    + [Einheitliches Profil und Segmentierung – Übersicht](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
@@ -49,8 +49,8 @@ ht-degree: 98%
 + Kanäle {#channels}
    + Code-basierter Erlebniskanal{#code-based-experience-channel}
       + [Erstellen einer Code-basierte Erlebniskampagne](/help/channels/create-a-code-based-experience-campaign.md)
-   + Briefpost-Kanal{#direct-mail-channel}
-      + [Erstellen einer Briefpost](/help/channels/direct-mail.md)
+   + Direkt-Mail-Kanal{#direct-mail-channel}
+      + [Erstellen einer Direkt-Mail](/help/channels/direct-mail.md)
    + E-Mail-Kanal{#email-channel}
       + [Erstellen von Inhalten mit dem E-Mail-Designer](/help/channels/create-content-with-the-email-designer.md)
       + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/channels/import-and-author-html-email-content.md)
