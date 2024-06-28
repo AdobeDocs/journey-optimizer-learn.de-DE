@@ -1,8 +1,8 @@
 ---
-source-git-commit: f42f117b47a16536a045688a472f95afff46ecec
+source-git-commit: 71fca35f267d5dae16c73323b206fb18c39b9f64
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 # AJO Snippets
@@ -26,4 +26,10 @@ Experience League LIVE:
 * [Maximieren Sie das Potenzial Ihrer Mobile App mit Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=de)
 
   *Erfahren Sie mehr über die Vorteile von In-App-Nachrichten als Echtzeit-Interaktionskanal und die Konfiguration und Erstellung personalisierter Mobile App-Erlebnisse in Adobe Journey Optimizer.*
+
+## Eingeschränkte Verfügbarkeit {#limited-availability}
+
+>[!NHinweis]
+>
+>Diese Funktionen sind derzeit nur für eine Reihe von Organisationen verfügbar (eingeschränkte Verfügbarkeit). Um Zugang zu erhalten, wenden Sie sich an den Adobe-Support.
 
