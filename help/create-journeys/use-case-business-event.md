@@ -1,5 +1,5 @@
 ---
-title: Anwendungsfall - Geschäftsereignis
+title: 'Anwendungsfall: Geschäftsereignis'
 description: Erfahren Sie, wie Sie Geschäftsereignisse in Journey Optimizer verwenden. Erfahren Sie, wie die Daten aus Geschäftsereignissen für personalisierte Nachrichten in Journey verwendet werden können.
 feature: Journeys
 role: User
@@ -10,15 +10,15 @@ last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-7702
 exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
 source-git-commit: 0cf49c6da17b80c45b21981bdaf15e39fbb0ae5a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # Anwendungsfall: Geschäftsereignis
 
-Erfahren Sie, wie Sie Geschäftsereignisse in Journey Optimizer verwenden. Geschäftsereignisse ermöglichen es Marken, Trigger-Journey auf der Basis von Veranstaltungen zu besuchen, die nicht mit Personen in Verbindung stehen, z. B. die Benachrichtigung von Abonnenten, wenn eine Nachrichtenveröffentlichung neue Inhalte enthält, oder den Versand von Nachrichten während einer Sportveranstaltung. Erfahren Sie, wie die Daten aus Geschäftsereignissen für personalisierte Nachrichten in Journey verwendet werden können.
+Erfahren Sie, wie Sie Geschäftsereignisse in Journey Optimizer verwenden. Mit Geschäftsereignissen können Marken Journeys auf der Grundlage von Ereignissen auslösen, die nichts mit Menschen zu tun haben, wie z. B. die Benachrichtigung von Abonnierenden, wenn eine Veröffentlichung neue Inhalte hat, oder der Versand von Nachrichten während eines Sportereignisses. Erfahren Sie, wie die Daten aus Geschäftsereignissen für personalisierte Nachrichten in Journey verwendet werden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334234/?learn=on)

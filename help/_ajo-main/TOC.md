@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
 source-git-commit: c9a4813c607c87a44c8a70ceea727e554f097521
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '556'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -75,10 +75,10 @@ ht-degree: 95%
       + [Erstellen einer Web-Kampagne](/help/channels/create-a-web-campaign.md)
       + [Erstellen einer Web-Kampagne](/help/channels/author-a-web-campaign.md)
       + [SPA-Unterstützung im Web-Editor](/help/channels/singel-page-application-support.md)
-+ Content Management{#content-management}
++ Content-Management{#content-management}
    + [Verwalten von Assets](/help/assets-essentials-overview.md)
-   + [Ausdrucksfragmente erstellen und verwenden](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
-   + [Mehrsprachige Nachrichten einrichten](/help/content-management/set-up-multilingual-messages.md)
+   + [Erstellen und Verwenden von Ausdrucksfragmenten](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
+   + [Einrichten mehrsprachiger Nachrichten](/help/content-management/set-up-multilingual-messages.md)
 + Personalisieren von Inhalten {#personalize-content}
    + [Profil- und zielgruppenspezifische Personalisierung](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Hinzufügen von Angeboten als Personalisierung](/help/personalize-content/add-offer-decisioning-to-messages.md)
@@ -112,7 +112,7 @@ ht-degree: 95%
    + [Berichte auf Kanalebene](/help/report-and-monitor/channel-level-reports.md)
    + [Exportieren von Berichten im CSV-Format](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Verwenden von Warnhinweisen](/help/administration/alerts.md)
-   + [Verbesserte Berichterstellung mit Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
+   + [Verbessertes Reporting mit Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + Konfiguration {#configuration}
    + Konfigurieren der Kanäle {#channel-configuration}
       + [Einrichten des E-Mail-Kanals](/help/set-up-channels/set-up-email-channel.md)
