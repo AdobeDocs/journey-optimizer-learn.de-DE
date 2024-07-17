@@ -1,6 +1,6 @@
 ---
 title: Vorschau, Testversand und Veröffentlichung
-description: Erfahren Sie, wie Sie das E-Mail-Rendering über Postfächer hinweg mit Litmus testen, wie Sie Ihre personalisierten E-Mails mit Testprofilen in der Vorschau anzeigen, Testsendungen durchführen und Ihre E-Mail veröffentlichen können.
+description: Hier erfahren Sie, wie Sie das E-Mail-Rendering für mehrere Posteingänge mit Litmus testen, wie Sie Ihre personalisierten E-Mails mit Testprofilen in der Vorschau anzeigen, Testsendungen durchführen und Ihre E-Mail veröffentlichen können.
 jira: KT-7533
 thumbnail: 3425026.jpeg
 feature: Email Design, Email Rendering
@@ -13,12 +13,12 @@ exl-id: 01c15f13-a804-45c3-94b0-ecd46586cc4f
 source-git-commit: 16bc4b8153ba55183f7ef5bda112b636e95632ca
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
 # Vorschau, Testversand und Veröffentlichung
 
-Erfahren Sie, wie Sie das E-Mail-Rendering über Postfächer hinweg mit Litmus testen, wie Sie Ihre personalisierten E-Mails mit Testprofilen in der Vorschau anzeigen, Testsendungen durchführen und Ihre E-Mail veröffentlichen können.
+Hier erfahren Sie, wie Sie das E-Mail-Rendering für mehrere Posteingänge mit Litmus testen, wie Sie Ihre personalisierten E-Mails mit Testprofilen in der Vorschau anzeigen, Testsendungen durchführen und Ihre E-Mail veröffentlichen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425026?quality=12&learn=on){transcript=true}

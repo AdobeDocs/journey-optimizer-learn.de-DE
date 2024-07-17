@@ -1,5 +1,5 @@
 ---
-title: Journey- und Journey-Status veröffentlichen
+title: Status von Publish Journey und Journey
 description: Machen Sie sich mit den verschiedenen Status einer Journey und der Wirkung der Veröffentlichung vertraut.
 jira: KT-7528
 thumbnail: 3424998.jpeg
@@ -17,7 +17,7 @@ ht-degree: 68%
 
 ---
 
-# Journey- und Journey-Status veröffentlichen
+# Status von Publish Journey und Journey
 
 Machen Sie sich mit den verschiedenen Status einer Journey und der Wirkung der Veröffentlichung vertraut.
 

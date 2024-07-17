@@ -1,14 +1,14 @@
 ---
 title: Journey Optimizer-Herausforderungen – Einführung und Voraussetzungen
-description: Herausforderungen bieten ein Szenario und die Voraussetzungen, die zum Üben des Gelernten erforderlich sind. Jede Herausforderung in diesem Abschnitt behandelt einen einzigen Anwendungsfall, den Sie implementieren.
+description: Herausforderungen bieten ein Szenario und die Voraussetzungen, die zum Üben des Gelernten erforderlich sind. Jede Herausforderung in diesem Abschnitt behandelt einen einzigartigen Anwendungsfall, den Sie implementieren.
 feature: Journeys
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: 1542a429d393d9d803976d1490a3bc09654b706b
-workflow-type: ht
-source-wordcount: '479'
+workflow-type: tm+mt
+source-wordcount: '411'
 ht-degree: 100%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 Herausforderungen bieten ein Szenario und die Voraussetzungen, die zum Üben des Gelernten erforderlich sind. Herausforderungen helfen Ihnen dabei, Ihr Qualifikationsniveau auszuwerten und Wissenslücken zu erkennen.
 
-Jede Herausforderung in diesem Abschnitt behandelt einen einzigen Anwendungsfall, den Sie implementieren. Die Zielgruppe (Persona) und die erforderlichen Fähigkeiten werden zu Beginn jeder Herausforderung aufgelistet.
+Jede Challenge in diesem Abschnitt behandelt einen einzigartigen Anwendungsfall, den Sie implementieren. Die Zielgruppe (Persona) und die erforderlichen Fähigkeiten werden zu Beginn jeder Herausforderung aufgelistet.
 
 ## Voraussetzungen
 

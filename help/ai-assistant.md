@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie mit AI Assistant in Adobe Experience Platform-basierten An
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-Siehe [Arbeiten mit dem KI-Assistenten](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant) Weitere Informationen zu den in Journey Optimizer unterstützten Anwendungsfällen. Eine ausführliche Dokumentation finden Sie unter [KI-Assistent in Adobe Experience Platform](https://experienceleague.adobe.com/de/docs/experience-platform/ai-assistant/home) Dokumentation.
+Weitere Informationen zu den in Journey Optimizer unterstützten Anwendungsfällen finden Sie unter [Arbeiten mit dem AI-Assistenten](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant) . Eine ausführliche Dokumentation finden Sie in der Dokumentation zum [AI-Assistenten in Adobe Experience Platform](https://experienceleague.adobe.com/de/docs/experience-platform/ai-assistant/home) .
