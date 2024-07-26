@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 45a973fa9700abbf254573906d5778ded9483316
+source-git-commit: dc11d8bae005038b610637fd0057b4bd92d53374
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 97%
+source-wordcount: '556'
+ht-degree: 96%
 
 ---
 
@@ -117,7 +117,8 @@ ht-degree: 97%
    + Konfigurieren der Kanäle {#channel-configuration}
       + [Einrichten des E-Mail-Kanals](/help/set-up-channels/set-up-email-channel.md)
       + [Delegieren von CName-Subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
-      + [Konfigurieren von SMS-API-Anmeldeinformationen und Kanaloberflächen](/help/set-up-channels/set-up-sms-channel.md)
+      + [Konfigurieren von SMS-API-Anmeldedaten und Kanaloberflächen](/help/set-up-channels/set-up-sms-channel.md)
+      + [Erstellen eines eigenen SMS-Anbieters (Beta)](help/set-up-channels/bring-your-own-sms-provider.md)
       + [Konfigurieren der Häufigkeitsregeln von Nachrichten](/help/administration/configure-frequency-rules.md)
       + [Erstellen und Ausführen eines IP-Aufwärmplans](/help/administration/create-and-execute-an-ip-warmup-plan.md)
       + [Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
