@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 56ce5f811573046687f735e0f1e6f3f8b972773e
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -74,11 +74,11 @@ ht-degree: 94%
       + [SPA-Unterstützung im Web-Editor](/help/channels/singel-page-application-support.md)
 + Content-Management{#content-management}
    + [Verwalten von Assets](/help/assets-essentials-overview.md)
-   + [Inhaltsvorlagen verwalten](/help/content-management/content-templates.md)
+   + [Verwalten von Inhaltsvorlagen](/help/content-management/content-templates.md)
    + [Verwalten von Fragmenten](/help/content-management/manage-fragments.md)
    + [Erstellen von Ausdrucksfragmenten](/help/content-management/expression-fragments.md)
-   + [Mehrsprachige Nachrichten einrichten](/help/content-management/set-up-multilingual-messages.md)
-   + [Mehrsprachige Nachricht erstellen](/help/content-management/create-multilingual-messages.md)
+   + [Einrichten mehrsprachiger Nachrichten](/help/content-management/set-up-multilingual-messages.md)
+   + [Erstellen einer mehrsprachigen Nachricht](/help/content-management/create-multilingual-messages.md)
 + Personalisieren von Inhalten {#personalize-content}
    + [Profil- und zielgruppenspezifische Personalisierung](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [Hinzufügen von Angeboten als Personalisierung](/help/personalize-content/add-offer-decisioning-to-messages.md)
@@ -119,7 +119,7 @@ ht-degree: 94%
       + [Delegieren von CName-Subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
       + [Einrichten und Ausführen eines IP-Aufwärmplans](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [Konfigurieren von SMS-API-Anmeldedaten und Kanaloberflächen](/help/set-up-channels/set-up-sms-channel.md)
-      + [Erstellen eines eigenen SMS-Anbieters (Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
+      + [Verwenden des eigenen SMS-Anbieters (Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
       + [Konfigurieren der Häufigkeitsregeln von Nachrichten](/help/administration/configure-frequency-rules.md)
       + [Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + Konfigurieren von Journeys {#journey-configuration}

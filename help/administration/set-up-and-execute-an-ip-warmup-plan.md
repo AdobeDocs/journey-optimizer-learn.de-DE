@@ -1,6 +1,6 @@
 ---
 title: Einrichten und Ausführen eines IP-Aufwärmplans
-description: Erfahren Sie, was IP-Erwärmung ist und lernen Sie, wie Sie einen IP-Warmup-Plan in Adobe Journey Optimizer einrichten und ausführen.
+description: Erfahren Sie, was IP-Aufwärmen ist und wie Sie einen IP-Warming in Adobe Journey Optimizer einrichten und ausführen.
 feature: IP Warmup Plans
 role: Admin
 level: Beginner
@@ -13,14 +13,14 @@ jira: KT-14602
 source-git-commit: 5e6503b8f15ee0dfc7f2894e8d1d7a8493abe63d
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 4%
+ht-degree: 62%
 
 ---
 
 
 # Einrichten und Ausführen eines IP-Aufwärmplans
 
-Erfahren Sie, was IP-Erwärmung ist und lernen Sie, wie Sie einen IP-Warmup-Plan in Adobe Journey Optimizer einrichten und ausführen.
+Erfahren Sie, was IP-Aufwärmen ist und wie Sie einen IP-Warming in Adobe Journey Optimizer einrichten und ausführen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
 
