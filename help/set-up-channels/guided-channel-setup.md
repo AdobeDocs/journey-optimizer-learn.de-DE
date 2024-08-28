@@ -10,10 +10,10 @@ last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-16041
 hidefromtoc: true
 hide: true
-source-git-commit: 79e5376bdf570664ff308ae18b27168f8fefd891
-workflow-type: ht
-source-wordcount: '150'
-ht-degree: 100%
+source-git-commit: bf17a3a7c03e1da68bb938a58fd626d0e5322425
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 91%
 
 ---
 
@@ -28,7 +28,5 @@ Erfahren Sie, wie Sie eine Push-Kanal-Benachrichtigung in einer Beispiel-Marketi
 
 Weitere Informationen finden Sie in der Produktdokumentation:
 
-* [Erste Schritte mit der Anleitung zur Kanaleinrichtung](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config)
-* [Einrichten der Android Mobile-Konfiguration](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-android)
-* [Einrichten der iOS Mobile-Konfiguration](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-ios)
-* [Einrichten der Web-Konfiguration](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-web)
+* [Erste Schritte mit der Einrichtung eines geführten Kanals](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html)
+* [Erstellen eines Kanal-Setups](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html)
