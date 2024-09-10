@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: c67f80685fdd15541ad3817251e76eb34e2f6e7b
+source-git-commit: 066df8631872b0322a7b0622ce273f27fd612272
 workflow-type: tm+mt
-source-wordcount: '575'
-ht-degree: 96%
+source-wordcount: '581'
+ht-degree: 95%
 
 ---
 
@@ -129,6 +129,7 @@ ht-degree: 96%
       + [Erstellen von Aktionen](/help/set-up-journeys/create-actions.md)
    + Geschäftsregeln {#business-rules}
       + [Häufigkeitsbegrenzungsregeln konfigurieren](/help/configuration/configure-frequency-capping-rules.md)
+      + [Testen und Reporting zu Häufigkeitsregeln](/help/configuration/test-and-report-on-frequency-rules.md)
 + Zugriffskontrolle {#access-control}
    + [Zugriffsverwaltung ](/help/set-up-access/access-management.md)
    + [Konfigurieren der attributbasierten Zugriffssteuerung](/help/administration/attribute-based-access-control.md)
