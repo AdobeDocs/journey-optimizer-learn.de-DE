@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 4c51e1a1b04750559f3d1316fc9c13bedd94ae60
+source-git-commit: cf1bf6d0602314e870834035882f2bf1929f307a
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 89%
+source-wordcount: '377'
+ht-degree: 81%
 
 ---
 
@@ -32,10 +32,13 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 ## Neueste Experience League-Live-Ereignisse
 
+* **[KI-Bash - Entsperren der Leistung des KI-Assistenten in Adobe Experience Platform-Anwendungen und Campaign](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+  *Erfahren Sie, wie der KI-Assistent Kundeninteraktionen transformiert und die Produktivität in Adobe Experience Cloud-Anwendungen und Adobe Campaign erhöht.*
 * **[Spotlight - Drei Funktionen in Adobe Journey Optimizer müssen getestet werden](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
   *Laden Sie die Kundeninteraktion in diesem Sommer mit den drei Funktionen von Adobe Journey Optimizer hoch: Journey-Experimentierung, Frequenzlimitierung und mehrsprachiges Messaging.*
 * **[Neuer Code-basierter Erlebniskanal in Journey Optimizer](https://experienceleague.adobe.com/de/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *Erfahren Sie, wie Sie eingehende Oberflächen und eine granulare Personalisierungssteuerung mit entwicklerorientierten Aktionen aktivieren.*
+
 </div>
 
 <div id="staff-picks-section">
