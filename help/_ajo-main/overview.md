@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: cf1bf6d0602314e870834035882f2bf1929f307a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '377'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -30,12 +30,12 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 
 <div id="events-section">
 
-## Neueste Experience League-Live-Ereignisse
+## Aktuelle Live-Events von Experience League
 
-* **[KI-Bash - Entsperren der Leistung des KI-Assistenten in Adobe Experience Platform-Anwendungen und Campaign](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
-  *Erfahren Sie, wie der KI-Assistent Kundeninteraktionen transformiert und die Produktivität in Adobe Experience Cloud-Anwendungen und Adobe Campaign erhöht.*
-* **[Spotlight - Drei Funktionen in Adobe Journey Optimizer müssen getestet werden](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
-  *Laden Sie die Kundeninteraktion in diesem Sommer mit den drei Funktionen von Adobe Journey Optimizer hoch: Journey-Experimentierung, Frequenzlimitierung und mehrsprachiges Messaging.*
+* **[KI-Treff – Ausschöpfen des Potenzials des KI-Assistenten in Adobe Experience Platform-Anwendungen und Campaign](https://experienceleague.adobe.com/de/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+  *Erfahren Sie, wie der KI-Assistent Kundeninteraktionen transformiert und die Produktivität in Adobe Experience Cloud-Anwendungen und Adobe Campaign optimiert.*
+* **[Sommer-Session – Drei Funktionen in Adobe Journey Optimizer, die Sie einfach testen müssen](https://experienceleague.adobe.com/de/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
+  *Steigern Sie Kundeninteraktionen in diesem Sommer mit drei Funktionen von Adobe Journey Optimizer: Journey-Experimente, Frequenzbegrenzung und mehrsprachiges Messaging.*
 * **[Neuer Code-basierter Erlebniskanal in Journey Optimizer](https://experienceleague.adobe.com/de/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *Erfahren Sie, wie Sie eingehende Oberflächen und eine granulare Personalisierungssteuerung mit entwicklerorientierten Aktionen aktivieren.*
 
