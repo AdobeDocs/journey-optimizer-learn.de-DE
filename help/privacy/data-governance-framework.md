@@ -1,5 +1,5 @@
 ---
-title: Data Governance Framework - Übersicht
+title: Übersicht über das Data-Governance-Framework
 description: Machen Sie sich mit den Governance-Funktionen in Adobe Experience Platform vertraut.
 feature: Governance, Privacy
 role: Data Architect, User
@@ -13,14 +13,14 @@ hidefromtoc: true
 source-git-commit: e98a023c6c30444dd58d9030868e3619c0958a37
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 32%
 
 ---
 
 
-# Data Governance Framework - Übersicht
+# Übersicht über das Data-Governance-Framework
 
-Grundlegendes zum Data Governance Framework in Adobe Experience Platform.
+Machen Sie sich mit dem Data-Governance-Framework in Adobe Experience Platform vertraut.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
@@ -28,6 +28,6 @@ Weitere Informationen zu [Data Governance](https://experienceleague.adobe.com/en
 
 ## Zusätzliches Lernen
 
-* [Playlist: Erste Schritte mit Adobe Experience Platform Data Governance](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-data-governance)
+* [Playlist: Erste Schritte mit Adobe Experience Platform Data Governance](https://experienceleague.adobe.com/de/playlists/experience-platform-get-started-with-data-governance)
 
   *Erfahren Sie mehr über Data Governance in Adobe Experience Platform und wie Sie Daten mithilfe von Bezeichnungen klassifizieren, Datennutzungsrichtlinien erstellen und Datennutzungsrichtlinien auf Experience Platform durchsetzen.*
