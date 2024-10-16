@@ -1,6 +1,6 @@
 ---
-title: Email Design & Personalization - Übersicht
-description: Machen Sie sich mit der Funktionalität des E-Mail-Designers von Journey Optimizer vertraut.
+title: E-Mail-Design und Personalisierung – Überblick
+description: Informationen über die Funktionen des E-Mail-Designers von Journey Optimizer.
 feature: Email Design
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ duration: 93
 last-substantial-update: 2024-10-08T00:00:00Z
 jira: KT-16316
 source-git-commit: bd132cfb37c35ff7320540b4b25f51aae17d640e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '24'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Email Design &amp; Personalization - Übersicht
+# E-Mail-Design und Personalisierung – Überblick
 
-Machen Sie sich mit der Funktionalität des E-Mail-Designers von Journey Optimizer vertraut.
+Informationen über die Funktionen des E-Mail-Designers von Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432676/?learn=on)

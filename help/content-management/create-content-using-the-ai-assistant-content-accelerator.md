@@ -1,6 +1,6 @@
 ---
-title: Erstellen von Inhalten mit dem AI Assistant Content Accelerator
-description: Erfahren Sie, wie Sie mit dem AI Assistant Content Accelerator proaktive Variationsvorschläge für Inhalte für Text und Bilder generieren können.
+title: Generieren von Inhalt mit dem Content Accelerator des KI-Assistenten
+description: Informationen darüber, wie mit dem Content Accelerator des KI-Assistenten proaktiv Vorschläge zur Variation von Text- und Bildinhalten bereitgestellt werden können.
 feature: Content Assistant
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,15 +9,15 @@ duration: 323
 last-substantial-update: 2024-09-23T00:00:00Z
 jira: KT-16226
 source-git-commit: 32998cff3d2506b65b98c0396f37520ffe4140b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Erstellen von Inhalten mit dem AI Assistant Content Accelerator
+# Generieren von Inhalt mit dem Content Accelerator des KI-Assistenten
 
-Erfahren Sie, wie Sie mit dem AI Assistant Content Accelerator proaktive Variationsvorschläge für Inhalte für Text und Bilder generieren können.
+Informationen darüber, wie mit dem Content Accelerator des KI-Assistenten proaktiv Vorschläge zur Variation von Text- und Bildinhalten bereitgestellt werden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)

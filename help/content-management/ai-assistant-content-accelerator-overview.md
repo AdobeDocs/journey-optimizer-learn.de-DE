@@ -1,6 +1,6 @@
 ---
-title: AI Assistant Content Accelerator - Übersicht
-description: Erfahren Sie, wie der Content Accelerator des KI-Assistenten Marketing-Fachleuten helfen kann, indem er proaktiv Vorschläge zur Variation von Text- und Bildinhalten bereitstellt.
+title: KI-Assistent – Content Accelerator – Überblick
+description: Informationen darüber, wie der Content Accelerator des KI-Assistenten Marketing-Fachleuten helfen kann, indem er proaktiv Vorschläge zur Variation von Text- und Bildinhalten bereitstellt.
 feature: Content Assistant
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ duration: 78
 last-substantial-update: 2024-10-07T00:00:00Z
 jira: KT-16296
 source-git-commit: 32998cff3d2506b65b98c0396f37520ffe4140b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
 
-# AI Assistant Content Accelerator - Übersicht
+# KI-Assistent – Content Accelerator – Überblick
 
-Erfahren Sie, wie der Content Accelerator des KI-Assistenten Marketing-Fachleuten helfen kann, indem er proaktiv Vorschläge zur Variation von Text- und Bildinhalten bereitstellt.
+Informationen darüber, wie der Content Accelerator des KI-Assistenten Marketing-Fachleuten helfen kann, indem er proaktiv Vorschläge zur Variation von Text- und Bildinhalten bereitstellt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432772/?learn=on)

@@ -1,8 +1,8 @@
 ---
 source-git-commit: f6e9e2b286c220bf90eab7632f2110176b0c7ba2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '178'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 # AJO Snippets
@@ -39,8 +39,8 @@ Experience League LIVE:
 >
 >Diese Funktion befindet sich derzeit in der Beta-Version und steht nur der Beta-Kundschaft zur Verfügung. Wenden Sie sich an die Kundenunterstützung von Adobe, um am Beta-Programm teilzunehmen.
 
-## Platform Video - Richtlinien (#platform-video)
+## Plattform-Video – Richtlinien (#platform-video)
 
 >[!NOTE]
 >
->Das Video zeigt diese Funktion in der Benutzeroberfläche von Adobe Experience Platform. Dieselbe Funktionalität ist in Journey Optimizer in den Abschnitten DATENVERWALTUNG und DATENSCHUTZ im linken Navigationsbereich verfügbar.
+>Das Video zeigt diese Funktion in der Benutzeroberfläche von Adobe Experience Platform. Dieselbe Funktion ist in Journey Optimizer in den Abschnitten DATEN-MANAGEMENT und DATENSCHUTZ im linken Navigationsbereich verfügbar.

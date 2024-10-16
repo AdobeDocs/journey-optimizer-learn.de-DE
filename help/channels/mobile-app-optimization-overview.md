@@ -1,6 +1,6 @@
 ---
-title: Optimierung mobiler Apps - Übersicht
-description: Erfahren Sie, wie die Funktionen der mobilen App von Adobe Journey Optimizer die Kundeninteraktion mithilfe von in Echtzeit personalisierten Erlebnissen transformieren.
+title: Mobile-App-Optimierung – Überblick
+description: Informationen darüber, wie die Mobile-App-Funktionen von Adobe Journey Optimizer die Kundeninteraktion mithilfe von in Echtzeit personalisierten Erlebnissen transformieren.
 feature: In App, Push
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ duration: 108
 last-substantial-update: 2024-10-08T00:00:00Z
 jira: KT-16309
 source-git-commit: dde5bc9f9d453b5b3df8cc3625329ee81d1889ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Optimierung mobiler Apps - Übersicht
+# Mobile-App-Optimierung – Überblick
 
-Erfahren Sie, wie die Funktionen der mobilen App von Adobe Journey Optimizer die Kundeninteraktion mithilfe von in Echtzeit personalisierten Erlebnissen transformieren.
+Informationen darüber, wie die Mobile-App-Funktionen von Adobe Journey Optimizer die Kundeninteraktion mithilfe von in Echtzeit personalisierten Erlebnissen transformieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432681/?learn=on)

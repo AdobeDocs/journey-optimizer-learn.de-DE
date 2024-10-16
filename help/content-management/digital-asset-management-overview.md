@@ -1,6 +1,6 @@
 ---
-title: Digital Asset Management - Übersicht
-description: Erfahren Sie, wie Sie Ihre digitalen Assets in Journey Optimizer verwalten.
+title: Digital Asset Management – Überblick
+description: Informationen über die Verwaltung digitaler Assets in Journey Optimizer.
 feature: Assets
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ duration: 69
 last-substantial-update: 2024-10-07T00:00:00Z
 jira: KT-16293
 source-git-commit: b88998c6bba3f21e1325e0e03025fb6066d7e89b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '28'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Digital Asset Management - Übersicht
+# Digital Asset Management – Überblick
 
-Erfahren Sie, wie Sie Ihre digitalen Assets in Journey Optimizer verwalten.
+Informationen über die Verwaltung digitaler Assets in Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432674/?learn=on)

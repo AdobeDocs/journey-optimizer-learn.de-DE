@@ -1,6 +1,6 @@
 ---
-title: Journey Designer - Übersicht
-description: In diesem Video erhalten Sie einen Überblick darüber, wie Sie Journey mit dem Journey Designer entwerfen und verwalten.
+title: Journey-Designer – Überblick
+description: Dieses Video erhält einen Überblick über Design und Verwaltung von Customer Journeys mit dem Journey-Designer.
 feature: Journeys
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ duration: 98
 last-substantial-update: 2024-10-08T00:00:00Z
 jira: KT-16290
 source-git-commit: dde5bc9f9d453b5b3df8cc3625329ee81d1889ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Journey Designer - Übersicht
+# Journey-Designer – Überblick
 
-In diesem Video erhalten Sie einen Überblick darüber, wie Sie Journey mit dem Journey Designer entwerfen und verwalten.
+Dieses Video erhält einen Überblick über Design und Verwaltung von Customer Journeys mit dem Journey-Designer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432672/?learn=on)

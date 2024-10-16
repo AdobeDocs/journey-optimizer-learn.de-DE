@@ -1,6 +1,6 @@
 ---
-title: Nachrichtenbearbeitung - Übersicht
-description: Machen Sie sich mit den Bearbeitungsoptionen für E-Mail-Nachrichten in Journey Optimizer vertraut.
+title: Nachrichtenerstellung – Überblick
+description: Informationen zu den Optionen zur E-Mail-Nachrichtenerstellung in Journey Optimizer.
 feature: Email Design
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ duration: 93
 last-substantial-update: 2024-10-07T00:00:00Z
 jira: KT-16294
 source-git-commit: f0c457a9aa6e96ca185e526058797479bfbf72da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '24'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Nachrichtenbearbeitung - Übersicht
+# Nachrichtenerstellung – Überblick
 
-Machen Sie sich mit den Bearbeitungsoptionen für E-Mail-Nachrichten in Journey Optimizer vertraut.
+Informationen zu den Optionen zur E-Mail-Nachrichtenerstellung in Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432685/?learn=on)
