@@ -10,17 +10,17 @@ last-substantial-update: 2024-10-03T00:00:00Z
 jira: KT-16267
 hide: false
 hidefromtoc: false
-source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: ht
+source-git-commit: da924ae1f11f87ef6d940d7ccfc0ac3b9cf3b896
+workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
 
 # Erstellen von Richtlinien zur Datennutzung
 
-Informationen darüber, wie sich Richtlinien zur Datennutzung erstellen und verwalten lassen. Mit Datennutzungsrichtlinien können Sie die Datennutzung für bestimmte Zwecke auf Grundlage der Datenkennzeichnung einschränken. Informationen zum API-basierten Ansatz finden Sie unter [Erstellen einer Data-Governance-Richtlinie in der API|https://experienceleague.adobe.com/de/docs/experience-platform/data-governance/policies/create].
+Informationen darüber, wie sich Richtlinien zur Datennutzung erstellen und verwalten lassen. Mit Datennutzungsrichtlinien können Sie die Datennutzung für bestimmte Zwecke auf Grundlage der Datenkennzeichnung einschränken. Informationen zum API-basierten Ansatz finden Sie unter [Erstellen von Datennutzungsrichtlinien mit der API](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create).
 
 >[!NOTE]
 >
