@@ -1,6 +1,6 @@
 ---
 title: Auslösen von Kampagnen mit APIs
-description: Erfahren Sie, wie Sie von einem externen System aus Transaktions-SMS und E-Mail-Nachrichten auslösen.
+description: Erfahren Sie, wie Sie in AJO Transaktionsnachrichten und E-Mail-Nachrichten von einem externen System aus Trigger.
 feature: Campaigns, API
 role: User, Developer
 level: Experienced
@@ -9,10 +9,10 @@ last-substantial-update: 2023-10-31T00:00:00Z
 jira: KT-10658
 thumbnail: 3425358.jpeg
 exl-id: 039ce9b1-6942-44ac-b8e3-068b0ad9264e
-source-git-commit: 7440e8e2586820f5863f8ee7bf700b915b3bb2d4
+source-git-commit: 4f5670b3e7a835bdda1accccdb2e79926d243744
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 100%
+source-wordcount: '48'
+ht-degree: 68%
 
 ---
 
