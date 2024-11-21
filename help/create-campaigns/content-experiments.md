@@ -1,6 +1,6 @@
 ---
 title: Konfigurieren von Inhaltsexperimenten für E-Mail-Kampagnen
-description: Erfahren Sie, wie Sie Inhaltsexperimente in AJO für A/B-Tests konfigurieren und E-Mail-Inhalte untersuchen können, was Ihre Geschäftsziele am besten unterstützt.
+description: Erfahren Sie, wie Sie in AJO Inhaltsexperimente für A/B-Tests konfigurieren und E-Mail-Inhalte testen, um Ihre Geschäftsziele voranzutreiben.
 feature: Email, Experimentation
 role: User
 level: Beginner
@@ -9,9 +9,9 @@ jira: KT-11129
 thumbnail: 3419893.jpeg
 exl-id: 8b9a73c3-3c36-43ec-a870-a3b113689e22
 source-git-commit: 4f5670b3e7a835bdda1accccdb2e79926d243744
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '33'
-ht-degree: 36%
+ht-degree: 100%
 
 ---
 

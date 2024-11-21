@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 7b1947ff1df01b8119bd0dd5ddf8745cd229394e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '372'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -49,15 +49,15 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 <tr>
     <td>
     <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="Erstellen von Inhalten mit dem AI Assistant Content Accelerator (Video)" src="../assets/3434635.jpg"/>
+      <img alt="Generieren von Inhalt mit der Content-Beschleunigung des KI-Assistenten (Video)" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong>Erstellen von Inhalten mit dem AI Assistant Content Accelerator</strong>
+    <strong>Generieren von Inhalt mit der Content-Beschleunigung des KI-Assistenten</strong>
     </a>
     </div>
     <p>
-    <em>Erfahren Sie, wie Sie mit dem AI Assistant Content Accelerator proaktive Inhaltsvariationsvorschläge für Text und Bilder generieren können.
+    <em>Erfahren Sie, wie Sie mit der Content-Beschleunigung des KI-Assistenten proaktiv Vorschläge zur Variation von Text- und Bildinhalten generieren.
 </em>
     <p>
   </td>
@@ -71,7 +71,7 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
     </a>
     </div>
     <p>
-    <em>Erfahren Sie, wie Sie Inhaltsexperimente für A/B-Tests konfigurieren und E-Mail-Inhalte untersuchen, um Ihre Geschäftsziele am besten zu erreichen.</em>
+    <em>Erfahren Sie, wie Sie Inhaltsexperimente für A/B-Tests konfigurieren und E-Mail-Inhalte testen, um Ihre Geschäftsziele voranzutreiben.</em>
     <p>
   </td>
   </td>
