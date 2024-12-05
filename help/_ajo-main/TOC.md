@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
 source-git-commit: 20c8649624e91fcc77745309a4816bd02e6d09bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '603'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -14,8 +14,8 @@ ht-degree: 99%
 # Journey Optimizer-Tutorials {#tutorials}
 
 + [Journey Optimizer-Tutorials](/help/_ajo-main/overview.md)
-+ Nutzungsszenarien {#use-cases}
-   + [Kundenintegration](/help/use-cases/customer-onboarding.md)
++ Anwendungsfälle {#use-cases}
+   + [Onboarding von Kundinnen und Kunden](/help/use-cases/customer-onboarding.md)
 + Einführung in Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer – Überblick](/help/introduction/journey-optimizer-overview.md)
    + [Einführung in Journey Optimizer](/help/introduction/introduction.md)
@@ -133,7 +133,7 @@ ht-degree: 99%
    + [Exportieren von Berichten im CSV-Format](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [Verwenden von Warnhinweisen](/help/administration/alerts.md)
    + [Verbessertes Reporting mit Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
-   + [Berichtsinteraktivität](/help/report-and-monitor/adobe-journey-optimizer-reporting-interactivity.md)
+   + [Reporting-Interaktivität](/help/report-and-monitor/adobe-journey-optimizer-reporting-interactivity.md)
 + Konfiguration {#configuration}
    + Konfigurieren der Kanäle {#channel-configuration}
       + [Konfigurieren der Kanäle](/help/set-up-channels/configure-channels.md)
@@ -164,6 +164,6 @@ ht-degree: 99%
 + Übungen und Herausforderungen {#exercises-and-challenges}
    + [Konfigurieren einer Trainings-Sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=de)
    + [Herausforderungen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=de)
-+ [Live-Aufnahmen von Experience League](/help/experience-league-live-show-recordings.md)
++ [Experience League – Live-Aufnahmen](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [Erstellen personalisierter Mobile-Momente mit Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
