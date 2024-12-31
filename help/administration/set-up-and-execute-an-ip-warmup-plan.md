@@ -10,13 +10,13 @@ hide: false
 duration: 741
 last-substantial-update: 2024-08-14T00:00:00Z
 jira: KT-14602
-source-git-commit: 5e6503b8f15ee0dfc7f2894e8d1d7a8493abe63d
-workflow-type: ht
+exl-id: ff238ed8-dfc3-4b66-85cb-f4d8a656815a
+source-git-commit: fdc02d4648f7bedfe29300432130a738ba5f383d
+workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
 
 ---
-
 
 # Einrichten und Ausführen eines IP-Aufwärmplans
 

@@ -1,6 +1,6 @@
 ---
 title: KI-Assistent
-description: Erfahren Sie, wie Sie mit AI Assistant in Adobe Experience Platform-basierten Anwendungen wie Real-time Customer Data Platform, Journey Optimizer und Customer Journey Analytics arbeiten können.
+description: Erfahren Sie, was Sie mit dem KI-Assistenten in auf Adobe Experience Platform basierenden Anwendungen wie Real-time Customer Data Platform, Journey Optimizer und Customer Journey Analytics alles tun können.
 feature: Overview
 role: Admin, Developer, User
 level: Beginner
@@ -8,18 +8,18 @@ doc-type: Feature Video
 duration: 143
 last-substantial-update: 2024-06-27T00:00:00Z
 jira: KT-15789
-source-git-commit: cc8e8c48a35f86585dea99a5f991517f41b4a43b
+exl-id: 6c2134ec-7d0c-4fe2-9281-22a10ace1890
+source-git-commit: 55734ce3bc1329663bd65970892d80c99878e1a7
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 6%
+ht-degree: 63%
 
 ---
 
-
 # KI-Assistent
 
-Erfahren Sie, wie Sie mit AI Assistant in Adobe Experience Platform-basierten Anwendungen wie Real-time Customer Data Platform, Journey Optimizer und Customer Journey Analytics arbeiten können.
+Erfahren Sie, was Sie mit dem KI-Assistenten in auf Adobe Experience Platform basierenden Anwendungen wie Real-time Customer Data Platform, Journey Optimizer und Customer Journey Analytics alles tun können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-Weitere Informationen zu den in Journey Optimizer unterstützten Anwendungsfällen finden Sie unter [Arbeiten mit dem AI-Assistenten](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant) . Eine ausführliche Dokumentation finden Sie in der Dokumentation zum [AI-Assistenten in Adobe Experience Platform](https://experienceleague.adobe.com/de/docs/experience-platform/ai-assistant/home) .
+Weitere [ zu den in Journey Optimizer unterstützten Anwendungsfällen finden ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant) unter „Arbeiten mit dem KI-&quot;. Eine ausführliche Dokumentation finden Sie in der Dokumentation [KI-Assistent in Adobe Experience Platform](https://experienceleague.adobe.com/de/docs/experience-platform/ai-assistant/home) .

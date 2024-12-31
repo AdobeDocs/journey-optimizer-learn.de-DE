@@ -10,7 +10,7 @@ exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
 workflow-type: tm+mt
 source-wordcount: '1108'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -201,7 +201,7 @@ Testen Sie die Journey und lassen Sie die E-Mails an Ihr eigenes Konto senden:
 1. Öffnen Sie die zweite E-Mail, und die Journey sollte enden.
 1. Sie können Schritt 4 wiederholen. - 7. für alle drei Profile, um zu überprüfen, ob Ihre Verzweigungen ordnungsgemäß funktionieren.
 1. Um die Zeitüberschreitungen zu testen, setzen Sie die Wartezeit auf 30 Sekunden und lösen Sie den Eintritt erneut aus.
-1. Öffnen Sie die erhaltenen E-Mails nicht (keine Vorschau der E-Mail anzeigen (!)) und lassen Sie die Wartezeit verstreichen.
+1. Öffnen Sie die empfangenen E-Mails nicht (keine Vorschau der E-Mail anzeigen (!)) und lassen Sie die Wartezeit verstreichen.
 
 Sie sollten die folgenden E-Mails erhalten:
 

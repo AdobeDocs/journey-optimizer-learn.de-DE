@@ -8,13 +8,13 @@ doc-type: Value Video
 duration: 323
 last-substantial-update: 2024-09-23T00:00:00Z
 jira: KT-16226
-source-git-commit: 32998cff3d2506b65b98c0396f37520ffe4140b4
-workflow-type: ht
+exl-id: cd14c201-58a4-4459-a368-4024dc337798
+source-git-commit: 5ed78b3a8effd376662f5218a660ce8627206ced
+workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
 
 ---
-
 
 # Generieren von Inhalt mit dem Content Accelerator des KI-Assistenten
 

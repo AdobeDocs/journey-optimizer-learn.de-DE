@@ -1,6 +1,6 @@
 ---
 title: Erstellen einer E-Mail zur Auftragsbestätigung
-description: Testen Sie Ihr Wissen bezüglich der Erstellung und Personalisierung von Transaktionsnachrichten.
+description: Testen Sie Ihr Wissen über das Erstellen und Personalisieren von Transaktionsnachrichten.
 jira: KT-7531
 feature: Journeys
 role: User

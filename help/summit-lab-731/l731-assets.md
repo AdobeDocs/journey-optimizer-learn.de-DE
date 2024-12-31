@@ -16,7 +16,7 @@ ht-degree: 98%
 
 ---
 
-# Summit Lab L731 - Cheat Sheet
+# Summit Lab L731 - Spickzettel
 
 Diese Seite enthält Text und Links, die im Summit-Lab L731 verwendet werden. Dadurch lässt sich der Inhalt kopieren und in die Journey Optimizer-Nachrichten einfügen.
 

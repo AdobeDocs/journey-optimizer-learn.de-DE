@@ -1,5 +1,5 @@
 ---
-title: Anmeldung mit zweifacher Bestätigung für Sinch und Infobip
+title: Double-Opt-in für Sinch und Infobip
 description: Erfahren Sie, wie Sie Double-Opt-in für SMS konfigurieren.
 feature: SMS
 role: User
@@ -17,7 +17,7 @@ ht-degree: 57%
 
 ---
 
-# Anmeldung mit zweifacher Bestätigung für Sinch und Infobip
+# Double-Opt-in für Sinch und Infobip
 
 Erfahren Sie, wie Sie Double-Opt-in für SMS konfigurieren.
 

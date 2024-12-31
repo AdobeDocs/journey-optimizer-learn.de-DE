@@ -9,13 +9,13 @@ duration: 154
 last-substantial-update: 2024-07-26T00:00:00Z
 jira: KT-15886
 badge: label="Beta"
-source-git-commit: dc11d8bae005038b610637fd0057b4bd92d53374
-workflow-type: ht
+exl-id: 7278a99e-4553-4cd1-8830-350c85d5926b
+source-git-commit: fdc02d4648f7bedfe29300432130a738ba5f383d
+workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 100%
 
 ---
-
 
 # Verwenden des eigenen SMS-Anbieters (Beta)
 

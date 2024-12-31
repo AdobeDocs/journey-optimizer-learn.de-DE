@@ -10,13 +10,13 @@ last-substantial-update: 2024-10-01T00:00:00Z
 jira: KT-16263
 hide: false
 hidefromtoc: false
-source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: ht
+exl-id: e78350c0-543e-4a68-9551-df0c7d9a7be0
+source-git-commit: 5ed78b3a8effd376662f5218a660ce8627206ced
+workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
 
 ---
-
 
 # Übersicht über das Data-Governance-Framework
 

@@ -11,13 +11,13 @@ jira: KT-16264
 hide: false
 hidefromtoc: false
 badgePrivateBeta: label="Private Beta" type="Informative"
-source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: ht
+exl-id: e5eee841-77a6-4001-8192-6e34bc745ce1
+source-git-commit: 5ed78b3a8effd376662f5218a660ce8627206ced
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 
 ---
-
 
 # Durchsetzen von Datennutzungsrichtlinien in Journey Optimizer-Kanälen
 
