@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 43b18180cd08d14c2c42cb3417df0b8eb5ceba8f
+source-git-commit: cad09b4cc870a9a241c92940e424bb2fbe03e0d6
 workflow-type: tm+mt
-source-wordcount: '603'
-ht-degree: 100%
+source-wordcount: '605'
+ht-degree: 99%
 
 ---
 
@@ -167,3 +167,4 @@ ht-degree: 100%
 + [Experience League – Live-Aufnahmen](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [Erstellen personalisierter Mobile-Momente mit Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
+   + [Spickzettel](/help/summit-lab-assets/l535-assets.md)
