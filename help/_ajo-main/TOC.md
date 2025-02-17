@@ -5,8 +5,8 @@ user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
 source-git-commit: 2e871d0866b2dc5f4c46a664aa62ca69e4ec4e4a
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 97%
 + [Journey Optimizer-Tutorials](/help/_ajo-main/overview.md)
 + Anwendungsfälle {#use-cases}
    + [Onboarding von Kundinnen und Kunden](/help/use-cases/customer-onboarding.md)
-   + [Stehen gelassener Warenkorb](/help/use-cases/abandoned-cart.md)
+   + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
 + Einführung in Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer – Überblick](/help/introduction/journey-optimizer-overview.md)
    + [Einführung in Journey Optimizer](/help/introduction/introduction.md)
@@ -55,7 +55,7 @@ ht-degree: 97%
    + [Mobile-App-Optimierung – Überblick](/help/channels/mobile-app-optimization-overview.md)
    + Code-basierter Erlebniskanal{#code-based-experience-channel}
       + [Erstellen einer Code-basierte Erlebniskampagne](/help/channels/create-a-code-based-experience-campaign.md)
-      + [Verwenden von Decisioning im Code-basierten Kanal](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
+      + [Verwenden von Entscheidungsfindung im Code-basierten Kanal](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Direkt-Mail-Kanal{#direct-mail-channel}
       + [Erstellen einer Direkt-Mail](/help/channels/direct-mail.md)
    + E-Mail-Kanal{#email-channel}
@@ -169,4 +169,4 @@ ht-degree: 97%
 + [Experience League – Live-Aufnahmen](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [Erstellen personalisierter Mobile-Momente mit Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
-   + [Spickzettel](/help/summit-lab-assets/l535-assets.md)
+   + [Kurzüberblick](/help/summit-lab-assets/l535-assets.md)
