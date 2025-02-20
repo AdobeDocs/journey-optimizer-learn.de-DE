@@ -8,10 +8,10 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: b65e9640705ca4bf1b27edac9047b70600feb8b1
+source-git-commit: f32ce2e2fd32bc11e46b6e37f62e60d641038310
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 3%
+source-wordcount: '173'
+ht-degree: 4%
 
 ---
 
@@ -28,7 +28,7 @@ Gerätespezifische Installation:
 
 >[!TAB iOS]
 
-### iOS:
+## iOS:
 
 Nach der Installation der App müssen Sie Adobe Enterprise Developer vertrauen:
 
@@ -43,18 +43,17 @@ Nach der Installation der App müssen Sie Adobe Enterprise Developer vertrauen:
 
    ![Bildschirm „Adobe-Systeme vertrauen“](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
-   * Sie sollten jetzt in der Lage sein, die * SecureFinancial App** auf Ihrer iPhone zu starten: ! Symbol für SecureFinancial-App](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+   Sie sollten jetzt in der Lage sein, die * SecureFinancial App** auf Ihrer iPhone zu starten:
 
+2. Öffnen Sie die App.
 
-1. Öffnen Sie die App.
-
-1. Klicken Sie im Popup-Fenster auf **Zulassen**, damit die DX-Demo-App Ihnen Benachrichtigungen senden kann.
+3. Klicken Sie im Popup-Fenster auf **Zulassen**, damit die DX-Demo-App Ihnen Benachrichtigungen senden kann.
 
    ![Benachrichtigungs-Popup](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
-### Android
+## Android
 
 Laden Sie unter Android das APK herunter und installieren Sie es, indem Sie die hier angezeigten Warnhinweisanweisungen befolgen:
 
@@ -62,6 +61,6 @@ Laden Sie unter Android das APK herunter und installieren Sie es, indem Sie die 
 <br>
 ![Android-Installationsbildschirm](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
-* Sie sollten jetzt in der Lage sein, die * SecureFinancial App** auf Ihrem Android-Gerät zu starten: ! Symbol für SecureFinancial-App](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+Sie sollten jetzt in der Lage sein, die * SecureFinancial App** auf Ihrem Android-Gerät zu starten:
 
 >[!ENDTABS]
