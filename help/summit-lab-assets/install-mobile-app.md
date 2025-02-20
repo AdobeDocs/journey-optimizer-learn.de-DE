@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: f32ce2e2fd32bc11e46b6e37f62e60d641038310
+source-git-commit: 278f78c256a4124e287e6f7d8b11adad39d18275
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '170'
 ht-degree: 4%
 
 ---
@@ -45,11 +45,10 @@ Nach der Installation der App müssen Sie Adobe Enterprise Developer vertrauen:
 
    Sie sollten jetzt in der Lage sein, die * SecureFinancial App** auf Ihrer iPhone zu starten:
 
-2. Öffnen Sie die App.
+1. Öffnen Sie die App.
 
-3. Klicken Sie im Popup-Fenster auf **Zulassen**, damit die DX-Demo-App Ihnen Benachrichtigungen senden kann.
+1. Klicken Sie im Popup-Fenster auf **Zulassen**, damit die DX-Demo-App Ihnen Benachrichtigungen senden kann.
 
-   ![Benachrichtigungs-Popup](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
