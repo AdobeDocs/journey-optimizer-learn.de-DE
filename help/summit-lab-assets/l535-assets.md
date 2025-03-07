@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: c1a77892652df0a91a6add1ad0dc5a4bd0770d8b
+source-git-commit: c25ebab9fedd0218d087fc679a8da05b06e71227
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 29%
+source-wordcount: '133'
+ht-degree: 24%
 
 ---
 
@@ -27,6 +27,15 @@ Diese Seite enthält Text und Links, die im Summit Lab L535 verwendet werden. Da
 * [App herunterladen](https://demo-system-next.s3.amazonaws.com/dxdemo/summit/index.html)
 
 ## Kopieren und Einfügen für Übungen
+
+### Übung 2.1 - Bei Journey Optimizer anmelden
+
+Melden Sie sich mit den folgenden Details an:
+
+E-Mail:    L535+*Ihre Sitznummer*@adobeeventlab.com
+
+Kennwort:       Adobe4Summit!
+
 
 ### Übung 2.3 - E-Mail-Nachricht erstellen
 
@@ -94,7 +103,7 @@ Thank you for downloading the app. You can find ATMs, track your spending and mo
 #### Medien-URL
 
 ```
-https://demo-systemnext.s3.amazonaws.com/assets/securfinancial/homeloan.jpg
+https://demo-system-next.s3.amazonaws.com/assets/securfinancial/home-loan.jpg
 ```
 
 #### Schaltflächentitel
