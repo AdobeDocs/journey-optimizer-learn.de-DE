@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: b1b2fdf163024ff4dee2ff88bf780462ccd74842
+source-git-commit: b24aa3dab4ac86cf6b7e381b7c72326c24c03dbb
 workflow-type: tm+mt
-source-wordcount: '642'
-ht-degree: 98%
+source-wordcount: '641'
+ht-degree: 99%
 
 ---
 
@@ -100,7 +100,7 @@ ht-degree: 98%
    + KI-Assistent für die Inhaltsgenerierung {#content-accelerator}
       + [KI-Assistent für die Inhaltsgenerierung – Überblick](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltsgenerierung](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
-   + Inhaltsvorlagen (content-templates)
+   + Inhaltsvorlagen{#content-templates}
       + [Erstellen von Inhaltsvorlagen](/help/content-management/templates/create-content-templates.md)
       + [Sperren von Inhalten in Vorlagen](/help/content-management/templates/content-locking.md)
 + Personalisieren von Inhalten {#personalize-content}
