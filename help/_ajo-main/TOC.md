@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
 source-git-commit: dd1b5afc1547169139371247255f4d42a5c105be
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '632'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -97,9 +97,9 @@ ht-degree: 96%
    + Mehrsprachige Nachrichten {#multilingual-messaging}
       + [Einrichten mehrsprachiger Nachrichten](/help/content-management/set-up-multilingual-messages.md)
       + [Erstellen einer mehrsprachigen Nachricht](/help/content-management/create-multilingual-messages.md)
-   + KI-Assistent für die Inhaltserstellung {#content-accelerator}
-      + [KI-Assistent für die Inhaltserstellung - Übersicht](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltserstellung](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+   + KI-Assistent für die Inhaltsgenerierung {#content-accelerator}
+      + [KI-Assistent für die Inhaltsgenerierung – Überblick](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltsgenerierung](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + Personalisieren von Inhalten {#personalize-content}
    + [Personalisierungseditor – Überblick](/help/personalize-content/personalization-editor-overview.md)
    + [Profil- und zielgruppenspezifische Personalisierung](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -171,4 +171,4 @@ ht-degree: 96%
 + Summit Labs {#summit-labs}
    + [Erstellen personalisierter Mobile-Momente mit Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
    + [Kurzüberblick](/help/summit-lab-assets/l535-assets.md)
-   + [Installieren der Mobile App](/help/summit-lab-assets/install-mobile-app.md)
+   + [Installieren der App](/help/summit-lab-assets/install-mobile-app.md)
