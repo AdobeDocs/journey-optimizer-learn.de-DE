@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
-workflow-type: ht
-source-wordcount: '635'
-ht-degree: 100%
+source-git-commit: 8727d3b84573f78ac28da260177aab607014f6fe
+workflow-type: tm+mt
+source-wordcount: '647'
+ht-degree: 97%
 
 ---
 
@@ -110,19 +110,23 @@ ht-degree: 100%
    + [Verwenden von Helper-Funktionen für die Personalisierung](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Erstellen dynamischer Inhalte mit dem Builder für Bedingungsregeln](/help/personalize-content/create-dynamic-content.md)
-+ Entscheidungsfindung {#decisioning}
-   + [Einführung in die Entscheidungsfindung](/help/decision-management/introduction-to-decisioning.md)
-   + [Demo der Entscheidungsfunktionen](/help/decision-management/demo-of-decision-management-capabilities.md)
-   + [Erstellen von Platzierungen](/help/decision-management/create-placements.md)
-   + [Regeln erstellen](/help/decision-management/create-rules.md)
-   + [Erstellen von Tags](/help/decision-management/create-tags.md)
-   + [Personalisierte Angebote erstellen](/help/decision-management/create-personalized-offers.md)
-   + [Erstellen von KI-Modellen](/help/decision-management/create-ai-models.md)
-   + [Erstellen von Fallback-Angeboten](/help/decision-management/create-fallback-offers.md)
-   + [Erstellen von Sammlungen](/help/decision-management/create-collections.md)
-   + [Erstellen von Entscheidungen](/help/decision-management/create-decisions.md)
-   + [Unterbreiten von Angeboten mithilfe der Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
-   + [Frequenzbegrenzung](/help/decision-management/frequency-capping.md)
++ Entscheidungsfunktionen{#decision-capabilites}
+   + Entscheidungsfindung {#decisioning}
+      + [Einführung in Decisioning](/help/decisioning/introduction-to-decisioning.md)
+      + [Anleitung für End-to-End-Entscheidungen](/help/decisioning/decisioning-end-to-end.md)
+   + Entscheidungs-Management {#decision-management}
+      + [Einführung in das Entscheidungs-Management](/help/decision-management/introduction-to-decision-management.md)
+      + [Demo der Entscheidungs-Management-Funktionen](/help/decision-management/demo-of-decision-management-capabilities.md)
+      + [Erstellen von Platzierungen](/help/decision-management/create-placements.md)
+      + [Regeln erstellen](/help/decision-management/create-rules.md)
+      + [Erstellen von Tags](/help/decision-management/create-tags.md)
+      + [Personalisierte Angebote erstellen](/help/decision-management/create-personalized-offers.md)
+      + [Erstellen von KI-Modellen](/help/decision-management/create-ai-models.md)
+      + [Erstellen von Fallback-Angeboten](/help/decision-management/create-fallback-offers.md)
+      + [Erstellen von Sammlungen](/help/decision-management/create-collections.md)
+      + [Erstellen von Entscheidungen](/help/decision-management/create-decisions.md)
+      + [Unterbreiten von Angeboten mithilfe der Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
+      + [Frequenzbegrenzung](/help/decision-management/frequency-capping.md)
 + Data Management {#data-management}
    + [Übersicht](/help/data-management/set-up-data-overview.md)
    + [Erstellen eines Schemas](/help/data-management/create-schema.md)
