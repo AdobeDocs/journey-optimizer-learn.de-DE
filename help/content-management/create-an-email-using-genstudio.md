@@ -9,10 +9,10 @@ doc-type: Feature Video
 duration: 324
 last-substantial-update: 2025-03-28T00:00:00Z
 jira: KT-17531
-source-git-commit: 7d6dfc4ab8e4d8bdfcb51c7512dcafce390d006e
+source-git-commit: 21e0d23dd012b0954bf18d29016a5c1041ad519f
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 9%
+source-wordcount: '119'
+ht-degree: 8%
 
 ---
 
@@ -29,4 +29,4 @@ Erfahren Sie, wie Sie eine E-Mail-Vorlage von [!DNL Journey Optimizer] nach [!DN
 
 >[!VIDEO](https://video.tv.adobe.com/v/3456038/?learn=on&enablevpops)
 
-Weitere Informationen zu [!DNL GenStudio for Performance Marketing] finden Sie unter [Dokumentation](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"}.
+Weitere Informationen zu [!DNL GenStudio for Performance Marketing] finden Sie im [[!DNL Adobe GenStudio for Performance Marketing] Benutzerhandbuch“ ](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"} den [Adobe GenStudio for Performance Marketing-Tutorials](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing-learn/tutorials/overview).
