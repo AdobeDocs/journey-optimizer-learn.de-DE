@@ -1,6 +1,6 @@
 ---
 title: Bearbeiten von Assets mit Adobe Express
-description: Erfahren Sie, wie Sie Ihre Assets in Adobe Journey Optimizer mit Adobe Express-Tools bearbeiten können.
+description: Erfahren Sie, wie Sie Ihre Assets in Adobe Journey Optimizer mit Adobe Express-Tools bearbeiten.
 feature: Assets
 topic: Content Management, Integrations
 role: User
@@ -10,9 +10,9 @@ duration: 300
 last-substantial-update: 2025-03-27T00:00:00Z
 jira: KT-17529
 source-git-commit: 6f1e86b98dfa71330dcf15281d63c50b4b465a1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 0%
 >
 >Die Adobe Express-Integration in Adobe Journey Optimizer ist derzeit nicht für Healthcare Shield oder Privacy and Security Shield verfügbar.
 
-Erfahren Sie, wie Sie Ihre Assets in Adobe Journey Optimizer mit Adobe Express-Tools bearbeiten können.
+Erfahren Sie, wie Sie Ihre Assets in Adobe Journey Optimizer mit Adobe Express-Tools bearbeiten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
 
-Weitere Informationen zum Zugriff auf diese Funktion über ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/assets-images/express) Inhaltseditor finden Sie in der [Journey Optimizer-Produktdokumentation. Weitere Informationen zu Adobe Express finden Sie in [dieser Dokumentation](https://helpx.adobe.com/express/user-guide.html).
+Weitere Informationen zum Zugriff auf diese Funktion über den Inhaltseditor finden Sie in der [Produktdokumentation zu Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/assets-images/express). Weitere Informationen zu Adobe Express finden Sie in [dieser Dokumentation](https://helpx.adobe.com/de/express/user-guide.html).
