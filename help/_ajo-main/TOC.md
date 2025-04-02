@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
 workflow-type: tm+mt
 source-wordcount: '662'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 95%
    + [Einheitliches Profil und Segmentierung – Übersicht](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Erstellen von Zielgruppen mit dem Regel-Builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Erstellen einer Zielgruppe durch Hochladen einer CSV-Datei](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-   + [Auswerten von Zielgruppen nach Bedarf](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
+   + [Auswerten von Zielgruppen nach Bedarf](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [Abonnements und Landingpages](/help/subscriptions-and-landing-pages.md)
 + Kanäle {#channels}
    + [Mobile-App-Optimierung – Überblick](/help/channels/mobile-app-optimization-overview.md)
@@ -115,8 +115,8 @@ ht-degree: 95%
    + [Erstellen dynamischer Inhalte mit dem Builder für Bedingungsregeln](/help/personalize-content/create-dynamic-content.md)
 + Entscheidungsfunktionen{#decision-capabilities}
    + Entscheidungsfindung {#decisioning}
-      + [Einführung in Decisioning](/help/decisioning/introduction-to-decisioning.md)
-      + [Anleitung für End-to-End-Entscheidungen](/help/decisioning/decisioning-end-to-end.md)
+      + [Einführung in die Entscheidungsfindung](/help/decisioning/introduction-to-decisioning.md)
+      + [Anleitung für die Entscheidungsfindung](/help/decisioning/decisioning-end-to-end.md)
    + Entscheidungs-Management {#decision-management}
       + [Einführung in das Entscheidungs-Management](/help/decision-management/introduction-to-decision-management.md)
       + [Demo der Entscheidungs-Management-Funktionen](/help/decision-management/demo-of-decision-management-capabilities.md)
