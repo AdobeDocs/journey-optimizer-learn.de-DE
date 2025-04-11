@@ -1,6 +1,6 @@
 ---
-title: Einführung in Decisioning
-description: Die Entscheidungsfindung vereinfacht die Personalisierung, indem sie einen zentralisierten Katalog von Marketing-Angeboten, die als „Entscheidungselemente“ bezeichnet werden, und eine ausgereifte Entscheidungs-Engine anbietet. Diese Engine nutzt Regeln und Rangfolgekriterien, um die relevantesten Entscheidungselemente für jeden Kontakt auszuwählen und darzustellen. In diesem Video erhalten Sie einen kurzen Überblick über die Entscheidungsfunktionen von Adobe Journey Optimizer*
+title: Einführung in die Entscheidungsfindung
+description: Erfahren Sie mehr über die Entscheidungsfunktionen in Journey Optimizer.
 feature: Decisioning
 topic: Integrations
 role: User
@@ -11,14 +11,14 @@ last-substantial-update: 2025-03-13T00:00:00Z
 jira: KT-17486
 thumbnail: KT-17486.jpeg
 exl-id: d5219ce1-ea44-4c41-b557-b094978e37cc
-source-git-commit: e9e120f6eee45bb2aa466a4cd4c64332e4380197
+source-git-commit: b9a223a583a2ceb7c6c55a144ab78c7963ae2969
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 70%
+source-wordcount: '65'
+ht-degree: 69%
 
 ---
 
-# Einführung in Decisioning
+# Einführung in die Entscheidungsfindung
 
 Die Entscheidungsfindung vereinfacht die Personalisierung, indem sie einen zentralisierten Katalog von Marketing-Angeboten, die als „Entscheidungselemente“ bezeichnet werden, und eine ausgereifte Entscheidungs-Engine anbietet. Diese Engine nutzt Regeln und Rangfolgekriterien, um die relevantesten Entscheidungselemente für jeden Kontakt auszuwählen und darzustellen.
 
