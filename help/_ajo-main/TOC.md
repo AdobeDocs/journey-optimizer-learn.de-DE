@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
 source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '662'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -95,7 +95,7 @@ ht-degree: 99%
    + [Verwalten von Fragmenten](/help/content-management/manage-fragments.md)
    + [Erstellen von Ausdrucksfragmenten](/help/content-management/expression-fragments.md)
    + [Experimentieren – Überblick](/help/content-management/experimentation-overview.md)
-   + [Erstellen einer E-Mail mit GenStudio](/help/content-management/create-an-email-using-genstudio.md)
+   + [Erstellen von E-Mails mit GenStudio](/help/content-management/create-an-email-using-genstudio.md)
    + Mehrsprachige Nachrichten {#multilingual-messaging}
       + [Einrichten mehrsprachiger Nachrichten](/help/content-management/set-up-multilingual-messages.md)
       + [Erstellen einer mehrsprachigen Nachricht](/help/content-management/create-multilingual-messages.md)
@@ -130,7 +130,7 @@ ht-degree: 99%
       + [Erstellen von Entscheidungen](/help/decision-management/create-decisions.md)
       + [Unterbreiten von Angeboten mithilfe der Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [Frequenzbegrenzung](/help/decision-management/frequency-capping.md)
-+ Data Management {#data-management}
++ Daten-Management {#data-management}
    + [Übersicht](/help/data-management/set-up-data-overview.md)
    + [Erstellen eines Schemas](/help/data-management/create-schema.md)
    + [Zuordnen von Identitäten](/help/data-management/map-identities.md)
@@ -138,7 +138,7 @@ ht-degree: 99%
    + [Konfigurieren von Quellkonnektoren](/help/data-management/configure-source-connectors.md)
    + [Konfigurieren eines Datensatz-Exportziels](/help/data-management/configure-dataset-export-destination.md)
    + [Exportieren von Datensätzen zu Cloud-Speicherorten](/help/data-management/export-datasets.md)
-+ Reporting und Überwachung {#report-and-monitor}
++ Berichte und Überwachung {#report-and-monitor}
    + [Messung und Reporting – Überblick](/help/report-and-monitor/measurement-and-reporting-overview.md)
    + [Live- und globale Berichte](/help/report-and-monitor/live-and-global-reports.md)
    + [Berichte auf Kanalebene](/help/report-and-monitor/channel-level-reports.md)
@@ -146,8 +146,8 @@ ht-degree: 99%
    + [Verwenden von Warnhinweisen](/help/administration/alerts.md)
    + [Verbessertes Reporting mit Customer Journey Analytics](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + Konfiguration {#configuration}
-   + Konfigurieren der Kanäle {#channel-configuration}
-      + [Konfigurieren der Kanäle](/help/set-up-channels/configure-channels.md)
+   + Konfigurieren von Kanälen {#channel-configuration}
+      + [Konfigurieren von Kanälen](/help/set-up-channels/configure-channels.md)
       + [Anleitung zur Kanaleinrichtung](/help/set-up-channels/guided-channel-setup.md)
       + [Einrichten des E-Mail-Kanals](/help/set-up-channels/set-up-email-channel.md)
       + [Delegieren von CName-Subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
@@ -163,7 +163,7 @@ ht-degree: 99%
       + [Konfigurieren von Regeln für die Frequenzbegrenzung](/help/business-rules/configure-frequency-capping-rules.md)
       + [Arbeiten mit Regelsätzen](/help/business-rules/work-with-rule-sets.md)
       + [Tests und Berichte zu Häufigkeitsregeln](/help/business-rules/test-and-report-on-frequency-rules.md)
-+ Zugriffskontrolle {#access-control}
++ Zugriffssteuerung {#access-control}
    + [Zugriffsverwaltung ](/help/set-up-access/access-management.md)
    + [Konfigurieren der attributbasierten Zugriffssteuerung](/help/administration/attribute-based-access-control.md)
    + [Verwenden von Sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
