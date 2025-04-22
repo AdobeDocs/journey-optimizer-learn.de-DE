@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
-workflow-type: ht
-source-wordcount: '662'
-ht-degree: 100%
+source-git-commit: 602252c2f39bb97486460486ef9a6fec628a3aee
+workflow-type: tm+mt
+source-wordcount: '671'
+ht-degree: 99%
 
 ---
 
@@ -89,22 +89,25 @@ ht-degree: 100%
       + [SPA-Unterstützung im Web-Editor](/help/channels/singel-page-application-support.md)
 + Content-Management{#content-management}
    + [Nachrichtenerstellung – Überblick](/help/content-management/message-authoring-overview.md)
-   + [Digital Asset Management – Überblick](/help/content-management/digital-asset-management-overview.md)
-   + [Verwalten von Assets](/help/assets-essentials-overview.md)
-   + [Bearbeiten von Assets mit Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
-   + [Verwalten von Fragmenten](/help/content-management/manage-fragments.md)
-   + [Erstellen von Ausdrucksfragmenten](/help/content-management/expression-fragments.md)
-   + [Experimentieren – Überblick](/help/content-management/experimentation-overview.md)
-   + [Erstellen von E-Mails mit GenStudio](/help/content-management/create-an-email-using-genstudio.md)
+   + [Verwalten von Assets]{#assets}
+      + [Digital Asset Management – Überblick](/help/content-management/digital-asset-management-overview.md)
+      + [Verwalten von Assets](/help/assets-essentials-overview.md)
+      + [Bearbeiten von Assets mit Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
+   + Arbeiten mit Fragmenten {#fragments}
+      + [Verwalten von Fragmenten](/help/content-management/manage-fragments.md)
+      + [Erstellen von Ausdrucksfragmenten](/help/content-management/expression-fragments.md)
+      + [Verwenden von AEM-Inhaltsfragmenten](/help/content-management/aem_content_fragments.md)
+   + Inhaltsvorlagen{#content-templates}
+      + [Erstellen von Inhaltsvorlagen](/help/content-management/templates/create-content-templates.md)
+      + [Sperren von Inhalten in Vorlagen](/help/content-management/templates/content-locking.md)
    + Mehrsprachige Nachrichten {#multilingual-messaging}
       + [Einrichten mehrsprachiger Nachrichten](/help/content-management/set-up-multilingual-messages.md)
       + [Erstellen einer mehrsprachigen Nachricht](/help/content-management/create-multilingual-messages.md)
    + KI-Assistent für die Inhaltsgenerierung {#content-accelerator}
       + [KI-Assistent für die Inhaltsgenerierung – Überblick](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltsgenerierung](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
-   + Inhaltsvorlagen{#content-templates}
-      + [Erstellen von Inhaltsvorlagen](/help/content-management/templates/create-content-templates.md)
-      + [Sperren von Inhalten in Vorlagen](/help/content-management/templates/content-locking.md)
+   + [Experimentieren – Überblick](/help/content-management/experimentation-overview.md)
+   + [Erstellen von E-Mails mit GenStudio](/help/content-management/create-an-email-using-genstudio.md)
 + Personalisieren von Inhalten {#personalize-content}
    + [Personalisierungseditor – Überblick](/help/personalize-content/personalization-editor-overview.md)
    + [Profil- und zielgruppenspezifische Personalisierung](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
