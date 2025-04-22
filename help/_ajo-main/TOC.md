@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 4c7d047593ce5c8be7b8120ce65a9363a4e088fe
+source-git-commit: bc284bc408bb05e9454b3de4193b05c95643797b
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 99%
@@ -96,7 +96,7 @@ ht-degree: 99%
    + Arbeiten mit Fragmenten {#fragments}
       + [Verwalten von Fragmenten](/help/content-management/manage-fragments.md)
       + [Erstellen von Ausdrucksfragmenten](/help/content-management/expression-fragments.md)
-      + [Verwenden von AEM-Inhaltsfragmenten](/help/content-management/aem_content_fragments.md)
+      + [Verwenden von AEM-Inhaltsfragmenten](/help/content-management/aem-content-fragments.md)
    + Inhaltsvorlagen{#content-templates}
       + [Erstellen von Inhaltsvorlagen](/help/content-management/templates/create-content-templates.md)
       + [Sperren von Inhalten in Vorlagen](/help/content-management/templates/content-locking.md)
