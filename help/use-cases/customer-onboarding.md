@@ -9,9 +9,9 @@ duration: 505
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16344
 exl-id: 9237122b-cd98-4ad0-bd64-7a3407116f86
-source-git-commit: c150bdd848411f97b6277bcac98dffcfce319f3b
+source-git-commit: 812d668949923db814f0ec44d858b72d9bac472d
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
