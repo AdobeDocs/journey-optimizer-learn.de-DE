@@ -88,7 +88,7 @@ ht-degree: 98%
       + [Erstellen einer Web-Kampagne](/help/channels/author-a-web-campaign.md)
       + [SPA-Unterstützung im Web-Editor](/help/channels/singel-page-application-support.md)
 + Content-Management{#content-management}
-   + [Nachrichtenerstellung – Überblick](/help/content-management/message-authoring-overview.md)
+   + [Nachrichtenerstellung – Überblick](/help/content-management/message-authoring-overview.md)
    + Verwalten von Assets {#assets}
       + [Digital Asset Management – Überblick](/help/content-management/digital-asset-management-overview.md)
       + [Verwalten von Assets](/help/assets-essentials-overview.md)
@@ -107,7 +107,7 @@ ht-degree: 98%
    + KI-Assistent für die Inhaltsgenerierung {#content-accelerator}
       + [KI-Assistent für die Inhaltsgenerierung – Überblick](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltsgenerierung](/help/content-management/create-content-using-ai-assistant-content-accelerator.md)
-   + [Experimentieren – Überblick](/help/content-management/experimentation-overview.md)
+   + [Experimentieren – Überblick](/help/content-management/experimentation-overview.md)
    + [Erstellen von E-Mails mit GenStudio](/help/content-management/create-an-email-using-genstudio.md)
 + Personalisieren von Inhalten {#personalize-content}
    + [Personalisierungseditor – Überblick](/help/personalize-content/personalization-editor-overview.md)
