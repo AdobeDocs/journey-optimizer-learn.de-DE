@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 812d668949923db814f0ec44d858b72d9bac472d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '375'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -49,15 +49,15 @@ Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adob
 <tr>
     <td>
     <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="Erstellen von Inhalten mit dem Content Accelerator des KI-Assistenten (Video)" src="../assets/3434635.jpg"/>
+      <img alt="Generieren von Inhalten mit der Content-Beschleunigung des KI-Assistenten (Video)" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong>Erstellen von Inhalten mit dem Content Accelerator des KI-Assistenten</strong>
+    <strong>Generieren von Inhalten mit der Content-Beschleunigung des KI-Assistenten</strong>
     </a>
     </div>
     <p>
-    <em>Erfahren Sie, wie Sie mit dem KI-Assistenten-Inhaltsbeschleuniger proaktive Vorschläge für Inhaltsvarianten für Text und Bilder generieren können.
+    <em>Erfahren Sie, wie Sie mit der Content-Beschleunigung des KI-Assistenten proaktiv Vorschläge zur Variation von Text- und Bildinhalten generieren.
 </em>
     <p>
   </td>
