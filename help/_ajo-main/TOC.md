@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: da95a1a259523039308cc5c5beb6bd93cf5de0f4
+source-git-commit: eccb016c737f94eef1cbd8357a9ce37a053904a1
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 98%
+source-wordcount: '696'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + Anwendungsfälle {#use-cases}
    + [Onboarding von Kundinnen und Kunden](/help/use-cases/customer-onboarding.md)
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
+
 + Einführung in Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer – Überblick](/help/introduction/journey-optimizer-overview.md)
    + [Einführung in Journey Optimizer](/help/introduction/introduction.md)
@@ -181,7 +182,13 @@ ht-degree: 98%
 + Übungen und Herausforderungen {#exercises-and-challenges}
    + [Konfigurieren einer Trainings-Sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=de)
    + [Herausforderungen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=de)
-+ [Experience League – Live-Aufnahmen](/help/experience-league-live-show-recordings.md)
++ [Experience League Live-Showaufzeichnungen](/help/experience-league-live-show-recordings.md)
++ Erstellen von Audiences mit Web SDK {#tutorial-creating-audiences}
+   + [Einführung](../tutorial-creating-audience/introduction.md)
+   + [Schema erstellen,Datensätze..usw](../tutorial-creating-audience/create-schema-and-dataset.md)
+   + [Erstellen von AEP-Tags](../tutorial-creating-audience/create-aep-tags.md)
+   + [Web-Formular erstellen](../tutorial-creating-audience/create-web-form.md)
+   + [Debuggen Sie die Lösung](../tutorial-creating-audience/debug.md)
 + Summit Labs {#summit-labs}
    + [Erstellen personalisierter Mobile-Momente mit Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
    + [Kurzüberblick](/help/summit-lab-assets/l535-assets.md)
