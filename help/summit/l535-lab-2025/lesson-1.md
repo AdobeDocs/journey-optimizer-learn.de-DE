@@ -1,0 +1,24 @@
+---
+title: 'Lektion 1: Journey erleben'
+description: In dieser Lektion erleben Sie die Onboarding-Journey eines neuen SecurFinancial-Kunden.
+feature: Journeys
+role: User
+level: Beginner, Intermediate
+doc-type: Technical Video
+duration: 129
+last-substantial-update: 2025-05-01T00:00:00Z
+jira: KT-17873
+index: false
+source-git-commit: 9a76105425560fe9aeaa007df86786467281f44e
+workflow-type: tm+mt
+source-wordcount: '36'
+ht-degree: 0%
+
+---
+
+
+# Lektion 1: Journey erleben
+
+In dieser Lektion erleben Sie die Onboarding-Journey eines neuen SecurFinancial-Kunden.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3457827/?learn=on&enablevpops)
