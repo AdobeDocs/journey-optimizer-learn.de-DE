@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Marken mit Entscheidungs-Management ihre Angebote definieren und verwalten, Echtzeitkundendaten verwenden und die richtigen Erlebnisse bereitstellen, die ihre Kundschaft erwartet.
 
->[!VIDEO](https://video.tv.adobe.com/v/326841?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340351?quality=12&learn=on&captions=ger){transcript=true}

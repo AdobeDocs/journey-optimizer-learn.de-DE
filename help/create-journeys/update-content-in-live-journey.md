@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Inhalte in einer Live-Journey aktualisieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429844/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439619/?learn=on&captions=ger)

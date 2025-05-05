@@ -20,4 +20,4 @@ Erfahren Sie, wie Sie Sammlungen für das Entscheidungs-Management erstellen.
 
 Sammlungen werden verwendet, um Angebote in logischen Gruppen zu verwalten und sind zum Erstellen von Aktivitäten im Entscheidungs-Management erforderlich. Mit dynamischen Sammlungen können Sie Angebote basierend auf Tags gruppieren, während Sie mit statischen Sammlungen die Angebote manuell kuratieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411812?quality=12&learn=on&captions=ger){transcript=true}

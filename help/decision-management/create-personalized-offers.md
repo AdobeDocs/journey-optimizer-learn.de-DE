@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie [personalisierte Angebote](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=de) für das Entscheidungs-Management erstellen. Personalisierte Angebote sind mit Eignungsregeln verknüpft, die Ihnen helfen, sie nur relevanten Kunden anzuzeigen. Sie können beispielsweise ein Angebot für Schneeschippen auf Regionen beschränken, in denen es schneit, und zwar nur während der Winterzeit.
 
->[!VIDEO](https://video.tv.adobe.com/v/329375?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341349?quality=12&learn=on&captions=ger){transcript=true}
 
 Weiterführende Informationen zum Erstellen personalisierter Angebotsaktivitäten mit einer API finden Sie im [Produkthandbuch](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/personalized-offers/create.html?lang=de)

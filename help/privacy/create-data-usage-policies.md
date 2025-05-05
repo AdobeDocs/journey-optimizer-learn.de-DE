@@ -28,6 +28,6 @@ Informationen darüber, wie sich Richtlinien zur Datennutzung erstellen und verw
 >
 >In diesem [Tutorial](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md) erfahren Sie, wie Richtlinien in Journey Optimizer-Kanälen durchgesetzt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37126/?learn=on&captions=ger)
 
 Weitere Informationen zum [Arbeiten mit Einverständnisrichtlinien](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/privacy/consent/consent-restricted) in Journey Optimizer sind in der Produktdokumentation enthalten.

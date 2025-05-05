@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie auf Kanalebene Berichte aufrufen, navigieren und exportieren können. Weitere Informationen dazu finden Sie in der [Dokumentation zu Kanalberichten](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/channel-report/channel-report.html?lang=de).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424537/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448048/?learn=on&captions=ger)

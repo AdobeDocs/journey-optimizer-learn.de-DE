@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Entdecken Sie die neu gestaltete Journey-Arbeitsfläche und erfahren Sie, wie Sie Live-Reporting in Journeys verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443604/?learn=on&captions=ger){transcript=true}

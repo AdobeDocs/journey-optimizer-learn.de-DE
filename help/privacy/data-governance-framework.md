@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Machen Sie sich mit dem Data-Governance-Framework in Adobe Experience Platform vertraut.
 
->[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33153/?learn=on&captions=ger)
 
 Weitere Informationen zu [Data Governance](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/privacy/action-privacy-restricted) in Journey Optimizer finden Sie in der Produktdokumentation.
 

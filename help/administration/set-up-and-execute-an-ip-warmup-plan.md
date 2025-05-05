@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Erfahren Sie, was IP-Aufwärmen ist und wie Sie einen IP-Warming in Adobe Journey Optimizer einrichten und ausführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453849/?learn=on&captions=ger)
 
 Im [Best-Practice-Leitfaden zur Zustellbarkeit](https://experienceleague.adobe.com/de/docs/deliverability-learn/deliverability-best-practice-guide/introduction) finden Sie Informationen zu Best Practices in Bezug auf [Kriterien für die Zielgruppenbestimmung](https://experienceleague.adobe.com/de/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria), [ISP-spezifische Überlegungen beim IP-Warming](https://experienceleague.adobe.com/de/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming) und [Volumen](https://experienceleague.adobe.com/de/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume).
 

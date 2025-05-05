@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Verschaffen Sie sich einen Überblick über das Entscheidungs-Management von Journey Optimizer. In diesem Video wird gezeigt, welche Herausforderungen durch die Entscheidungs-Management-Funktionen gelöst werden. Außerdem wird auf die wesentlichen Funktionen, die grundlegende Architektur und die wichtigsten Anwendungsfälle eingegangen.
 
->[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340413?quality=12&learn=on&captions=ger){transcript=true}
 
 
 

@@ -25,4 +25,4 @@ Informationen darüber, wie Schemata und Datensätze mit Labels versehen können
 >
 >Das Video zeigt diese Funktion in der Benutzeroberfläche von Adobe Experience Platform. Dieselbe Funktion ist auch in der Journey Optimizer-Benutzeroberfläche im linken Navigationsbereich im Abschnitt DATEN-MANAGEMENT verfügbar.
 
->[!VIDEO](https://video.tv.adobe.com/v/29709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422789?learn=on&captions=ger)

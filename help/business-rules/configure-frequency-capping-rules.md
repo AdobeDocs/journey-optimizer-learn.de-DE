@@ -20,6 +20,6 @@ ht-degree: 65%
 
 Erfahren Sie, wie Sie Regeln zur Begrenzung der Häufigkeit konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433404/?learn=on&captions=ger)
 
 Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/configuration/frequency-rules).

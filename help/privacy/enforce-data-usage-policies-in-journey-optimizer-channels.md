@@ -23,6 +23,6 @@ ht-degree: 100%
 
 Informationen zur Durchsetzung von Datennutzungsrichtlinien in Journey Optimizer-Kanälen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434914/?learn=on&captions=ger)
 
 Weitere Informationen zu [Data Governance](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/privacy/action-privacy-restricted) und zum [Arbeiten mit Einverständnisrichtlinien](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/privacy/consent/consent-restricted) in Journey Optimizer sind in der Produktdokumentation zu finden.

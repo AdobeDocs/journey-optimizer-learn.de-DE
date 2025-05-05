@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Erfahren Sie, was eine Aktion ist, wie Sie die Aktionen „Profil bearbeiten“ und „Sprung“ in Journey Optimizer verwenden und wie Sie eine benutzerdefinierte Aktion konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428396?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430275?quality=12&learn=on&captions=ger){transcript=true}
 
 Weitere Informationen zum [Konfigurieren einer benutzerdefinierten Aktion](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/configuration/configure-journeys/action-journeys/about-custom-action-configuration){target="_blank"} finden Sie in der Produktdokumentation.

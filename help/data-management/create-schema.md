@@ -20,6 +20,6 @@ ht-degree: 100%
 
 In diesem Video erfahren Sie, wie Sie in Adobe Experience Platform Schemata mithilfe der Klasse „Individuelles XDM-Profil“ und verschiedener Feldergruppen erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27012?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430216?quality=12&learn=on&captions=ger){transcript=true}
 
 Eine ausführliche Produktdokumentation finden Sie unter [Erste Schritte mit Schemata](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/get-started-schemas.html?lang=de), [Erstellen eines Schemas in der Benutzeroberfläche](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=de) und [Erstellen eines Schemas mit der API](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-api.html?lang=de).

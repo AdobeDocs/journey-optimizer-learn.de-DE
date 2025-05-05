@@ -22,4 +22,4 @@ Erfahren Sie mehr über die Konfiguration, den Workflow und Anwendungsfälle fü
 
 Weitere Informationen zum Exportieren von Datensätzen zu Cloud-Speicherorten aus Adobe Journey Optimizer finden Sie in der [Dokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=de).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424392/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448827/?learn=on&captions=ger)

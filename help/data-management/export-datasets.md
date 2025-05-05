@@ -27,6 +27,6 @@ Erfahren Sie, wie Sie einen Datensatz aus Journey Optimizer in ein Amazon S3-Zie
 >[!NOTE]
 >Während der Beta-Phase sind alle Datensätze sichtbar. Sobald diese Funktion allgemein verfügbar ist, ist sie auf die systemgenerierten Datensätze beschränkt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432010/?quality=12&learn=on&captions=ger){transcript=true}
 
 Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=de).

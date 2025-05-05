@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie einen CSV-Bericht für einen Bericht und für ein einzelnes Widget herunterladen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439622/?learn=on&captions=ger)

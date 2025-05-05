@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Mit der Funktion für mehrsprachige Nachrichten können Sie Inhalte in mehreren Sprachen innerhalb einer einzigen Kampagne oder Journey erstellen. Erfahren Sie, wie Sie mehrsprachige Nachrichten in Journey Optimizer erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430921/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452122/?learn=on&captions=ger)

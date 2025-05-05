@@ -21,7 +21,7 @@ In diesem Abschnitt richten Sie die drei Ereignisse ein, die für die praktische
 
 Im folgenden Video wird erläutert, wie Ereignisse erstellt werden:
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431515?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Erstellen des Online-Kaufereignisses von Luma
 

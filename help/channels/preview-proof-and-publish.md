@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Hier erfahren Sie, wie Sie das E-Mail-Rendering für mehrere Posteingänge mit Litmus testen, wie Sie Ihre personalisierten E-Mails mit Testprofilen in der Vorschau anzeigen, Testsendungen durchführen und Ihre E-Mail veröffentlichen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425026?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430337?quality=12&learn=on&captions=ger){transcript=true}

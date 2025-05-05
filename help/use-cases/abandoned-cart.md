@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie den Anwendungsfall „Warenkorb verlassen“ mithilfe der Playbook-Funktion in Adobe Journey Optimizer implementieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443973/?learn=on&enablevpops&captions=ger)

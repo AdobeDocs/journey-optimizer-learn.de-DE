@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie mit dem KI-Assistenten für die Inhaltsgenerierung proaktiv Vorschläge zur Variation von Text- und Bildinhalten generieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434644/?learn=on&captions=ger)

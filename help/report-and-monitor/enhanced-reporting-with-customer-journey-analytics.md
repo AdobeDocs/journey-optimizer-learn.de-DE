@@ -21,4 +21,4 @@ ht-degree: 100%
 Das Reporting in Journey Optimizer ist jetzt vollständig mit den Funktionen von Customer Journey Analytics integriert, wodurch das Reporting auf beiden Plattformen standardisiert und die Konsistenz und Zuverlässigkeit der Daten verbessert wird. Diese nahtlose Integration zwischen Journey Optimizer und Customer Journey Analytics bietet einen besseren Überblick über Leistungsmetriken und ermöglicht es Benutzenden, fundiertere Entscheidungen zu treffen.
 Eine ausführliche Dokumentation finden Sie unter [Durchführen von Analysen in Customer Journey Analytics](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443160/?learn=on&captions=ger)

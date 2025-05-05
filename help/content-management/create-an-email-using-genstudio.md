@@ -27,6 +27,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie eine E-Mail-Vorlage aus [!DNL Journey Optimizer] in [!DNL GenStudio for Performance Marketing] exportieren, markenkonforme E-Mails mit der Vorlage in [!DNL GenStudio] erstellen und diese dann nahtlos zurück in [!DNL Journey Optimizer] importieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3456038/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456058/?learn=on&enablevpops&captions=ger)
 
 Weitere Informationen zu [!DNL GenStudio for Performance Marketing] finden Sie im [[!DNL Adobe GenStudio for Performance Marketing] Benutzerhandbuch](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"} oder in den [Tutorials zu Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing-learn/tutorials/overview).

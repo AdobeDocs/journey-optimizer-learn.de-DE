@@ -30,4 +30,4 @@ In diesem Video wird Folgendes erklärt:
 
 Weitere Informationen finden Sie in der [Dokumentation „Erste Schritte mit Web-Kanälen“](https://experienceleague.adobe.com/docs/journey-optimizer/using/web/get-started-web.html?lang=de).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424536/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446894/?learn=on&captions=ger)

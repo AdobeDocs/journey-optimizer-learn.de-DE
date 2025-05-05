@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie den Briefpost-Kanal einrichten und wie Sie Briefpost-Kampagnen erstellen und in der Vorschau anzeigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422019/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449363/?learn=on&captions=ger){transcript=true}

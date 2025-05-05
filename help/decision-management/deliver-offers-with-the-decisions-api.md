@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Angebote [mit der Decisions Hub-API](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=de) unterbreiten können. Anhand von [!DNL Postman] wird gezeigt, dass ein API-Aufruf zum Abrufen der Container-ID erfolgt. Als Nächstes wird ein Beispiel für einen Decisions-API-Aufruf mit der Aktivitäts-ID, der Platzierungs-ID, dem Identity-Namespace und der Kunden-ID angepasst, um ein personalisiertes Angebot abzurufen. Nachdem Sie ein personalisiertes Angebot mit der Decisions-API abgerufen haben, können Sie den Angebotsinhalt in Ihr Marketing-System integrieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/343541?quality=12&learn=on&captions=ger){transcript=true}
 
 >[!INFO]
 >
