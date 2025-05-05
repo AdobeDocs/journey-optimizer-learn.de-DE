@@ -19,7 +19,7 @@ ht-degree: 0%
 
 * Bei Adobe Experience Platform anmelden
 
-* Erstellen Sie in Journey Optimizer ein XDM-ereignisbasiertes Schema namens „Financial Advisors“. Wenn Sie nicht mit dem Erstellen eines Schemas vertraut sind, befolgen Sie bitte diese [Dokumentation](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Erstellen Sie in Journey Optimizer ein XDM-ereignisbasiertes Schema namens „Financial Advisors“. Wenn Sie nicht mit dem Erstellen eines Schemas vertraut sind, befolgen Sie bitte diese [Dokumentation](https://experienceleague.adobe.com/de/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 * Fügen Sie Ihrem Schema die folgende Struktur hinzu. Das PreferredFinancialInstrument-Element speichert die Voreinstellungen des Benutzers für Aktien, Anleihen, CD
   ![xdm-schema](assets/xdm-schema.png)

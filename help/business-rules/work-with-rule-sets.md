@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie einen Regelsatz zur Frequenzlimitierung für Kunden erstel
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
 
-Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/rule-sets).
+Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/configuration/rule-sets).

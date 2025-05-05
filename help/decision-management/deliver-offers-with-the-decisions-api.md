@@ -23,4 +23,4 @@ Erfahren Sie, wie Sie Angebote [mit der Decisions Hub-API](https://experiencelea
 
 >[!INFO]
 >
-> Dieses Video ist Teil des Kurses [Erste Schritte mit Entscheidungs-Management für Marketing-Fachleute](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos auf Experience League verfügbar ist.
+> Dieses Video ist Teil des Kurses [Erste Schritte mit Entscheidungs-Management für Marketing-Fachleute](https://experienceleague.adobe.com/?lang=de&recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning), der kostenlos auf Experience League verfügbar ist.

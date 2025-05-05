@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Personalization Editor Playground
 
-Der [Playground für den Personalisierungseditor](https://experienceleague.adobe.com/en/apps/journey-optimizer/ajo-personalization#) bietet eine simulierte Umgebung zum Schreiben und Testen von Personalisierungscode mithilfe von Beispieldaten, ohne dass Live-Datensätze erforderlich sind.
+Der [Playground für den Personalisierungseditor](https://experienceleague.adobe.com/de/apps/journey-optimizer/ajo-personalization#) bietet eine simulierte Umgebung zum Schreiben und Testen von Personalisierungscode mithilfe von Beispieldaten, ohne dass Live-Datensätze erforderlich sind.
 
 Erfahren Sie, wie Sie vordefinierte Code-Beispiele nutzen, Dummy-Profil-Payloads bearbeiten und eine Vorschau der Ausgabe Ihres Personalisierungs-Codes in Echtzeit anzeigen können.
 
