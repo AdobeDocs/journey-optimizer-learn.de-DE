@@ -211,7 +211,7 @@ Wenn Sie mit dem Inhalt Ihrer Nachricht zufrieden sind, können Sie die Nachrich
 
 **Produktdokumentation:**
 
-* [Erste Schritte mit Push-Benachrichtigungen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
-* [Erstellen einer Push-Benachrichtigung](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
-* [Gestalten einer Push-Benachrichtigung](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
-* [Push-Benachrichtigung überprüfen und senden](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)
+* [Erste Schritte mit Push-Benachrichtigungen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/push/get-started-push)
+* [Erstellen einer Push-Benachrichtigung](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/push/create-push)
+* [Gestalten einer Push-Benachrichtigung](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/push/design-push)
+* [Push-Benachrichtigung überprüfen und senden](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/push/send-push)
