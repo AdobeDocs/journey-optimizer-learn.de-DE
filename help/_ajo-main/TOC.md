@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 036ac1b9cf1618ff1e4727fc1560dee8dddb7c9f
+source-git-commit: 0b3b022f682c7835d726b6f75bf26430b0b9de9a
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 93%
@@ -17,7 +17,7 @@ ht-degree: 93%
 + Anwendungsfälle {#use-cases}
    + [Onboarding von Kundinnen und Kunden](/help/use-cases/customer-onboarding.md)
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
-   + [Skalierung der Orchestrierung auf Omni-Channel-Interaktion](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement){target="_blank"}
+   + [Skalierung der Orchestrierung auf Omni-Channel-Interaktion](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Einführung in Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer – Überblick](/help/introduction/journey-optimizer-overview.md)
