@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Ihre Assets in Adobe Journey Optimizer mit Adobe Express-Tools bearbeiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455532/?learn=on&enablevpops&captions=ger)
 
 Weitere Informationen zum Zugriff auf diese Funktion über den Inhaltseditor finden Sie in der [Produktdokumentation zu Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/assets-images/express). Weitere Informationen zu Adobe Express finden Sie in [dieser Dokumentation](https://helpx.adobe.com/de/express/user-guide.html).
