@@ -1,6 +1,6 @@
 ---
-title: Lesson 4 – Create a content experiment
-description: In this lesson, you will apply content experimentation to the push message.
+title: 'Lektion 4: Erstellen eines Inhaltsexperiments'
+description: In dieser Lektion wenden Sie Inhaltsexperimente auf die Push-Nachricht an.
 feature: Experimentation, Push
 role: User
 level: Beginner, Intermediate
@@ -9,20 +9,20 @@ duration: 169
 last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17876
 index: false
-source-git-commit: 9a76105425560fe9aeaa007df86786467281f44e
+source-git-commit: 7a625a44db8fe891bef812c91cf7affe6672e743
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
 
-# Lesson 4 – Create a content experiment
+# Lektion 4: Erstellen eines Inhaltsexperiments
 
-*Your challenge:* You have several approaches for the push message in mind but are not sure which one will be most efficient. You want to make sure the most effective message is sent. 
+*Ihre Herausforderung:* Sie haben mehrere Ansätze für die Push-Nachricht im Sinn, sind sich jedoch nicht sicher, welche am effizientesten ist. Sie möchten sicherstellen, dass die effektivste Nachricht gesendet wird. 
 
-*The Solution:* Content experiments allow you to optimize content for the actions in your journey. Through content experimentation, you can expose a given variation of a message to a group of randomly selected users and another variation/treatment to a different set of randomly selected users. After sending the message, you can then measure the outcome metrics you are interested in.
+*Die Lösung:* Inhaltsexperimente ermöglichen es Ihnen, Ihren Inhalt für bestimmte Aktionen auf Ihrem Journey zu optimieren. Mithilfe von Inhaltsexperimenten können Sie einer Gruppe von zufällig ausgewählten Benutzern eine Version einer Nachricht und einer anderen Gruppe eine andere Version präsentieren. Nach dem Versand der Nachrichten können Sie dann die Ergebnismetriken messen, die Sie interessieren.
 
-In this lesson, you will apply content experimentation to the push message.
+In dieser Lektion wenden Sie Inhaltsexperimente auf die Push-Nachricht an.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457924/?learn=on&enablevpops)

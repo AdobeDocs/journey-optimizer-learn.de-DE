@@ -1,6 +1,6 @@
 ---
-title: Lesson 5 – Test your journey
-description: In this lesson you test your journey. Das Testen der Journey vor der Veröffentlichung ist ein wichtiger Schritt. This helps the practitioner to see if the journey logic is set up as intended.
+title: 'Lektion 5: Testen des Journey'
+description: In dieser Lektion testen Sie Ihren Journey. Das Testen der Journey vor der Veröffentlichung ist ein wichtiger Schritt. Auf diese Weise kann der Anwender sehen, ob die Journey-Logik wie vorgesehen eingerichtet ist.
 feature: Journeys
 role: User
 level: Beginner, Intermediate
@@ -9,7 +9,7 @@ duration: 279
 last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17877
 index: false
-source-git-commit: 9a76105425560fe9aeaa007df86786467281f44e
+source-git-commit: 7a625a44db8fe891bef812c91cf7affe6672e743
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Lesson 5 – Test your journey
+# Lektion 5: Testen des Journey
 
-In this lesson you test your journey. Das Testen der Journey vor der Veröffentlichung ist ein wichtiger Schritt. This helps the practitioner to see if the journey logic is set up as intended.
+In dieser Lektion testen Sie Ihren Journey. Das Testen der Journey vor der Veröffentlichung ist ein wichtiger Schritt. Auf diese Weise kann der Anwender sehen, ob die Journey-Logik wie vorgesehen eingerichtet ist.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457930/?learn=on&enablevpops)
