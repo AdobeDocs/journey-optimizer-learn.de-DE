@@ -204,6 +204,7 @@ Wenn Sie aus dem Wertefeld klicken, sollte Ihr Bild angezeigt werden.
          5. Benutzerdefinierte Position
          6. Benutzerdefinierte Animation
          7. Nachricht mit abgerundeter Ecke
+
    <br>
 4. Wenn Sie mit dem Verfassen Ihres Inhalts fertig sind und mit Ihrer Nachricht zufrieden sind, klicken Sie auf die Schaltfläche **[!UICONTROL Zum Aktivieren überprüfen]**.
 
