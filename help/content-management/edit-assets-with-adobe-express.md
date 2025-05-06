@@ -14,7 +14,7 @@ hide: false
 index: true
 exl-id: c42fca4f-bc31-43ad-9e3a-9936a6623051
 source-git-commit: fd50ce73503ca6b42e0171d8476ea08928ebd165
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
 ht-degree: 100%
 
@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Ihre Assets in Adobe Journey Optimizer mit Adobe Express-Tools bearbeiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455532/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
 
 Weitere Informationen zum Zugriff auf diese Funktion über den Inhaltseditor finden Sie in der [Produktdokumentation zu Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/assets-images/express). Weitere Informationen zu Adobe Express finden Sie in [dieser Dokumentation](https://helpx.adobe.com/de/express/user-guide.html).
