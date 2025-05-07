@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie eine Kunden-Onboarding-Journey in Journey Optimizer implementieren. Der Prozess richtet sich an neue Mitglieder des Treueprogramms, die personalisierte E-Mails und SMS versenden, um zum Herunterladen von Programmen zu ermutigen. Dazu gehören das Senden einer Begrüßungs-E-Mail, das Überprüfen der App-Installation und das Nachverfolgen mit Erinnerungen. &#x200B;In diesem Tutorial erfahren Sie auch, wie Sie mit dem KI-Inhaltsassistenten Inhalte erstellen und personalisieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440650/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440659/?learn=on&enablevpops&captions=ger)
