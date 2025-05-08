@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
-source-git-commit: a675979bc590190e0481e63efbc2cfd30752b7c0
+exl-id: 186e4a7d-6077-401f-9958-2f955214bc35
+source-git-commit: 6bf0c2487afff4811aa94e9591ae29c38af15d34
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 13%
 
 ---
-
 
 # Entscheidungsrichtlinie erstellen
 
@@ -42,4 +42,4 @@ Zu diesem Zeitpunkt können Sie alle erforderlichen Entscheidungsattribute direk
 Dieser Code durchläuft eine Liste personalisierter Angebote, die für den Benutzer ausgewählt wurden, und zeigt den Text für jedes Angebot auf der Webseite an. Sie zeigt die Nachricht (offerText genannt) jedes Angebots innerhalb eines Absatzes an, damit die Benutzer ihren maßgeschneiderten Inhalt klar sehen können.
 Wenn kein personalisiertes Angebot verfügbar ist, wird ein Fallback-Angebot angezeigt, um sicherzustellen, dass die Platzierung nicht leer bleibt.
 
-Klicken Sie auf Speichern und dann auf Kampagne aktivieren .
+Klicken Sie auf Speichern und aktivieren Sie dann die Kampagne.
