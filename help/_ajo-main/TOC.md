@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 217e3e8b416c89f2d7141849028dc4d88e0bd484
 workflow-type: tm+mt
 source-wordcount: '751'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 89%
 + Anwendungsfälle {#use-cases}
    + [Onboarding von Kundinnen und Kunden](/help/use-cases/customer-onboarding.md)
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
-   + [Erstellen von Zielgruppen basierend auf Benutzervoreinstellungen](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + [Entscheidung auf Webseite](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
-   + [Skalierung der Orchestrierung auf Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [Erstellen von Zielgruppen basierend auf Benutzervoreinstellungen](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
+   + [Entscheidung auf Webseite](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
+   + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Einführung in Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer – Überblick](/help/introduction/journey-optimizer-overview.md)
@@ -97,7 +97,7 @@ ht-degree: 89%
    + Verwalten von Assets {#assets}
       + [Digital Asset Management – Überblick](/help/content-management/digital-asset-management-overview.md)
       + [Verwalten von Assets](/help/assets-essentials-overview.md)
-      + [AEM Dynamic Media-Integration](/help/content-management/aem-dynamic-media-integration.md)
+      + [Integration von AEM Dynamic Media](/help/content-management/aem-dynamic-media-integration.md)
       + [Bearbeiten von Assets mit Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
    + Arbeiten mit Fragmenten {#fragments}
       + [Verwalten von Fragmenten](/help/content-management/manage-fragments.md)
@@ -122,7 +122,7 @@ ht-degree: 89%
    + [Verwenden von Helper-Funktionen für die Personalisierung](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [Erstellen dynamischer Inhalte mit dem Builder für Bedingungsregeln](/help/personalize-content/create-dynamic-content.md)
-   + [Personalization Editor Playground](/help/personalize-content/personalization-editor-playground.md)
+   + [Personalisierungseditor-Playground](/help/personalize-content/personalization-editor-playground.md)
 + Entscheidungsfunktionen{#decision-capabilities}
    + Entscheidungsfindung {#decisioning}
       + [Einführung in die Entscheidungsfindung](/help/decisioning/introduction-to-decisioning.md)
@@ -186,13 +186,13 @@ ht-degree: 89%
 + Übungen und Herausforderungen {#exercises-and-challenges}
    + [Konfigurieren einer Trainings-Sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=de)
    + [Herausforderungen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=de)
-+ [Experience League Live-Showaufzeichnungen](/help/experience-league-live-show-recordings.md)
-+ Erstellen von Audiences mit Web SDK {#tutorial-creating-audiences}
++ [Live-Aufnahmen von Experience League](/help/experience-league-live-show-recordings.md)
++ Erstellen von Zielgruppen mit Web SDK {#tutorial-creating-audiences}
    + [Einführung](../tutorial-creating-audience/introduction.md)
-   + [Schema erstellen,Datensätze..usw](../tutorial-creating-audience/create-schema-and-dataset.md)
+   + [Erstellen von Schemata, Datensätzen …usw.](../tutorial-creating-audience/create-schema-and-dataset.md)
    + [Erstellen von AEP-Tags](../tutorial-creating-audience/create-aep-tags.md)
-   + [Web-Formular erstellen](../tutorial-creating-audience/create-web-form.md)
-   + [Debuggen Sie die Lösung](../tutorial-creating-audience/debug.md)
+   + [Erstellen von Web-Formularen](../tutorial-creating-audience/create-web-form.md)
+   + [Debugging der Lösung](../tutorial-creating-audience/debug.md)
 + Entscheidungen auf Web-Seiten {#getting-started-with-decisioning-webpage}
    + [Einführung](../getting-started-with-decisioning-webpage/introduction.md)
    + [Erstellen von Tags](../getting-started-with-decisioning-webpage/create-tags.md)
@@ -207,5 +207,5 @@ ht-degree: 89%
 
 + Summit Labs {#summit-labs}
    + [Erstellen personalisierter Mobile-Momente mit Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [Skalierung der Orchestrierung auf die Omni-Channel-Interaktion in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
