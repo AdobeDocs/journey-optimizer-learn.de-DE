@@ -17,8 +17,8 @@ ht-degree: 96%
 + Anwendungsfälle {#use-cases}
    + [Onboarding von Kundinnen und Kunden](/help/use-cases/customer-onboarding.md)
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
-   + [Erstellen von Zielgruppen basierend auf Benutzervoreinstellungen](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + [Entscheidung auf Webseite](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
+   + [Erstellen von Zielgruppen basierend auf Benutzervoreinstellungen](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
+   + [Entscheidung auf Webseite](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Einführung in Journey Optimizer {#introduction-to-journey-optimizer}
