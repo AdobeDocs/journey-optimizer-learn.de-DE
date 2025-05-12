@@ -22,7 +22,7 @@ ht-degree: 0%
 * Bei Adobe Experience Platform anmelden
 * Daten-Management -> Schemata -> Schema erstellen
 
-* Erstellen Sie ein XDM-ereignisbasiertes Schema namens _Financial Advisors_. Wenn Sie nicht mit dem Erstellen eines Schemas vertraut sind, befolgen Sie bitte diese [Dokumentation](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
+* Erstellen Sie ein XDM-ereignisbasiertes Schema namens _Financial Advisors_. Wenn Sie nicht mit dem Erstellen eines Schemas vertraut sind, befolgen Sie bitte diese [Dokumentation](https://experienceleague.adobe.com/de/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
 * Fügen Sie Ihrem Schema die folgende Struktur hinzu. Das PreferredFinancialInstrument-Element speichert die Voreinstellungen des Benutzers für Aktien, Anleihen, CD. Die **__techmarketingdemos_**&#x200B;ist die Mandanten-ID und unterscheidet sich in Ihrer Umgebung.
   ![xdm-schema](assets/xdm-schema.png)
