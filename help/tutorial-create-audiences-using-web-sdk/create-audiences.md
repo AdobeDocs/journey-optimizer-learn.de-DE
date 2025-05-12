@@ -34,7 +34,7 @@ Zielgruppen in Adobe Experience Platform sind Benutzergruppen, die basierend auf
    * Kunden, die an CD interessiert sind
 
 
-* Stellen Sie sicher, dass die Auswertungsmethode für jede Zielgruppe auf _**Edge**_ für die Echtzeit-Qualifizierung festgelegt ist.
+* Stellen Sie sicher, dass die Auswertungsmethode für jede Zielgruppe auf _&#x200B;**Edge**&#x200B;_ für die Echtzeit-Qualifizierung festgelegt ist.
   ![edge-audience](assets/audience-edge.png)
 
 * Verwenden Sie das Feld PreferredFinancialInstrument , um Benutzer basierend auf ihren ausgewählten Anlagebetrieben wie Aktien, Anleihen oder CDs zu segmentieren
@@ -48,7 +48,7 @@ Zielgruppen in Adobe Experience Platform sind Benutzergruppen, die basierend auf
 
 >[!NOTE]
 >
->>Wenn das Feld PreferredFinancialInstrument nicht auf der Registerkarte Ereignisse angezeigt wird, klicken Sie auf das Einstellungssymbol und schalten Sie die Option Vollständiges XDM-Schema anzeigen um.
+>&#x200B;>Wenn das Feld PreferredFinancialInstrument nicht auf der Registerkarte Ereignisse angezeigt wird, klicken Sie auf das Einstellungssymbol und schalten Sie die Option Vollständiges XDM-Schema anzeigen um.
 
 
 
