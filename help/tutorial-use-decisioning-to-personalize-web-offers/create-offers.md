@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Ein Angebotselement in AJO stellt ein einzelnes Element personalisierten Inhalts dar. Inhalte können eine Promotion, Nachricht oder Empfehlung sein, die basierend auf der Entscheidungslogik an einen Benutzer gesendet wird.
 
-Wenn Sie ein Angebotselement in AJO erstellen, muss es auf einem [!UICONTROL Entscheidungsschema“ ]. Dieses Schema definiert die Struktur und die im Angebot verfügbaren Felder, z. B. Titel, Beschreibung, imageURL, offerText usw.
+Wenn Sie ein Angebotselement in AJO erstellen, muss es auf einem [!UICONTROL Entscheidungsschema“ &#x200B;]. Dieses Schema definiert die Struktur und die im Angebot verfügbaren Felder, z. B. Titel, Beschreibung, imageURL, offerText usw.
 
 Dieses Schema:
 
