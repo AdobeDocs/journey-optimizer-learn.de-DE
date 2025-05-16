@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: d705992a-0d47-4bb9-b3d8-b925974e64cb
-source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
+source-git-commit: 502cdc41b666959141ff4dfc63608cc463009811
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '232'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Ein Angebotselement in AJO stellt ein einzelnes Element personalisierten Inhalts dar. Inhalte können eine Promotion, Nachricht oder Empfehlung sein, die basierend auf der Entscheidungslogik an einen Benutzer gesendet wird.
 
-Wenn Sie ein Angebotselement in AJO erstellen, muss es auf einem [!UICONTROL Entscheidungsschema“ &#x200B;]. Dieses Schema definiert die Struktur und die im Angebot verfügbaren Felder, z. B. Titel, Beschreibung, imageURL, offerText usw.
+Wenn Sie ein Angebotselement in AJO erstellen, muss es auf einem [!UICONTROL Entscheidungsschema“ ]. Dieses Schema definiert die Struktur und die im Angebot verfügbaren Felder, z. B. Titel, Beschreibung, imageURL, offerText usw.
 
 Dieses Schema:
 
@@ -46,7 +46,8 @@ Dieses Schema:
    Kopieren Sie für jedes Angebot den entsprechenden Angebotstext am Ende dieses Artikels und fügen Sie ihn in das entsprechende Angebotselement ein.
 
 1. Taggen Sie die Angebote mit dem im vorherigen Schritt erstellten Tag.
-
+1. Fügen Sie jedem Angebot eine entsprechende Zielgruppe hinzu.
+   ![offer-eligibility](assets/offer-eligibility.png)
 1. Genehmigen Sie die Angebote.
 
 Abgeschlossenes Angebot mit definierten Standard- und benutzerdefinierten Attributen:
