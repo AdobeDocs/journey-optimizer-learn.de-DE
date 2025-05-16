@@ -52,7 +52,7 @@ Fügen Sie ein Identitätsfeld **_crmid_** unter dem SystemIdentifier-Objekt hin
 * Erstellen Sie einen Datensatz mit dem **_FinWiseCustomerDataSetWithAnnualIncome_**, basierend auf dem **_FinWiseProfileSchema_**, der im vorherigen Schritt erstellt wurde
 
 * Navigieren Sie zu Verbindungen > Quellen > Lokales System
-* Wählen Sie **_Daten hinzufügen_** unter Lokaler Datei-Upload aus. Wählen Sie unbedingt _**FinWiseCustomerDataSetWithAnnualIncome**_ als Zieldatensatz aus.
+* Wählen Sie **_Daten hinzufügen_** unter Lokaler Datei-Upload aus. Wählen Sie unbedingt _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ als Zieldatensatz aus.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * Navigieren Sie zum nächsten Bildschirm. Laden Sie die [CSV-Datei](assets/sample_crm_data.csv) hoch und überprüfen Sie die Zuordnungen
   ![Zuordnungen](assets/mappings.png)
