@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Diese Tutorials konzentrieren sich auf die Verbesserung der Kundeninteraktion und Personalisierung durch die Verwendung von Echtzeit-Zielgruppenerstellung und personalisierter Entscheidungsfindung über Web-Formulare und Web-Seiten. Durch die Integration dieser leistungsstarken Techniken können Unternehmen sicherstellen, dass die richtige Botschaft zur richtigen Zeit die richtige Zielgruppe erreicht, was die Kundeninteraktion verbessert und personalisierte Marketing-Maßnahmen vorantreibt.
 
-1. [Erstellen von Zielgruppen mithilfe von Web SDK (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
+1. [Erstellen von Zielgruppen mithilfe von Web SDK (Tutorial)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
 
    Erfahren Sie mehr über:
 
@@ -27,7 +27,7 @@ Diese Tutorials konzentrieren sich auf die Verbesserung der Kundeninteraktion un
    * Benutzer basierend auf ihrer Auswahl automatisch nach bestimmten Zielgruppen sortieren.
 
 
-2. [Verwenden von Decisioning zur Personalisierung von Web-Angeboten (Tutorial)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+2. [Verwenden von Decisioning zur Personalisierung von Web-Angeboten (Tutorial)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 
 Erfahren Sie, wie Sie auf der Grundlage des ersten Tutorials mit einem zentralisierten Katalog von Marketing-Angeboten und einer intelligenten Entscheidungs-Engine jeder Person die relevantesten Angebote anzeigen können.
 
