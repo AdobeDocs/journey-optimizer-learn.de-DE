@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie in Adobe Journey Optimizer einen anderen SMS-Anbieter als 
 
 Weitere [ finden Sie unter „Konfigurieren eines benutzerdefinierten SMS](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom)Anbieters“.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431625/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443615/?learn=on&enablevpops&captions=ger)
