@@ -6,10 +6,10 @@ role: Admin
 level: Beginner, Experienced
 doc-type: Feature Video
 duration: 341
-last-substantial-update: 2024-07-26T00:00:00Z
+last-substantial-update: 2025-05-23T00:00:00Z
 jira: KT-15886
 exl-id: 7278a99e-4553-4cd1-8830-350c85d5926b
-source-git-commit: 4af02be4b6b309befbea1e92bd8dab28fde74d1c
+source-git-commit: b9c5266601f5b1bec4bef0fa066c6e3140d0a114
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 9%
@@ -20,6 +20,6 @@ ht-degree: 9%
 
 Erfahren Sie, wie Sie in Adobe Journey Optimizer einen anderen SMS-Anbieter als Sinch, Twilio oder Infobip konfigurieren, API-Anmeldeinformationen und Webhooks für eingehende Nachrichten einrichten, Opt-in-/Opt-out-Keywords verwalten und personalisierte SMS-Kampagnen mit nativen Tools und benutzerdefinierten Payloads starten.
 
-Weitere [ finden Sie unter „Konfigurieren eines benutzerdefinierten SMS](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom)Anbieters“.
+Weitere [ finden Sie unter „Konfigurieren eines benutzerdefinierten SMS](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom)Anbieters“.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443615/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3431625/?learn=on&enablevpops)
