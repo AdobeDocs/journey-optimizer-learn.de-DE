@@ -22,7 +22,7 @@ In diesem Anwendungsbeispiel wird gezeigt, wie mithilfe von Benutzerattributen w
 
 Dieses Tutorial baut auf den wichtigsten Konzepten von Adobe Journey Optimizer und Adobe Experience Platform auf. Bevor Sie fortfahren, stellen Sie sicher, dass die folgenden Voraussetzungen erfüllt sind:
 
-* [Das Tutorial zum Identitätszuordnen](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction) wurde abgeschlossen. CRM-IDs wurden erfolgreich mit ECIDs in Adobe Experience Platform verknüpft.
+* [Das Tutorial zum Identitätszuordnen](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction) wurde abgeschlossen. CRM-IDs wurden erfolgreich mit ECIDs in Adobe Experience Platform verknüpft.
 
 * vertraut mit dem Erstellen von Angebotselementen in AJO, einschließlich Inhaltsdefinition, Metadateneinrichtung und Eignungsregeln.
 
