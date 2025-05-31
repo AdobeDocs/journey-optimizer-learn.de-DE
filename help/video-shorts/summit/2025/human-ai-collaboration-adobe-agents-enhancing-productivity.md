@@ -20,4 +20,4 @@ ht-degree: 0%
 Erfahren Sie, wie Adobe-Agenten mit Fachleuten zusammenarbeiten, um umsetzbare Einblicke zu liefern, Workflows zu optimieren und Herausforderungen proaktiv in Echtzeit zu bewältigen.
 
 <!-- 62_S653_3442539_98_humanai-collaboration-adobe-agents-enhancing-productivity -->
->[!VIDEO](https://video.tv.adobe.com/v/3458189/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460406/?learn=on&enablevpops=true&captions=ger)

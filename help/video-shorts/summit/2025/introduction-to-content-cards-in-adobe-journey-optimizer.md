@@ -20,4 +20,4 @@ ht-degree: 0%
 Erfahren Sie, wie Inhaltskarten in Adobe Journey Optimizer personalisierte und ansprechende Inhalte direkt in Ihrer Mobile App bereitstellen können.
 
 <!-- 62_S603_3442534_62_introduction-to-content-cards-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458206/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460395/?learn=on&enablevpops=true&captions=ger)

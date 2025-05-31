@@ -20,4 +20,4 @@ ht-degree: 0%
 Erfahren Sie, wie Sie Streaming-Segmente optimieren und die Journey-Arbeitsfläche für die Entscheidungsfindung verwenden können, ohne Ihr System zu überlasten.
 
 <!-- 62_S522_3442522_52_streamlining-journey-segments-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3458244/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460462/?learn=on&enablevpops=true&captions=ger)

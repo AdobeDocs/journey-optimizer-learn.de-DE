@@ -20,4 +20,4 @@ ht-degree: 0%
 Erfahren Sie, wie Adobe Journey Optimizer KI und maschinelles Lernen für die nächstbesten Aktionen, die Journey-Optimierung und die Entscheidungsfindung nutzt, um personalisierte Kundenerlebnisse bereitzustellen.
 
 <!-- 62_S520_3442520_184_aipowered-decisioning-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458219/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460273/?learn=on&enablevpops=true&captions=ger)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Entdecken Sie die wichtigsten Gründe für die Erstellung von Adobe Journey Optimizer und wie Marken damit konsistente, personalisierte Kundenerlebnisse in Echtzeit kanalübergreifend bereitstellen können.
 
 <!-- 62_S520_3442520_84_why-adobe-built-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458179/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460506/?learn=on&enablevpops=true&captions=ger)

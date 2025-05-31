@@ -20,4 +20,4 @@ ht-degree: 0%
 Erfahren Sie, wie die Audience Agent in Adobe Journey Optimizer den Zustand der Zielgruppe proaktiv überwacht, Probleme identifiziert und praktische Lösungen zur Verbesserung der Interaktion vorschlägt.
 
 <!-- 62_S653_3442539_203_audience-agent-proactive-monitoring-and-optimization -->
->[!VIDEO](https://video.tv.adobe.com/v/3458192/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460284/?learn=on&enablevpops=true&captions=ger)

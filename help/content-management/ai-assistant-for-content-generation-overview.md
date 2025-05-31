@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie der KI-Assistent für die Inhaltsgenerierung Marketing-Fachleuten helfen kann, indem er proaktiv Vorschläge zur Variation von Text- und Bildinhalten bereitstellt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432686/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463109/?learn=on&captions=ger)

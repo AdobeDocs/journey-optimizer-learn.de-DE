@@ -24,4 +24,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Adobe Experience Manager (AEM) nahtlos mit Adobe Journey Optimizer integriert wird, um das Content-Management zu optimieren und die Markenkonsistenz kanalübergreifend sicherzustellen. Erfahren Sie, wie Sie Inhaltsfragmente erstellen, genehmigen und rendern sowie mühelos neue Inhalte austauschen und simulieren. Ideal für alle, die effizientes Content-Management und konsistentes Branding wünschen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457691/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463131/?learn=on&enablevpops&captions=ger)

@@ -20,4 +20,4 @@ ht-degree: 0%
 Hier erhalten Sie eine Vorschau auf bevorstehende Funktionen für Inhaltskarten, einschließlich neuer Vorlagen, Nachrichten-Posteingänge und mehr.
 
 <!-- 62_S603_3442534_83_future-enhancements-for-content-cards -->
->[!VIDEO](https://video.tv.adobe.com/v/3458202/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460329/?learn=on&enablevpops=true&captions=ger)

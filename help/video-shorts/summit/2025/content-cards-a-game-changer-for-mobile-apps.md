@@ -20,4 +20,4 @@ ht-degree: 0%
 Erfahren Sie, wie Inhaltskarten in Adobe Journey Optimizer personalisierte, störungsfreie Inhalte direkt in Ihrer App bereitstellen können, um Interaktion und Konversionen zu fördern.
 
 <!-- 62_S603_3442534_58_content-cards-a-gamechanger-for-mobile-apps -->
->[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460095/?learn=on&enablevpops=true&captions=ger)

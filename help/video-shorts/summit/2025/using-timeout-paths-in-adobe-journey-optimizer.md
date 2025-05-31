@@ -20,4 +20,4 @@ ht-degree: 0%
 Erfahren Sie, wie Sie Zeitüberschreitungen und Fehler in Adobe Journey Optimizer handhaben können, indem Sie Zeitüberschreitungspfade einrichten, damit Profile auf ihrem Journey bewegt werden.
 
 <!-- 62_S522_3442522_36_using-timeout-paths-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458213/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460483/?learn=on&enablevpops=true&captions=ger)
