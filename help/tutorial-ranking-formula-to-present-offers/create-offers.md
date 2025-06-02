@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: 7dd49746-bea6-4679-9d88-d8f9d2aa5b52
+source-git-commit: fb0ef6d502c6e3ba37ef528683a8888ed83f2990
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen von standortbasierten Angeboten mit Postleitzahl-Targeting
 
@@ -73,12 +73,9 @@ Der Angebotstext für das generische Angebot ohne mit dem Angebot verknüpfte Po
 </div>
 ```
 
-Gruppieren Sie diese Angebote in einer Sammlung namens **_GenericOffers_**
+Gruppieren Sie diese Angebote in einer Sammlung **einkommensbezogene Angebote**
 
 Die Angebote stehen allen Besuchern zur Verfügung, d. h. es gibt keine strengen Eignungsbegrenzungen. Anschließend wird die Rangfolgenformel wichtig, um anhand des Profilkontexts zu bestimmen, welches Angebot angezeigt werden soll.
 Da die Eignungsregeln die Angebote nicht filtern, werden alle drei als Kandidaten behandelt.
 Die Auswahlstrategie ruft alle drei ab.
 Die Rangfolgeformel bewertet sie anhand von Profilattributen (wie Postleitzahl und Jahreseinkommen), um das beste auszuwählen.
-
-
-

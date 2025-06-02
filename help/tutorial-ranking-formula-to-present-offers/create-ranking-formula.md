@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: eee1b86e-b33f-408e-9faf-90317bc5e861
+source-git-commit: 69868d1f303fa0c67530b3343a678a850a8e493b
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # Rangfolgeformel erstellen
 
@@ -31,35 +31,34 @@ Ein Kriterium in einer Rangfolgenformel bezieht sich auf eine bedingte Regel, di
 
 
 Kriterium 1
-![criteria_one](assets/criteria1.png)
 
-Kriterium 1 umfasst drei Kriterien:
-
-* Angebot._techmarketingdemos.offerDetails.zipCode == „92128“ - prüft die mit dem Angebot verknüpfte Postleitzahl.
-
-* _techmarketingdemos.zipCode == „92128“ - Prüft die Postleitzahl im Profil des Benutzers.
-
-* _techmarketingdemos.annualIncome > 100000 - prüft das Einkommensniveau aus dem Benutzerprofil.
-
-Wenn alle diese Kriterien erfüllt sind, erhält das Angebot die Bewertung 40.
+Diese Bedingung filtert Entscheidungselemente (Angebote), **nur die Angebote** enthalten, die mit „IncomeLevel“ getaggt sind.
+Diese gefilterten Angebote werden dann mit dem nächsten Schritt fortgefahren - z. B. mit der Rangfolge oder dem Versand -, basierend auf der von Ihnen definierten zusätzlichen Logik.
+![criteria_one](assets/income-related-formula.png)
 
 
+Der folgende Ausdruck wird verwendet, um die Rangfolgenbewertung zu erstellen
+
+```pql
+if(   offer._techmarketingdemos.offerDetails.zipCode = _techmarketingdemos.zipCode,   _techmarketingdemos.annualIncome / 1000 + 10000,   if(     not offer._techmarketingdemos.offerDetails.zipCode,     _techmarketingdemos.annualIncome / 1000,     -9999   ) )
+```
+
+Funktionsweise der Formel
+
+* Wenn das Angebot dieselbe Postleitzahl wie der Benutzer hat, weisen Sie ihm eine sehr hohe Punktzahl zu, damit es zuerst ausgewählt wird.
+
+* Wenn das Angebot überhaupt keine Postleitzahl hat (es handelt sich um ein allgemeines Angebot), geben Sie ihm eine normale Punktzahl, die auf dem Einkommen des Benutzers basiert.
+
+* Wenn das Angebot eine andere Postleitzahl hat als der Benutzer, geben Sie ihm eine sehr niedrige Punktzahl, damit es nicht ausgewählt wird.
+
+Auf diese Weise wird das System:
+
+* versucht immer zuerst, ein Angebot anzuzeigen, das einer Postleitzahl entspricht,
+
+* Fällt auf ein allgemeines Angebot zurück, wenn keine Übereinstimmung gefunden wird, und vermeidet die Anzeige von Angeboten, die für andere Postleitzahlen vorgesehen sind.
 
 
-
-
-Kriterium 2
-![criteria_two](assets/criteria2.png)
-
-Kriterium 2 umfasst drei Kriterien:
-
-* Angebot._techmarketingdemos.offerDetails.zipCode == „92126“ - prüft die mit dem Angebot verknüpfte Postleitzahl.
-
-* _techmarketingdemos.zipCode == „92126“ - Prüft die Postleitzahl im Profil des Benutzers.
-
-* _techmarketingdemos.annualIncome &lt; 100000 - Prüft das Einkommensniveau des Benutzerprofils.
-
-Wenn alle diese Kriterien erfüllt sind, erhält das Angebot eine Bewertung von 30.
+Wenn ein Angebotselement keines der Filterkriterien erfüllt (z. B. wenn es nicht das Tag „IncomeLevel“ hat), erhält das Angebot standardmäßig einen Ranking-Wert von 10.
 
 
 

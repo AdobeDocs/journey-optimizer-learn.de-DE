@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
+source-git-commit: 666d25d1ed06ab76331d197a1677731516f73d7c
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '607'
 ht-degree: 1%
 
 ---
-
 
 # Erstellen einer Kampagne
 
@@ -88,11 +88,14 @@ Diese Einstellung verwendet die ECID als primäre Identität zum Erkennen von Be
      Ein Logikausdruck, der jedes geeignete Angebot bewertet. Das Angebot mit der höchsten Punktzahl wird im personalisierten Erlebnis gerendert.
 
 
+6. **Entscheidungsrichtlinie einfügen**
 
-6. **Veröffentlichen Sie die Kampagne**\
+   ![personalization-editor](assets/personalization-editor.png)
+
+   Der Handlebars-Code durchläuft die von einer bestimmten Entscheidungsrichtlinie in Adobe Journey Optimizer zurückgegebenen Angebote und erstellt für jedes Angebot eine `<div>`. Jeder `<div>` verwendet ein data-tags-Attribut mit dem internen Namen des Angebots, um die Karussellgruppe zu unterstützen und Angebote nach Kategorie zu organisieren, um eine reibungslose Navigation zu ermöglichen. Der Inhalt in jedem `<div>` zeigt den personalisierten Angebotstext an und ermöglicht eine dynamische und visuell segmentierte Präsentation mehrerer Angebote.
+
+
+7. **Veröffentlichen Sie die Kampagne**\
    Aktivieren Sie die Kampagne, um personalisierte Angebote in Echtzeit bereitzustellen.
 
-
-
-
-
+![img](assets/personalization-editor.png)
