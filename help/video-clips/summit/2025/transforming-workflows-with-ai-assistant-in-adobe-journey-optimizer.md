@@ -20,4 +20,4 @@ ht-degree: 0%
 Erfahren Sie, wie der KI-Assistent in Adobe Journey Optimizer Workflows revolutioniert, indem er sofortige Dateneinblicke und Fehlerbehebungsfunktionen bereitstellt und so Stunden manuellen Arbeitsaufwands spart.
 
 <!-- 65_S653_3442539_33_transforming-workflows-with-ai-assistant-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458195/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460447/?learn=on&enablevpops=true&captions=ger)

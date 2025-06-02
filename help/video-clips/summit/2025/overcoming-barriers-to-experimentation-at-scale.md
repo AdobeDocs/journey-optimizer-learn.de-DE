@@ -20,4 +20,4 @@ ht-degree: 0%
 Erfahren Sie, wie Adobe mithilfe plattformgesteuerter Lösungen wichtige Hindernisse für die Skalierung von Experimenten - von der Idee bis zur Ausführung - identifiziert und beseitigt hat.
 
 <!-- 62_S531_3442531_165_overcoming-barriers-to-experimentation-at-scale -->
->[!VIDEO](https://video.tv.adobe.com/v/3458237/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460384/?learn=on&enablevpops=true&captions=ger)
