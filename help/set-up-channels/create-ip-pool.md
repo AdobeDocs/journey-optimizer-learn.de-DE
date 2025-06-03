@@ -20,4 +20,4 @@ ht-degree: 19%
 
 Erfahren Sie, wie Sie einen IP-Pool erstellen, um die Reputation Ihrer Absender zu schützen und die Zustellbarkeit von E-Mails zu verbessern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463145/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463258/?learn=on&enablevpops&captions=ger)
