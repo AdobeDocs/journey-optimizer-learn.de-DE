@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 7bc03eeca746ff5ee9394263e26b3585a1647c71
+source-git-commit: d33da3a0df7b9ab8d3d9e69db485ce382b9ce63f
 workflow-type: tm+mt
-source-wordcount: '739'
-ht-degree: 98%
+source-wordcount: '756'
+ht-degree: 96%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 98%
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Anwendungsfall-Playbooks {#use-case-playbooks}
-   + [Übersicht](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [Playbook-Sandbox konfigurieren](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [Erstellen und Veröffentlichen von Playbook-Instanzen](http://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [Übersicht](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [Playbook-Sandbox konfigurieren](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [Erstellen und Veröffentlichen von Playbook-Instanzen](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Einführung in Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer – Überblick](/help/introduction/journey-optimizer-overview.md)
    + [Einführung in Journey Optimizer](/help/introduction/introduction.md)
@@ -164,13 +164,18 @@ ht-degree: 98%
 + Konfiguration {#configuration}
    + Konfigurieren von Kanälen {#channel-configuration}
       + [Konfigurieren von Kanälen](/help/set-up-channels/configure-channels.md)
-      + [Anleitung zur Kanaleinrichtung](/help/set-up-channels/guided-channel-setup.md)
-      + [Einrichten des E-Mail-Kanals](/help/set-up-channels/set-up-email-channel.md)
-      + [Delegieren von CName-Subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
-      + [Einrichten und Ausführen eines IP-Aufwärmplans](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-      + [Konfigurieren von SMS-API-Anmeldedaten und Kanaloberflächen](/help/set-up-channels/set-up-sms-channel.md)
-      + [Konfigurieren eines benutzerdefinierten SMS-Anbieters](/help/set-up-channels/configure-custom-sms-provider.md)
-      + [Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + E-Mail-Kanal {#email-channel}
+         + [Erstellen eines IP-Pools](/help/set-up-channels/create-ip-pool.md)
+         + [Einrichten einer Subdomain](/help/set-up-channels/set-up-subdomain.md)
+         + [Delegieren von CName-Subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
+         + [Einrichten des E-Mail-Kanals](/help/set-up-channels/set-up-email-channel.md)
+         + [Einrichten und Ausführen eines IP-Aufwärmplans](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
+      + SMS-/MMS-Kanal {#sms-mms-channel}
+         + [Konfigurieren von SMS-API-Anmeldedaten und Kanaloberflächen](/help/set-up-channels/set-up-sms-channel.md)
+         + [Konfigurieren eines benutzerdefinierten SMS-Anbieters](/help/set-up-channels/configure-custom-sms-provider.md)
+         + [Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + Web- und Mobile-Kanäle {#web-and-mobile-channels}
+         + [Anleitung zur Kanaleinrichtung](/help/set-up-channels/guided-channel-setup.md)
    + Konfigurieren von Journeys {#journey-configuration}
       + [Konfigurieren von Datenquellen](/help/set-up-journeys/configure-data-sources.md)
       + [Ereignisse erstellen](/help/set-up-journeys/create-events.md)
