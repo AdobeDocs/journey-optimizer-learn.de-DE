@@ -21,7 +21,7 @@ ht-degree: 36%
 Mit Sammlungen können Entscheidungselemente nach den eigenen Vorstellungen kategorisiert und gruppiert werden. Diese Kategorien werden durch das Verfassen von Regeln erstellt, die die Attribute von Entscheidungselementen nutzen.
 
 1. Melden Sie sich bei Journey Optimizer an.
-1. Klicken Sie auf **** > **[!UICONTROL Kataloge]** > **[!UICONTROL Sammlungen]** > **[!UICONTROL Sammlung erstellen]**.
+1. Klicken Sie auf **&#x200B;**&#x200B;> **[!UICONTROL Kataloge]** > **[!UICONTROL Sammlungen]** > **[!UICONTROL Sammlung erstellen]**.
 1. Geben Sie den Sammlungsnamen und die Sammlungsregeln an, wie im folgenden Screenshot gezeigt.
 
    ![create-collection](assets/fin-wise-collection.png)
