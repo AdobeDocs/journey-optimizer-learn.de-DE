@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: d33da3a0df7b9ab8d3d9e69db485ce382b9ce63f
+source-git-commit: 6aa071d253ed1c84fc827d1fce884dc8e646807c
 workflow-type: tm+mt
-source-wordcount: '756'
-ht-degree: 96%
+source-wordcount: '762'
+ht-degree: 95%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 96%
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Anwendungsfall-Playbooks {#use-case-playbooks}
-   + [Übersicht](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [Playbook-Sandbox konfigurieren](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [Erstellen und Veröffentlichen von Playbook-Instanzen](http://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [Übersicht](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [Playbook-Sandbox konfigurieren](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [Erstellen und Veröffentlichen von Playbook-Instanzen](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Einführung in Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer – Überblick](/help/introduction/journey-optimizer-overview.md)
    + [Einführung in Journey Optimizer](/help/introduction/introduction.md)
@@ -52,6 +52,7 @@ ht-degree: 96%
    + [Aktualisieren von Inhalten in einer Live-Journey](/help/create-journeys/update-content-in-live-journey.md)
    + [Kopieren einer Journey in eine andere Sandbox](/help/create-journeys/copy-a-journey.md)
    + [Auslösen täglicher Journey-Ausführungen nach der Batch-Segmentierung](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+   + [Fehlerbehebung bei eingehenden Aktionen in Journey](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
    + Konflikt-Management {#conflict-management}
       + [Identifizieren potenzieller Konflikte](/help/create-journeys/identify-potential-conflicts.md)
 + Profile, Zielgruppen und Abonnements {#profiles-audiences-subscriptions}
