@@ -6,9 +6,10 @@ role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
-source-git-commit: 461906416a976ef9a9dea4fdb583b853b4fe61c7
+source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 6%
@@ -48,7 +49,7 @@ Fügen Sie ein Identitätsfeld **_crmid_** unter dem SystemIdentifier-Objekt hin
 * Erstellen Sie einen Datensatz mit dem **_FinWiseCustomerDataSetWithAnnualIncome_**, basierend auf dem **_FinWiseProfileSchema_**, der im vorherigen Schritt erstellt wurde
 
 * Navigieren Sie zu Verbindungen > Quellen > Lokales System
-* Wählen Sie **_Daten hinzufügen_** unter Lokaler Datei-Upload aus. Wählen Sie unbedingt _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ als Zieldatensatz aus.
+* Wählen Sie **_Daten hinzufügen_** unter Lokaler Datei-Upload aus. Wählen Sie unbedingt _**FinWiseCustomerDataSetWithAnnualIncome**_ als Zieldatensatz aus.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * Navigieren Sie zum nächsten Bildschirm. Laden Sie die [CSV-Datei](assets/finwise_profiles.csv) hoch und überprüfen Sie die Zuordnungen
   ![Zuordnungen](assets/mappings.png)
