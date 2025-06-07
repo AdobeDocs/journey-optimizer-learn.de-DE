@@ -22,4 +22,4 @@ Entdecken Sie, wie Sie potenzielle Konflikte identifizieren und verwalten könne
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
 
-Weitere Informationen finden Sie in der Produktdokumentation zum Thema [Erkennung potenzieller Konflikte in Journey und Kampagnen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/conflicts).
+Weitere Informationen finden Sie in der Produktdokumentation zum Thema [Erkennung potenzieller Konflikte in Journey und Kampagnen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/conflict-prioritization/conflicts).
