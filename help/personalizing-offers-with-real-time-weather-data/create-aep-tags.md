@@ -23,7 +23,7 @@ In [ Video wird der Prozess der Erstellung von Adobe Experience Tags beschrieben
 
 * Bei Datenerfassung anmelden
 * Klicken Sie auf Tags > Neue Eigenschaft .
-* Erstellen Sie ein Adobe Experience Platform-Tag _**Personalisierung bei Wetter**_.
+* Erstellen Sie ein Adobe Experience Platform-Tag _&#x200B;**Personalisierung bei Wetter**&#x200B;_.
 
 * Fügen Sie die folgenden Erweiterungen zum -Tag hinzu
   ![tags-extensions](assets/tags-extensions1.png)

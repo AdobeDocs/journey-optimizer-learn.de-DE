@@ -78,16 +78,16 @@ Diese Einstellung verwendet die ECID als primäre Identität zum Erkennen von Be
 
    Die Aktion ist mit einer **Entscheidungsrichtlinie“ verknüpft** die definiert, wie Angebote ausgewählt und wie viele Angebote zur Anzeige zurückgegeben werden. Diese Richtlinie verwendet eine **Auswahlstrategie** die zuvor im Tutorial erstellt wurde.
 
-   Um die Entscheidungsrichtlinie einzufügen, klicken Sie in den _**Aktionen auf**_ Inhalt bearbeiten und anschließend auf **_Code bearbeiten_**, um den Personalisierungseditor zu öffnen.
+   Um die Entscheidungsrichtlinie einzufügen, klicken Sie in den _&#x200B;**Aktionen auf**&#x200B;_ Inhalt bearbeiten und anschließend auf **_Code bearbeiten_**, um den Personalisierungseditor zu öffnen.
 
-   Wählen Sie _**Symbol**_ Entscheidungsrichtlinie“ auf der linken Seite aus und klicken Sie auf die Schaltfläche **Entscheidungsrichtlinie hinzufügen**, um den Bildschirm **Entscheidungsrichtlinie erstellen** zu öffnen. Geben Sie der Entscheidungsrichtlinie einen aussagekräftigen Namen und wählen Sie die Anzahl der Elemente aus, die die Entscheidungsrichtlinie zurückgeben soll. Der Standardwert ist 1.
+   Wählen Sie _&#x200B;**Symbol**&#x200B;_ Entscheidungsrichtlinie“ auf der linken Seite aus und klicken Sie auf die Schaltfläche **Entscheidungsrichtlinie hinzufügen**, um den Bildschirm **Entscheidungsrichtlinie erstellen** zu öffnen. Geben Sie der Entscheidungsrichtlinie einen aussagekräftigen Namen und wählen Sie die Anzahl der Elemente aus, die die Entscheidungsrichtlinie zurückgeben soll. Der Standardwert ist 1.
 Klicken Sie **_Weiter_**, fügen Sie die im vorherigen Schritt erstellte Auswahlstrategie zur Entscheidungsrichtlinie hinzu und klicken Sie auf **Weiter**, um den Prozess der Erstellung der Entscheidungsrichtlinie abzuschließen. Wählen Sie unbedingt das entsprechende Fallback-Angebot aus.
 
 6. **Entscheidungsrichtlinie einfügen**
 
    ![personalization-editor](assets/personalization-editor.png)
 
-   Fügen Sie die neu erstellte Entscheidungsrichtlinie ein, indem Sie auf die Schaltfläche _**Richtlinie einfügen**_ klicken. Dadurch wird eine for-Schleife im Personalisierungseditor auf der rechten Seite eingefügt.
+   Fügen Sie die neu erstellte Entscheidungsrichtlinie ein, indem Sie auf die Schaltfläche _&#x200B;**Richtlinie einfügen**&#x200B;_ klicken. Dadurch wird eine for-Schleife im Personalisierungseditor auf der rechten Seite eingefügt.
 Platzieren Sie den Cursor zwischen den einzelnen Schleifen in Zeile zwei und fügen Sie den offerText ein, indem Sie durch Drilldown des `tenant name` zum Angebot navigieren
 
 

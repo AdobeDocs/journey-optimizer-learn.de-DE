@@ -39,7 +39,7 @@ Ein **Datensatz in Adobe Experience Platform (AEP)** ist ein strukturierter Spei
 
 
 * Daten-Management -> Datensätze -> Datensatz erstellen
-* Erstellen Sie einen Datensatz mit dem Namen **_weather-schema-dataset_** basierend auf dem im vorherigen Schritt erstellten XDM _**Schema (**_ weather-schema).
+* Erstellen Sie einen Datensatz mit dem Namen **_weather-schema-dataset_** basierend auf dem im vorherigen Schritt erstellten XDM _&#x200B;**Schema (**&#x200B;_ weather-schema).
 
 
 ## Erstellen eines Datenstroms
