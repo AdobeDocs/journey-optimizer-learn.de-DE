@@ -23,7 +23,7 @@ So erstellen Sie eine Auswahlstrategie
 
 * Bei Journey Optimizer anmelden
 
-* Navigieren Sie _**Entscheidungsfindung -> Strategie einrichten -> Auswahlstrategien -> Auswahlstrategie erstellen**_
+* Navigieren Sie _&#x200B;**Entscheidungsfindung -> Strategie einrichten -> Auswahlstrategien -> Auswahlstrategie erstellen**&#x200B;_
 
 * Geben Sie den Namen der Auswahlstrategie, die Sammlung, die Eignung und die Rangfolgenmethode an, wie im Screenshot gezeigt
 

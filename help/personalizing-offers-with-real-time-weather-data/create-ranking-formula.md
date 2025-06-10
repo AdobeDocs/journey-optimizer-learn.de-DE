@@ -21,9 +21,9 @@ Eine Rangfolgenformel in Adobe Journey Optimizer wird bei der Angebotsentscheidu
 
 * Bei Journey Optimizer anmelden
 
-* Navigieren Sie _**Entscheidungsfindung -> Strategie einrichten -> Rangfolgenformeln -> Formel erstellen**_
+* Navigieren Sie _&#x200B;**Entscheidungsfindung -> Strategie einrichten -> Rangfolgenformeln -> Formel erstellen**&#x200B;_
 
-Benennen Sie die Formel _**Wetter - Verwandt - Angebote**_
+Benennen Sie die Formel _&#x200B;**Wetter - Verwandt - Angebote**&#x200B;_
 
 
 
