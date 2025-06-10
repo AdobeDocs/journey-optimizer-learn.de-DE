@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '221'
 ht-degree: 1%
 
 ---
@@ -18,8 +18,27 @@ ht-degree: 1%
 
 Die Verwendung wetterbezogener Daten in Adobe Journey Optimizer (AJO) zur Bereitstellung von Angeboten ermöglicht es Unternehmen, Kundenerlebnisse auf der Grundlage realer, in Echtzeit vorhandener Umgebungsbedingungen zu personalisieren. Das Wetter ist ein starkes, kontextuelles Signal. Bedürfnisse und Verhalten der Menschen ändern sich je nach Wetter. Durch Verwendung von Wetterdaten:
 
-    Liefern Sie relevante Angebote, die der Stimmung und Umgebung der Kunden entsprechen.
-    
-    An heißen Tagen ein Angebot für kalte Getränke oder AC-Einheiten anzeigen. Werben Sie an einem regnerischen Tag für Jacken oder Regenschirme
+Bereitstellen relevanter Angebote, die der Stimmung und Umgebung der Kunden entsprechen
+
+Zeigen Sie an einem heißen Tag ein Angebot für kalte Getränke oder AC-Einheiten an. An regnerischen Tagen Jacken oder Regenschirme fördern
+
+Beispiel für ein wetterbasiertes Angebot
+
 
 ![weather-offers](assets/offers-use-case.png)
+
+
+
+## Voraussetzungen für dieses Tutorial
+
+* Zugriff auf Experience Platform
+
+* Grundlegendes zu Adobe Experience Platform Tags
+
+* Grundlegendes zu Experience Platform-Konzepten (Profile, Audiences, Datensätze)
+
+* Vertrautheit mit Journey Optimizer
+
+* Grundlegende JavaScript-Kenntnisse (Lesen und Schreiben einfacher Funktionen)
+
+* Möglichkeit zur Verwendung von Browser-DevTools (Konsolen- und Netzwerk-Registerkarten)
