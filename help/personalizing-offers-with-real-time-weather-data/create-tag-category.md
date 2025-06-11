@@ -23,7 +23,7 @@ Mit Sammlungen können Entscheidungselemente nach den eigenen Vorstellungen kate
 Schritte zum Erstellen einer Sammlung
 
 * Bei Journey Optimizer anmelden
-* Navigieren Sie zu _**Tags ->Tag-Kategorie erstellen**_(_**WeatherRelatedOffers**_)
+* Navigieren Sie zu _&#x200B;**Tags ->Tag-Kategorie erstellen**&#x200B;_(_&#x200B;**WeatherRelatedOffers**&#x200B;_)
 * Klicken Sie auf Speichern .
-* Klicken Sie auf Tags erstellen (heiß, kalt, Frühling). Diese Tags sollten sich in der Tag _**Kategorie „WeatherRelatedOffers**_ befinden
+* Klicken Sie auf Tags erstellen (heiß, kalt, Frühling). Diese Tags sollten sich in der Tag _&#x200B;**Kategorie „WeatherRelatedOffers**&#x200B;_ befinden
 

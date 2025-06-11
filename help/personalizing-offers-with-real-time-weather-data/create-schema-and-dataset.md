@@ -24,7 +24,7 @@ Um Adobe Experience Platform Web SDK (Alloy.js) auf einer Web-Seite zu verwenden
 So erstellen Sie ein XDM-Schema
 
 * Bei Adobe Experience Platform anmelden
-* Navigieren Sie zu _**Daten-Management > Schemata > Schema erstellen**_
+* Navigieren Sie zu _&#x200B;**Daten-Management > Schemata > Schema erstellen**&#x200B;_
 
 * Erstellen Sie ein XDM-ereignisbasiertes Schema mit dem Namen **_Weather-Schema_**. Wenn Sie nicht mit dem Erstellen eines Schemas vertraut sind, befolgen Sie bitte diese [Dokumentation](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)
 
@@ -37,15 +37,15 @@ So erstellen Sie ein XDM-Schema
 
 Ein **Datensatz in Adobe Experience Platform (AEP)** ist ein strukturierter Speicher-Container, mit dem Daten basierend auf einem definierten XDM-Schema aufgenommen, gespeichert und aktiviert werden.
 
-* Navigieren Sie zu _**Daten-Management > Datensätze > Datensatz erstellen**_
-* Erstellen Sie einen Datensatz mit dem Namen **_weather-schema-dataset_** basierend auf dem im vorherigen Schritt erstellten XDM _**Schema (**_ weather-schema).
+* Navigieren Sie zu _&#x200B;**Daten-Management > Datensätze > Datensatz erstellen**&#x200B;_
+* Erstellen Sie einen Datensatz mit dem Namen **_weather-schema-dataset_** basierend auf dem im vorherigen Schritt erstellten XDM _&#x200B;**Schema (**&#x200B;_ weather-schema).
 
 
 ## Erstellen eines Datenstroms
 
 Ein Datenstrom in Adobe Experience Platform ist wie eine sichere Pipeline (oder Autobahn), die Ihre Website oder Ihr Programm mit Adobe-Services verbindet und es Ihnen ermöglicht, Daten einzufließen und personalisierte Inhalte zurückzufließen.
 
-* Navigieren Sie zu _**Datenerfassung > Datenströme**_ und klicken Sie dann auf Neuer Datenstrom. Benennen des Datenstroms **wetterbezogener Datenstrom**
+* Navigieren Sie zu _&#x200B;**Datenerfassung > Datenströme**&#x200B;_ und klicken Sie dann auf Neuer Datenstrom. Benennen des Datenstroms **wetterbezogener Datenstrom**
 
 
 * Geben Sie die folgenden Details an, wie im folgenden Screenshot gezeigt
