@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 1%
@@ -20,7 +20,7 @@ Die Verwendung wetterbezogener Daten in Adobe Journey Optimizer (AJO) zur Bereit
 
 Bereitstellen relevanter Angebote, die der Stimmung und Umgebung der Kunden entsprechen
 
-Zeigen Sie an einem heißen Tag ein Angebot für kalte Getränke oder AC-Einheiten an. An regnerischen Tagen Jacken oder Regenschirme fördern
+Zeigen Sie an einem heißen Tag ein Angebot für kalte Getränke oder AC-Einheiten an. Werben Sie an einem regnerischen Tag für Jacken oder Regenschirme
 
 Beispiel für ein wetterbasiertes Angebot
 
@@ -31,14 +31,14 @@ Beispiel für ein wetterbasiertes Angebot
 
 ## Voraussetzungen für dieses Tutorial
 
-* Zugriff auf Experience Platform
+* Zugriff auf Experience Platform.
 
-* Grundlegendes zu Adobe Experience Platform Tags
+* Grundlegende Informationen zu Adobe Experience Platform Tags.
 
-* Grundlegendes zu Experience Platform-Konzepten (Profile, Audiences, Datensätze)
+* Grundlegende Kenntnisse zu Experience Platform-Konzepten (Profile, Zielgruppen, Datensätze).
 
 * Vertrautheit mit Journey Optimizer
 
-* Grundlegende JavaScript-Kenntnisse (Lesen und Schreiben einfacher Funktionen)
+* Grundlegende JavaScript-Kenntnisse (Lesen und Schreiben einfacher Funktionen).
 
-* Möglichkeit zur Verwendung von Browser-DevTools (Konsolen- und Netzwerk-Registerkarten)
+* Möglichkeit zur Verwendung von Browser-DevTools (Konsolen- und Netzwerk-Registerkarten).
