@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie eingehende Aktionen priorisieren und sicherstellen können
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
 
-Weitere Informationen zu [Journey-Begrenzung und Schlichtung](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping) finden Sie in der Produktdokumentation .
+Weitere Informationen zu [Journey-Begrenzung und Schlichtung](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping) finden Sie in der Produktdokumentation .
