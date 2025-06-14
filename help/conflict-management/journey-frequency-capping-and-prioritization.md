@@ -8,9 +8,9 @@ doc-type: Feature Video
 duration: 274
 last-substantial-update: 2025-06-07T00:00:00Z
 jira: KT-18267
-source-git-commit: cd99fb618d94e507b7d6dfd8810a275287eb96df
+source-git-commit: dfe947bd40b787ac6e3e1a6f3e2c4c9f25791a1d
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie eingehende Aktionen priorisieren und sicherstellen können, dass Inhalte mit der höchsten Priorität an einen Kunden gesendet werden, wenn er für mehrere eingehende Aktionen mit derselben Kanalkonfiguration qualifiziert ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447624/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
 
-Weitere Informationen zu [Journey-Begrenzung und Schlichtung](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping) finden Sie in der Produktdokumentation .
+Weitere Informationen zu [Journey-Begrenzung und Schlichtung](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping) finden Sie in der Produktdokumentation .
