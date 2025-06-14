@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie eingehende Aktionen priorisieren und sicherstellen können
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435529/?learn=on&enablevpops)
 
-Weitere Informationen finden Sie in der Produktdokumentation zum Thema [Zuweisen von Prioritätswerten zu Journey und ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/priority-scores)&quot;.
+Weitere Informationen finden Sie in der Produktdokumentation zum Thema [Zuweisen von Prioritätswerten zu Journey und ](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/conflict-prioritization/priority-scores)&quot;.
