@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie in Adobe Journey Optimizer eine Subdomain für Ihren E-Mail-Kanal einrichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3458490/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463234/?learn=on&enablevpops&captions=ger)
