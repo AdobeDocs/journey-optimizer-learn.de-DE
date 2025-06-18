@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: b237731f00ee1ec979edaf566ac932221ef3552f
+source-git-commit: 7bd4e66d31fb4182ded4ad14f8f9f426b5051019
 workflow-type: tm+mt
-source-wordcount: '822'
+source-wordcount: '823'
 ht-degree: 93%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 93%
 + Anwendungsfälle {#use-cases}
    + [Onboarding von Kundinnen und Kunden](/help/use-cases/customer-onboarding.md)
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
-   + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe von Web SDK](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Verwenden Sie die Rangfolgenformel, um in Journey Optimizer personalisierte Angebote bereitzustellen](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe von Web SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [Verwenden Sie die Rangfolgenformel, um in Journey Optimizer personalisierte Angebote bereitzustellen](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Anwendungsfall-Playbooks {#use-case-playbooks}
@@ -71,7 +71,7 @@ ht-degree: 93%
    + [Mobile-App-Optimierung – Überblick](/help/channels/mobile-app-optimization-overview.md)
    + Code-basierter Erlebniskanal{#code-based-experience-channel}
       + [Erstellen einer Code-basierte Erlebniskampagne](/help/channels/create-a-code-based-experience-campaign.md)
-      + [Hinzufügen bearbeitbarer Felder zu Code-basierten Erlebnisvorlagen](/help/channels/editable-fields-in-code-based-experiences.md)
+      + [Hinzufügen von Formularfeldern zu Code-basierten Experience Channel-Vorlagen](/help/channels/form-fields-in-code-based-experiences.md)
       + [Verwenden von Entscheidungsfindung im Code-basierten Kanal](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Direkt-Mail-Kanal{#direct-mail-channel}
       + [Erstellen einer Direkt-Mail](/help/channels/direct-mail.md)
@@ -139,8 +139,8 @@ ht-degree: 93%
       + [Einführung in die Entscheidungsfindung](/help/decisioning/introduction-to-decisioning.md)
       + [Anleitung für die Entscheidungsfindung](/help/decisioning/decisioning-end-to-end.md)
       + [Navigieren in der Formel-Builder-Benutzeroberfläche](/help/decisioning/formula-builder-ui.md)
-      + [Angebote mit Echtzeit-Wetterdaten personalisieren](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [Verwenden Sie die Rangfolgenformel, um personalisierte Angebote bereitzustellen](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [Angebote mit Echtzeit-Wetterdaten personalisieren](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [Verwenden Sie die Rangfolgenformel, um personalisierte Angebote bereitzustellen](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
 
 
    + Entscheidungs-Management {#decision-management}
