@@ -1,5 +1,5 @@
 ---
-title: Hinzufügen von Formularfeldern zu Code-basierten Experience Channel-Vorlagen
+title: Hinzufügen von Formularfeldern zu Code-basierten Erlebniskanalvorlagen
 description: Entdecken Sie, wie Entwickler die Zusammenarbeit mit Marketing-Teams optimieren können, indem sie bearbeitbare Felder in Code-basierten Erlebniskanälen aktivieren. Erfahren Sie, wie Sie bearbeitbare JSON- und HTML-Felder in Inhaltsvorlagen definieren, damit Marketing-Experten Kampagnenelemente wie Titel und Beschreibungen aktualisieren können, ohne Code zu berühren. Erfahren Sie, wie eingebettete Entscheidungsrichtlinien die Personalisierung direkt in Vorlagen verbessern, indem sie die Effizienz steigern, Fehler reduzieren und die Kampagnenbereitstellung beschleunigen.
 feature: Code-based Experiences
 role: Developer
@@ -10,7 +10,7 @@ last-substantial-update: 2025-06-17T00:00:00Z
 jira: KT-18362
 hidefromtoc: false
 hide: false
-source-git-commit: 7bd4e66d31fb4182ded4ad14f8f9f426b5051019
+source-git-commit: cbc906146f595623281a1cbe66e8a4dbd7a65800
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -18,10 +18,10 @@ ht-degree: 0%
 ---
 
 
-# Hinzufügen von Formularfeldern zu Code-basierten Experience Channel-Vorlagen
+# Hinzufügen von Formularfeldern zu Code-basierten Erlebniskanalvorlagen
 
 Entdecken Sie, wie Entwickler die Zusammenarbeit mit Marketing-Teams optimieren können, indem sie bearbeitbare Felder in Code-basierten Erlebniskanälen aktivieren. Erfahren Sie, wie Sie bearbeitbare JSON- und HTML-Felder in Inhaltsvorlagen definieren, damit Marketing-Experten Kampagnenelemente wie Titel und Beschreibungen aktualisieren können, ohne Code zu berühren. Erfahren Sie, wie eingebettete Entscheidungsrichtlinien die Personalisierung direkt in Vorlagen verbessern, indem sie die Effizienz steigern, Fehler reduzieren und die Kampagnenbereitstellung beschleunigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464000/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3463990/?learn=on&enablevpops)
 
 Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields).
