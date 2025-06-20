@@ -9,10 +9,10 @@ last-substantial-update: 2025-05-05T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17728
 exl-id: a48a3702-4d66-467b-a7ec-9d91b81b771d
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 09c69d341e71af641febd74d319c28af1932ecec
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 7%
+source-wordcount: '138'
+ht-degree: 6%
 
 ---
 
@@ -22,6 +22,8 @@ In Adobe Journey Optimizer (AJO) dient eine Kampagne als Container, der alle Ele
 
 1. Melden Sie sich bei Journey Optimizer an.
 1. Klicken Sie auf **[!UICONTROL Journey-]** > **[!UICONTROL Kampagnen]** > **[!UICONTROL Kampagne erstellen]** > **[!UICONTROL Marketing planen]**.
+1. Geben Sie der Kampagne einen aussagekräftigen Namen
+1. Navigieren Sie zur Registerkarte _**Aktion**_ .
 1. Wählen **[!UICONTROL die Aktion]** Code-basiertes Erlebnis“ und dann die im vorherigen Schritt erstellte Konfiguration aus.
 1. Klicken Sie auf **[!UICONTROL Inhalt bearbeiten]**.
 
