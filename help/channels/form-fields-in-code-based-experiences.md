@@ -24,4 +24,4 @@ Entdecken Sie, wie Entwickler die Zusammenarbeit mit Marketing-Teams optimieren 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464000/?learn=on&enablevpops&captions=ger)
 
-Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields).
+Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields).
