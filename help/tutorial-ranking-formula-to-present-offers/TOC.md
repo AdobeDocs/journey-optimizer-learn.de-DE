@@ -6,10 +6,10 @@ level: Beginner
 breadcrumb-title: personalize-offers-with-ranking-forms-based-on-user-zip-code-and-come
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
 auto-video-transcripts: true
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: b9feb65fb7af8fb495f81841ab9235e4ae80ecd7
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 20%
+source-wordcount: '72'
+ht-degree: 19%
 
 ---
 
@@ -21,4 +21,5 @@ ht-degree: 20%
 + [Erstellen einer Rangfolgenformel](./create-ranking-formula.md)
 + [Erstellen einer Auswahlstrategie](./selection-strategy.md)
 + [Erstellen einer Kampagne](./create-campaign.md)
++ [Bearbeitbares Feld erstellen](./editable-fields.md)
 + [Erstellen einer Web-Seite](./display-offers.md)

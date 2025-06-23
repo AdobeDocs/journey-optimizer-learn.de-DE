@@ -9,10 +9,10 @@ last-substantial-update: 2025-05-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18188
 exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
-source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
+source-git-commit: 640faaf9a316b2ab3e2e7774b2c30612cf1b1dbe
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 1%
+source-wordcount: '710'
+ht-degree: 0%
 
 ---
 
@@ -38,15 +38,16 @@ Das Ergebnis ist ein maßgeschneiderter Satz von Angeboten, die als HTML-Inhalte
 1. **Erstellen einer Kanalkonfiguration**\
    Definieren, wo und wie die Angebote angezeigt werden (z. B. eine Web-Seite mit Code-basiertem Erlebnis).
    - Beim Journey Optimizer anmelden
-Navigieren Sie zu Administration > Kanäle > Kanalkonfiguration erstellen .
+Navigieren Sie zu _**Administration -> Kanäle -> Kanalkonfiguration erstellen**_
    - **Name**: `finwise-web-personalization`\
      Identifiziert diese Konfiguration für den personalisierten Web-Angebotsversand von FinWise.
+
+   - **Erlebnistyp**: `Code-based experience`\
+     Angebote werden nicht direkt in das DOM eingefügt. Stattdessen gibt AJO unformatierten HTML zurück, der mithilfe von benutzerdefiniertem JavaScript geparst wird.
 
    - **Platform**: `Web`\
      Speziell für Webbrowser. Es sind keine mobilen Kanäle aktiviert.
 
-   - **Erlebnistyp**: `Code-based experience`\
-     Angebote werden nicht direkt in das DOM eingefügt. Stattdessen gibt AJO unformatierten HTML zurück, der mithilfe von benutzerdefiniertem JavaScript geparst wird.
 
    - **Seiten-URL**: `http://localhost:3000/formula.html`\
      Der Kanal ist für eine bestimmte Testseite konfiguriert, die während der Entwicklung verwendet wird.
@@ -63,12 +64,14 @@ Navigieren Sie zu Administration > Kanäle > Kanalkonfiguration erstellen .
 
 
 3. **Aktion hinzufügen**\
-   Fügen Sie die Code-basierte Erlebnisaktion hinzu und verknüpfen Sie die Aktion mit einer zuvor erstellten Kanalkonfiguration.
+   Navigieren Sie zur _**Aktionen**_ Registerkarte
+Fügen Sie die Code-basierte Erlebnisaktion hinzu und verknüpfen Sie die Aktion mit einer zuvor erstellten Kanalkonfiguration.
 
 
 
 4. **Zielgruppe**\
-   Alle Besucher (Standard).
+   Navigieren Sie zur Registerkarte _**Zielgruppe**_ .
+Alle Besucher (Standard).
 
    Identitätstyp: ECID (Experience Cloud ID)
 Diese Einstellung verwendet die ECID als primäre Identität zum Erkennen von Benutzern. Wenn eine Identitätszuordnung vorgenommen wurde, wird die ECID mit der CRM-ID für Personalized Targeting verknüpft. Wählen Sie dafür eine Entscheidungsrichtlinie aus oder erstellen Sie eine, die die Angebotslogik definiert.
@@ -78,23 +81,26 @@ Diese Einstellung verwendet die ECID als primäre Identität zum Erkennen von Be
 
    Die Aktion ist mit einer **Entscheidungsrichtlinie“ verknüpft** die definiert, wie Angebote ausgewählt und wie viele Angebote zur Anzeige zurückgegeben werden. Diese Richtlinie verwendet eine **Auswahlstrategie** die zuvor im Tutorial erstellt wurde.
 
-   Um die Entscheidungsrichtlinie einzufügen, klicken Sie in den _&#x200B;**Aktionen auf**&#x200B;_ Inhalt bearbeiten und anschließend auf **_Code bearbeiten_**, um den Personalisierungseditor zu öffnen.
+   Um die Entscheidungsrichtlinie einzufügen, klicken Sie auf **_Inhalt bearbeiten_** auf der Registerkarte _**Aktionen**_ und dann auf **_Code bearbeiten_**, um den Personalisierungseditor zu öffnen.
 
-   Wählen Sie _&#x200B;**Symbol**&#x200B;_ Entscheidungsrichtlinie“ auf der linken Seite aus und klicken Sie auf die Schaltfläche **Entscheidungsrichtlinie hinzufügen**, um den Bildschirm **Entscheidungsrichtlinie erstellen** zu öffnen. Geben Sie der Entscheidungsrichtlinie einen aussagekräftigen Namen und wählen Sie die Anzahl der Elemente aus, die die Entscheidungsrichtlinie zurückgeben soll. Der Standardwert ist 1.
+   Wählen Sie _**Symbol**_ Entscheidungsrichtlinie“ auf der linken Seite aus und klicken Sie auf die Schaltfläche **Entscheidungsrichtlinie hinzufügen**, um den Bildschirm **Entscheidungsrichtlinie erstellen** zu öffnen. Geben Sie der Entscheidungsrichtlinie einen aussagekräftigen Namen und wählen Sie die Anzahl der Elemente aus, die die Entscheidungsrichtlinie zurückgeben soll. Der Standardwert ist 1.
 Klicken Sie **_Weiter_**, fügen Sie die im vorherigen Schritt erstellte Auswahlstrategie zur Entscheidungsrichtlinie hinzu und klicken Sie auf **Weiter**, um den Prozess der Erstellung der Entscheidungsrichtlinie abzuschließen. Wählen Sie unbedingt das entsprechende Fallback-Angebot aus.
 
 6. **Entscheidungsrichtlinie einfügen**
 
+   Fügen Sie die neu erstellte Entscheidungsrichtlinie ein, indem Sie auf die Schaltfläche _**Richtlinie einfügen**_ klicken. Dadurch wird eine for-Schleife im Personalisierungseditor auf der rechten Seite eingefügt.
+Platzieren Sie den Cursor zwischen den einzelnen Schleifen in Zeile zwei und fügen Sie den offerText ein, indem Sie durch Drilldown des `tenant name` zum Angebot navigieren
+
+   In den Personalisierungseditor eingefügte Entscheidungsrichtlinie
+
    ![personalization-editor](assets/personalization-editor.png)
 
-   Fügen Sie die neu erstellte Entscheidungsrichtlinie ein, indem Sie auf die Schaltfläche _&#x200B;**Richtlinie einfügen**&#x200B;_ klicken. Dadurch wird eine for-Schleife im Personalisierungseditor auf der rechten Seite eingefügt.
-Platzieren Sie den Cursor zwischen den einzelnen Schleifen in Zeile zwei und fügen Sie den offerText ein, indem Sie durch Drilldown des `tenant name` zum Angebot navigieren
 
 
    Der Handlebars-Code durchläuft die von einer bestimmten Entscheidungsrichtlinie in Adobe Journey Optimizer zurückgegebenen Angebote und erstellt für jedes Angebot eine `<div>`. Jeder `<div>` verwendet ein data-tags-Attribut mit dem internen Namen des Angebots, um die Karussellgruppe zu unterstützen und Angebote nach Kategorie zu organisieren, um eine reibungslose Navigation zu ermöglichen. Der Inhalt in jedem `<div>` zeigt den personalisierten Angebotstext an und ermöglicht eine dynamische und visuell segmentierte Präsentation mehrerer Angebote.
 
+7. **Speichern Sie die Kampagne**
 
-7. **Veröffentlichen Sie die Kampagne**\
-   Aktivieren Sie die Kampagne, um personalisierte Angebote in Echtzeit bereitzustellen.
+   Speichern Sie die Kampagne, indem Sie auf die Schaltfläche _**Zum Aktivieren überprüfen**_ klicken
 
-![img](assets/personalization-editor.png)
+
