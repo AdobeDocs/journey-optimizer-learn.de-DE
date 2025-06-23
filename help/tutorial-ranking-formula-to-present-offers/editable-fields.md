@@ -24,11 +24,11 @@ Dies ermöglicht schnelle Aktualisierungen und stellt die Einhaltung von Vorschr
 ## Einfügen eines bearbeitbaren Felds im Personalisierungseditor
 
 - Öffnen Sie die im vorherigen Schritt erstellte Kampagne.
-- Klicken Sie _**Kampagne ändern**_
-- Navigieren Sie zur Registerkarte _**Inhalt**_ .
-- Klicken Sie auf _**Code bearbeiten**_ und fügen Sie ein bearbeitbares Feld namens legalDisclaimer mit einem Standardwert mit der folgenden Syntax im Personalisierungseditor ein
+- Klicken Sie _&#x200B;**Kampagne ändern**&#x200B;_
+- Navigieren Sie zur Registerkarte _&#x200B;**Inhalt**&#x200B;_ .
+- Klicken Sie auf _&#x200B;**Code bearbeiten**&#x200B;_ und fügen Sie ein bearbeitbares Feld namens legalDisclaimer mit einem Standardwert mit der folgenden Syntax im Personalisierungseditor ein
 
-- 
+- &#x200B;
   <pre> {{#inline "legalDisclaimer" name="Legal Disclaimer"}} Haftungsausschluss ist hier {{/inline}} verfügbar  </pre>
 
 - <code>{{{legalDisclaimer}}} verwenden</code> Variable in der Vorlage, wie unten gezeigt

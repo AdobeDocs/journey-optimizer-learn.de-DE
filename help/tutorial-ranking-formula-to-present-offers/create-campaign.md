@@ -38,7 +38,7 @@ Das Ergebnis ist ein maßgeschneiderter Satz von Angeboten, die als HTML-Inhalte
 1. **Erstellen einer Kanalkonfiguration**\
    Definieren, wo und wie die Angebote angezeigt werden (z. B. eine Web-Seite mit Code-basiertem Erlebnis).
    - Beim Journey Optimizer anmelden
-Navigieren Sie zu _**Administration -> Kanäle -> Kanalkonfiguration erstellen**_
+Navigieren Sie zu _&#x200B;**Administration -> Kanäle -> Kanalkonfiguration erstellen**&#x200B;_
    - **Name**: `finwise-web-personalization`\
      Identifiziert diese Konfiguration für den personalisierten Web-Angebotsversand von FinWise.
 
@@ -64,13 +64,13 @@ Navigieren Sie zu _**Administration -> Kanäle -> Kanalkonfiguration erstellen**
 
 
 3. **Aktion hinzufügen**\
-   Navigieren Sie zur _**Aktionen**_ Registerkarte
+   Navigieren Sie zur _&#x200B;**Aktionen**&#x200B;_ Registerkarte
 Fügen Sie die Code-basierte Erlebnisaktion hinzu und verknüpfen Sie die Aktion mit einer zuvor erstellten Kanalkonfiguration.
 
 
 
 4. **Zielgruppe**\
-   Navigieren Sie zur Registerkarte _**Zielgruppe**_ .
+   Navigieren Sie zur Registerkarte _&#x200B;**Zielgruppe**&#x200B;_ .
 Alle Besucher (Standard).
 
    Identitätstyp: ECID (Experience Cloud ID)
@@ -81,14 +81,14 @@ Diese Einstellung verwendet die ECID als primäre Identität zum Erkennen von Be
 
    Die Aktion ist mit einer **Entscheidungsrichtlinie“ verknüpft** die definiert, wie Angebote ausgewählt und wie viele Angebote zur Anzeige zurückgegeben werden. Diese Richtlinie verwendet eine **Auswahlstrategie** die zuvor im Tutorial erstellt wurde.
 
-   Um die Entscheidungsrichtlinie einzufügen, klicken Sie auf **_Inhalt bearbeiten_** auf der Registerkarte _**Aktionen**_ und dann auf **_Code bearbeiten_**, um den Personalisierungseditor zu öffnen.
+   Um die Entscheidungsrichtlinie einzufügen, klicken Sie auf **_Inhalt bearbeiten_** auf der Registerkarte _&#x200B;**Aktionen**&#x200B;_ und dann auf **_Code bearbeiten_**, um den Personalisierungseditor zu öffnen.
 
-   Wählen Sie _**Symbol**_ Entscheidungsrichtlinie“ auf der linken Seite aus und klicken Sie auf die Schaltfläche **Entscheidungsrichtlinie hinzufügen**, um den Bildschirm **Entscheidungsrichtlinie erstellen** zu öffnen. Geben Sie der Entscheidungsrichtlinie einen aussagekräftigen Namen und wählen Sie die Anzahl der Elemente aus, die die Entscheidungsrichtlinie zurückgeben soll. Der Standardwert ist 1.
+   Wählen Sie _&#x200B;**Symbol**&#x200B;_ Entscheidungsrichtlinie“ auf der linken Seite aus und klicken Sie auf die Schaltfläche **Entscheidungsrichtlinie hinzufügen**, um den Bildschirm **Entscheidungsrichtlinie erstellen** zu öffnen. Geben Sie der Entscheidungsrichtlinie einen aussagekräftigen Namen und wählen Sie die Anzahl der Elemente aus, die die Entscheidungsrichtlinie zurückgeben soll. Der Standardwert ist 1.
 Klicken Sie **_Weiter_**, fügen Sie die im vorherigen Schritt erstellte Auswahlstrategie zur Entscheidungsrichtlinie hinzu und klicken Sie auf **Weiter**, um den Prozess der Erstellung der Entscheidungsrichtlinie abzuschließen. Wählen Sie unbedingt das entsprechende Fallback-Angebot aus.
 
 6. **Entscheidungsrichtlinie einfügen**
 
-   Fügen Sie die neu erstellte Entscheidungsrichtlinie ein, indem Sie auf die Schaltfläche _**Richtlinie einfügen**_ klicken. Dadurch wird eine for-Schleife im Personalisierungseditor auf der rechten Seite eingefügt.
+   Fügen Sie die neu erstellte Entscheidungsrichtlinie ein, indem Sie auf die Schaltfläche _&#x200B;**Richtlinie einfügen**&#x200B;_ klicken. Dadurch wird eine for-Schleife im Personalisierungseditor auf der rechten Seite eingefügt.
 Platzieren Sie den Cursor zwischen den einzelnen Schleifen in Zeile zwei und fügen Sie den offerText ein, indem Sie durch Drilldown des `tenant name` zum Angebot navigieren
 
    In den Personalisierungseditor eingefügte Entscheidungsrichtlinie
@@ -101,6 +101,6 @@ Platzieren Sie den Cursor zwischen den einzelnen Schleifen in Zeile zwei und fü
 
 7. **Speichern Sie die Kampagne**
 
-   Speichern Sie die Kampagne, indem Sie auf die Schaltfläche _**Zum Aktivieren überprüfen**_ klicken
+   Speichern Sie die Kampagne, indem Sie auf die Schaltfläche _&#x200B;**Zum Aktivieren überprüfen**&#x200B;_ klicken
 
 
