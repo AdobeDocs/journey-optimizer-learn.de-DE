@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: dfbf246c95cf89afebd7460361791d1c33aa9e6e
+source-git-commit: 3028f97274815d21de68793ed3ae42053ea393b1
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 93%
+source-wordcount: '830'
+ht-degree: 92%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 93%
 + Anwendungsfälle {#use-cases}
    + [Onboarding von Kundinnen und Kunden](/help/use-cases/customer-onboarding.md)
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
-   + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe von Web SDK](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Verwenden Sie die Rangfolgenformel, um in Journey Optimizer personalisierte Angebote bereitzustellen](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe von Web SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [Verwenden Sie die Rangfolgenformel, um in Journey Optimizer personalisierte Angebote bereitzustellen](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Anwendungsfall-Playbooks {#use-case-playbooks}
@@ -113,6 +113,7 @@ ht-degree: 93%
    + Arbeiten mit Fragmenten {#fragments}
       + [Verwalten von Fragmenten](/help/content-management/manage-fragments.md)
       + [Erstellen von Ausdrucksfragmenten](/help/content-management/expression-fragments.md)
+      + [Hinzufügen von Rich-Text zu einem bearbeitbaren Fragment](/help/content-management/add-rich-text-to-editable-fragments.md)
       + [Verwenden von AEM-Inhaltsfragmenten](/help/content-management/aem-content-fragments.md)
    + Inhaltsvorlagen{#content-templates}
       + [Erstellen von Inhaltsvorlagen](/help/content-management/templates/create-content-templates.md)
@@ -139,8 +140,8 @@ ht-degree: 93%
       + [Einführung in die Entscheidungsfindung](/help/decisioning/introduction-to-decisioning.md)
       + [Anleitung für die Entscheidungsfindung](/help/decisioning/decisioning-end-to-end.md)
       + [Navigieren in der Formel-Builder-Benutzeroberfläche](/help/decisioning/formula-builder-ui.md)
-      + [Angebote mit Echtzeit-Wetterdaten personalisieren](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [Verwenden Sie die Rangfolgenformel, um personalisierte Angebote bereitzustellen](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [Angebote mit Echtzeit-Wetterdaten personalisieren](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [Verwenden Sie die Rangfolgenformel, um personalisierte Angebote bereitzustellen](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
    + Entscheidungs-Management {#decision-management}
       + [Einführung in das Entscheidungs-Management](/help/decision-management/introduction-to-decision-management.md)
       + [Demo der Entscheidungs-Management-Funktionen](/help/decision-management/demo-of-decision-management-capabilities.md)
