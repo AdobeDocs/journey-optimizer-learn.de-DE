@@ -23,4 +23,4 @@ Erfahren Sie, wie Sie HTML-Komponenten in einem Fragment bearbeitbar machen, sod
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
 
-Weitere Informationen zu [ Funktion finden ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/fragments/customizable-fragments) in der Produktdokumentation .
+Weitere Informationen zu [ Funktion finden ](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/fragments/customizable-fragments) in der Produktdokumentation .
