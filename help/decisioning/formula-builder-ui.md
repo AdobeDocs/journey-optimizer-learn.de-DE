@@ -1,27 +1,27 @@
 ---
 title: Handbuch zur Formula Builder-Oberfläche in Adobe Journey Optimizer
-description: Exemplarische Vorgehensweise der Benutzeroberfläche von Formula Builder
+description: Erfahren Sie, wie Sie mit dem KI-Formel-Builder in Adobe Journey Optimizer benutzerdefinierte Angebots-Ranking-Strategien erstellen.
 feature: Decisioning
 topic: Integrations
 role: User
 level: Beginner
 doc-type: Feature Video
-duration: 186
-last-substantial-update: 2025-06-06T00:00:00Z
+duration: 282
+last-substantial-update: 2025-06-25T00:00:00Z
 jira: KT-17614
 thumbnail: KT-17614.jpeg
-source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
+exl-id: 0926ec17-7b6a-49be-95c1-059366cdaa81
+source-git-commit: 5139c3f3de9943eac4f63cba386c551aac4a804a
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Handbuch zur Formula Builder-Oberfläche in Adobe Journey Optimizer
 
-Der Formel-Builder in Adobe Journey Optimizer ist eine visuelle Oberfläche, mit der Rangfolgeformeln erstellt werden, die bestimmen, wie Angebote bei der Entscheidungsfindung priorisiert werden. Es ermöglicht es Marketing-Experten und Entwicklern, benutzerdefinierte Logik mithilfe von Profilattributen, kontextuellen Daten (wie Standort oder Wetter) und Angebotsmetadaten (wie Tags oder Beschriftungen) zu definieren. Formeln werden in Rangfolgestrategien verwendet, um jedem Angebot einen numerischen Wert zuzuweisen und so sicherzustellen, dass jedem Benutzer auf der Grundlage von Echtzeitdaten der relevanteste Inhalt bereitgestellt wird.
+Erfahren Sie, wie Sie mit dem KI-Formel-Builder in Adobe Journey Optimizer benutzerdefinierte Angebots-Ranking-Strategien erstellen.
 
+In dieser exemplarischen Vorgehensweise wird erläutert, wie Sie mit dem KI-Formel-Builder Modellbewertungen, Profil- und Angebotsdaten, kontextuelle Signale und Geschäftsregeln kombinieren können, um Entscheidungen zu personalisieren und Angebote basierend auf Ihren Marketing-Zielen zu priorisieren.
 
-In diesem Video erhalten Sie einen kurzen Überblick über die Benutzeroberfläche von Formula Builder.
-
->[!VIDEO](https://video.tv.adobe.com/v/3463748?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3464446/?learn=on&enablevpops){transcript=true}
