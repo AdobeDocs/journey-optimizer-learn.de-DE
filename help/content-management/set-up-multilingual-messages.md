@@ -11,9 +11,9 @@ jira: KT-14034
 thumbnail: KT-14034.jpeg
 exl-id: 59464ab1-dac2-4e68-9025-606d29d076f0
 source-git-commit: 7f22cccab99ca1ee8ff5d99fccdf4ae607440b1b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '106'
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Mit der Adobe Journey Optimizer-Funktion für mehrsprachige Nachrichten können 
 
 Erfahren Sie, wie Sie Übersetzungsprojekte für die automatisierte Übersetzung einrichten und welche Spracheinstellungen für die manuelle Übersetzung und automatisierte Übersetzungsprojekte für mehrsprachige Nachrichten erforderlich sind.
  
->[!VIDEO](https://video.tv.adobe.com/v/3453552/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3430661/?learn=on)
