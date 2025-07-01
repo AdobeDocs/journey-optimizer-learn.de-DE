@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
 source-git-commit: 3028f97274815d21de68793ed3ae42053ea393b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '830'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 92%
 + Anwendungsfälle {#use-cases}
    + [Onboarding von Kundinnen und Kunden](/help/use-cases/customer-onboarding.md)
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
-   + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe von Web SDK](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Verwenden Sie die Rangfolgenformel, um in Journey Optimizer personalisierte Angebote bereitzustellen](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe eines Web SDK](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten in Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Anwendungsfall-Playbooks {#use-case-playbooks}
@@ -113,7 +113,7 @@ ht-degree: 92%
    + Arbeiten mit Fragmenten {#fragments}
       + [Verwalten von Fragmenten](/help/content-management/manage-fragments.md)
       + [Erstellen von Ausdrucksfragmenten](/help/content-management/expression-fragments.md)
-      + [Hinzufügen von Rich-Text zu einem bearbeitbaren Fragment](/help/content-management/add-rich-text-to-editable-fragments.md)
+      + [Hinzufügen von Rich Text zu einem bearbeitbaren Fragment](/help/content-management/add-rich-text-to-editable-fragments.md)
       + [Verwenden von AEM-Inhaltsfragmenten](/help/content-management/aem-content-fragments.md)
    + Inhaltsvorlagen{#content-templates}
       + [Erstellen von Inhaltsvorlagen](/help/content-management/templates/create-content-templates.md)
@@ -140,8 +140,8 @@ ht-degree: 92%
       + [Einführung in die Entscheidungsfindung](/help/decisioning/introduction-to-decisioning.md)
       + [Anleitung für die Entscheidungsfindung](/help/decisioning/decisioning-end-to-end.md)
       + [Navigieren in der Formel-Builder-Benutzeroberfläche](/help/decisioning/formula-builder-ui.md)
-      + [Angebote mit Echtzeit-Wetterdaten personalisieren](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [Verwenden Sie die Rangfolgenformel, um personalisierte Angebote bereitzustellen](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
    + Entscheidungs-Management {#decision-management}
       + [Einführung in das Entscheidungs-Management](/help/decision-management/introduction-to-decision-management.md)
       + [Demo der Entscheidungs-Management-Funktionen](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -178,7 +178,7 @@ ht-degree: 92%
          + [Erstellen eines IP-Pools](/help/set-up-channels/create-ip-pool.md)
          + [Einrichten einer Subdomain](/help/set-up-channels/set-up-subdomain.md)
          + [Delegieren von CName-Subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
-         + [E-Mail-Kanal konfigurieren](/help/set-up-channels/configure-email-channel.md)
+         + [Konfigurieren eines E-Mail-Kanals](/help/set-up-channels/configure-email-channel.md)
          + [Einrichten und Ausführen eines IP-Aufwärmplans](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + SMS-/MMS-Kanal {#sms-mms-channel}
          + [Konfigurieren von SMS-API-Anmeldedaten und Kanaloberflächen](/help/set-up-channels/set-up-sms-channel.md)
