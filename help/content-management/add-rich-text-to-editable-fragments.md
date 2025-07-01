@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie HTML-Komponenten in einem Fragment bearbeitbar machen, sodass sowohl Inhalt als auch Stil dynamisch aktualisiert werden können. Sie erfahren, wie Sie Ihre HTML strukturieren, bearbeitbare Inline-Felder konfigurieren und mit Standardinhalten und CSS verbinden und wie Sie anschließend Ihre Änderungen in einer Live-Kampagnenumgebung testen und überprüfen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464377/?learn=on&enablevpops&captions=ger)
 
 In der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"} finden Sie weitere Informationen zu dieser Funktion.
