@@ -27,4 +27,4 @@ In diesem Tutorial wird die Journey-Dry-Run-Funktion in Adobe Journey Optimizer 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464681/?learn=on&enablevpops)
 
-Weitere Informationen zu dieser Funktion finden [ in ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run) Produktdokumentation.
+Weitere Informationen zu dieser Funktion finden [ in ](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run) Produktdokumentation.
