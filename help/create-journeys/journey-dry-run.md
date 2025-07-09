@@ -25,6 +25,6 @@ ht-degree: 0%
 
 In diesem Tutorial wird die Journey-Dry-Run-Funktion in Adobe Journey Optimizer vorgestellt, mit der Marketing-Experten Journey-Logik testen können, ohne echte Nachrichten zu senden. Sie erfahren, wie Sie eine Journey im Probelauf-Modus aktivieren, Optionen wie das Deaktivieren von Wartezeiten und externen Datenquellen konfigurieren und Profilflussmetriken interpretieren, um die Zielgruppensegmentierung und die Bedingungslogik zu überprüfen. Erfahren Sie, wie Sie Probleme identifizieren und beheben können - z. B. Tippfehler in Bedingungsknoten - und wie Sie vor dem Start der Journey-Live-Analyse auf Trockenlaufberichte zugreifen und diese exportieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464681/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464691/?learn=on&enablevpops&captions=ger)
 
 Weitere Informationen zu dieser Funktion finden [ in ](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run) Produktdokumentation.
