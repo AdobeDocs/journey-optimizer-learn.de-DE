@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 3028f97274815d21de68793ed3ae42053ea393b1
-workflow-type: ht
-source-wordcount: '830'
-ht-degree: 100%
+source-git-commit: cd7a4d88de8920e40631bcc391870333444f92f9
+workflow-type: tm+mt
+source-wordcount: '838'
+ht-degree: 99%
 
 ---
 
@@ -50,6 +50,7 @@ ht-degree: 100%
    + [Anwendungsfall: Zielgruppe lesen](/help/create-journeys/use-case-read-audience.md)
    + [Anwendungsfall: Zielgruppenqualifikation](/help/create-journeys/use-case-audience-qualification.md)
    + [Erstellen eines Testprofils](/help/create-journeys/test-a-journey.md)
+   + [Validieren der Journey-Logik mit Journey-Probelauf](/help/create-journeys/journey-dry-run.md)
    + [Veröffentlichen einer Journey](/help/create-journeys/publish-a-journey.md)
    + [Aktualisieren von Inhalten in einer Live-Journey](/help/create-journeys/update-content-in-live-journey.md)
    + [Kopieren einer Journey in eine andere Sandbox](/help/create-journeys/copy-a-journey.md)
