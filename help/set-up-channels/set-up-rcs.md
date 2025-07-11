@@ -23,4 +23,4 @@ Erfahren Sie, wie Sie gebrandete interaktive RCS-Nachrichten in Adobe Journey Op
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464755/?learn=on&enablevpops)
 
-Weitere Informationen zur [ von RCS finden Sie ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration) der Produktdokumentation.
+Weitere Informationen zur [ von RCS finden Sie ](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration) der Produktdokumentation.
