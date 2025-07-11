@@ -55,7 +55,7 @@ ht-degree: 97%
    + [Aktualisieren von Inhalten in einer Live-Journey](/help/create-journeys/update-content-in-live-journey.md)
    + [Kopieren einer Journey in eine andere Sandbox](/help/create-journeys/copy-a-journey.md)
    + [Auslösen täglicher Journey-Ausführungen nach der Batch-Segmentierung](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [Fehlerbehebung bei eingehenden Aktionen in Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
+   + [Fehlerbehebung bei eingehenden Aktionen in Journeys](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + Konflikt-Management {#conflict-management}
    + [Identifizieren potenzieller Konflikte](/help/conflict-management/identify-potential-conflicts.md)
    + [Zuweisen von Prioritätswerten](/help/conflict-management/assign-priority-score.md)
@@ -207,7 +207,7 @@ ht-degree: 97%
    + [Durchsetzen von Datennutzungsrichtlinien in Journey Optimizer-Kanälen](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Maskieren von Daten in Nachrichten](/help/privacy/mask-data-in-messages.md)
 + Übungen und Herausforderungen {#exercises-and-challenges}
-   + [Konfigurieren einer Trainings-Sandbox](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
+   + [Konfigurieren einer Trainings-Sandbox](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [Herausforderungen](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
 + [Live-Aufnahmen von Experience League](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
