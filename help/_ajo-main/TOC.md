@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: ea0c8ff52b1f21fc0ce77871c6b32af42775fad9
+source-git-commit: 14672bd5743c5fbadfc0e38308d82b6e7b6893dc
 workflow-type: tm+mt
-source-wordcount: '841'
+source-wordcount: '843'
 ht-degree: 98%
 
 ---
@@ -94,7 +94,7 @@ ht-degree: 98%
    + Push-Kanal{#push-channel}
       + [Push-Benachrichtigungen – Überblick](/help/channels/push-notifications-overview.md)
       + [Konfigurieren und Senden von Push-Kampagnen](/help/channels/create-a-push-campaign.md)
-   + SMS-Kanal{#sms-channel}
+   + SMS-/MMS-Kanal{#sms-channel}
       + [SMS-/MMS-Nachrichten – Überblick](/help/channels/sms-mms-messages-overview.md)
       + [Konfigurieren, Verfassen und Versenden von SMS-Nachrichten](/help/channels/author-sms-messages.md)
       + [Verfassen von MMS-Nachrichten](/help/channels/author-mms.md)
@@ -181,7 +181,7 @@ ht-degree: 98%
          + [Delegieren von CName-Subdomains](/help/set-up-channels/delegate-cname-subdomains.md)
          + [Konfigurieren eines E-Mail-Kanals](/help/set-up-channels/configure-email-channel.md)
          + [Einrichten und Ausführen eines IP-Aufwärmplans](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-      + SMS-/MMS-Kanal {#sms-mms-channel}
+      + SMS-/MMS-/RCS-Kanal {#sms-mms-channel}
          + [Konfigurieren von SMS-API-Anmeldedaten und Kanaloberflächen](/help/set-up-channels/set-up-sms-channel.md)
          + [Konfigurieren eines benutzerdefinierten SMS-Anbieters](/help/set-up-channels/configure-custom-sms-provider.md)
          + [Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
