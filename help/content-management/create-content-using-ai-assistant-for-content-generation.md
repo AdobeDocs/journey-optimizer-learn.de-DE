@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit dem KI-Assistenten für die Inhaltserstellung proaktive Vorschläge für Inhaltsvarianten für Text und Bilder generieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434644/?learn=on&captions=ger)
