@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: e1fac28df665a0ca6d25a7655f22bd1eb787b5e1
+source-git-commit: 032e1ac6bf969975e598f2a763cde94ba17856b0
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '849'
 ht-degree: 98%
 
 ---
@@ -52,10 +52,11 @@ ht-degree: 98%
    + [Erstellen eines Testprofils](/help/create-journeys/test-a-journey.md)
    + [Validieren der Journey-Logik mit einem Journey-Probelauf](/help/create-journeys/journey-dry-run.md)
    + [Veröffentlichen einer Journey](/help/create-journeys/publish-a-journey.md)
+   + [Journey-Wiedereintritt mit zusätzlichen IDs entsperren](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Aktualisieren von Inhalten in einer Live-Journey](/help/create-journeys/update-content-in-live-journey.md)
    + [Kopieren einer Journey in eine andere Sandbox](/help/create-journeys/copy-a-journey.md)
    + [Auslösen täglicher Journey-Ausführungen nach der Batch-Segmentierung](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [Fehlerbehebung bei eingehenden Aktionen in Journeys](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
+   + [Fehlerbehebung bei eingehenden Aktionen in Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + Konflikt-Management {#conflict-management}
    + [Identifizieren potenzieller Konflikte](/help/conflict-management/identify-potential-conflicts.md)
    + [Zuweisen von Prioritätswerten](/help/conflict-management/assign-priority-score.md)
@@ -207,7 +208,7 @@ ht-degree: 98%
    + [Durchsetzen von Datennutzungsrichtlinien in Journey Optimizer-Kanälen](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [Maskieren von Daten in Nachrichten](/help/privacy/mask-data-in-messages.md)
 + Übungen und Herausforderungen {#exercises-and-challenges}
-   + [Konfigurieren einer Trainings-Sandbox](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
+   + [Konfigurieren einer Trainings-Sandbox](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [Herausforderungen](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
 + [Live-Aufnahmen von Experience League](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
