@@ -24,4 +24,4 @@ In diesem Tutorial erfahren Sie, wie Sie eine zusätzliche Kennung in Adobe Jour
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
 
-Weitere Informationen zu zusätzlichen IDs finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).
+Weitere Informationen zu zusätzlichen IDs finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).
