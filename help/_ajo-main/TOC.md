@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
 source-git-commit: 032e1ac6bf969975e598f2a763cde94ba17856b0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '849'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 98%
    + [Erstellen eines Testprofils](/help/create-journeys/test-a-journey.md)
    + [Validieren der Journey-Logik mit einem Journey-Probelauf](/help/create-journeys/journey-dry-run.md)
    + [Veröffentlichen einer Journey](/help/create-journeys/publish-a-journey.md)
-   + [Journey-Wiedereintritt mit zusätzlichen IDs entsperren](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
+   + [Entsperren des erneuten Journey-Eintritts mit zusätzlichen IDs](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Aktualisieren von Inhalten in einer Live-Journey](/help/create-journeys/update-content-in-live-journey.md)
    + [Kopieren einer Journey in eine andere Sandbox](/help/create-journeys/copy-a-journey.md)
    + [Auslösen täglicher Journey-Ausführungen nach der Batch-Segmentierung](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
