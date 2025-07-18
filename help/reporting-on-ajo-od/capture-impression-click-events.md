@@ -20,7 +20,7 @@ ht-degree: 0%
 Um das Reporting zu AJO-Angebots-Impressionen und -Klicks zu aktivieren, müssen die folgenden Komponenten konfiguriert werden:
 >[!NOTE]
 >
-> Diese Voraussetzungen wurden bereits im Abschnitt Erstellen eines Schemas und Datensatzes des (vorherigen [) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
+> Diese Voraussetzungen wurden bereits im Abschnitt Erstellen eines Schemas und Datensatzes des (vorherigen [) ](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
 
 ## &#x200B;1. Datensatz in Adobe Experience Platform (AEP)
 
