@@ -8,9 +8,10 @@ doc-type: Tutorial
 last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: dac6b373226bd0be2533cf859e4f250018cf568b
+exl-id: 04fad076-e897-4831-9147-768721858a80
+source-git-commit: 29a20fe11dc6516f6fa15f7d7bf8948dd418aecd
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -19,16 +20,19 @@ ht-degree: 0%
 
 Adobe Experience Platform-Tags (ehemals Adobe Launch) helfen bei der Verwaltung und Bereitstellung von Marketing- und Analysetechnologien* auf Ihrer Website, ohne den Code der Website ändern zu müssen.
 
-In [ Video wird der Prozess der Erstellung von Adobe Experience Tags beschrieben](https://experienceleague.adobe.com/de/playlists/experience-platform-get-started-with-tags)
+In [ Video wird der Prozess der Erstellung von Adobe Experience Tags beschrieben](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
-* Bei Datenerfassung anmelden
-* Klicken Sie auf Tags > Neue Eigenschaft .
-* Erstellen Sie ein Adobe Experience Platform-Tag _&#x200B;**Personalisierung bei Wetter**&#x200B;_.
+- Bei Datenerfassung anmelden
+- Klicken Sie auf _**Tags > Neue Eigenschaft**_
 
-* Fügen Sie die folgenden Erweiterungen zum -Tag hinzu
+- Erstellen Sie ein Adobe Experience Platform-Tag _**Personalisierung bei Wetter**_.
+
+- Fügen Sie die folgenden Erweiterungen zum -Tag hinzu
   ![tags-extensions](assets/tags-extensions1.png)
+- Fügen Sie ein Datenelement mit dem Namen „ECID“ hinzu, wie unten dargestellt. Dieses Datenelement wird später im Reporting verwendet
+  ![ecid-data-element](assets/ecid-data-element.png)
 
-* Stellen Sie sicher, dass Sie Adobe Experience Platform Web SDK so konfigurieren, dass die richtige Umgebung und der **wetterbezogene Datenstrom** verwendet werden, die im vorherigen Schritt erstellt wurden.
+- Stellen Sie sicher, dass Sie Adobe Experience Platform Web SDK so konfigurieren, dass die richtige Umgebung und der **wetterbezogene Datenstrom** verwendet werden, die im vorherigen Schritt erstellt wurden.
   ![web-sdk-configuration](assets/tags-extensions.png)
 
 
@@ -55,8 +59,8 @@ Klicken Sie dann auf die Schaltfläche Speichern und in Entwicklung erstellen , 
 
 Wenn Sie eine AEP Tags-Eigenschaft veröffentlichen, erhalten Sie von Adobe ein Skript-Tag, das Sie in Ihrem HTML-``` <head>``` oder am Ende der ``` <body>``` Tags platzieren müssen.
 
-* Navigieren Sie zur Eigenschaft Tags (Personalisierung bei Wetter) .
+- Navigieren Sie zur Eigenschaft Tags (Personalisierung bei Wetter) .
 
-* Klicken Sie auf Umgebungen und dann auf das Symbol Installieren der gewünschten Umgebung (z. B. Entwicklung, Staging, Produktion).
+- Klicken Sie auf Umgebungen und dann auf das Symbol Installieren der gewünschten Umgebung (z. B. Entwicklung, Staging, Produktion).
 
-* Notieren Sie sich den eingebetteten Code. Dies ist in einer späteren Phase dieses Tutorials erforderlich.
+- Notieren Sie sich den eingebetteten Code. Dies ist in einer späteren Phase dieses Tutorials erforderlich.

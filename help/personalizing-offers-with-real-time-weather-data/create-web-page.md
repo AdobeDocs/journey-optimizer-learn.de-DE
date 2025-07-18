@@ -8,14 +8,45 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: a9fc14da78e1c67b01aef5dcdd417ce02d36d50a
+exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
+source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 1%
+source-wordcount: '418'
+ht-degree: 0%
 
 ---
 
 # Testen der Lösung
+
+Um die Lösung durchgängig zu testen, müssen die Dateien [weather-offers.html](assets/weather-offers.html) und [weather-related-offers-script.js](assets/weather-related-offers-script.js) auf einem Webserver oder einem öffentlichen Hosting-Service wie Github Pages gehostet werden. Dies ist aus folgenden Gründen erforderlich:
+- Die Geolocation-API des Browsers funktioniert nur über HTTPS oder localhost
+
+Um die Organisation beizubehalten und sicherzustellen, dass relative Pfade ordnungsgemäß funktionieren, empfehlen wir die folgende Ordnerstruktur für das Hosten der Lösung:
+
+![Ordnerstruktur](assets/folder-structure.png)
+
+## Herunterladen der bereitgestellten Dateien
+
+[HTML-Datei](assets/weather-offers.html)
+
+[JavaScript-Datei](assets/weather-related-offers-script.js)
+
+
+## Aktualisieren der Oberflächen-URL in der JavaScript-Datei
+
+Öffnen Sie die `weather-related-offers-script.js` und aktualisieren Sie die ` "web://yourdomain.com/weather/weather-offers.html#offerContainer"`, indem Sie `yourdomain.com` durch die eigentliche Domain ersetzen, in der die HTML-Datei gehostet wird.
+
+## Aktualisieren der Adobe Experience Platform Tags-Eigenschaft
+
+Öffnen Sie die Datei „weather-offers.html“ im Texteditor und ersetzen Sie das Skript-Tag durch das Skript-Tag Ihrer Adobe Experience Platform-Tag-Eigenschaft, das im vorherigen Schritt dieses Tutorials erstellt wurde. Speichern Sie die Datei
+
+```
+<script src="https://assets.adobedtm.com/AEM_TAGS/launch-ENabcd1234.min.js" async></script>
+```
+
+
+
+## Funktionsweise der Web-Seite
 
 Eine Web-Seite wird erstellt, um die kontextuelle Personalisierung von Angeboten mithilfe von Echtzeit-Temperaturdaten zu testen. Wenn eine Benutzerin oder ein Benutzer die Seite besucht, fordert der Browser zur Eingabe des Zugriffs auf die Geolokalisierung auf. Nach der Genehmigung ruft die Seite die aktuellen Wetterdetails - wie Temperatur, Bedingung und Ort - über die OpenWeatherMap-API ab. Diese kontextuellen Daten werden Benutzenden angezeigt und mithilfe der Adobe Web SDK (Alloy) an Adobe Experience Platform gesendet.
 
@@ -73,12 +104,4 @@ Die JavaScript ruft Wetterinformationen basierend auf dem Standort der Benutzeri
    Decodiert den HTML-Inhalt.
 
    fügt die Angebote dynamisch in die <div id="offerContainer"> Element.
-
-7. **Beispiel für Assets**
-
-   Die zum Testen der Lösung verwendete Webseite kann heruntergeladen werden
-
-[Web-Seite](assets/weather-offers.html)
-
-[JavaScript-Code](assets/weather-related-offers-script.js)
 

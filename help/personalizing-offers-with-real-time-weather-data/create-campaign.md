@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: c3e4f760-9b10-4a99-bc53-9245e76c1bab
-source-git-commit: 51707a64a5d05227b663fed5e0413b4d2ffee0a9
+source-git-commit: 95a8abd08fbf57900870826112b01a8cd375fe96
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '639'
 ht-degree: 1%
 
 ---
@@ -34,7 +34,7 @@ Wenn ein Benutzer die Website besucht, erkennt das System den Standort und ruft 
 - Erstellen einer Kanalkonfiguration
    - Definieren, wo und wie die Angebote angezeigt werden (z. B. eine Web-Seite mit Code-basiertem Erlebnis).
    - Beim Journey Optimizer anmelden
-   - Navigieren Sie zu _&#x200B;**Administration -> Kanäle -> Kanalkonfiguration erstellen**&#x200B;_
+   - Navigieren Sie zu _**Administration -> Kanäle -> Kanalkonfiguration erstellen**_
    - **Name**: `offers-by-weather`\
      Identifiziert diese Konfiguration für die Bereitstellung personalisierter Web-Angebote.
 - **channel**:
@@ -67,8 +67,8 @@ Diese Einstellung verwendet die ECID als primäre Identität zum Erkennen von Be
 
 - **Entscheidungsrichtlinie erstellen**
    - Die Aktion ist mit einer **Entscheidungsrichtlinie“ verknüpft** die definiert, wie Angebote ausgewählt und wie viele Angebote zur Anzeige zurückgegeben werden. Diese Richtlinie verwendet eine **Auswahlstrategie** die zuvor im Tutorial erstellt wurde.
-   - Um die Entscheidungsrichtlinie einzufügen, klicken Sie in den _&#x200B;**Aktionen auf**&#x200B;_ Inhalt bearbeiten und anschließend auf **_Code bearbeiten_**, um den Personalisierungseditor zu öffnen.
-   - Wählen Sie _&#x200B;**Symbol**&#x200B;_ Entscheidungsrichtlinie“ auf der linken Seite aus und klicken Sie auf die Schaltfläche **Entscheidungsrichtlinie hinzufügen**, um den Bildschirm **Entscheidungsrichtlinie erstellen** zu öffnen. Geben Sie der Entscheidungsrichtlinie einen aussagekräftigen Namen und wählen Sie die Anzahl der Elemente aus, die die Entscheidungsrichtlinie zurückgeben soll. Der Standardwert ist 1.
+   - Um die Entscheidungsrichtlinie einzufügen, klicken Sie in den **_Aktionen auf_** Inhalt bearbeiten und anschließend auf **_Code bearbeiten_**, um den Personalisierungseditor zu öffnen.
+   - Wählen Sie _**Symbol**_ Entscheidungsrichtlinie“ auf der linken Seite aus und klicken Sie auf die Schaltfläche **Entscheidungsrichtlinie hinzufügen**, um den Bildschirm **Entscheidungsrichtlinie erstellen** zu öffnen. Geben Sie der Entscheidungsrichtlinie einen aussagekräftigen Namen und wählen Sie die Anzahl der Elemente aus, die die Entscheidungsrichtlinie zurückgeben soll. Der Standardwert ist 1.
    - Klicken Sie **_Weiter_**, fügen Sie die im vorherigen Schritt erstellte Auswahlstrategie zur Entscheidungsrichtlinie hinzu und klicken Sie auf **Weiter**, um den Prozess der Erstellung der Entscheidungsrichtlinie abzuschließen. Es wurden keine Fallback-Angebote mit der Entscheidungsrichtlinie verknüpft.
 
 
@@ -76,11 +76,10 @@ Diese Einstellung verwendet die ECID als primäre Identität zum Erkennen von Be
 - **Entscheidungsrichtlinie einfügen**
   ![personalization-editor](assets/personalization-editor.png)
 
-  Fügen Sie die neu erstellte Entscheidungsrichtlinie ein, indem Sie auf die Schaltfläche _&#x200B;**Richtlinie einfügen**&#x200B;_ klicken. Dadurch wird eine for-Schleife im Personalisierungseditor auf der rechten Seite eingefügt.
-Platzieren Sie den Cursor zwischen den einzelnen Schleifen in Zeile zwei und fügen Sie den offerText ein, indem Sie durch Drilldown des `tenant name` zum Angebot navigieren
+  Fügen Sie die neu erstellte Entscheidungsrichtlinie ein, indem Sie auf die Schaltfläche _**Richtlinie einfügen**_ klicken. Dadurch wird eine for-Schleife im Personalisierungseditor auf der rechten Seite eingefügt.
+Platzieren Sie den Cursor zwischen den einzelnen Schleifen in Zeile zwei und fügen Sie den offerText ein, indem Sie durch Drilldown des `tenant name` zum Angebot navigieren. Schließen Sie das Angebot in ein Div mit dem Angebotselement der Klasse ein, wie im Screenshot gezeigt.
 
-  Der Handlebars-Code durchläuft die Angebote, die von einer bestimmten Entscheidungsrichtlinie in Adobe Journey Optimizer zurückgegeben werden.
-  ![Lenker](assets/handlebar-code.png)
+
 
 - **Veröffentlichen Sie die Kampagne**\
   Aktivieren Sie die Kampagne, um personalisierte Angebote in Echtzeit bereitzustellen.
