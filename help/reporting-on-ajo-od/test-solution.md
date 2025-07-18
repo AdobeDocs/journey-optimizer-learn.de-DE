@@ -42,7 +42,7 @@ Um die Lösung durchgängig zu testen, müssen die Dateien [weather-offers.html]
 
 - Öffnen Sie die Webseite in Ihrem bevorzugten Browser.
 
-- _**Standortverfolgung**_ zulassen. Dies ist erforderlich, um die Wetterdetails basierend auf Ihrem Standort zu erhalten.
+- _&#x200B;**Standortverfolgung**&#x200B;_ zulassen. Dies ist erforderlich, um die Wetterdetails basierend auf Ihrem Standort zu erhalten.
 
 - Klicken Sie auf die Schaltfläche im Ereignis Interaktionsangebote an Trigger .
 

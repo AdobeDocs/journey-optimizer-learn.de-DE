@@ -21,6 +21,6 @@ So starten Sie das Reporting-Setup für Adobe Journey Optimizer Offer Decisionin
 
 - Bei Journey Optimizer anmelden
 
-- Navigieren Sie _**Administration -> Konfigurationen -> Berichterstellung -> Verwalten -> Datensatz hinzufügen**_
-- Wählen Sie _**Wetter-Schema-Datensatz**_ aus, in dem die im vorherigen Tutorial generierten Angebots-Impressions- und Klickereignisse gespeichert werden.
+- Navigieren Sie _&#x200B;**Administration -> Konfigurationen -> Berichterstellung -> Verwalten -> Datensatz hinzufügen**&#x200B;_
+- Wählen Sie _&#x200B;**Wetter-Schema-Datensatz**&#x200B;_ aus, in dem die im vorherigen Tutorial generierten Angebots-Impressions- und Klickereignisse gespeichert werden.
 

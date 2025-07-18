@@ -34,7 +34,7 @@ Wenn ein Benutzer die Website besucht, erkennt das System den Standort und ruft 
 - Erstellen einer Kanalkonfiguration
    - Definieren, wo und wie die Angebote angezeigt werden (z. B. eine Web-Seite mit Code-basiertem Erlebnis).
    - Beim Journey Optimizer anmelden
-   - Navigieren Sie zu _**Administration -> Kanäle -> Kanalkonfiguration erstellen**_
+   - Navigieren Sie zu _&#x200B;**Administration -> Kanäle -> Kanalkonfiguration erstellen**&#x200B;_
    - **Name**: `offers-by-weather`\
      Identifiziert diese Konfiguration für die Bereitstellung personalisierter Web-Angebote.
 - **channel**:
@@ -68,7 +68,7 @@ Diese Einstellung verwendet die ECID als primäre Identität zum Erkennen von Be
 - **Entscheidungsrichtlinie erstellen**
    - Die Aktion ist mit einer **Entscheidungsrichtlinie“ verknüpft** die definiert, wie Angebote ausgewählt und wie viele Angebote zur Anzeige zurückgegeben werden. Diese Richtlinie verwendet eine **Auswahlstrategie** die zuvor im Tutorial erstellt wurde.
    - Um die Entscheidungsrichtlinie einzufügen, klicken Sie in den **_Aktionen auf_** Inhalt bearbeiten und anschließend auf **_Code bearbeiten_**, um den Personalisierungseditor zu öffnen.
-   - Wählen Sie _**Symbol**_ Entscheidungsrichtlinie“ auf der linken Seite aus und klicken Sie auf die Schaltfläche **Entscheidungsrichtlinie hinzufügen**, um den Bildschirm **Entscheidungsrichtlinie erstellen** zu öffnen. Geben Sie der Entscheidungsrichtlinie einen aussagekräftigen Namen und wählen Sie die Anzahl der Elemente aus, die die Entscheidungsrichtlinie zurückgeben soll. Der Standardwert ist 1.
+   - Wählen Sie _&#x200B;**Symbol**&#x200B;_ Entscheidungsrichtlinie“ auf der linken Seite aus und klicken Sie auf die Schaltfläche **Entscheidungsrichtlinie hinzufügen**, um den Bildschirm **Entscheidungsrichtlinie erstellen** zu öffnen. Geben Sie der Entscheidungsrichtlinie einen aussagekräftigen Namen und wählen Sie die Anzahl der Elemente aus, die die Entscheidungsrichtlinie zurückgeben soll. Der Standardwert ist 1.
    - Klicken Sie **_Weiter_**, fügen Sie die im vorherigen Schritt erstellte Auswahlstrategie zur Entscheidungsrichtlinie hinzu und klicken Sie auf **Weiter**, um den Prozess der Erstellung der Entscheidungsrichtlinie abzuschließen. Es wurden keine Fallback-Angebote mit der Entscheidungsrichtlinie verknüpft.
 
 
@@ -76,7 +76,7 @@ Diese Einstellung verwendet die ECID als primäre Identität zum Erkennen von Be
 - **Entscheidungsrichtlinie einfügen**
   ![personalization-editor](assets/personalization-editor.png)
 
-  Fügen Sie die neu erstellte Entscheidungsrichtlinie ein, indem Sie auf die Schaltfläche _**Richtlinie einfügen**_ klicken. Dadurch wird eine for-Schleife im Personalisierungseditor auf der rechten Seite eingefügt.
+  Fügen Sie die neu erstellte Entscheidungsrichtlinie ein, indem Sie auf die Schaltfläche _&#x200B;**Richtlinie einfügen**&#x200B;_ klicken. Dadurch wird eine for-Schleife im Personalisierungseditor auf der rechten Seite eingefügt.
 Platzieren Sie den Cursor zwischen den einzelnen Schleifen in Zeile zwei und fügen Sie den offerText ein, indem Sie durch Drilldown des `tenant name` zum Angebot navigieren. Schließen Sie das Angebot in ein Div mit dem Angebotselement der Klasse ein, wie im Screenshot gezeigt.
 
 

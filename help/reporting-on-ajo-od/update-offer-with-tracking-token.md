@@ -18,13 +18,13 @@ ht-degree: 0%
 
 Gehen Sie wie folgt vor, um den Code im Personalisierungseditor zu ändern:
 
-Navigieren Sie zur _**Journey-Verwaltung > Kampagnen**_
+Navigieren Sie zur _&#x200B;**Journey-Verwaltung > Kampagnen**&#x200B;_
 
-Öffnen Sie die entsprechende Kampagne und klicken Sie auf die Schaltfläche _**Kampagne stoppen**_, um die Kampagne zu stoppen.
+Öffnen Sie die entsprechende Kampagne und klicken Sie auf die Schaltfläche _&#x200B;**Kampagne stoppen**&#x200B;_, um die Kampagne zu stoppen.
 
-Öffnen Sie die gestoppte Kampagne und klicken Sie auf _**Schaltfläche Kampagne ändern**_.
+Öffnen Sie die gestoppte Kampagne und klicken Sie auf _&#x200B;**Schaltfläche Kampagne ändern**&#x200B;_.
 
-Klicken Sie auf _**Inhalt**_ und dann auf die Schaltfläche _**Code bearbeiten**_, um den Personalisierungseditor zu öffnen.
+Klicken Sie auf _&#x200B;**Inhalt**&#x200B;_ und dann auf die Schaltfläche _&#x200B;**Code bearbeiten**&#x200B;_, um den Personalisierungseditor zu öffnen.
 
 Fügen Sie dem div zwei neue Datenattribute hinzu, wie im Screenshot gezeigt
 ![tracking-token](assets/offer-item-with-tracking-code.png)
