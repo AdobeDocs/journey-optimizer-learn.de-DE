@@ -8,7 +8,8 @@ doc-type: Tutorial
 recommendations: noDisplay, noCatalog
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+exl-id: 5bff884b-17e2-4b86-affb-ea9cf3cc2a60
+source-git-commit: c2478bc3bde4c7770110a5672a0ffc425a117e62
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -19,8 +20,7 @@ ht-degree: 0%
 
 So starten Sie das Reporting-Setup für Adobe Journey Optimizer Offer Decisioning
 
-- Bei Journey Optimizer anmelden
+- Bei _**Journey Optimizer anmelden**_
 
-- Navigieren Sie _&#x200B;**Administration -> Konfigurationen -> Berichterstellung -> Verwalten -> Datensatz hinzufügen**&#x200B;_
-- Wählen Sie _&#x200B;**Wetter-Schema-Datensatz**&#x200B;_ aus, in dem die im vorherigen Tutorial generierten Angebots-Impressions- und Klickereignisse gespeichert werden.
-
+- Navigieren Sie _**Administration -> Konfigurationen -> Berichterstellung -> Verwalten -> Datensatz hinzufügen**_
+- Wählen Sie _**Wetter-Schema-Datensatz**_ aus, in dem die im vorherigen Tutorial generierten Angebots-Impressions- und Klickereignisse gespeichert werden.

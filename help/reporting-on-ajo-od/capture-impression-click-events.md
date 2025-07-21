@@ -8,19 +8,20 @@ doc-type: Tutorial
 recommendations: noDisplay, noCatalog
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 69bc8aace3cc502a18e691584824176833413c7e
+exl-id: 7e6014b5-c5a6-467b-8e31-58c5d966464c
+source-git-commit: ab60877bd5cb9eeeea45b1e1f08293d31929fc81
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
 
 # Erfassen von Impressions- und Interaktionsereignissen
 
-Um das Reporting zu AJO-Angebots-Impressionen und -Klicks zu aktivieren, müssen die folgenden Komponenten konfiguriert werden:
+Um das Reporting zu Angebotsimpressionen und Klicks aus AJO Decisioning zu aktivieren, müssen die folgenden Komponenten konfiguriert werden:
 >[!NOTE]
 >
-> Diese Voraussetzungen wurden bereits im Abschnitt Erstellen eines Schemas und Datensatzes des (vorherigen [) ](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
+> Diese Voraussetzungen wurden bereits im Abschnitt Erstellen eines Schemas und Datensatzes des (vorherigen [) ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)
 
 ## &#x200B;1. Datensatz in Adobe Experience Platform (AEP)
 
