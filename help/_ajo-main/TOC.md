@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 4a228623154a5422ba45ff1c0cc8be986787c0cb
+source-git-commit: 06c340b9fb0186821e2b56053ba6c9d7dcf56175
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 99%
+source-wordcount: '860'
+ht-degree: 98%
 
 ---
 
@@ -46,13 +46,14 @@ ht-degree: 99%
    + [Journey-Designer – Überblick](/help/create-journeys/journey-designer-overview.md)
    + [Der neue Journey-Designer](/help/create-journeys/new-journey-designer.md)
    + [Einführung in das Erstellen einer Journey](/help/create-journeys/introduction-to-building-a-journey.md)
+   + [Erstellen eines Testprofils](/help/create-journeys/test-a-journey.md)
+   + [Veröffentlichen einer Journey](/help/create-journeys/publish-a-journey.md)
    + [Anwendungsfall: Transaktions-Journey](/help/create-journeys/use-case-transactional-journey.md)
    + [Anwendungsfall: Geschäftsereignis](/help/create-journeys/use-case-business-event.md)
    + [Anwendungsfall: Zielgruppe lesen](/help/create-journeys/use-case-read-audience.md)
    + [Anwendungsfall: Zielgruppenqualifikation](/help/create-journeys/use-case-audience-qualification.md)
-   + [Erstellen eines Testprofils](/help/create-journeys/test-a-journey.md)
+   + [Meistern der Filterung mehrerer Attribute](/help/create-journeys/mastering-multi-attribute-filtering.md)
    + [Validieren der Journey-Logik mit einem Journey-Probelauf](/help/create-journeys/journey-dry-run.md)
-   + [Veröffentlichen einer Journey](/help/create-journeys/publish-a-journey.md)
    + [Entsperren des erneuten Journey-Eintritts mit zusätzlichen IDs](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Aktualisieren von Inhalten in einer Live-Journey](/help/create-journeys/update-content-in-live-journey.md)
    + [Kopieren einer Journey in eine andere Sandbox](/help/create-journeys/copy-a-journey.md)
