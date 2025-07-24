@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
 source-git-commit: 06c340b9fb0186821e2b56053ba6c9d7dcf56175
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '860'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 98%
    + [Onboarding von Kundinnen und Kunden](/help/use-cases/customer-onboarding.md)
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
    + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe eines Web SDK](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Erstellen von Berichten zu Impressionen und Klicks von Angeboten](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [Erstellen von Berichten zu Angebots-Impressions und Klicks ](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten in Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
@@ -52,7 +52,7 @@ ht-degree: 98%
    + [Anwendungsfall: Geschäftsereignis](/help/create-journeys/use-case-business-event.md)
    + [Anwendungsfall: Zielgruppe lesen](/help/create-journeys/use-case-read-audience.md)
    + [Anwendungsfall: Zielgruppenqualifikation](/help/create-journeys/use-case-audience-qualification.md)
-   + [Meistern der Filterung mehrerer Attribute](/help/create-journeys/mastering-multi-attribute-filtering.md)
+   + [Beherrschen der Filterung mehrerer Attribute](/help/create-journeys/mastering-multi-attribute-filtering.md)
    + [Validieren der Journey-Logik mit einem Journey-Probelauf](/help/create-journeys/journey-dry-run.md)
    + [Entsperren des erneuten Journey-Eintritts mit zusätzlichen IDs](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Aktualisieren von Inhalten in einer Live-Journey](/help/create-journeys/update-content-in-live-journey.md)
