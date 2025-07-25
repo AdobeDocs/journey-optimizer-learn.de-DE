@@ -9,18 +9,18 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 244fcb09-3b16-4e3b-b335-4e84bc93095e
-source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
+source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 2%
+source-wordcount: '496'
+ht-degree: 3%
 
 ---
 
-# Erstellen von AEP-Tags
+# Erstellen von Adobe Experience Platform-Tags
 
 Adobe Experience Platform-Tags (ehemals Adobe Launch) helfen bei der Verwaltung und Bereitstellung von Marketing- und Analysetechnologien* auf Ihrer Website, ohne den Code der Website ändern zu müssen.
 
-In [ Video wird der Prozess der Erstellung von Adobe Experience Tags beschrieben](https://experienceleague.adobe.com/de/playlists/experience-platform-get-started-with-tags)
+In [ Video wird der Prozess der Erstellung von Adobe Experience Tags beschrieben](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 * Bei Datenerfassung anmelden
 * Klicken Sie auf Tags > Neue Eigenschaft .

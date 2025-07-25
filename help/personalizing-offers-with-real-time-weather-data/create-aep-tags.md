@@ -9,23 +9,23 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 04fad076-e897-4831-9147-768721858a80
-source-git-commit: 29a20fe11dc6516f6fa15f7d7bf8948dd418aecd
+source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
-# Erstellen von AEP-Tags
+# Erstellen von Adobe Experience Platform-Tags
 
 Adobe Experience Platform-Tags (ehemals Adobe Launch) helfen bei der Verwaltung und Bereitstellung von Marketing- und Analysetechnologien* auf Ihrer Website, ohne den Code der Website ändern zu müssen.
 
-In [ Video wird der Prozess der Erstellung von Adobe Experience Tags beschrieben](https://experienceleague.adobe.com/de/playlists/experience-platform-get-started-with-tags)
+In [ Video wird der Prozess der Erstellung von Adobe Experience Tags beschrieben](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 - Bei Datenerfassung anmelden
-- Klicken Sie auf _&#x200B;**Tags > Neue Eigenschaft**&#x200B;_
+- Klicken Sie auf _**Tags > Neue Eigenschaft**_
 
-- Erstellen Sie ein Adobe Experience Platform-Tag _&#x200B;**Personalisierung bei Wetter**&#x200B;_.
+- Erstellen Sie ein Adobe Experience Platform-Tag _**Personalisierung bei Wetter**_.
 
 - Fügen Sie die folgenden Erweiterungen zum -Tag hinzu
   ![tags-extensions](assets/tags-extensions1.png)

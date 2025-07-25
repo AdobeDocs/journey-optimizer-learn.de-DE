@@ -1,5 +1,5 @@
 ---
-title: Nachverfolgung und Meldung von über AJO Offer Decisioning bereitgestellten Adobe Journey Optimizer (AJO)-Angeboten
+title: Nachverfolgen und Erstellen von Berichten zu Adobe Journey Optimizer (AJO)-Angeboten über AJO Decisioning
 description: Dieses Tutorial erweitert eine bestehende Implementierung von Adobe Journey Optimizer (AJO), die personalisierte Angebote auf der Grundlage von Kontextdaten wie Temperatur bereitstellt. Es wird beschrieben, wie Impression- und Interaktionsereignisse erfasst und die Daten für das Reporting in Journey Optimizer vorbereitet werden.
 feature: Decisioning
 role: User
@@ -8,14 +8,14 @@ doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
 exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
-source-git-commit: 551d0d365bcb42e63910af1fae626d1bbc1fabfa
+source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
-# Nachverfolgung und Meldung von über AJO Offer Decisioning bereitgestellten Adobe Journey Optimizer (AJO)-Angeboten
+# Nachverfolgen und Erstellen von Berichten zu Adobe Journey Optimizer (AJO)-Angeboten über AJO Decisioning
 
 Dieser Anwendungsfall konzentriert sich auf die Aktivierung von Reporting und Leistungsanalysen für Angebote, die über Adobe Journey Optimizer (AJO) bereitgestellt werden. Wenn Angebote anhand kontextueller Signale (z. B. Wetter oder Standort) personalisiert und bereitgestellt werden, müssen sowohl Impressionen als auch Benutzerinteraktionen verfolgt werden, um ihre Effektivität zu bewerten.
 
