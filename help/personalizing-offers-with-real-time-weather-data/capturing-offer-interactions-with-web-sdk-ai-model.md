@@ -1,6 +1,6 @@
 ---
 title: Erfassen von Angebotsinteraktionen mit Adobe Web SDK für KI-Modellschulungen
-description: Dieser Artikel enthält Anleitungen zur Erfassung von Benutzerinteraktionsdaten - wie Angebotsimpressionen und Klicks - mithilfe der Adobe Experience Platform Web SDK (alloy.js). Diese Daten dienen als Grundlage für das Trainieren von KI-Modellen in Adobe Journey Optimizer (AJO), um Angebote intelligent nach Benutzerverhalten und kontextuellen Signalen zu ordnen.
+description: Dieser Artikel enthält Anleitungen zur Erfassung von Benutzerinteraktionsdaten - wie Angebotsimpressionen und Klicks - mithilfe der Adobe Experience Platform Web SDK (alloy.js). Diese Daten dienen als Grundlage für das Trainieren von KI-Modellen in Adobe Journey Optimizer (AJO), damit diese Angebote intelligent nach Benutzerverhalten und kontextuellen Signalen reihen.
 feature: Decisioning
 topic: Integrations
 role: User
@@ -8,13 +8,13 @@ level: Beginner
 doc-type: Article
 last-substantial-update: 2025-07-08T00:00:00Z
 jira: KT-18451
-source-git-commit: 41f0d44fb39c9d187ee8c97d54202387fa9eda56
+exl-id: 3cb280b3-71e5-4e91-9252-5679d794d4c4
+source-git-commit: 6c4f33d1f55be298781cfb0958862f9710e3647a
 workflow-type: tm+mt
 source-wordcount: '698'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Erfassen von Angebotsinteraktionen mit Adobe Web SDK für KI-Modellschulungen
 
@@ -41,7 +41,7 @@ Anstatt ein neues Schema zu erstellen, wird das vorhandene Erlebnisereignisschem
 
 In Adobe Experience Platform:
 
-- Öffnen Sie das vorhandene _&#x200B;**Wetter-Schema**&#x200B;_ Erlebnisereignis-Schema, das Sie für wetterbasierte Angebote verwenden.
+- Öffnen Sie das vorhandene _**Wetter-Schema**_ Erlebnisereignis-Schema, das Sie für wetterbasierte Angebote verwenden.
 
 - Fügen Sie die Feldergruppe hinzu:
 Erlebnisereignis - Interaktionen bei Vorschlägen
@@ -72,26 +72,32 @@ Ein decisioning.propositionDisplay-Ereignis wird jetzt mit dem Adobe Web SDK (al
 
 
 ```javascript
-if (offerIds.length > 0) {
-  alloy("sendEvent", {
-    xdm: {
-      _id: generateUUID(),
-      timestamp: new Date().toISOString(),
-      eventType: "decisioning.propositionDisplay",
-      _experience: {
-        decisioning: {
-          propositionEvent: {
-            display: 1
-          },
-          involvedPropositions: offerIds.map(id => ({
-            id,
-            scope: "web://gbedekar489.github.io/weather/weather-offers.html#offerContainer"
-          }))
-        }
-      }
-    }
-  });
-}
+alloy("sendEvent", {
+                    xdm: {
+                      _id: generateUUID(),
+                      timestamp: new Date().toISOString(),
+                      eventType: "decisioning.propositionInteract",
+                      identityMap: {
+                        ECID: [{
+                          id: ecidValue,
+                          authenticatedState: "ambiguous",
+                          primary: true
+                        }]
+                      },
+                      _experience: {
+                        decisioning: {
+                          propositionEventType: {
+                            interact: 1
+                          },
+                          propositionAction: {
+                            id: offerId,
+                            tokens: [trackingToken]
+                          },
+                          propositions: window.latestPropositions
+                        }
+                      }
+                    }
+                  });
 ```
 
 ## Klickereignisse für Angebote (Interaktionen) erfassen
@@ -102,31 +108,42 @@ Wenn ein Klick erkannt wird, wird mithilfe der Adobe Web SDK ein decisioning.pro
 
 ```javascript
 // Attach click tracking to <a> and <button> elements
-wrapper.querySelectorAll("a, button").forEach(el => {
-  el.addEventListener("click", () => {
-    const offerId = el.getAttribute("data-offer-id") || item.id;
-    console.log("Clicked element offerId:", offerId);
+child.querySelectorAll("a, button").forEach(el => {
+                el.addEventListener("click", () => {
+                  const ecidValue = getECID();
+                  if (!ecidValue || !offerId || !trackingToken) {
+                    console.warn("Girish!!!!  Missing ECID, offerId, or trackingToken. Interaction event not sent.");
+                    return;
+                  }
 
-    alloy("sendEvent", {
-      xdm: {
-        _id: generateUUID(),
-        timestamp: new Date().toISOString(),
-        eventType: "decisioning.propositionInteract",
-        _experience: {
-          decisioning: {
-            propositionEvent: {
-              interact: 1
-            },
-            involvedPropositions: [{
-              id: offerId,
-              scope: "web://gbedekar489.github.io/weather/weather-offers.html#offerContainer"
-            }]
-          }
-        }
-      }
-    });
-  });
-});
+                  alloy("sendEvent", {
+                    xdm: {
+                      _id: generateUUID(),
+                      timestamp: new Date().toISOString(),
+                      eventType: "decisioning.propositionInteract",
+                      identityMap: {
+                        ECID: [{
+                          id: ecidValue,
+                          authenticatedState: "ambiguous",
+                          primary: true
+                        }]
+                      },
+                      _experience: {
+                        decisioning: {
+                          propositionEventType: {
+                            interact: 1
+                          },
+                          propositionAction: {
+                            id: offerId,
+                            tokens: [trackingToken]
+                          },
+                          propositions: window.latestPropositions
+                        }
+                      }
+                    }
+                  });
+                });
+              });
 ```
 
 ## Erstellen eines KI-Modells für das Angebots-Ranking in Adobe Journey Optimizer Offer Decisioning
