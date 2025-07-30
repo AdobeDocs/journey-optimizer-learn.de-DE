@@ -17,4 +17,4 @@ Was Sie lernen werden:
 
 Ideal für Marketing-Experten und Entwickler, die WhatsApp-Nachrichten in ihren Kunden-Journey aktivieren möchten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470277/?learn=on&enablevpops&captions=ger)
