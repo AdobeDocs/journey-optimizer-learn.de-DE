@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: e21d18dea5e34d8647fdc7028a5ab5d47420fa33
+source-git-commit: 41b6fb378767274151676aaf5ed247e9551717e4
 workflow-type: tm+mt
-source-wordcount: '893'
+source-wordcount: '892'
 ht-degree: 96%
 
 ---
@@ -17,9 +17,9 @@ ht-degree: 96%
 + Anwendungsfälle {#use-cases}
    + [Onboarding von Kundinnen und Kunden](/help/use-cases/customer-onboarding.md)
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
-   + [Intelligente Rückgewinnung - abgebrochenes Durchsuchen](https://experienceleague.adobe.com/de/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [Intelligente Rückgewinnung - abgebrochenes Durchsuchen](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe eines Web SDK](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Erstellen von Berichten zu Angebots-Impressions und Klicks](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [Erstellen von Berichten zu Angebots-Impressions und Klicks ](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten in Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
@@ -111,7 +111,7 @@ ht-degree: 96%
    + WhatsApp {#whatsapp}
       + [Erste Schritte mit WhatsApp (End-to-End)](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [Einführung in den WhatsApp-Kanal](/help/channels/whatsapp-introduction.md)
-      + [Einrichten des WhatsApp-Kanals](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel)
+      + [WhatsApp-Kanal einrichten](/help/channels/set-up-whatsapp.md)
       + [Erstellen einer WhatsApp-Journey](/help/channels/create-a-whatsapp-journey.md)
 + Content-Management{#content-management}
    + [Nachrichtenerstellung – Überblick](/help/content-management/message-authoring-overview.md)
