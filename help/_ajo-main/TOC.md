@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 41b6fb378767274151676aaf5ed247e9551717e4
+source-git-commit: e0713e7265468f749239acdac53ddaf1c27afdc8
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 96%
+source-wordcount: '905'
+ht-degree: 95%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 96%
 + Anwendungsfälle {#use-cases}
    + [Onboarding von Kundinnen und Kunden](/help/use-cases/customer-onboarding.md)
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
-   + [Intelligente Rückgewinnung - abgebrochenes Durchsuchen](https://experienceleague.adobe.com/de/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [Intelligente Rückgewinnung - abgebrochenes Durchsuchen](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe eines Web SDK](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Erstellen von Berichten zu Angebots-Impressions und Klicks](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [Erstellen von Berichten zu Angebots-Impressions und Klicks ](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten in Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
@@ -36,13 +36,17 @@ ht-degree: 96%
    + [Mobile-Funktionen für Entwickler](/help/channels/mobile-capabilities-for-developers.md)
    + [Hilfe zum KI-Assistenten](/help/ai-assistant.md)
 + Kampagnen {#create-campaigns}
-   + [Erstellen einer Kampagne](/help/create-campaigns/create-a-campaign.md)
-   + [Erstellen einer In-App-Kampagne](/help/create-campaigns/in-app.md)
-   + [Konfigurieren und Senden von Push-Kampagnen](/help/create-campaigns/push-campaign.md)
-   + [Erstellen einer Web-Kampagne](/help/create-campaigns/web-campaign.md)
-   + [Erstellen einer Code-basierten Erlebniskampagne](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-   + [Auslösen von Kampagnen mit APIs](/help/create-campaigns/api-triggered-campaigns.md)
-   + [Erstellen von Inhaltsexperimenten für E-Mail-Kampagnen](/help/create-campaigns/content-experiments.md)
+   + Aktionskampagnen {#action-campaigns}
+      + [Erstellen einer Kampagne](/help/create-campaigns/create-a-campaign.md)
+      + [Erstellen einer In-App-Kampagne](/help/create-campaigns/in-app.md)
+      + [Konfigurieren und Senden von Push-Kampagnen](/help/create-campaigns/push-campaign.md)
+      + [Erstellen einer Web-Kampagne](/help/create-campaigns/web-campaign.md)
+      + [Erstellen einer Code-basierten Erlebniskampagne](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
+      + [Erstellen von Inhaltsexperimenten für E-Mail-Kampagnen](/help/create-campaigns/content-experiments.md)
+      + [Nutzen der Nachrichtenoptimierung in einer Kampagne](/help/channels/leverage-message-optimization-in-a-campaign.md)
+   + API-ausgelöste Kampagnen {#api-triggered-campaigns}
+      + [Auslösen von Kampagnen mit APIs](/help/create-campaigns/api-triggered-campaigns.md)
+   + Orchestrierte Kampagnen {#orchestrated-campaigns}
 + Journeys {#create-journeys}
    + [Journey-Designer – Überblick](/help/create-journeys/journey-designer-overview.md)
    + [Der neue Journey-Designer](/help/create-journeys/new-journey-designer.md)
