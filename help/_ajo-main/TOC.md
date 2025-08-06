@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 202cc6731ee1a587b62125b2916131521b6f3343
+source-git-commit: 313784a49c81d0aef3e256f5a02c233fd47d9ab6
 workflow-type: tm+mt
-source-wordcount: '905'
-ht-degree: 95%
+source-wordcount: '910'
+ht-degree: 94%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 95%
 + Anwendungsfälle {#use-cases}
    + [Onboarding von Kundinnen und Kunden](/help/use-cases/customer-onboarding.md)
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
-   + [Intelligente Rückgewinnung - abgebrochenes Durchsuchen](https://experienceleague.adobe.com/de/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [Intelligente Rückgewinnung - abgebrochenes Durchsuchen](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe eines Web SDK](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Erstellen von Berichten zu Angebots-Impressions und Klicks](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [Erstellen von Berichten zu Angebots-Impressions und Klicks ](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten in Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
@@ -138,6 +138,7 @@ ht-degree: 95%
    + KI-Assistent für die Inhaltsgenerierung {#ai-assistant}
       + [KI-Assistent für die Inhaltsgenerierung – Überblick](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltsgenerierung](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
+      + [Erstellung und Verwaltung von Markenrichtlinien](/help/content-management/brand-guideline-creation-and-management.md)
    + [Experimentieren – Überblick](/help/content-management/experimentation-overview.md)
    + [Erstellen von E-Mails mit GenStudio](/help/content-management/create-an-email-using-genstudio.md)
 + Personalisieren von Inhalten {#personalize-content}
