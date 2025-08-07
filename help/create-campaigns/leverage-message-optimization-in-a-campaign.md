@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die Nachrichtenoptimierung in durch eine Aktion oder API ausgelösten Kampagnen nutzen können. Sie erfahren, wie Sie Unterzielgruppen ansprechen, Nachrichtenvarianten nach Standort erstellen, Fallback-Inhalte aktivieren und mehrere Experimente innerhalb einer Kampagne durchführen. In diesem Tutorial wird auch beschrieben, wie Sie Multi-Channel-Kampagnen verwalten und dabei die Konsistenz der Nachrichten beibehalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470377/?learn=on&enablevpops&captions=ger)
