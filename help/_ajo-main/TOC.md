@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 313784a49c81d0aef3e256f5a02c233fd47d9ab6
 workflow-type: tm+mt
 source-wordcount: '910'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 94%
 + Anwendungsfälle {#use-cases}
    + [Onboarding von Kundinnen und Kunden](/help/use-cases/customer-onboarding.md)
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
-   + [Intelligente Rückgewinnung - abgebrochenes Durchsuchen](https://experienceleague.adobe.com/de/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [Intelligente Wiederaufnahme der Interaktion – Abgebrochenes Browsen](https://experienceleague.adobe.com/de/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe eines Web SDK](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Erstellen von Berichten zu Angebots-Impressions und Klicks](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [Erstellen von Berichten zu Angebots-Impressions und Klicks ](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten in Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
@@ -44,7 +44,7 @@ ht-degree: 94%
       + [Erstellen einer Code-basierten Erlebniskampagne](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [Erstellen von Inhaltsexperimenten für E-Mail-Kampagnen](/help/create-campaigns/content-experiments.md)
       + [Nutzen der Nachrichtenoptimierung in einer Kampagne](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
-   + API-ausgelöste Kampagnen {#api-triggered-campaigns}
+   + Durch API ausgelöste Kampagnen {#api-triggered-campaigns}
       + [Auslösen von Kampagnen mit APIs](/help/create-campaigns/api-triggered-campaigns.md)
    + Orchestrierte Kampagnen {#orchestrated-campaigns}
 + Journeys {#create-journeys}
@@ -115,7 +115,7 @@ ht-degree: 94%
    + WhatsApp {#whatsapp}
       + [Erste Schritte mit WhatsApp (End-to-End)](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [Einführung in den WhatsApp-Kanal](/help/channels/whatsapp-introduction.md)
-      + [WhatsApp-Kanal einrichten](/help/channels/set-up-whatsapp.md)
+      + [Einrichten des WhatsApp-Kanals](/help/channels/set-up-whatsapp.md)
       + [Erstellen einer WhatsApp-Journey](/help/channels/create-a-whatsapp-journey.md)
 + Content-Management{#content-management}
    + [Nachrichtenerstellung – Überblick](/help/content-management/message-authoring-overview.md)
@@ -203,7 +203,7 @@ ht-degree: 94%
       + Web- und Mobile-Kanäle {#web-and-mobile-channels}
          + [Anleitung zur Kanaleinrichtung](/help/set-up-channels/guided-channel-setup.md)
       + WhatsApp-Kanal {#whatsapp-channel}
-         + [WhatsApp-Kanal einrichten](/help/set-up-channels/set-up-whatsapp-channel.md)
+         + [Einrichten des WhatsApp-Kanals](/help/set-up-channels/set-up-whatsapp-channel.md)
    + Konfigurieren von Journeys {#journey-configuration}
       + [Konfigurieren von Datenquellen](/help/set-up-journeys/configure-data-sources.md)
       + [Ereignisse erstellen](/help/set-up-journeys/create-events.md)
