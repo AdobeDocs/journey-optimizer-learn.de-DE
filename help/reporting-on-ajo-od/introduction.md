@@ -8,14 +8,14 @@ doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
 exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
-source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
+source-git-commit: 39376d745d851bf2c3ed3826b9f550efafd9e8f4
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
-# Nachverfolgen und Erstellen von Berichten zu Adobe Journey Optimizer (AJO)-Angeboten über AJO Decisioning
+# Nachverfolgen und Erstellen von Berichten zu über AJO Decisioning bereitgestellten Journey Optimizer-Angeboten
 
 Dieser Anwendungsfall konzentriert sich auf die Aktivierung von Reporting und Leistungsanalysen für Angebote, die über Adobe Journey Optimizer (AJO) bereitgestellt werden. Wenn Angebote anhand kontextueller Signale (z. B. Wetter oder Standort) personalisiert und bereitgestellt werden, müssen sowohl Impressionen als auch Benutzerinteraktionen verfolgt werden, um ihre Effektivität zu bewerten.
 
