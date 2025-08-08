@@ -28,4 +28,4 @@ Sie lernen Folgendes:
 
 Ideal für Marketing-Fachleute, die personalisierte Kundeninteraktionen über WhatsApp automatisieren möchten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470291/?learn=on&enablevpops&captions=ger)

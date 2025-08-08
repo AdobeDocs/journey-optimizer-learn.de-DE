@@ -17,4 +17,4 @@ Sie lernen Folgendes:
 
 Ideal für Marketing-Fachleute und Entwickelnde, die WhatsApp-Messaging in ihren Kunden-Journeys aktivieren möchten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470277/?learn=on&enablevpops&captions=ger)
