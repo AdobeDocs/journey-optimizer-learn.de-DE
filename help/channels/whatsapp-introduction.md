@@ -1,6 +1,6 @@
 ---
 title: Einführung in den WhatsApp-Kanal
-description: Das Video gibt einen allgemeinen Überblick über den Nutzen der Integration von WhatsApp mit Adobe Journey Optimizer. Es zeigt die globale Reichweite und die Interaktionsvorteile von WhatsApp auf und skizziert wichtige Voraussetzungen wie die Einrichtung eines WhatsApp Business-Kontos, die Generierung von Zugriffstoken und die Erstellung von Nachrichtenvorlagen.
+description: Das Video bietet einen allgemeinen Überblick über die Vorteile der Integration von WhatsApp mit Adobe Journey Optimizer. Es hebt die globale Reichweite und die Interaktionsvorteile von WhatsApp hervor und fasst wichtige Voraussetzungen zusammen, wie die Einrichtung eines WhatsApp-Unternehmenskontos, die Generierung von Zugriffs-Token und die Erstellung von Nachrichtenvorlagen.
 feature: Whatsapp
 role: Admin, User
 level: Beginner
@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 133
 last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-18562
-source-git-commit: a24ffa6b48c54fbce13f0f2b2182b94fa114328d
-workflow-type: tm+mt
+exl-id: fb6f937e-d1b5-4e15-8ed6-b070fec871d4
+source-git-commit: 20e0da0799956b246370aa04dabec958ff6b51ae
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # Einführung in den WhatsApp-Kanal
 
-Das Video gibt einen allgemeinen Überblick über den Nutzen der Integration von WhatsApp mit Adobe Journey Optimizer. Es zeigt die globale Reichweite und die Interaktionsvorteile von WhatsApp auf und skizziert wichtige Voraussetzungen wie die Einrichtung eines WhatsApp Business-Kontos, die Generierung von Zugriffstoken und die Erstellung von Nachrichtenvorlagen.
+Das Video bietet einen allgemeinen Überblick über die Vorteile der Integration von WhatsApp mit Adobe Journey Optimizer. Es hebt die globale Reichweite und die Interaktionsvorteile von WhatsApp hervor und fasst wichtige Voraussetzungen zusammen, wie die Einrichtung eines WhatsApp-Unternehmenskontos, die Generierung von Zugriffs-Token und die Erstellung von Nachrichtenvorlagen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470305/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3470296/?learn=on&enablevpops)
