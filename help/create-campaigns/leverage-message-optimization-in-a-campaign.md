@@ -24,4 +24,4 @@ Erfahren Sie, wie Sie die Nachrichtenoptimierung in durch eine Aktion oder durch
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470377/?learn=on&enablevpops&captions=ger)
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization).
+Weitere Informationen zu dieser Funktion finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization).
