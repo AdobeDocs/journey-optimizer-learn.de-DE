@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Ihre eigenen Marken erstellen und anpassen können, um Ihre visuelle und verbale Identität in der gesamten Kommunikation klar zu definieren. Erfahren Sie, wie Sie mit der Bewertung für die Markenausrichtung Echtzeit-Feedback dazu erhalten können, wie gut Ihre Inhalte den Ton, den Stil und die Richtlinien Ihrer Marke widerspiegeln.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470555/?learn=on&enablevpops&captions=ger)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands).
