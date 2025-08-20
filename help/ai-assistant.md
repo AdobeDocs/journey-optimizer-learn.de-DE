@@ -9,10 +9,10 @@ duration: 143
 last-substantial-update: 2024-06-27T00:00:00Z
 jira: KT-15789
 exl-id: 6c2134ec-7d0c-4fe2-9281-22a10ace1890
-source-git-commit: 55734ce3bc1329663bd65970892d80c99878e1a7
+source-git-commit: 5ec9aa524723f15e90ea22e5f93c9f9153c82069
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 63%
+source-wordcount: '82'
+ht-degree: 64%
 
 ---
 
@@ -22,4 +22,4 @@ Erfahren Sie, was Sie mit dem KI-Assistenten in auf Adobe Experience Platform ba
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-Weitere [ zu den in Journey Optimizer unterstützten Anwendungsfällen finden ](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/get-started/ai-assistant) unter „Arbeiten mit dem KI-&quot;. Eine ausführliche Dokumentation finden Sie in der Dokumentation [KI-Assistent in Adobe Experience Platform](https://experienceleague.adobe.com/de/docs/experience-platform/ai-assistant/home) .
+Weitere [ zu den in Journey Optimizer unterstützten Anwendungsfällen finden ](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-assistant) unter „Arbeiten mit dem KI-&quot;. Eine ausführliche Dokumentation finden Sie in der Dokumentation [KI-Assistent in Adobe Experience Platform](https://experienceleague.adobe.com/de/docs/experience-platform/ai-assistant/home) .
