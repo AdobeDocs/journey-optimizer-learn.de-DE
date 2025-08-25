@@ -30,7 +30,7 @@ Konfigurieren Sie die mobilen Kanäle in Journey Optimizer und Experience Platfo
 
 ## Mobile-Funktionen in Adobe Journey Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/342103?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409520?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Mobile SDK- und App-Konfiguration
 
@@ -89,7 +89,7 @@ Erfahren Sie, wie der Kanal Ihre **mobilen Kanäle** mithilfe der Funktion „Ge
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="Einrichten des WhatsApp-Kanals" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1755888511569" alt="Einrichten des WhatsApp-Kanals"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470277/?format=jpeg&nocache=1755888511569&captions=ger" alt="Einrichten des WhatsApp-Kanals"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -172,7 +172,7 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1755888512061" alt="Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438055/?format=jpeg&nocache=1755888512061&captions=ger" alt="Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -195,7 +195,7 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Einrichten von RCS in Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1755888512073" alt="Einrichten von RCS in Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464764/?format=jpeg&nocache=1755888512073&captions=ger" alt="Einrichten von RCS in Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -259,7 +259,7 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" title="Übersicht über das Data-Governance-Framework" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29708/?format=jpeg&nocache=1755888512557" alt="Übersicht über das Data-Governance-Framework"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/33153/?format=jpeg&nocache=1755888512557&captions=ger" alt="Übersicht über das Data-Governance-Framework"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -282,7 +282,7 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" title="Klassifizieren von Daten mithilfe von Labels" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29709?format=jpeg&nocache=1755888512540" alt="Klassifizieren von Daten mithilfe von Labels"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422789?format=jpeg&nocache=1755888512540&captions=ger" alt="Klassifizieren von Daten mithilfe von Labels"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -305,7 +305,7 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" title="Erstellen von Richtlinien zur Datennutzung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32977/?format=jpeg&nocache=1755888512550" alt="Erstellen von Richtlinien zur Datennutzung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/37126/?format=jpeg&nocache=1755888512550&captions=ger" alt="Erstellen von Richtlinien zur Datennutzung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

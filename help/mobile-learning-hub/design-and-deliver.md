@@ -32,7 +32,7 @@ Erfahren Sie, wie Sie Mobile-Nachrichten pro Kanal konfigurieren:
 
 Erfahren Sie, welche mobilen Kanäle Journey Optimizer unterstützt und wie Sie Nachrichten mithilfe dieser Kanäle konfigurieren und senden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430371?quality=12&learn=on&captions=ger){transcript=true}
 
 >[!TAB Push-Benachrichtigung]
 
@@ -78,7 +78,7 @@ Erfahren Sie, welche mobilen Kanäle Journey Optimizer unterstützt und wie Sie 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" title="Konfigurieren und Senden von Push-Kampagnen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422017/?format=jpeg&nocache=1755891402391" alt="Konfigurieren und Senden von Push-Kampagnen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3452710/?format=jpeg&nocache=1755891402391&captions=ger" alt="Konfigurieren und Senden von Push-Kampagnen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -149,7 +149,7 @@ Erfahren Sie, welche mobilen Kanäle Journey Optimizer unterstützt und wie Sie 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" title="Erstellen einer In-App-Kampagne" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410430?format=jpeg&nocache=1755891402919" alt="Erstellen einer In-App-Kampagne"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451891?format=jpeg&nocache=1755891402919&captions=ger" alt="Erstellen einer In-App-Kampagne"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -202,7 +202,7 @@ Erfahren Sie, welche mobilen Kanäle Journey Optimizer unterstützt und wie Sie 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards" title="Erstellen von Inhaltskarten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434783/?format=jpeg&nocache=1755891403581" alt="Erstellen von Inhaltskarten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434792/?format=jpeg&nocache=1755891403581&captions=ger" alt="Erstellen von Inhaltskarten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -272,7 +272,7 @@ Erfahren Sie, welche mobilen Kanäle Journey Optimizer unterstützt und wie Sie 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" title="Konfigurieren, Verfassen und Versenden von SMS-Nachrichten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420509?format=jpeg&nocache=1755891404139" alt="Konfigurieren, Verfassen und Versenden von SMS-Nachrichten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422692?format=jpeg&nocache=1755891404139&captions=ger" alt="Konfigurieren, Verfassen und Versenden von SMS-Nachrichten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -295,7 +295,7 @@ Erfahren Sie, welche mobilen Kanäle Journey Optimizer unterstützt und wie Sie 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Double-Opt-in für Sinch und Infobip" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427129/?format=jpeg&nocache=1755891404148" alt="Double-Opt-in für Sinch und Infobip"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440289/?format=jpeg&nocache=1755891404148&captions=ger" alt="Double-Opt-in für Sinch und Infobip"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -329,7 +329,7 @@ Erfahren Sie, welche mobilen Kanäle Journey Optimizer unterstützt und wie Sie 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" title="Verfassen von MMS-Nachrichten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428816/?format=jpeg&nocache=1755891404669" alt="Verfassen von MMS-Nachrichten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437109/?format=jpeg&nocache=1755891404669&captions=ger" alt="Verfassen von MMS-Nachrichten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -352,7 +352,7 @@ Erfahren Sie, welche mobilen Kanäle Journey Optimizer unterstützt und wie Sie 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Einrichten von RCS in Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1755891404682" alt="Einrichten von RCS in Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464764/?format=jpeg&nocache=1755891404682&captions=ger" alt="Einrichten von RCS in Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -398,7 +398,7 @@ Erfahren Sie, welche mobilen Kanäle Journey Optimizer unterstützt und wie Sie 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign" title="Erstellen einer Code-basierte Erlebniskampagne" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428868/?format=jpeg&nocache=1755891405190" alt="Erstellen einer Code-basierte Erlebniskampagne"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449462/?format=jpeg&nocache=1755891405190&captions=ger" alt="Erstellen einer Code-basierte Erlebniskampagne"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -421,7 +421,7 @@ Erfahren Sie, welche mobilen Kanäle Journey Optimizer unterstützt und wie Sie 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences" title="Hinzufügen von Formularfeldern zu Code-basierten Erlebniskanalvorlagen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463990/?format=jpeg&nocache=1755891405203" alt="Hinzufügen von Formularfeldern zu Code-basierten Erlebniskanalvorlagen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464000/?format=jpeg&nocache=1755891405203&captions=ger" alt="Hinzufügen von Formularfeldern zu Code-basierten Erlebniskanalvorlagen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -467,7 +467,7 @@ Erfahren Sie, welche mobilen Kanäle Journey Optimizer unterstützt und wie Sie 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction" title="Einführung in den WhatsApp-Kanal" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470296/?format=jpeg&nocache=1755891405738" alt="Einführung in den WhatsApp-Kanal"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470305/?format=jpeg&nocache=1755891405738&captions=ger" alt="Einführung in den WhatsApp-Kanal"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -490,7 +490,7 @@ Erfahren Sie, welche mobilen Kanäle Journey Optimizer unterstützt und wie Sie 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey" title="Erstellen einer WhatsApp-Journey" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470282/?format=jpeg&nocache=1755891405726" alt="Erstellen einer WhatsApp-Journey"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470291/?format=jpeg&nocache=1755891405726&captions=ger" alt="Erstellen einer WhatsApp-Journey"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -613,7 +613,7 @@ Erfahren Sie, welche mobilen Kanäle Journey Optimizer unterstützt und wie Sie 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" title="Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/340941?format=jpeg&nocache=1755891406844" alt="Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/346217?format=jpeg&nocache=1755891406844&captions=ger" alt="Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -647,7 +647,7 @@ Erfahren Sie, welche mobilen Kanäle Journey Optimizer unterstützt und wie Sie 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score" title="Zuweisen von Prioritätswerten zu eingehenden Aktionen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435529/?format=jpeg&nocache=1755891407584" alt="Zuweisen von Prioritätswerten zu eingehenden Aktionen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445010/?format=jpeg&nocache=1755891407584&captions=ger" alt="Zuweisen von Prioritätswerten zu eingehenden Aktionen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -670,7 +670,7 @@ Erfahren Sie, welche mobilen Kanäle Journey Optimizer unterstützt und wie Sie 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization" title="Journey-Frequenzlimitierung und -priorisierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435530/?format=jpeg&nocache=1755891407596" alt="Journey-Frequenzlimitierung und -priorisierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447624/?format=jpeg&nocache=1755891407596&captions=ger" alt="Journey-Frequenzlimitierung und -priorisierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
