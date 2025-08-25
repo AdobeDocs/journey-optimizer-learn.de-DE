@@ -13,10 +13,10 @@ exl-id: e404a36c-117e-492f-8f15-2a48642c9c91
 hidefromtoc: false
 hide: false
 index: true
-source-git-commit: f9db0d19c3fc349e06322e783c66d16e63dcfac3
-workflow-type: ht
-source-wordcount: '106'
-ht-degree: 100%
+source-git-commit: e3bc8e24f6a8a59a84341f9d31d0e372fa6e99ab
+workflow-type: tm+mt
+source-wordcount: '162'
+ht-degree: 65%
 
 ---
 
@@ -24,4 +24,8 @@ ht-degree: 100%
 
 Erfahren Sie, wie Adobe Experience Manager (AEM) nahtlos mit Adobe Journey Optimizer integriert wird, um das Content-Management zu optimieren und die Markenkonsistenz kanalübergreifend sicherzustellen. Erfahren Sie, wie Sie Inhaltsfragmente erstellen, genehmigen und rendern sowie mühelos neue Inhalte austauschen und simulieren. Ideal für alle, die effizientes Content-Management und konsistentes Branding wünschen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463131/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3457691/?learn=on&enablevpops)
+
+Experience League LIVE - [Bereitstellen personalisierter Inhalte in Journey Optimizer mit AEM-Inhaltsfragmenten und Dynamic Media](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
+
+In dieser Sitzung haben Jyothitha Chandran, Chris Ivory und Kaitlin White gezeigt, wie Adobe Journey Optimizer (AJO) nahtlos mit Inhaltsfragmenten von Adobe Experience Manager (AEM) Sites und AEM Assets Dynamic Media integriert werden kann, um skalierbare Echtzeit-Personalisierung für jeden Kanal zu bieten.
