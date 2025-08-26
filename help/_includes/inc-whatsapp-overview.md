@@ -1,5 +1,5 @@
 ---
-source-git-commit: 0ce6d5013bbcf55e49ae920670919f6929a142ec
+source-git-commit: 6aa7b4c72ce5bd72002ad88ba88a20f32d54c360
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 4%
@@ -32,7 +32,7 @@ Wählen Sie WhatsApp als Ihren bevorzugten Kanal, wenn Sie müssen:
 | 4 | Einhaltung von Vorschriften und Vertrauen | Nachrichten werden über eine offizielle API mit strengen Opt-in-Anforderungen gesendet. | <ul><li>Anmeldebestätigungen</li><li>Mitteilungen aufgrund gesetzlicher Vorschriften</li></ul> |
 | 5 | Integration mit anderen Kanälen | Kombination mit E-Mail, Push oder SMS für nahtlose Multi-Channel-Journey | <ul><li>Kanalübergreifende Rückgewinnung</li><li>Follow-up zu Transaktionsabbrüchen</li></ul> |
 
-## Wann WhatsApp nicht verwendet werden sollte
+## Wann *nicht* WhatsApp verwenden
 
 * Wenn Ihre Zielgruppe WhatsApp nicht aktiv verwendet.
 * Wenn Benutzende sich nicht explizit für den Empfang von WhatsApp-Nachrichten entschieden haben.

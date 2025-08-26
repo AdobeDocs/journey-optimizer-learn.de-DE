@@ -1,5 +1,5 @@
 ---
-source-git-commit: b4262722d7ebffb936a95425baab219bb40775fa
+source-git-commit: 6aa7b4c72ce5bd72002ad88ba88a20f32d54c360
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 2%
@@ -33,7 +33,7 @@ Wählen Sie Push-Benachrichtigungen als bevorzugten Messaging-Kanal, wenn Sie Fo
 | 5 | Nutzen von gerätenativen Funktionen | Push-Benachrichtigungen können mit iOS/Android-Betriebssystemfunktionen wie Vibrationen, Sounds, Abzeichen und Geofencing-Triggern integriert werden. | <ul><li> Standortbasierte Angebote in der Nähe eines Geschäfts</li><li> Erinnerungen werden zu bestimmten Zeiten ausgelöst.</li></ul> |
 | 6 | Wann ein Opt-in wahrscheinlich ist | Push funktioniert nur für Benutzer, die sich explizit angemeldet haben. Wenn die App einen hohen Wert bietet oder die Marke bereits über Vertrauen verfügt, können die Opt-in-Raten hoch sein. | <ul><li> Apps mit loyalen Benutzerbasen</li><li> Onboarding-Abläufe, die den Wert von Benachrichtigungen erklären.</li></ul> |
 
-## Wann NICHT Push als primärer Kanal verwendet werden soll
+## Wenn *nicht* Push als primären Kanal verwenden soll
 
 * Niedrige Opt-in-Raten oder Benutzerwiderstand bei Benachrichtigungen.
 * Bedarf an langfristigen Inhalten (E-Mail ist möglicherweise besser).
