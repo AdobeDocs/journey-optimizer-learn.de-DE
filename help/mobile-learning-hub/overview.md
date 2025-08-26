@@ -7,7 +7,7 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: b3469f95fdff0757e2f8795a7420b0b0a92caa01
+source-git-commit: 69eed07e1759e2dfd30934d7ef2c16b1240704e2
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 0%
@@ -16,7 +16,9 @@ ht-degree: 0%
 
 # Journey Optimizer - Mobile Learning Hub
 
-Schnellstart oder Aufstieg mit mobilen Kanälen in Adobe Journey Optimizer (AJO). Dies ist der richtige Ort für Entwickler, Administratoren, Marketing-Experten und Datenanalysten, um alles zu entdecken, vom Einrichten eingehender und ausgehender mobiler Kanäle bis hin zum Verflechten dieser Kanäle in leistungsstarke Kampagnen. Erfahren Sie mehr über Best Practices, lernen Sie, wie Sie die Akzeptanz steigern können, und lernen Sie das Reporting - alles an einem Ort - so können Teams wirkungsvolle, datengesteuerte mobile Erlebnisse bereitstellen, die jederzeit und überall mit Benutzern in Verbindung stehen.
+Schnellstart oder Aufstieg mit mobilen Kanälen in Adobe Journey Optimizer (AJO). Dies ist der richtige Ort für Entwickler, Administratoren, Marketing-Experten und Datenanalysten, um alles zu entdecken: vom Einrichten eingehender und ausgehender mobiler Kanäle bis hin zum Verflechten in leistungsstarke Kampagnen.
+
+Erfahren Sie mehr über Best Practices, lernen Sie, wie Sie die Akzeptanz steigern können, und lernen Sie das Reporting - alles an einem Ort - so können Teams wirkungsvolle, datengesteuerte mobile Erlebnisse bereitstellen, die jederzeit und überall mit Benutzern in Verbindung stehen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432681?quality=12&learn=on){transcript=true}
 
@@ -64,7 +66,7 @@ Durch die Kombination dieser Kanäle können Sie ein nahtloses und effektives Ku
 
 ## Kunden-Anwendungsfälle
 
-* [Mit Personalisierung fliegen: Wie Fluggesellschaften Angebote mit Adobe Journey Optimizer erhöhen können (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=de)
+* [Mit Personalisierung fliegen: Wie Fluggesellschaften Angebote mit Adobe Journey Optimizer erhöhen können (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
 
 
 ## Fundament aufbauen
