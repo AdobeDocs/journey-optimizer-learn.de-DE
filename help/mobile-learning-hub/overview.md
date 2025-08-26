@@ -7,9 +7,9 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: b70b2cca5d95d931c8bbd52a69e96ccc31faa92c
+source-git-commit: b3469f95fdff0757e2f8795a7420b0b0a92caa01
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '900'
 ht-degree: 0%
 
 ---
@@ -29,42 +29,42 @@ Journey Optimizer unterstützt sowohl eingehende als auch ausgehende Mobile-Kan�
 
 Ausgehende Kanäle werden verwendet, um **proaktiv Nachrichten)** Kunden zu senden, ohne dass eine vorherige Interaktion erforderlich ist. Diese eignen sich ideal für Kampagnen, Promotions und Transaktionsnachrichten.
 
+Diese Kanäle erzwingen **benutzerdefinierte Einverständnisrichtlinien** beim Nachrichtenversand. Wenn für eine bestimmte Marketing-Aktion kein Einverständnis erteilt wird, wird der Versand der Nachricht blockiert.
+
 | ![Push-Benachrichtigungen](/help/mobile-learning-hub/assets/mobile-phone.webp){width=„250“, height=„250“}<br> **[Push-Benachrichtigungen](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=„250“, height=„250“}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=„250“, height=„250“}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
 | Außerhalb der App gesendet, erhalten Push-Nachrichten sofort Aufmerksamkeit. Sie eignen sich ideal für zeitkritische Updates und ermutigen Benutzer, zu Ihrer App zurückzukehren. | Direkte Nachrichten werden an die Mobiltelefone der Benutzer gesendet, ohne dass die App benötigt wird. Ideal für dringende Warnungen, Erinnerungen und Rich-Media-Inhalte wie Bilder oder Videos. | Konversationskanal über eine weit verbreitete Messaging-App, die personalisierte, bidirektionale Kommunikation und interaktive Kampagnen ermöglicht. |
 
-> Ausgehende Kanäle erzwingen **benutzerdefinierte Einverständnisrichtlinien** beim Nachrichtenversand. Wenn für eine bestimmte Marketing-Aktion kein Einverständnis erteilt wird, wird der Versand der Nachricht blockiert.
-
 ### Eingehende Kanäle
 
-Eingehende Kanäle sind für **kundeninitiierte Interaktionen** konzipiert, die personalisierte Erlebnisse ermöglichen, wenn Benutzer mit Ihrer Marke interagieren.
+Eingehende Kanäle sind für **kundeninitiierte Interaktionen** konzipiert, die personalisierte Erlebnisse ermöglichen, wenn Benutzer mit Ihrer Marke interagieren. Sie unterstützen **Echtzeit-Personalisierung** und **Datenerfassung** wie Landingpage-Formulare, die zur Segmentierung und Zielgruppenbestimmung in Adobe Experience Platform (AEP) eingespeist werden.
+
 
 | ![In-App-Nachrichten](/help/mobile-learning-hub/assets/frescopa-in-app.png){width=„250“,height=„50%&quot;}<br> **[In-App-Nachrichten](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![Inhaltskarten](/help/mobile-learning-hub/assets/content-card.jpeg){width=„250“, height=„250“}<br> **[Inhaltskarten](/help/mobile-learning-hub/channels/content-cards-overview.md)** | ![Code-basiertes Erlebnis](/help/mobile-learning-hub/assets/code-based.png){width=„250“, height=„250“}<br> **[Code-basiertes Erlebnis](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
 | Diese Nachrichten werden bereitgestellt, während Benutzende Ihre App aktiv verwenden, und sind in Echtzeit und interaktiv. Sie eignen sich perfekt, um Kunden im Moment anzusprechen. | Benutzerinnen und Benutzer können jederzeit innerhalb der App auf nicht aufdringliche, persistente Nachrichten zugreifen. Inhaltskarten eignen sich gut für die Freigabe fortlaufender Angebote oder hilfreicher Informationen. | Benutzerdefinierte Nachrichten ermöglichen hochgradig personalisierte und dynamische Kampagnen, die Echtzeitdaten und komplexe Journey von Kunden integrieren. |
 
-> Eingehende Kanäle unterstützen **Echtzeit-Personalisierung** und **Datenerfassung** wie Landingpage-Formulare, die zur Segmentierung und Zielgruppenbestimmung in Adobe Experience Platform (AEP) eingespeist werden.
 
 ### Wie können mobile Kanäle zusammenarbeiten?
 
 Durch die Kombination dieser Kanäle können Sie ein nahtloses und effektives Kundenerlebnis schaffen:
 
-1. Verwenden Sie **Push-Benachrichtigungen**, um schnell Aufmerksamkeit zu erregen und Benutzer zurück zu Ihrer App zu bringen (z. B. „Der Verkauf beginnt jetzt!„).
+1. Verwenden Sie [Push-Benachrichtigungen](/help/mobile-learning-hub/channels/push-notifications-overview.md), um schnell Aufmerksamkeit zu erregen und Benutzer zurück zu Ihrer App zu bringen (z. B. „Der Verkauf beginnt jetzt!„).
 
-2. Senden Sie **In-App-Nachrichten** mit personalisierten Werbeaktionen (z. B. „Hier ist Ihr Rabatt von 15 % für den heutigen Verkauf„).
+2. Senden Sie [In-App-Nachrichten](/help/mobile-learning-hub/channels/in-app-messages-overview.md) mit personalisierten Werbeaktionen (z. B. „Hier ist Ihr Rabatt von 15 % für den heutigen Verkauf„).
 
-3. Bieten Sie **Inhaltskarten** damit Benutzer die Promotion jederzeit vor Ablauf erneut aufrufen können (z. B. „Ihr Rabatt von 15 % endet am Freitag„).
+3. Bieten Sie [Inhaltskarten](/help/mobile-learning-hub/channels/content-cards-overview.md) damit Benutzer die Promotion jederzeit vor Ablauf erneut aufrufen können (z. B. „Ihr Rabatt von 15 % endet am Freitag„).
 
-4. Verwenden Sie **SMS/MMS/**), um rechtzeitig Erinnerungen oder Rich-Media-Angebote direkt an Benutzer zu senden, die sich nicht in der App befinden.
+4. Verwenden Sie [SMS/MMS/](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)), um rechtzeitig Erinnerungen oder Rich-Media-Angebote direkt an Benutzer zu senden, die sich nicht in der App befinden.
 
-5. Engagieren Sie Kunden in aussagekräftige Gespräche über **WhatsApp**, ideal für Kunden-Support oder interaktive Kampagnen.
+5. Engagieren Sie Kunden in aussagekräftige Gespräche über [WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md), ideal für Kunden-Support oder interaktive Kampagnen.
 
-6. Nutzen Sie **Code-basierte Erlebnisse** um jede Nachricht auf der Grundlage des Benutzerverhaltens und der Voreinstellungen anzupassen und so eine wirklich personalisierte Journey kanalübergreifend zu erstellen.
+6. Nutzen Sie [Code-basierte Erlebnisse](/help/mobile-learning-hub/channels/code-based-experience-overview.md) um jede Nachricht auf der Grundlage des Benutzerverhaltens und der Voreinstellungen anzupassen und so eine wirklich personalisierte Journey kanalübergreifend zu erstellen.
 
 
 ## Kunden-Anwendungsfälle
 
-* [Mit Personalisierung fliegen: Wie Fluggesellschaften Angebote mit Adobe Journey Optimizer erhöhen können (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=de)
+* [Mit Personalisierung fliegen: Wie Fluggesellschaften Angebote mit Adobe Journey Optimizer erhöhen können (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
 
 
 ## Fundament aufbauen
