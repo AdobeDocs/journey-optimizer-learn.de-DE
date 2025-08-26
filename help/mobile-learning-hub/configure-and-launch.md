@@ -215,6 +215,7 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
 ## Blog-Beiträge
 
 * [Verwenden von CDN-basierter Client-seitiger Personalisierung (ODD) auf Mobilgeräten für schnellere Personalisierungen.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
