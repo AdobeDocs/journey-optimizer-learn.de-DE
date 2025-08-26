@@ -7,13 +7,13 @@ level: Beginner, Intermediate
 hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
-source-git-commit: e3bc8e24f6a8a59a84341f9d31d0e372fa6e99ab
+exl-id: d8ffe406-b54b-455f-bd41-7d1fef0a4714
+source-git-commit: b7d014b3ac6373b957eb5fce11661ec39689446b
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 55%
 
 ---
-
 
 # Konfigurieren und starten
 
@@ -23,14 +23,14 @@ Konfigurieren Sie die mobilen Kanäle in Journey Optimizer und Experience Platfo
 >
 >Wenn Sie Journey Optimizer und Experience Platform noch nicht kennen, machen Sie sich mit den Kernkonzepten vertraut, indem Sie sich diese Wiedergabelisten ansehen:
 >
->* [Erste Schritte mit Journey Optimizer für Journey-Administratoren und -Manager](https://experienceleague.adobe.com/de/playlists/journey-optimizer-getting-started-for-journey-administrators-and-managers)
->* [Konfigurieren von Journey Optimizer für Journey-Administratoren](https://experienceleague.adobe.com/de/playlists/journey-optimizer-configure-journey-optimizer-for-administrators)
->* [Konfigurieren und Verwalten von Daten in Journey Optimizer für Dateningenieure](https://experienceleague.adobe.com/de/playlists/journey-optimizer-configure-and-manage-data-for-data-engineers)
+>* [Erste Schritte mit Journey Optimizer für Journey-Administratoren und -Manager](https://experienceleague.adobe.com/en/playlists/journey-optimizer-getting-started-for-journey-administrators-and-managers)
+>* [Konfigurieren von Journey Optimizer für Journey-Administratoren](https://experienceleague.adobe.com/en/playlists/journey-optimizer-configure-journey-optimizer-for-administrators)
+>* [Konfigurieren und Verwalten von Daten in Journey Optimizer für Dateningenieure](https://experienceleague.adobe.com/en/playlists/journey-optimizer-configure-and-manage-data-for-data-engineers)
 
 
 ## Mobile-Funktionen in Adobe Journey Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3409520?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342103?quality=12&learn=on){transcript=true}
 
 ## Mobile SDK- und App-Konfiguration
 
@@ -56,8 +56,8 @@ LINKS zu Tutorials
 Erfahren Sie, wie der Kanal Ihre **mobilen Kanäle** mithilfe der Funktion „Geführte Kanaleinrichtung“ konfiguriert. Erfahren Sie, wie Sie den **WhatsApp-Kanal“ konfigurieren**:
 
 <!-- CARDS
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -65,7 +65,7 @@ Erfahren Sie, wie der Kanal Ihre **mobilen Kanäle** mithilfe der Funktion „Ge
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="Anleitung zur Kanaleinrichtung" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="Anleitung zur Kanaleinrichtung" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433053/?format=jpeg&nocache=1755888511558" alt="Anleitung zur Kanaleinrichtung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -74,11 +74,11 @@ Erfahren Sie, wie der Kanal Ihre **mobilen Kanäle** mithilfe der Funktion „Ge
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" title="Anleitung zur Kanaleinrichtung">Anleitung zur Kanaleinrichtung</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" title="Anleitung zur Kanaleinrichtung">Anleitung zur Kanaleinrichtung</a>
                     </p>
                     <p class="is-size-6">Die Anleitung zur Kanaleinrichtung hilft Ihnen dabei, Web- und Mobile-Kanäle schnell mit den erforderlichen Ressourcen für Experience Platform, Journey Optimizer und Datenerfassung einzurichten und zu validieren, sodass Ihr Marketing-Team mit der Erstellung von Kampagnen und Journeys beginnen kann. Erfahren Sie, wie Sie eine Push-Kanal-Benachrichtigung in einer Beispiel-Marketing-App für iOS einrichten und validieren.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -88,8 +88,8 @@ Erfahren Sie, wie der Kanal Ihre **mobilen Kanäle** mithilfe der Funktion „Ge
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="Einrichten des WhatsApp-Kanals" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470277/?format=jpeg&nocache=1755888511569&captions=ger" alt="Einrichten des WhatsApp-Kanals"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="Einrichten des WhatsApp-Kanals" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1755888511569" alt="Einrichten des WhatsApp-Kanals"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,11 +97,11 @@ Erfahren Sie, wie der Kanal Ihre **mobilen Kanäle** mithilfe der Funktion „Ge
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" target="_blank" rel="referrer" title="Einrichten des WhatsApp-Kanals">Einrichten des WhatsApp-Kanals</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" target="_blank" rel="referrer" title="Einrichten des WhatsApp-Kanals">Einrichten des WhatsApp-Kanals</a>
                     </p>
                     <p class="is-size-6">Dieses Tutorial führt Sie durch die Einrichtung des WhatsApp-Kanals in Adobe Journey Optimizer, um Echtzeit-Messaging für geschäftliche Zwecke zu ermöglichen.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -114,10 +114,10 @@ Erfahren Sie, wie der Kanal Ihre **mobilen Kanäle** mithilfe der Funktion „Ge
 Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twilio, Synch oder Infobip) oder mit einem benutzerdefinierten SMS-Anbieter konfigurieren:
 
 <!-- CARDS
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -125,7 +125,7 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="Konfigurieren von SMS-API-Anmeldedaten und Kanaloberflächen" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="Konfigurieren von SMS-API-Anmeldedaten und Kanaloberflächen" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413355?format=jpeg&nocache=1755888512031" alt="Konfigurieren von SMS-API-Anmeldedaten und Kanaloberflächen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -134,11 +134,11 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="Konfigurieren von SMS-API-Anmeldedaten und Kanaloberflächen">Konfigurieren von SMS-API-Anmeldeinformationen und Kanaloberflächen</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="Konfigurieren von SMS-API-Anmeldedaten und Kanaloberflächen">Konfigurieren von SMS-API-Anmeldeinformationen und Kanaloberflächen</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie Journey Optimizer mit einem SMS-Dienstleister verbinden und wie Sie eine SMS-Kanaloberfläche erstellen.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -171,8 +171,8 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438055/?format=jpeg&nocache=1755888512061&captions=ger" alt="Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1755888512061" alt="Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -180,11 +180,11 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" title="Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen">Konfigurieren von SMS-API-Anmeldeinformationen und Kanaloberflächen</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" title="Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen">Konfigurieren von SMS-API-Anmeldeinformationen und Kanaloberflächen</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie Journey Optimizer mit einem MMS-Dienstanbieter verbinden und wie Sie eine MMS-Kanaloberfläche erstellen.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -194,8 +194,8 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Einrichten von RCS in Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464764/?format=jpeg&nocache=1755888512073&captions=ger" alt="Einrichten von RCS in Journey Optimizer"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Einrichten von RCS in Journey Optimizer" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1755888512073" alt="Einrichten von RCS in Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -203,11 +203,11 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" target="_blank" rel="referrer" title="Einrichten von RCS in Journey Optimizer">RCS in Journey Optimizer einrichten</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" target="_blank" rel="referrer" title="Einrichten von RCS in Journey Optimizer">RCS in Journey Optimizer einrichten</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie an Ihre Marke angepasste, interaktive RCS-Nachrichten in Adobe Journey Optimizer mithilfe eines benutzerdefinierten SMS-Anbieters konfigurieren und senden. Dieses Tutorial führt Sie durch die Einrichtung von API-Anmeldedaten, Webhooks und Kanalkonfigurationen sowie anschließend durch die Erstellung einer Journey für umfassende, personalisierte Messaging-Erlebnisse – und all dies innerhalb der nativen Messaging-App.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -215,19 +215,18 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
 ## Blog-Beiträge
 
-* [Verwenden von CDN-basierter Client-seitiger Personalisierung (ODD) auf Mobilgeräten für schnellere Personalisierungen.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626?profile.language=de)
-* [Mobile Activation für Adobe Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595?profile.language=de)
+* [Verwenden von CDN-basierter Client-seitiger Personalisierung (ODD) auf Mobilgeräten für schnellere Personalisierungen.](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
+* [Mobile Activation für Adobe Experience Cloud](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595)
 
 ## Einhaltung von Datenschutzgesetzen und Platform-Richtlinien.
 
 <!-- CARDS
-* https://experienceleague.adobe.com/de/docs/journey-optimizer/using/privacy/privacy-landing-page{image=../mobile-learning-hub/assets/privacy.webp}{title = Privacy Features in Adobe Journey Optimizer}{description = Learn how to process privacy requests, audit user actions, manage consent, apply governance rules, and leverage advanced security options like Customer Managed Keys.}
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables{cta = Watch}
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies
+* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page{image=../mobile-learning-hub/assets/privacy.webp}{title = Privacy Features in Adobe Journey Optimizer}{description = Learn how to process privacy requests, audit user actions, manage consent, apply governance rules, and leverage advanced security options like Customer Managed Keys.}
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables{cta = Watch}
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -235,7 +234,7 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer/using/privacy/privacy-landing-page" title="Datenschutzfunktionen in Adobe Journey Optimizer" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" title="Datenschutzfunktionen in Adobe Journey Optimizer" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="../mobile-learning-hub/assets/privacy.webp" alt="Datenschutzfunktionen in Adobe Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -244,11 +243,11 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" title="Datenschutzfunktionen in Adobe Journey Optimizer">Datenschutzfunktionen in Adobe Journey Optimizer</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" title="Datenschutzfunktionen in Adobe Journey Optimizer">Datenschutzfunktionen in Adobe Journey Optimizer</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie Datenschutzanfragen verarbeiten, Benutzeraktionen prüfen, Einverständnis verwalten, Governance-Regeln anwenden und erweiterte Sicherheitsoptionen wie kundenseitig verwaltete Schlüssel nutzen können.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
                 </a>
             </div>
@@ -259,7 +258,7 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" title="Übersicht über das Data-Governance-Framework" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/33153/?format=jpeg&nocache=1755888512557&captions=ger" alt="Übersicht über das Data-Governance-Framework"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29708/?format=jpeg&nocache=1755888512557" alt="Übersicht über das Data-Governance-Framework"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -282,7 +281,7 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" title="Klassifizieren von Daten mithilfe von Labels" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422789?format=jpeg&nocache=1755888512540&captions=ger" alt="Klassifizieren von Daten mithilfe von Labels"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29709?format=jpeg&nocache=1755888512540" alt="Klassifizieren von Daten mithilfe von Labels"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -305,7 +304,7 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" title="Erstellen von Richtlinien zur Datennutzung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/37126/?format=jpeg&nocache=1755888512550&captions=ger" alt="Erstellen von Richtlinien zur Datennutzung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32977/?format=jpeg&nocache=1755888512550" alt="Erstellen von Richtlinien zur Datennutzung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -325,4 +324,3 @@ Erfahren Sie, wie Sie **SMS-/MMS-/RCS-Kanäle** mit den Standardanbietern (Twili
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-

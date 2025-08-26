@@ -6,13 +6,13 @@ role: User, Admin, Developer
 hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
-source-git-commit: e3bc8e24f6a8a59a84341f9d31d0e372fa6e99ab
+exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
+source-git-commit: b70b2cca5d95d931c8bbd52a69e96ccc31faa92c
 workflow-type: tm+mt
 source-wordcount: '901'
 ht-degree: 0%
 
 ---
-
 
 # Journey Optimizer - Mobile Learning Hub
 
@@ -25,7 +25,7 @@ Schnellstart oder Aufstieg mit mobilen Kanälen in Adobe Journey Optimizer (AJO)
 
 Journey Optimizer unterstützt sowohl eingehende als auch ausgehende Mobile-Kanäle:
 
-### Ausgehende Kanäle
+### Outbound-Kanäle
 
 Ausgehende Kanäle werden verwendet, um **proaktiv Nachrichten)** Kunden zu senden, ohne dass eine vorherige Interaktion erforderlich ist. Diese eignen sich ideal für Kampagnen, Promotions und Transaktionsnachrichten.
 
@@ -35,7 +35,7 @@ Ausgehende Kanäle werden verwendet, um **proaktiv Nachrichten)** Kunden zu send
 
 > Ausgehende Kanäle erzwingen **benutzerdefinierte Einverständnisrichtlinien** beim Nachrichtenversand. Wenn für eine bestimmte Marketing-Aktion kein Einverständnis erteilt wird, wird der Versand der Nachricht blockiert.
 
-## Eingehende Kanäle
+### Eingehende Kanäle
 
 Eingehende Kanäle sind für **kundeninitiierte Interaktionen** konzipiert, die personalisierte Erlebnisse ermöglichen, wenn Benutzer mit Ihrer Marke interagieren.
 
@@ -45,7 +45,7 @@ Eingehende Kanäle sind für **kundeninitiierte Interaktionen** konzipiert, die 
 
 > Eingehende Kanäle unterstützen **Echtzeit-Personalisierung** und **Datenerfassung** wie Landingpage-Formulare, die zur Segmentierung und Zielgruppenbestimmung in Adobe Experience Platform (AEP) eingespeist werden.
 
-## Wie können mobile Kanäle zusammenarbeiten?
+### Wie können mobile Kanäle zusammenarbeiten?
 
 Durch die Kombination dieser Kanäle können Sie ein nahtloses und effektives Kundenerlebnis schaffen:
 
@@ -64,7 +64,7 @@ Durch die Kombination dieser Kanäle können Sie ein nahtloses und effektives Ku
 
 ## Kunden-Anwendungsfälle
 
-* [Mit Personalisierung fliegen: Wie Fluggesellschaften Angebote mit Adobe Journey Optimizer erhöhen können (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=de)
+* [Mit Personalisierung fliegen: Wie Fluggesellschaften Angebote mit Adobe Journey Optimizer erhöhen können (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
 
 
 ## Fundament aufbauen
@@ -99,5 +99,3 @@ Lernen Sie die Konzepte und Gewusst wie
 | **Upsell- und Crosssell-Kampagnen** | Werbt für zusätzliche Produkte oder Upgrades bei Bestandskunden auf der Grundlage ihres Verhaltens, ihrer Voreinstellungen oder ihres Kaufverlaufs. | - Push-Benachrichtigungen zeigen relevante Upsell-Möglichkeiten auf.<br>- In-App-Nachrichten und -Inhaltskarten präsentieren ergänzende Elemente.<br>- SMS-Kampagnen zielen mit exklusiven Angeboten auf segmentierte Zielgruppen ab. |
 | **Abwanderungsprävention** | Identifiziert Benutzende, die das Risiko haben, das System zu verlassen, und setzt personalisierte Aufbewahrungsstrategien ein, um ihre Loyalität zu wahren. | - Mobile Kontaktaufnahme mit Predictive Analytics-Triggern für gefährdete Benutzer.<br>- Push-Benachrichtigungen und SMS bieten Treueprämien oder personalisierte Inhalte.<br>-In-App-Umfragen sammeln Feedback zur Verbesserung der Kundenbindungsstrategien. |
 | **Multi-Channel-Messaging** | Orchestriert konsistentes Messaging über mehrere mobile Kanäle, um sicherzustellen, dass Benutzer zeitnahe und relevante Nachrichten erhalten. | - Push, In-App, SMS und E-Mail werden für Unified Messaging koordiniert.<br>-SDKs ermöglichen die kanalübergreifende Echtzeit-Personalisierung.<br>- Inhaltskarten bleiben sitzungsübergreifend bestehen, um wichtige Botschaften zu unterstreichen. |
-
-
