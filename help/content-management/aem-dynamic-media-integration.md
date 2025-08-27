@@ -28,4 +28,4 @@ In diesem Tutorial wird beschrieben, wie Sie Bilder direkt in AJO ändern, im HT
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457695/?learn=on&enablevpops)
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/aem-dynamic).
+Weitere Informationen zu dieser Funktion finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/combine/aem-dynamic).
