@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: fe5ca064c5823c980b19a41a511e534842a91e99
+source-git-commit: b46e2f77012fd1032f4d434132ee3263489b39a8
 workflow-type: tm+mt
 source-wordcount: '926'
 ht-degree: 97%
@@ -19,7 +19,7 @@ ht-degree: 97%
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
    + [Intelligente Wiederaufnahme der Interaktion – Abgebrochenes Browsen](https://experienceleague.adobe.com/de/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe eines Web SDK](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Erstellen von Berichten zu Angebots-Impressions und Klicks](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [Erstellen von Berichten zu Angebots-Impressions und Klicks ](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten in Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
@@ -34,7 +34,7 @@ ht-degree: 97%
    + [Architektur](/help/introduction/architecture.md)
    + [Mobile-Funktionen für Marketing-Fachleute](/help/channels/mobile-capabilities.md)
    + [Mobile-Funktionen für Entwickler](/help/channels/mobile-capabilities-for-developers.md)
-   + [Hilfe zum KI-Assistenten](/help/ai-assistant.md)
+   + [Hilfe zum KI-Assistenten](/help/ai-agents/ai-assistant.md)
 + Kampagnen {#create-campaigns}
    + Aktionskampagnen {#action-campaigns}
       + [Erstellen einer Kampagne](/help/create-campaigns/create-a-campaign.md)
@@ -121,7 +121,7 @@ ht-degree: 97%
    + [Nachrichtenerstellung – Überblick](/help/content-management/message-authoring-overview.md)
    + Verwalten von Assets {#assets}
       + [Digital Asset Management – Überblick](/help/content-management/digital-asset-management-overview.md)
-      + [Verwalten von Assets](/help/assets-essentials-overview.md)
+      + [Verwalten von Assets](/help/content-management/assets-essentials-overview.md)
       + [Integration von AEM Dynamic Media](/help/content-management/aem-dynamic-media-integration.md)
       + [Bearbeiten von Assets mit Adobe Express](/help/content-management/edit-assets-with-adobe-express.md)
    + Arbeiten mit Fragmenten {#fragments}
@@ -227,7 +227,7 @@ ht-degree: 97%
 + Übungen und Herausforderungen {#exercises-and-challenges}
    + [Konfigurieren einer Trainings-Sandbox](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [Herausforderungen](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
-+ [Live-Aufnahmen von Experience League](/help/experience-league-live-show-recordings.md)
++ [Live-Aufnahmen von Experience League](/help/_ajo-main/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [Summit Lab-Cheatsheet 2025](/help/summit-lab-assets/l535-assets.md)
    + [Erstellen personalisierter Mobile-Momente mit Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
