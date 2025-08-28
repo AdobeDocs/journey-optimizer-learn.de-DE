@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: a3b77dfe47e09816ad4d5b295ebe791c4f133e69
+source-git-commit: fe5ca064c5823c980b19a41a511e534842a91e99
 workflow-type: tm+mt
 source-wordcount: '926'
 ht-degree: 97%
@@ -19,7 +19,7 @@ ht-degree: 97%
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
    + [Intelligente Wiederaufnahme der Interaktion – Abgebrochenes Browsen](https://experienceleague.adobe.com/de/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe eines Web SDK](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Erstellen von Berichten zu Angebots-Impressions und Klicks](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [Erstellen von Berichten zu Angebots-Impressions und Klicks ](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten in Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
@@ -181,7 +181,7 @@ ht-degree: 97%
    + [Exportieren von Datensätzen zu Cloud-Speicherorten](/help/data-management/export-datasets.md)
 + Berichte und Überwachung {#report-and-monitor}
    + [Berichte und Überwachung](/help/report-and-monitor/report-and-monitor.md)
-   + [Einführung in das Reporting mit Journey Optimizer](/help/report-and-monitor/measurement-and-reporting-overview.md)
+   + [Einführung in das Reporting mit Journey Optimizer](/help/report-and-monitor/introduction-to-reporting.md)
    + [Journey mit Live-Berichten überwachen und analysieren](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [Journey mit Journey Reports überwachen und analysieren](/help/report-and-monitor/journey-reports.md)
    + [Berichte auf Kanalebene](/help/report-and-monitor/channel-level-reports.md)
