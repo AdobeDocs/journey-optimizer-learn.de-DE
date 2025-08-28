@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die Performance einzelner Journey verfolgen können und wie Benutzende mit verschiedenen Schritten auf einer Journey interagieren, einschließlich Einstiegs- und Ausstiegsstatistiken, Fehlern und ausgeführten Aktionen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470710/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471472/?learn=on&enablevpops&captions=ger)
