@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 7749164744a667433d93ea8f33d2278863ab275e
+source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
 workflow-type: tm+mt
-source-wordcount: '951'
+source-wordcount: '938'
 ht-degree: 95%
 
 ---
@@ -14,9 +14,6 @@ ht-degree: 95%
 # Journey Optimizer-Tutorials {#tutorials}
 
 + [Journey Optimizer-Tutorials](/help/_ajo-main/overview.md)
-   + [Übersicht](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [Konfigurieren einer Playbook-Sandbox](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [Erstellen und Veröffentlichen von Playbook-Instanzen](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Einführung in Journey Optimizer {#introduction-to-journey-optimizer}
    + [Journey Optimizer – Überblick](/help/introduction/journey-optimizer-overview.md)
    + [Einführung in Journey Optimizer](/help/introduction/introduction.md)
@@ -34,7 +31,7 @@ ht-degree: 95%
       + [Erstellen einer Code-basierten Erlebniskampagne](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [Nutzen der Nachrichtenoptimierung in einer Kampagne](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
    + Durch API ausgelöste Kampagnen {#api-triggered-campaigns}
-      + [Auslösen von Kampagnen mit APIs](/help/create-campaigns/api-triggered-campaigns.md)
+      + [Auslösen von Kampagnen mit APIs](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + Orchestrierte Kampagnen {#orchestrated-campaigns}
       + [Einführung in koordinierte Kampagnen](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [Verstehen von relationalen Schemata](/help/orchestrated-campaigns/understand-relational-schemas.md)
@@ -222,7 +219,7 @@ ht-degree: 95%
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
    + [Intelligente Wiederaufnahme der Interaktion – Abgebrochenes Browsen](https://experienceleague.adobe.com/de/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe eines Web SDK](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Erstellen von Berichten zu Angebots-Impressions und Klicks](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [Erstellen von Berichten zu Angebots-Impressions und Klicks ](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten in Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
