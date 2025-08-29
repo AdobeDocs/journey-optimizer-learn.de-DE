@@ -219,7 +219,7 @@ ht-degree: 96%
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
    + [Intelligente Wiederaufnahme der Interaktion – Abgebrochenes Browsen](https://experienceleague.adobe.com/de/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe eines Web SDK](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Erstellen von Berichten zu Angebots-Impressions und Klicks ](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [Erstellen von Berichten zu Angebots-Impressions und Klicks](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten in Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
