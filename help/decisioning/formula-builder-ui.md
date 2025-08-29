@@ -1,6 +1,6 @@
 ---
-title: Handbuch zur Formula Builder-Oberfläche in Adobe Journey Optimizer
-description: Erfahren Sie, wie Sie mit dem KI-Formel-Builder in Adobe Journey Optimizer benutzerdefinierte Angebots-Ranking-Strategien erstellen. In dieser exemplarischen Vorgehensweise wird erläutert, wie Sie mit dem KI-Formel-Builder Modellbewertungen, Profil- und Angebotsdaten, kontextuelle Signale und Geschäftsregeln kombinieren können, um Entscheidungen zu personalisieren und Angebote basierend auf Ihren Marketing-Zielen zu priorisieren.
+title: Handbuch zur Formel-Builder-Oberfläche in Adobe Journey Optimizer
+description: Erfahren Sie, wie Sie mit dem KI-Formel-Builder in Adobe Journey Optimizer Strategien für die benutzerdefinierte Rangfolge von Angeboten erstellen. In dieser Anleitung wird erläutert, wie Sie mit dem KI-Formel-Builder Modellwerte, Profil- und Angebotsdaten, kontextuelle Signale und Geschäftsregeln kombinieren können, um Entscheidungen zu personalisieren und Angebote basierend auf Ihren Marketing-Zielen zu priorisieren.
 feature: Decisioning
 topic: Integrations
 role: User
@@ -12,16 +12,16 @@ jira: KT-17614
 thumbnail: KT-17614.jpeg
 exl-id: 0926ec17-7b6a-49be-95c1-059366cdaa81
 source-git-commit: 3f3c225179c4ff390eae40d1e3122ead314605b8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Handbuch zur Formula Builder-Oberfläche in Adobe Journey Optimizer
+# Handbuch zur Formel-Builder-Oberfläche in Adobe Journey Optimizer
 
-Erfahren Sie, wie Sie mit dem KI-Formel-Builder in Adobe Journey Optimizer benutzerdefinierte Angebots-Ranking-Strategien erstellen.
+Erfahren Sie, wie Sie mit dem KI-Formel-Builder in Adobe Journey Optimizer Strategien für die benutzerdefinierte Rangfolge von Angeboten erstellen.
 
-In dieser exemplarischen Vorgehensweise wird erläutert, wie Sie mit dem KI-Formel-Builder Modellbewertungen, Profil- und Angebotsdaten, kontextuelle Signale und Geschäftsregeln kombinieren können, um Entscheidungen zu personalisieren und Angebote basierend auf Ihren Marketing-Zielen zu priorisieren.
+In dieser Anleitung wird erläutert, wie Sie mit dem KI-Formel-Builder Modellwerte, Profil- und Angebotsdaten, kontextuelle Signale und Geschäftsregeln kombinieren können, um Entscheidungen zu personalisieren und Angebote basierend auf Ihren Marketing-Zielen zu priorisieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464446/?learn=on&enablevpops){transcript=true}
