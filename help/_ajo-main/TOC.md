@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
+source-git-commit: f2354e6ebd8c033de11556493321f09a209d4817
 workflow-type: tm+mt
-source-wordcount: '938'
+source-wordcount: '930'
 ht-degree: 96%
 
 ---
@@ -29,12 +29,11 @@ ht-degree: 96%
       + [Konfigurieren und Senden von Push-Kampagnen](/help/campaigns/action-campaigns/push-campaign.md)
       + [Erstellen einer Web-Kampagne](/help/campaigns/action-campaigns/web-campaign.md)
       + [Erstellen einer Code-basierten Erlebniskampagne](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-      + [Nutzen der Nachrichtenoptimierung in einer Kampagne](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
-   + Durch API ausgelöste Kampagnen {#api-triggered-campaigns}
+      + [Nutzen der Nachrichtenoptimierung in einer Kampagne](/help/campaigns/action-campaigns/leverage-message-optimization-in-a-campaign.md)
       + [Auslösen von Kampagnen mit APIs](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + Orchestrierte Kampagnen {#orchestrated-campaigns}
       + [Einführung in koordinierte Kampagnen](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
-      + [Verstehen von relationalen Schemata](/help/orchestrated-campaigns/understand-relational-schemas.md)
+      + [Verstehen von relationalen Schemata](/help/campaigns/orchestrated-campaigns/understand-relational-schemas.md)
 + Journeys {#create-journeys}
    + [Journey-Designer – Überblick](/help/create-journeys/journey-designer-overview.md)
    + [Der neue Journey-Designer](/help/create-journeys/new-journey-designer.md)
@@ -78,7 +77,6 @@ ht-degree: 96%
       + [Erstellen von Inhalten mit dem E-Mail-Designer](/help/channels/create-content-with-the-email-designer.md)
       + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/channels/import-and-author-html-email-content.md)
       + [Vorschau, Testversand und Veröffentlichung](/help/channels/preview-proof-and-publish.md)
-      + [Konfigurieren von Inhaltsexperimenten für E-Mails](/help/experimentation/content-experiments-for-emails.md)
    + Inhaltskarten{#content-cards}
       + [Erstellen von Inhaltskarten](/help/channels/create-content-cards.md)
    + In-App-Kanal{#in-app-channel}
@@ -219,7 +217,7 @@ ht-degree: 96%
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
    + [Intelligente Wiederaufnahme der Interaktion – Abgebrochenes Browsen](https://experienceleague.adobe.com/de/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe eines Web SDK](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Erstellen von Berichten zu Angebots-Impressions und Klicks](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [Erstellen von Berichten zu Angebots-Impressions und Klicks ](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten in Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
