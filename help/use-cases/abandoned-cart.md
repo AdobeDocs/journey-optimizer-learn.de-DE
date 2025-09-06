@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie den Anwendungsfall „Abgebrochener Warenkorb“ mithilfe der Playbook-Funktion in Adobe Journey Optimizer implementieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443964/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443973/?learn=on&enablevpops&captions=ger)
 
 Weitere Informationen finden Sie unter [Konfigurieren einer Playbook-Sandbox](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"} und [Erstellen und Veröffentlichen von Playbook-Instanzen](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}.

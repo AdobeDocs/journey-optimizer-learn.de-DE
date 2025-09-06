@@ -23,4 +23,4 @@ ht-degree: 0%
 
 In diesem Tutorial erhalten Sie ein solides Verständnis davon, wie relationale Schemas - die speziell für orchestrierte Kampagnen in Journey Optimizer gelten - zusammen mit Echtzeit-Kundenprofilen funktionieren. Lernen Sie die Kernkonzepte hinter der Datenaufnahme, Schemamodellierung, Segmentierung und Kampagnenausführung kennen und erhalten Sie die Grundlage für das Entwerfen strukturierter, skalierbarer und personalisierter Kunden-Journey.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470223/?learn=on&enablevpops&captions=ger)

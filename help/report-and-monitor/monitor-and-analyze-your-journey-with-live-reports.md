@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie mit der Funktion für Live-Berichte von Adobe Journey Optimizer die Leistung Ihrer Journeys und Nachrichten in Echtzeit überwachen und analysieren können. Erfahren Sie, wie Sie Dashboards anpassen, Berichte exportieren und Journey-spezifische Metriken interpretieren, um Ihre Marketing-Strategien zu optimieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470709/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470844/?learn=on&enablevpops&captions=ger)

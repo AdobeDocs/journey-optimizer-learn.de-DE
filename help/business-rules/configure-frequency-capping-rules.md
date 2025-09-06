@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie die Geschäftsregeln von Adobe Journey Optimizer verwenden, um eine Frequenzbegrenzung einzurichten und eine Überforderung Ihrer Kundschaft zu verhindern. In diesem Video wird erläutert, wie Sie globale und benutzerdefinierte Regelsätze erstellen, z. B. die Beschränkung aller E-Mails auf eine pro Tag oder die gesonderte Begrenzung von Werbe-E-Mails. Außerdem erfahren Sie, wie Sie diese Regeln auf Kampagnen anwenden können, um die Ermüdung der Kundschaft effektiv zu bewältigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433404/?learn=on&captions=ger)
 
 Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/configuration/frequency-rules).
