@@ -1,6 +1,6 @@
 ---
 title: Einführung in Experimente
-description: Informationen zur Durchführung von Tests und Simulationen in Journey Optimizer, um Inhalte abzustimmen und die Customer Journey auf der Grundlage datengesteuerter Einblicke zu optimieren.
+description: Erfahren Sie, wie Sie in Journey Optimizer Tests und Simulationen durchführen, um Ihre Inhalte zu verbessern und so die Customer Journey auf Grundlage von datengestützten Erkenntnissen zu optimieren.
 feature: Experimentation
 role: User
 level: Beginner
@@ -10,15 +10,15 @@ last-substantial-update: 2024-10-08T00:00:00Z
 jira: KT-16298
 exl-id: 016488db-6ecb-4bab-a9b2-c65f1075411a
 source-git-commit: 62c4ee2d5a3e6c71646ae4f92eeee0491846832b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
 # Einführung in Experimente
 
-Informationen zur Durchführung von Tests und Simulationen in Journey Optimizer, um Inhalte abzustimmen und die Customer Journey auf der Grundlage datengesteuerter Einblicke zu optimieren.
+Erfahren Sie, wie Sie in Journey Optimizer Tests und Simulationen durchführen, um Ihre Inhalte zu verbessern und so die Customer Journey auf Grundlage von datengestützten Erkenntnissen zu optimieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434963/?learn=on)
 
