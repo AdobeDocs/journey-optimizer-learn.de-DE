@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Lernen Sie die grundlegenden Konzepte des relationalen Speichers kennen, der in der Kampagnenorchestrierung von Journey Optimizer verwendet wird - einschließlich Schemadesign, Datenaufnahme, unterstützter Quellen und Hauptunterschieden vom Echtzeit-Profilspeicher.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470223/?learn=on&enablevpops&captions=ger)
