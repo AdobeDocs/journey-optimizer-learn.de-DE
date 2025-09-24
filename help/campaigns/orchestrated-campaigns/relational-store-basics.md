@@ -1,6 +1,6 @@
 ---
-title: Grundlagen zum relationalen Store in Journey Optimizer
-description: Lernen Sie die grundlegenden Konzepte des relationalen Speichers kennen, der in der Kampagnenorchestrierung von Journey Optimizer verwendet wird - einschließlich Schemadesign, Datenaufnahme, unterstützter Quellen und Hauptunterschieden vom Echtzeit-Profilspeicher.
+title: Grundlagen zum relationalen Speicher in Journey Optimizer
+description: Lernen Sie die grundlegenden Konzepte des relationalen Speichers kennen, der in der Kampagnenorchestrierung von Journey Optimizer verwendet wird, einschließlich Schema-Design, Datenaufnahme, unterstützten Quellen und Hauptunterschieden zum Echtzeitprofilspeicher.
 feature: Campaigns
 role: Data Engineer
 level: Beginner
@@ -13,14 +13,14 @@ index: true
 jira: KT-18519
 exl-id: a58a964b-0414-4061-ab5d-170f8a0a1f46
 source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Grundlagen des relationalen Speichers in Journey Optimizer
+# Grundlagen zum relationalen Speicher in Journey Optimizer
 
-Lernen Sie die grundlegenden Konzepte des relationalen Speichers kennen, der in der Kampagnenorchestrierung von Journey Optimizer verwendet wird - einschließlich Schemadesign, Datenaufnahme, unterstützter Quellen und Hauptunterschieden vom Echtzeit-Profilspeicher.
+Lernen Sie die grundlegenden Konzepte des relationalen Speichers kennen, der in der Kampagnenorchestrierung von Journey Optimizer verwendet wird, einschließlich Schema-Design, Datenaufnahme, unterstützten Quellen und Hauptunterschieden zum Echtzeitprofilspeicher.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470223/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
