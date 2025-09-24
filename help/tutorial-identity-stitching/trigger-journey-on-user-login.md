@@ -21,8 +21,8 @@ In dieser Erweiterung des Tutorials zum Identitätszuordnen wird die Adobe Journ
 
 ## E-Mail-Kanal-Konfiguration erstellen
 
-* Bei _**Journey Optimizer anmelden**_
-* Navigieren Sie zu _**Administration -> Kanäle -> Kanalkonfiguration erstellen**_
+* Bei _&#x200B;**Journey Optimizer anmelden**&#x200B;_
+* Navigieren Sie zu _&#x200B;**Administration -> Kanäle -> Kanalkonfiguration erstellen**&#x200B;_
 * Wählen Sie **E** Mail) in der Kanalliste aus. Geben Sie einen aussagekräftigen Namen und eine Beschreibung an.
 * Füllen Sie die E-Mail-Einstellungen aus.
 * Geben Sie Ausführungsdetails an, wie unten dargestellt. Die E-Mail wird an die im Feld gespeicherte E-Mail-Adresse des Profils gesendet
@@ -31,8 +31,8 @@ In dieser Erweiterung des Tutorials zum Identitätszuordnen wird die Adobe Journ
 
 ## Ereignis erstellen
 
-* Bei _**Journey Optimizer anmelden**_
-* Navigieren Sie zu _**Administration -> Konfigurationen**_
+* Bei _&#x200B;**Journey Optimizer anmelden**&#x200B;_
+* Navigieren Sie zu _&#x200B;**Administration -> Konfigurationen**&#x200B;_
 * Klicken Sie auf die Schaltfläche Verwalten auf der Karte Ereignisse und klicken Sie auf Ereignis erstellen . Geben Sie die Werte wie unten gezeigt an
 * ![Journey-Ereignis](assets/journey-event.png)
 
@@ -41,9 +41,9 @@ In dieser Erweiterung des Tutorials zum Identitätszuordnen wird die Adobe Journ
 
 ## Journey erstellen
 
-* Bei _**Journey Optimizer anmelden**_
-* Navigieren Sie zu _**Journey-Verwaltung > Journey > Journey erstellen**_
-* Ziehen Sie das _**UserLoggedIn**_-Ereignis auf die Arbeitsfläche
+* Bei _&#x200B;**Journey Optimizer anmelden**&#x200B;_
+* Navigieren Sie zu _&#x200B;**Journey-Verwaltung > Journey > Journey erstellen**&#x200B;_
+* Ziehen Sie das _&#x200B;**UserLoggedIn**&#x200B;_-Ereignis auf die Arbeitsfläche
 * E-Mail aus dem Aktionsmenü ziehen und ablegen. Konfigurieren Sie die E-Mail-Aktion so, dass sie die zuvor erstellte E-Mail-Kanalkonfiguration verwendet
 * Veröffentlichen der Journey
 
