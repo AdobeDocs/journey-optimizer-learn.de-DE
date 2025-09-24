@@ -8,9 +8,10 @@ doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
-source-git-commit: 68bd0a65e7d7f2d57f9620e76555485a1a79b4ae
+exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
+source-git-commit: 71b42350370d12ce677bf075d8b48edcbe541ab4
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -88,6 +89,7 @@ Die folgende Bildschirmabbildung zeigt, dass die ID „FIN001“ korrekt überge
 * Navigieren Sie zu Kunde > Profile > Durchsuchen
 * Suche nach FinWise CRM ID = FIN001
 * Öffnen Sie das Profil und sehen Sie sich den Abschnitt Identitäten an. Es sollten sowohl die CRMID als auch die ECID aufgeführt sein.   Dies bestätigt, dass die beiden Identitäten zu einem einzigen Profil zusammengefügt wurden.
-
+* Die Journey sollte ebenfalls ausgelöst werden. Überprüfen Sie dies, indem Sie den Journey-Bericht anzeigen
+* ![Journey-Bericht](assets/journey-triggered-report.png)
 
 
