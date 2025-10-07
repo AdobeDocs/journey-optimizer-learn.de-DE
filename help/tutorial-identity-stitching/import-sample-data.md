@@ -30,7 +30,7 @@ Um mit der Identitätszuordnung zu beginnen, importieren Sie CRM-Beispielprofild
 
 Erstellen Sie ein individuelles Profilschema mit dem Namen **_FinWiseProfileSchema_**. Schließen Sie Felder wie „AnnualIncome“, „Email“, „firstName“, „lastName“ und „LoyaltyStatus“ ein.
 Fügen Sie ein Identitätsfeld **_crmid_** hinzu, wie dargestellt. Markieren Sie das Feld crmid als Identität und primär.
-Fügen Sie die _**Einverständnis und Voreinstellungsdetails**_ der Feldergruppe zum Schema hinzu. [Einverständnisse und Voreinstellungen](https://experienceleague.adobe.com/de/docs/experience-platform/xdm/field-groups/profile/consents) ist eine Standardfeldgruppe für die Klasse „XDM Individual Profile“, die Einverständnis- und Voreinstellungsinformationen für einen einzelnen Kunden erfasst. Die hier gespeicherten Voreinstellungen bestimmen die Kommunikationsvoreinstellungen auf Kanalebene.
+Fügen Sie die _&#x200B;**Einverständnis und Voreinstellungsdetails**&#x200B;_ der Feldergruppe zum Schema hinzu. [Einverständnisse und Voreinstellungen](https://experienceleague.adobe.com/de/docs/experience-platform/xdm/field-groups/profile/consents) ist eine Standardfeldgruppe für die Klasse „XDM Individual Profile“, die Einverständnis- und Voreinstellungsinformationen für einen einzelnen Kunden erfasst. Die hier gespeicherten Voreinstellungen bestimmen die Kommunikationsvoreinstellungen auf Kanalebene.
 
 
 ![profile-schema](assets/finwise-profile-schema.png)
@@ -52,7 +52,7 @@ Aktualisieren Sie die Platzhalter-E-Mail-Adressen auf echte. Diese werden späte
 * Erstellen Sie einen Datensatz mit dem **_FinWiseCustomerDataSetWithAnnualIncome_**, basierend auf dem **_FinWiseProfileSchema_**, der im vorherigen Schritt erstellt wurde
 
 * Navigieren Sie zu Verbindungen > Quellen > Lokales System
-* Wählen Sie **_Daten hinzufügen_** unter Lokaler Datei-Upload aus. Wählen Sie unbedingt _**FinWiseCustomerDataSetWithAnnualIncome**_ als Zieldatensatz aus.
+* Wählen Sie **_Daten hinzufügen_** unter Lokaler Datei-Upload aus. Wählen Sie unbedingt _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ als Zieldatensatz aus.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * Navigieren Sie zum nächsten Bildschirm. Laden Sie die [CSV-Datei](assets/finwise_profiles.csv) hoch und überprüfen Sie die Zuordnungen
   ![Zuordnungen](assets/mappings.png)
