@@ -8,10 +8,10 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '547'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 | Herausforderung | Produktauffüllung |
 |---|---|
 | Persona | Journey-Manager |
-| Erforderliche Fähigkeiten | <ul><li>[Erstellen von Segmenten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=de)</li><li> [Importieren und Erstellen von HTML-E-Mail-Inhalten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=de)</li><li>[Anwendungsfall: Segment lesen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=de)</li> |
+| Erforderliche Fähigkeiten | <ul><li>[Erstellen von Segmenten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=de)</li><li> [Importieren und Erstellen von HTML-E-Mail-Inhalten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=de)</li><li>[Anwendungsfall: Segment lesen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
 | Herunterzuladende Assets | [E-Mail-Datei zur Wiederverfügbarkeit von Produkten](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## Die Story
@@ -35,7 +35,7 @@ Luma bittet Sie, eine Journey in Journey Optimizer zu implementieren. Diese bena
 
 >[!TAB Aufgabe]
 
-## 1. Definieren Sie das Segment – Nicht vorrätige Artikel auf der Wunschliste
+## &#x200B;1. Definieren Sie das Segment – Nicht vorrätige Artikel auf der Wunschliste
 
 Um potenziell interessierte Kundinnen und Kunden anzusprechen, wenn Produkte wieder vorrätig sind, erstellen Sie eine Zielgruppe, die aus Kundinnen und Kunden besteht, die:
 
@@ -49,7 +49,7 @@ Um potenziell interessierte Kundinnen und Kunden anzusprechen, wenn Produkte wie
 Benennen Sie dieses Segment: `Out-of-stock-Wishlist`
 
 
-### 2. Erstellen Sie die Journey – Benachrichtigung zur Wiederverfügbarkeit des Produkts
+### &#x200B;2. Erstellen Sie die Journey – Benachrichtigung zur Wiederverfügbarkeit des Produkts
 
 Wenn ein zuvor nicht vorrätiger Artikel wieder auf Lager ist, benachrichtigen Sie Kundinnen und Kunden, die einen nicht vorrätigen Artikel hinzugefügt hatten, mit einem Aufruf, jetzt einzukaufen, da der Artikel wieder auf Lager ist.
 

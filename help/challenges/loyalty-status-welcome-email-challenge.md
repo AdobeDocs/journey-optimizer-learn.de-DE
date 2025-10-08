@@ -1,5 +1,5 @@
 ---
-title: Erstellen einer Willkommens-E-Mail zum Treuestatus – Herausforderung
+title: Erstellen einer Begrüßungs-E-Mail zum Treuestatus – Herausforderung
 description: Erstellen Sie eine Journey, die automatisch eine Begrüßungs-E-Mail an Kundinnen und Kunden sendet, wenn diese eine Treuestufe erreichen.
 jira: KT-8109
 feature: Journeys
@@ -7,38 +7,38 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '403'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
-# Erstellen einer Willkommens-E-Mail zum Treuestatus – Herausforderung
+# Erstellen einer Begrüßungs-E-Mail zum Treuestatus – Herausforderung
 
-| Herausforderung | Erstellen einer Willkommens-E-Mail zum Treuestatus |
+| Herausforderung | Erstellen einer Begrüßungs-E-Mail zum Treuestatus |
 |---|---|
 | Persona | Journey-Manager |
-| Erforderliche Fähigkeiten | <ul><li>[Erstellen von Segmenten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=de)</li> <li>[Segmentqualifizierung](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=de)</li><li>[HTML-Inhalt importieren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=de)</li></ul> |
+| Erforderliche Fähigkeiten | <ul><li>[Erstellen von Segmenten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=de)</li> <li>[Segmentqualifikation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html)</li><li>[HTML-Inhalt importieren](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=de)</li></ul> |
 | Herunterzuladende Assets | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 {style="table-layout:auto"}
 
 ## Die Story
 
-Luma bietet ein Treueprogramm an, um Kundinnen und Kunden zu gewinnen und zu binden. Das Programm umfasst vier Stufen: Bronze, Silber, Gold und Platin. Jede Loyalitätsstufe erhält unterschiedliche Prämien, Rabatte und andere spezielle Anreize als Belohnung für ihr Wiederholungsgeschäft.
+Luma bietet ein Treueprogramm an, um Kundinnen und Kunden zu gewinnen und zu binden. Das Programm umfasst vier Stufen: Bronze, Silber, Gold und Platin. Jede Treuestufe erhält unterschiedliche Prämien, Rabatte und andere spezielle Anreize als Belohnung für ihr Wiederholungsgeschäft.
 
-Um den speziellen Platin-Status zu unterstreichen, möchte Luma eine Willkommens-E-Mail an Kundinnen und Kunden senden, wenn sie die Platin-Ebene erreichen.
+Um den speziellen Platin-Status zu unterstreichen, möchte Luma eine Begrüßungs-E-Mail an Kundinnen und Kunden senden, wenn sie die Platin-Ebene erreichen.
 
 ## Ihre Herausforderung
 
-Sie wurden gebeten, eine Journey einzurichten, die automatisch eine Willkommens-E-Mail an Kundinnen und Kunden sendet, wenn diese die Platin-Treuestufe erreichen.
+Sie wurden gebeten, eine Journey einzurichten, die automatisch eine Begrüßungs-E-Mail an Kundinnen und Kunden sendet, wenn diese die Platin-Treuestufe erreichen.
 
 >[!BEGINTABS]
 
 >[!TAB Aufgabe]
 
-Wenn sich Treuekundinnen oder -kunden für die Platinstufe qualifizieren, sollten sie eine E-Mail erhalten, in der sie beglückwünscht und über ihre neuen Vorteile informiert werden. Das Kreativ-Team hat eine HTML-Datei **[Luma – Status-Upgrade – Willkommens-E-Mail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** mit dem E-Mail-Textkörper bereitgestellt.
+Wenn sich Treuekundinnen oder -kunden für die Platinstufe qualifizieren, sollten sie eine E-Mail erhalten, in der sie beglückwünscht und über ihre neuen Vorteile informiert werden. Das Kreativ-Team hat eine HTML-Datei **[Luma – Status-Upgrade – Begrüßungs-E-Mail](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** mit dem E-Mail-Textkörper bereitgestellt.
 
 1. Erstellen Sie ein [!UICONTROL Segment] namens `Luma - platinum status` in Journey Optimizer.
 
@@ -73,7 +73,7 @@ Testen Sie Ihre Journey:
 
 So sollte die E-Mail aussehen:
 
-![Luma – Status-Upgrade – Willkommens-E-Mail](/help/challenges/assets/status-upgrade-welcome-email.png)
+![Luma – Status-Upgrade – Begrüßungs-E-Mail](/help/challenges/assets/status-upgrade-welcome-email.png)
 
 >[!TAB Überprüfen Sie Ihre Arbeit]
 
