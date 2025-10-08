@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Erfahren Sie, was eine Web-Kampagne ist. Erfahren Sie, wie Sie die Eigenschaften einer Web-Kampagne konfigurieren, überprüfen und veröffentlichen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418800/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449990/?quality=12&learn=on&captions=ger){transcript=true}

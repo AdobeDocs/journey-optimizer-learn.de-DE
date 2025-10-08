@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Machen Sie sich mit den entsprechenden Anwendungsfällen für Transaktions-Journeys vertraut und erfahren Sie, wie Sie Transaktions-Journeys erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422700?quality=12&learn=on&captions=ger){transcript=true}

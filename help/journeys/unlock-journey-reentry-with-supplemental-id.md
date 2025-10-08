@@ -22,6 +22,6 @@ ht-degree: 0%
 
 In diesem Tutorial erfahren Sie, wie Sie eine zusätzliche Kennung in Adobe Journey Optimizer aktivieren und anwenden. Sie erfahren, wie die Verwendung zusätzlicher Kennungen es Profilen ermöglicht, erneut in Journeys einzutreten, über Objekt-Arrays zu iterieren und Nachrichten mithilfe kontextueller Daten wie Produkt-ID, Versandinformationen und mehr zu personalisieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464801/?learn=on&enablevpops&captions=ger)
 
 Weitere Informationen zu zusätzlichen IDs finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier).
