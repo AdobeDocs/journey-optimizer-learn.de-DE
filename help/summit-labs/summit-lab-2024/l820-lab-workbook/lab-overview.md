@@ -29,14 +29,14 @@ In diesem praxisorientierten Labor erkunden Sie verschiedene Szenarien für Mobi
 >[!IMPORTANT]
 >
 >Bitte verzichten Sie darauf, Fotos oder Screenshots aus der Sitzung in den sozialen Medien zu posten.
->><br>
->>**Vertraulichkeit von Adobe**
->>Die Informationen und Produktinformationen, die heute in diesem Labor veröffentlicht werden, sind vertrauliche Informationen von Adobe.
->>Die Teilnehmer dürfen vertrauliche Informationen weder reproduzieren noch verwenden, verbreiten oder weitergeben.
->>Produktangaben dienen nur zu Informationszwecken, stellen keine Garantie für zukünftige Funktionen dar und können jederzeit geändert werden. Daher sind solche Produktfunktionen in keiner Weise Teil Ihrer Vereinbarung mit Adobe oder anderweitig an Sie gebunden.
->><br>
->>**Haftungsausschluss**
->>Adobe bietet Ihnen frühzeitigen Zugriff auf die Funktionen, die generative KI-Technologie nutzen. Beachten Sie, dass diese Funktionen noch in der Entwicklung sind und zu unerwarteten oder ungenauen Antworten führen können. Wir freuen uns über Ihr Feedback, da wir diese Funktion auf den Markt bringen.
+>&#x200B;><br>
+>&#x200B;>**Vertraulichkeit von Adobe**
+>&#x200B;>Die Informationen und Produktinformationen, die heute in diesem Labor veröffentlicht werden, sind vertrauliche Informationen von Adobe.
+>&#x200B;>Die Teilnehmer dürfen vertrauliche Informationen weder reproduzieren noch verwenden, verbreiten oder weitergeben.
+>&#x200B;>Produktangaben dienen nur zu Informationszwecken, stellen keine Garantie für zukünftige Funktionen dar und können jederzeit geändert werden. Daher sind solche Produktfunktionen in keiner Weise Teil Ihrer Vereinbarung mit Adobe oder anderweitig an Sie gebunden.
+>&#x200B;><br>
+>&#x200B;>**Haftungsausschluss**
+>&#x200B;>Adobe bietet Ihnen frühzeitigen Zugriff auf die Funktionen, die generative KI-Technologie nutzen. Beachten Sie, dass diese Funktionen noch in der Entwicklung sind und zu unerwarteten oder ungenauen Antworten führen können. Wir freuen uns über Ihr Feedback, da wir diese Funktion auf den Markt bringen.
 
 
 ### Wichtige Erkenntnisse

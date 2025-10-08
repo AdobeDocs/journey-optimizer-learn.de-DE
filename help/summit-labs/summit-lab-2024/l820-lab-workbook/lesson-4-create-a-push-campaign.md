@@ -50,7 +50,7 @@ In dieser Übung erstellen Sie die Push-Kampagne, entwerfen und passen die Push-
 >[!SUCCESS]
 >
 >Sie sollten sich jetzt auf der Seite Kampagneneigenschaften befinden:
->> ![Kampagneneigenschaften](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
+>&#x200B;> ![Kampagneneigenschaften](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
 ## Übung 4.2 - Kampagne konfigurieren
 
@@ -80,7 +80,7 @@ Wenn Ihre Sitznummer beispielsweise 99: `99 - 10% Discount Campaign` lautet.
 
 In dieser Übung entwerfen und passen Sie die Push-Benachrichtigung an.
 
-1. Klicken Sie **[!UICONTROL Abschnitt]** Aktion“ auf die Schaltfläche **[!UICONTROL Inhalt ]bearbeiten**.
+1. Klicken Sie **[!UICONTROL Abschnitt]** Aktion“ auf die Schaltfläche **[!UICONTROL Inhalt &#x200B;]bearbeiten**.
 
    ![Schaltfläche „Inhalt bearbeiten“](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
 
@@ -199,7 +199,7 @@ Wenn Sie mit dem Inhalt Ihrer Nachricht zufrieden sind, können Sie die Nachrich
 > ![Kampagnenstatus](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
 > 
 > Der Status ändert sich von Verarbeitung zu Live und zu Abgeschlossen . Dies kann einige Minuten dauern.
-> > Sobald der Status auf „Abgeschlossen“ geändert wurde:
+> &#x200B;> Sobald der Status auf „Abgeschlossen“ geändert wurde:
 >
 > ![Push-Ergebnisse](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
