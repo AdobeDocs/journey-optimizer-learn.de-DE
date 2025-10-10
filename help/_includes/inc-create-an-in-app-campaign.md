@@ -9,7 +9,7 @@ ht-degree: 100%
 
 Erfahren Sie, was eine In-App-Nachricht ist. Erfahren Sie, wie Sie In-App-Nachrichten in Kampagnen erstellen, konfigurieren und veröffentlichen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410430?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451891?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Zusätzliche Ressourcen
 
