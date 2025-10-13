@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Machen Sie sich mit den Grundlagen zum Erstellen einer Journey in der Journey-Arbeitsfläche vertraut.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432378?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424996?quality=12&learn=on){transcript=true}
