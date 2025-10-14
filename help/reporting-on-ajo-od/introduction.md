@@ -30,7 +30,7 @@ Ziel ist es, klare, datengestützte Einblicke in die Leistung personalisierter A
 
 ## Voraussetzungen für dieses Tutorial
 
-Bevor Sie beginnen, absolvieren Sie [ Tutorial zum Personalisieren von Angeboten mit Echtzeit-Wetterdaten .](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Es werden alle grundlegenden Komponenten festgelegt, einschließlich:
+Bevor Sie beginnen, absolvieren Sie [&#x200B; Tutorial zum Personalisieren von Angeboten mit Echtzeit-Wetterdaten .](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction) Es werden alle grundlegenden Komponenten festgelegt, einschließlich:
 
 - Web SDK-Integration
 - Angebotseinrichtung in Adobe Journey Optimizer (AJO)

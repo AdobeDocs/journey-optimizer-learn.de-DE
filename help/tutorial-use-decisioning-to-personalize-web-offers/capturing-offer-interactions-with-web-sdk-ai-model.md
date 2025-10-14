@@ -35,7 +35,7 @@ Bevor Sie beginnen, stellen Sie sicher, dass Folgendes vorhanden ist:
 
 Um Erlebnisereignisse zu erfassen, müssen Sie zunächst einen Datensatz erstellen, in dem diese Ereignisse gesendet werden.
 
-Führen Sie die in diesem Artikel [ Schritte aus, um das erforderliche Schema und den erforderlichen Datensatz zu erstellen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)
+Führen Sie die in diesem Artikel [&#x200B; Schritte aus, um das erforderliche Schema und den erforderlichen Datensatz zu erstellen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)
 
 ## Erstellen eines Datenstroms in AEP
 

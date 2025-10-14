@@ -161,4 +161,4 @@ Dieses KI-Modell wird in einer Rangfolgenformel oder Auswahlstrategie referenzie
 
 ## Testen der Lösung
 
-Fügen Sie die [aktualisierte JavaScript-Datei](assets/ai-model.js) in die [vorhandene Webseite“ ](assets/weather-offers.html)
+Fügen Sie die [aktualisierte JavaScript-Datei](assets/ai-model.js) in die [vorhandene Webseite“ &#x200B;](assets/weather-offers.html)

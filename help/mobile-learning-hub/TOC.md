@@ -18,7 +18,7 @@ ht-degree: 17%
 
 + [AJO Mobile Learning Hub](/help/mobile-learning-hub/overview.md)
 + Mobile Kanäle - Übersicht {#mobile-channels-overview}
-   + [Push-Benachrichtigungen ](/help/mobile-learning-hub/channels/push-notifications-overview.md)
+   + [Push-Benachrichtigungen &#x200B;](/help/mobile-learning-hub/channels/push-notifications-overview.md)
    + [In-App-Nachrichten](/help/mobile-learning-hub/channels/in-app-messages-overview.md)
    + [Inhaltskarten](/help/mobile-learning-hub/channels/content-cards-overview.md)
    + [Code-basiertes Erlebnis](/help/mobile-learning-hub/channels/code-based-experience-overview.md)
