@@ -25,4 +25,4 @@ Der [Personalisierungseditor-Playground](https://experienceleague.adobe.com/de/a
 
 Erfahren Sie, wie Sie vordefinierte Code-Beispiele nutzen, Platzhalterprofil-Payloads bearbeiten und eine Vorschau der Ausgabe des Personalisierungs-Codes in Echtzeit anzeigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475961/?captions=ger&learn=on&enablevpops)

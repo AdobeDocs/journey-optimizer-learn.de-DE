@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Fragmente in Adobe Journey Optimizer verwalten, verfassen und verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419932/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451191/?captions=ger&learn=on){transcript=true}
