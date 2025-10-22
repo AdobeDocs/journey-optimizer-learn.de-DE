@@ -20,4 +20,4 @@ ht-degree: 0%
 
 In diesem Video erfahren Sie, wie Sie den Echtzeitbericht in Adobe Journey Optimizer effektiv verwenden können, um langfristige Einblicke in die Leistung von Kunden-Journey, Kampagnen und Kanälen zu erhalten. Es wird beschrieben, wie Sie in wichtigen Dashboards navigieren, wichtige KPIs interpretieren, Filter und Datumsbereiche anwenden und Tools wie Journey-Berichte, Kampagnenberichte und Insight Builder für tiefere Analysen und benutzerdefiniertes Reporting nutzen können, sodass Marketing-Experten und Manager Daten in die Tat umsetzen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475653/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475796/?captions=ger&learn=on&enablevpops)

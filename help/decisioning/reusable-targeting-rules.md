@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie in Adobe Journey Optimizer wiederverwendbare Zielgruppenbestimmungsregeln erstellen, duplizieren und anwenden können, um Kampagnen effizient auf der Grundlage von Kundenattributen wie Region, Sprache und Verhalten zu personalisieren. So sparen Sie Zeit und verbessern die Genauigkeit Ihrer Zielgruppe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476127/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476136/?captions=ger&learn=on&enablevpops)
