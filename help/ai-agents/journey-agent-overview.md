@@ -1,6 +1,6 @@
 ---
-title: Übersicht über Journey Agent
-description: Journey Agent verwendet KI zum Erstellen, Analysieren und Optimieren von B2B/B2C-Journeys über eine Gesprächsoberfläche.
+title: Journey Agent – Überblick
+description: Journey Agent verwendet KI, um B2B- und B2C-Journeys über eine dialogbasierte Oberfläche zu erstellen, zu analysieren und zu optimieren.
 feature: AI Assistant, Journeys
 feature-set: Journey Optimizer, Experience Platform
 role: User, Developer, Leader, Admin
@@ -8,13 +8,13 @@ level: Beginner
 last-substantial-update: 2025-10-08T00:00:00Z
 jira: KT-19109
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
-# Übersicht über Journey Agent
+# Journey Agent – Überblick
 
 Erfahren Sie, was Sie mit dem KI-Assistenten in auf Adobe Experience Platform basierenden Anwendungen wie Real-Time Customer Data Platform, Journey Optimizer und Customer Journey Analytics alles tun können.
 

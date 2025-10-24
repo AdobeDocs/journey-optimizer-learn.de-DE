@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1108'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 98%
 | Herausforderung | Erstellen einer Ankündigung zur Sommerkollektion |
 |---|---|
 | Persona | Journey-Manager |
-| Erforderliche Fähigkeiten | <ul><li>[Erstellen von Segmenten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=de)</li><li> [Importieren und Erstellen von HTML-E-Mail-Inhalten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=de)</li><li>[Anwendungsfall: Segment lesen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
+| Erforderliche Fähigkeiten | <ul><li>[Erstellen von Segmenten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=de)</li><li> [Importieren und Erstellen von HTML-E-Mail-Inhalten](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=de)</li><li>[Anwendungsfall: Segment lesen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=de)</li> |
 | Herunterzuladende Assets | [E-Mail-Dateien zur saisonalen Kollektion](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
 {style="table-layout:auto"}
@@ -201,7 +201,7 @@ Testen Sie die Journey und lassen Sie die E-Mails an Ihr eigenes Konto senden:
 1. Öffnen Sie die zweite E-Mail, und die Journey sollte enden.
 1. Sie können Schritt 4 wiederholen. - 7. für alle drei Profile, um zu überprüfen, ob Ihre Verzweigungen ordnungsgemäß funktionieren.
 1. Um die Zeitüberschreitungen zu testen, setzen Sie die Wartezeit auf 30 Sekunden und lösen Sie den Eintritt erneut aus.
-1. Öffnen Sie die empfangenen E-Mails nicht (keine Vorschau der E-Mail anzeigen (!)) und lassen Sie die Wartezeit verstreichen.
+1. Öffnen Sie die empfangenen E-Mails nicht (E-Mail nicht in der Vorschau anzeigen) und lassen Sie die Wartezeit verstreichen.
 
 Sie sollten die folgenden E-Mails erhalten:
 
