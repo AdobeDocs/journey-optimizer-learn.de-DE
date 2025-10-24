@@ -1,6 +1,6 @@
 ---
-title: Konfigurieren und Anwenden von ruhigen Stunden
-description: Erfahren Sie, wie Sie mit der Funktion „Ruhezeiten“ in Adobe Journey Optimizer verhindern können, dass Nachrichten (SMS, E-Mail, Push, WhatsApp) innerhalb bestimmter Zeitfenster an Kunden gesendet werden. So können Marketing-Experten vermeiden, dass Nachrichten zu unangemessenen Zeiten gesendet werden, und die Kundeninteraktion verbessern.
+title: Konfigurieren und Anwenden von Ruhezeiten
+description: Erfahren Sie, wie Sie die Funktion „Ruhezeiten“ in Adobe Journey Optimizer nutzen können, um zu verhindern, dass Nachrichten (SMS, E-Mail, Push, WhatsApp) während bestimmter Zeitfenster an Kundinnen und Kunden gesendet werden. So vermeiden Marketing-Fachleute das Versenden von Nachrichten zu ungeeigneten Zeiten und verbessern die Kundeninteraktion.
 feature: Business Rules
 role: Admin, User
 level: Beginner
@@ -14,13 +14,13 @@ index: true
 source-git-commit: c7ff1ad8ff2069295d65553022306cccaf8cbac6
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Konfigurieren und Anwenden von ruhigen Stunden
+# Konfigurieren und Anwenden von Ruhezeiten
 
-Erfahren Sie, wie Sie mit der Funktion „Ruhezeiten“ in Adobe Journey Optimizer verhindern können, dass Nachrichten während bestimmter Zeitfenster an Kunden gesendet werden. So können Marketing-Fachleute vermeiden, dass Nachrichten zu unangemessenen Zeiten gesendet werden, und die Kundeninteraktion verbessern.
+Erfahren Sie, wie Sie die Funktion „Ruhezeiten“ in Adobe Journey Optimizer nutzen können, um zu verhindern, dass Nachrichten während bestimmter Zeitfenster an Kundinnen und Kunden gesendet werden. So vermeiden Marketing-Fachleute das Versenden von Nachrichten zu ungeeigneten Zeiten und verbessern die Kundeninteraktion.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475861/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)
