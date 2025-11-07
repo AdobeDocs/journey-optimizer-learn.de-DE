@@ -20,4 +20,4 @@ ht-degree: 64%
 
 In diesem Video erfahren Sie, wie Sie alle Zeitberichte in Adobe Journey Optimizer effektiv verwenden können, um langfristige Leistungseinblicke in Kunden-Journey, -Kampagnen und -Kanälen zu erhalten. Finden Sie heraus, wie Sie in wichtigen Dashboards navigieren, entscheidende KPIs interpretieren, Filter und Datumsbereiche anwenden und Tools wie Journey-Berichte, Kampagnenberichte und Insight Builder für tiefere Analysen und benutzerdefiniertes Reporting nutzen, sodass Marketing-Fachleute und Management Daten aktiv umsetzen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475653/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475796/?captions=ger&learn=on&enablevpops)
