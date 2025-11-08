@@ -17,4 +17,4 @@ ht-degree: 0%
 # Angebote erstellen, Auswahlstrategie, Rangfolgenformel
 
 In diesem Video erfahren Sie, wie Sie Angebote erstellen, eine Auswahlstrategie zur Auswahl von Angeboten festlegen und eine Rangfolgenformel erstellen, um Angebote zu priorisieren
->[!VIDEO](https://video.tv.adobe.com/v/3476427/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476458/?captions=ger&learn=on)
