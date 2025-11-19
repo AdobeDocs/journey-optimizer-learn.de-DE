@@ -10,15 +10,15 @@ duration: 69
 last-substantial-update: 2024-10-07T00:00:00Z
 jira: KT-16293
 exl-id: c00fc7fa-f72d-4cca-bd5d-0754e89de290
-source-git-commit: bb6dc1a70df284f58645336e139d1b78c5cfe590
-workflow-type: ht
-source-wordcount: '28'
-ht-degree: 100%
+source-git-commit: cf255c1611b7a5ed6ff42d55e455e3a5140c19d7
+workflow-type: tm+mt
+source-wordcount: '69'
+ht-degree: 26%
 
 ---
 
 # Digital Asset Management – Überblick
 
-Informationen über die Verwaltung digitaler Assets in Journey Optimizer.
+Erfahren Sie, wie Adobe Journey Optimizer die Verwaltung digitaler Assets mit seiner eingebetteten Adobe Experience Manager optimiert, sodass Sie Assets direkt im Repository suchen, durchsuchen und beziehen können. Erfahren Sie, wie Sie Kampagnen erstellen, E-Mails mit vorhandenen Vorlagen entwerfen, Assets mühelos hochladen oder bearbeiten und so eine leistungsstarke, wirkungsvolle Inhaltserstellung direkt zur Hand haben.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432674/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477010/?learn=on)
