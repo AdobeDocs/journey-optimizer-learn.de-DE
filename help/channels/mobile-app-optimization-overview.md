@@ -9,7 +9,7 @@ duration: 108
 last-substantial-update: 2024-10-08T00:00:00Z
 jira: KT-16309
 exl-id: d52bd1f3-3c47-4401-97b1-8b2bc4308363
-source-git-commit: 5ed78b3a8effd376662f5218a660ce8627206ced
+source-git-commit: a5a5323e1325c056fb79f8875fd5208715661f1a
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 100%
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Informationen darüber, wie die Mobile-App-Funktionen von Adobe Journey Optimizer die Kundeninteraktion mithilfe von in Echtzeit personalisierten Erlebnissen transformieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432681/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476998/?learn=on)
