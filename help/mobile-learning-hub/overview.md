@@ -7,7 +7,7 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 1d79a2f916017e5f40f1629f0d1f534a37607a23
+source-git-commit: 37ef25f7652c59378c2387cdb1763c8e52e4a681
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Schnellstart oder Aufstieg mit mobilen Kanälen in Adobe Journey Optimizer (AJO)
 
 Erfahren Sie mehr über Best Practices, lernen Sie, wie Sie die Akzeptanz steigern können, und lernen Sie das Reporting - alles an einem Ort - so können Teams wirkungsvolle, datengesteuerte mobile Erlebnisse bereitstellen, die jederzeit und überall mit Benutzern in Verbindung stehen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477007?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Mobile-Kanal - Übersicht
@@ -63,12 +63,6 @@ Durch die Kombination dieser Kanäle können Sie ein nahtloses und effektives Ku
 
 6. Nutzen Sie [Code-basierte Erlebnisse](/help/mobile-learning-hub/channels/code-based-experience-overview.md) um jede Nachricht auf der Grundlage des Benutzerverhaltens und der Voreinstellungen anzupassen und so eine wirklich personalisierte Journey kanalübergreifend zu erstellen.
 
-
-## Kunden-Anwendungsfälle
-
-* [Mit Personalisierung fliegen: Wie Fluggesellschaften Angebote mit Adobe Journey Optimizer erhöhen können (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=de)
-
-
 ## Fundament aufbauen
 
 Lernen Sie die Konzepte und Gewusst wie
@@ -101,3 +95,7 @@ Lernen Sie die Konzepte und Gewusst wie
 | **Upsell- und Crosssell-Kampagnen** | Werbt für zusätzliche Produkte oder Upgrades bei Bestandskunden auf der Grundlage ihres Verhaltens, ihrer Voreinstellungen oder ihres Kaufverlaufs. | - Push-Benachrichtigungen zeigen relevante Upsell-Möglichkeiten auf.<br>- In-App-Nachrichten und -Inhaltskarten präsentieren ergänzende Elemente.<br>- SMS-Kampagnen zielen mit exklusiven Angeboten auf segmentierte Zielgruppen ab. |
 | **Abwanderungsprävention** | Identifiziert Benutzende, die das Risiko haben, das System zu verlassen, und setzt personalisierte Aufbewahrungsstrategien ein, um ihre Loyalität zu wahren. | - Mobile Kontaktaufnahme mit Predictive Analytics-Triggern für gefährdete Benutzer.<br>- Push-Benachrichtigungen und SMS bieten Treueprämien oder personalisierte Inhalte.<br>-In-App-Umfragen sammeln Feedback zur Verbesserung der Kundenbindungsstrategien. |
 | **Multi-Channel-Messaging** | Orchestriert konsistentes Messaging über mehrere mobile Kanäle, um sicherzustellen, dass Benutzer zeitnahe und relevante Nachrichten erhalten. | - Push, In-App, SMS und E-Mail werden für Unified Messaging koordiniert.<br>-SDKs ermöglichen die kanalübergreifende Echtzeit-Personalisierung.<br>- Inhaltskarten bleiben sitzungsübergreifend bestehen, um wichtige Botschaften zu unterstreichen. |
+
+## Kunden-Anwendungsfälle
+
+* [Mit Personalisierung fliegen: Wie Fluggesellschaften Angebote mit Adobe Journey Optimizer erhöhen können (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
