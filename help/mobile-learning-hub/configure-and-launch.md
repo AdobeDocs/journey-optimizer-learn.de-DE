@@ -20,7 +20,7 @@ ht-degree: 17%
 
 Konfigurieren Sie die mobilen Kanäle in Adobe Journey Optimizer und Adobe Experience Platform, integrieren Sie sie mit mobilen Apps und stellen Sie die Bereitschaft für die Ausführung von Marketing-Kampagnen sicher.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 > Wenn Sie Journey Optimizer und Experience Platform noch nicht kennen, machen Sie sich mit den Kernkonzepten vertraut, indem Sie die folgenden Kurse belegen:
 > - [Konfigurieren und Verwalten von Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-configure-and-administrate-ajo-environment)
 >*In diesem Kurs lernen Sie, wie Sie die Journey Optimizer-Umgebung konfigurieren und verwalten, einschließlich Benutzerrollen, Berechtigungen, Sandboxes und E-Mail-Kanälen, um einen effizienten und sicheren Betrieb zu gewährleisten.*
@@ -524,7 +524,7 @@ Die meisten Probleme mit Mobilgeräten haben ihren Ursprung in der **SDK- oder D
 
 **Was zu überprüfen**
 
-- Verwenden Sie die für die Einrichtung **geführten Kanals erforderlichen Erweiterungsversionen Mobile Core** und {2 **Journey Optimizer)?**
+- Verwenden Sie die für die Einrichtung **geführten Kanals erforderlichen Erweiterungsversionen Mobile Core** und &lbrace;2 **Journey Optimizer)?**
 - In **Assurance** unter „Erweiterungen und Ereignisse“:
    - Werden die erwarteten Erweiterungen geladen?
    - Werden Ereignisse an die Edge Network gesendet und quittiert?
