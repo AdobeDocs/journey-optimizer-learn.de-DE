@@ -20,7 +20,7 @@ Schnellstart oder Aufstieg mit mobilen Kanälen in Adobe Journey Optimizer (AJO)
 
 Erfahren Sie mehr über Best Practices, lernen Sie, wie Sie die Akzeptanz steigern können, und lernen Sie das Reporting - alles an einem Ort - so können Teams wirkungsvolle, datengesteuerte mobile Erlebnisse bereitstellen, die jederzeit und überall mit Benutzern in Verbindung stehen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3477007?captions=ger&quality=12&learn=on){transcript=true}
 
 
 ## Mobile-Kanal - Übersicht
