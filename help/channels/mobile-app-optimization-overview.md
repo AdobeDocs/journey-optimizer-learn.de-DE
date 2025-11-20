@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Informationen darüber, wie die Mobile-App-Funktionen von Adobe Journey Optimizer die Kundeninteraktion mithilfe von in Echtzeit personalisierten Erlebnissen transformieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477007/?captions=ger&learn=on)

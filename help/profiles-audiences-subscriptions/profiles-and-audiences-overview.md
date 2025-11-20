@@ -20,4 +20,4 @@ ht-degree: 31%
 
 Erfahren Sie, wie Adobe Journey Optimizer Kundendaten vereinheitlicht und die Erstellung von Zielgruppen durch eine Drag-and-Drop-Oberfläche vereinfacht, Profile für personalisierte Interaktion anreichert, Zielgruppen für eine präzise Zielgruppenbestimmung reiht und den Datenschutz mit robusten Governance-Tools sicherstellt, sodass Sie kanalübergreifend effektivere Kampagnen erstellen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476986/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476995/?captions=ger&learn=on)
