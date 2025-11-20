@@ -107,7 +107,7 @@ Diese Eigenschaft steuert:
 
 Sie können [diese Mobile-Eigenschaft manuell erstellen und konfigurieren](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property) oder für Mobile In-App und Push die **[Geführte Kanaleinrichtung](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** verwenden, um die erforderliche Tag-Eigenschaft, den Datenstrom und die Kanalkonfiguration für iOS und Android automatisch zu erstellen.
 
-> [!TIP]
+&#x200B;> [!TIP]
 >  
 > Für neue Implementierungen **[Geführte Kanaleinrichtung](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)** der empfohlene Ausgangspunkt. Dies reduziert das Risiko falsch konfigurierter Datenströme oder fehlender Erweiterungen und führt Sie durch die SDK-Validierung mit Assurance.
 
@@ -639,7 +639,7 @@ Die meisten Probleme mit Mobilgeräten haben ihren Ursprung in der **SDK- oder D
 
 **Was zu überprüfen**
 
-- Verwenden Sie die für die Einrichtung **geführten Kanals erforderlichen Erweiterungsversionen Mobile Core** und {2 **Journey Optimizer)?**
+- Verwenden Sie die für die Einrichtung **geführten Kanals erforderlichen Erweiterungsversionen Mobile Core** und &lbrace;2 **Journey Optimizer)?**
 - In **Assurance** unter „Erweiterungen und Ereignisse“:
    - Werden die erwarteten Erweiterungen geladen?
    - Werden Ereignisse an die Edge Network gesendet und quittiert?
