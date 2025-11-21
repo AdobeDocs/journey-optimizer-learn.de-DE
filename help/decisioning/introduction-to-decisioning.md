@@ -24,4 +24,4 @@ Die Entscheidungsfindung vereinfacht die Personalisierung, indem sie einen zentr
 
 In diesem Video erhalten Sie einen kurzen Überblick über die Funktionen für die Entscheidungsfindung von Adobe Journey Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3451101?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3475872?captions=ger&quality=12&learn=on){transcript=true}
