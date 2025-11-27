@@ -1,6 +1,6 @@
 ---
 title: Erstellen einer Aktionskampagne
-description: Erfahren Sie, wie Sie in Adobe Journey Optimizer Aktionskampagnen erstellen und optimieren, um einmalige oder wiederkehrende Nachrichten präzise und wirkungsvoll bereitzustellen.
+description: Erfahren Sie, wie Sie in Adobe Journey Optimizer Aktionskampagnen erstellen und optimieren, um einmalige oder wiederkehrende Kommunikationen präzise und wirkungsvoll bereitzustellen.
 jira: KT-10590
 thumbnail: 346680.jpg
 feature: Campaigns
@@ -11,15 +11,15 @@ level: Beginner
 last-substantial-update: 2025-11-14T00:00:00Z
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
 source-git-commit: d5658be3109f688d66fd34a82531afdcbffb05da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 30%
+ht-degree: 100%
 
 ---
 
 # Erstellen einer Aktionskampagne
 
-Erfahren Sie, wie Sie in Adobe Journey Optimizer Aktionskampagnen erstellen und optimieren, um einmalige oder wiederkehrende Nachrichten präzise und wirkungsvoll bereitzustellen.
+Erfahren Sie, wie Sie in Adobe Journey Optimizer Aktionskampagnen erstellen und optimieren, um einmalige oder wiederkehrende Kommunikationen präzise und wirkungsvoll bereitzustellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 
