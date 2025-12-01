@@ -10,7 +10,7 @@ last-substantial-update: 2025-07-21T00:00:00Z
 jira: KT-18564
 exl-id: 288bff70-3889-4230-920a-7681220ba9ec
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '150'
 ht-degree: 100%
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Bei der Arbeit mit Lookup-Schemata müssen Sie möglicherweise häufig eine Liste von Objekten basierend auf mehreren Attributen filtern. In diesem Video erfahren Sie, wie Sie mit verschachtelten Funktionen des Typs „filter()“ eine Filterung nach mehreren Attributen bei Lookup-Schemata durchführen können. Dies ist besonders nützlich, wenn Sie eine Liste von Objekten anhand mehrerer Bedingungen eingrenzen müssen, z. B. beim Filtern von Produkten in einem Warenkorb nach ID und Farbe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469327/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3469312/?learn=on&enablevpops)

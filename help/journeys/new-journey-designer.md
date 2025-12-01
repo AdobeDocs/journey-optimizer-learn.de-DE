@@ -13,7 +13,7 @@ hide: true
 Index: false
 exl-id: e481336c-eaf2-4fbc-8803-9ba109559dd4
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Entdecken Sie die neu gestaltete Journey-Arbeitsfläche und erfahren Sie, wie Sie Live-Reporting in Journeys verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443604/?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428767/?learn=on){transcript=true}
