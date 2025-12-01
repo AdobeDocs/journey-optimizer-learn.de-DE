@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Bei der Arbeit mit Lookup-Schemata müssen Sie möglicherweise häufig eine Liste von Objekten basierend auf mehreren Attributen filtern. In diesem Video erfahren Sie, wie Sie mit verschachtelten Funktionen des Typs „filter()“ eine Filterung nach mehreren Attributen bei Lookup-Schemata durchführen können. Dies ist besonders nützlich, wenn Sie eine Liste von Objekten anhand mehrerer Bedingungen eingrenzen müssen, z. B. beim Filtern von Produkten in einem Warenkorb nach ID und Farbe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469312/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469327/?captions=ger&learn=on&enablevpops)

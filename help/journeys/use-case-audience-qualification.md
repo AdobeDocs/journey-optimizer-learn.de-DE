@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Machen Sie sich mit den entsprechenden Anwendungsfällen für Journeys mit Zielgruppenqualifizierung vertraut. Erfahren Sie, wie Sie eine Journey mit Zielgruppenqualifizierung erstellen und welche Best Practices anzuwenden sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425028?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446213?captions=ger&quality=12&learn=on){transcript=true}
