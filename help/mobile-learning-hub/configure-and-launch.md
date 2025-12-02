@@ -175,7 +175,7 @@ Sie können [diese Mobile-Eigenschaft manuell erstellen und konfigurieren](https
 
 #### Produktdokumentation und Entwicklerreferenzen
 
-| ![Geführte Kanaleinrichtung ](./assets/configuration.svg)[**Geführte Kanaleinrichtung**](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} | ![Adobe Experience Platform Mobile SDK abrufen ](./assets/configuration.svg){width="50"}[**Adobe Experience Platform Mobile SDK abrufen**](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk){target="_blank"} | ![Überblick über Adobe Experience Platform Assurance ](./assets/experience.svg)[**Überblick über Adobe Experience Platform Assurance**](https://developer.adobe.com/client-sdks/home/base/assurance){target="_blank"} |
+| ![Geführte Kanaleinrichtung &#x200B;](./assets/configuration.svg) [**Geführte Kanaleinrichtung**](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} | ![Adobe Experience Platform Mobile SDK abrufen &#x200B;](./assets/configuration.svg){width="50"}[**Adobe Experience Platform Mobile SDK abrufen**](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk){target="_blank"} | ![Überblick über Adobe Experience Platform Assurance &#x200B;](./assets/experience.svg) [**Überblick über Adobe Experience Platform Assurance**](https://developer.adobe.com/client-sdks/home/base/assurance){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
@@ -485,7 +485,7 @@ Die meisten Probleme mit Mobilgeräten haben ihren Ursprung in der **SDK- oder D
 
 **Was zu überprüfen**
 
-- Verwenden Sie die für die Einrichtung **geführten Kanals erforderlichen Erweiterungsversionen Mobile Core** und {2 **Journey Optimizer)?**
+- Verwenden Sie die für die Einrichtung **geführten Kanals erforderlichen Erweiterungsversionen Mobile Core** und &lbrace;2 **Journey Optimizer)?**
 - In **Assurance** unter „Erweiterungen und Ereignisse“:
    - Werden die erwarteten Erweiterungen geladen?
    - Werden Ereignisse an die Edge Network gesendet und quittiert?
