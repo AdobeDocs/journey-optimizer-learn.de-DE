@@ -223,7 +223,7 @@ Sie können [diese Mobile-Eigenschaft manuell erstellen und konfigurieren](https
 
 #### Produktdokumentation
 
-| ![Dokumentation zum geführten Kanal-Setup ](./assets/configuration.svg){width="50"}[**Dokumentation zum geführten Kanal-Setup**](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} |
+| ![Dokumentation zum geführten Kanal-Setup &#x200B;](./assets/configuration.svg){width="50"}[**Dokumentation zum geführten Kanal-Setup**](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!SUCCESS]
@@ -530,7 +530,7 @@ Die meisten Probleme mit Mobilgeräten haben ihren Ursprung in der **SDK- oder D
 
 **Was zu überprüfen**
 
-- Verwenden Sie die für die Einrichtung **geführten Kanals erforderlichen Erweiterungsversionen Mobile Core** und {2 **Journey Optimizer)?**
+- Verwenden Sie die für die Einrichtung **geführten Kanals erforderlichen Erweiterungsversionen Mobile Core** und &lbrace;2 **Journey Optimizer)?**
 - In **Assurance** unter „Erweiterungen und Ereignisse“:
    - Werden die erwarteten Erweiterungen geladen?
    - Werden Ereignisse an die Edge Network gesendet und quittiert?
