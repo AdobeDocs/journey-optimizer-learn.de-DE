@@ -1,15 +1,15 @@
 ---
 title: Mobiler Lern-Hub
-description: Dies ist der richtige Ort für Entwickler, Administratoren, Marketing-Experten und Datenanalysten, um alles zu entdecken, vom Einrichten eingehender und ausgehender mobiler Kanäle bis hin zum Verflechten dieser Kanäle in leistungsstarke Kampagnen. Erfahren Sie mehr über Best Practices, lernen Sie, wie Sie die Akzeptanz steigern können, und lernen Sie das Reporting - alles an einem Ort - so können Teams wirkungsvolle, datengesteuerte mobile Erlebnisse bereitstellen, die jederzeit und überall mit Benutzern in Verbindung stehen.
+description: Steigern Sie Ihre mobile Interaktionsstrategie mit Adobe Journey Optimizer. Dieser mobile Lern-Hub bietet Entwicklern, Administratoren, Marketing-Experten und Analysten alle Funktionen, die für die Konfiguration eingehender und ausgehender Mobile-Kanäle erforderlich sind, und integriert diese nahtlos in leistungsstarke Cross-Channel-Kampagnen und -Journey. Erfahren Sie mehr über Best Practices, die Förderung der Akzeptanz und die Einrichtung zentralisierter Reporting-Workflows - alles an einem Ort, um wirkungsvolle, datengesteuerte mobile Erlebnisse bereitzustellen, die Kunden jederzeit und überall erreichen.
 feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-last-substantial-update: 2025-08-22T00:00:00Z
+last-substantial-update: 2025-12-05T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
+source-git-commit: 6faf1e92516a54afa9c987b693a27d2284726fff
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '928'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Steigern Sie Ihre mobile Interaktionsstrategie mit Adobe Journey Optimizer. Dies
 
 Erfahren Sie mehr über Best Practices, die Förderung der Akzeptanz und die Einrichtung zentralisierter Reporting-Workflows - alles an einem Ort, um wirkungsvolle, datengesteuerte mobile Erlebnisse bereitzustellen, die Kunden jederzeit und überall erreichen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477007?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Mobile-Kanal - Übersicht
@@ -98,4 +98,4 @@ Lernen Sie die Konzepte und Gewusst wie
 
 ## Kunden-Anwendungsfälle
 
-* [Mit Personalisierung fliegen: Wie Fluggesellschaften Angebote mit Adobe Journey Optimizer erhöhen können (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=de)
+* [Mit Personalisierung fliegen: Wie Fluggesellschaften Angebote mit Adobe Journey Optimizer erhöhen können (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
