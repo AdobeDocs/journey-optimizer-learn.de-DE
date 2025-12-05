@@ -500,7 +500,7 @@ Die meisten Probleme mit Mobilgeräten haben ihren Ursprung in der **SDK- oder D
 
 **Was zu überprüfen**
 
-- Verwenden Sie die für die Einrichtung **geführten Kanals erforderlichen Erweiterungsversionen Mobile Core** und {2 **Journey Optimizer)?**
+- Verwenden Sie die für die Einrichtung **geführten Kanals erforderlichen Erweiterungsversionen Mobile Core** und &lbrace;2 **Journey Optimizer)?**
 - In **Assurance** unter „Erweiterungen und Ereignisse“:
    - Werden die erwarteten Erweiterungen geladen?
    - Werden Ereignisse an die Edge Network gesendet und quittiert?
