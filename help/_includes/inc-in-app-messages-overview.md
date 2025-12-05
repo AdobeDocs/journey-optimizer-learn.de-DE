@@ -1,7 +1,7 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '446'
 ht-degree: 1%
 
 ---
@@ -9,16 +9,16 @@ ht-degree: 1%
 
 ## Was sind In-App-Nachrichten?
 
-In-App-Nachrichten sind Nachrichten, die innerhalb einer App angezeigt werden, während der Benutzer sie aktiv verwendet. Es handelt sich um Nachrichten vom Typ Überlagerung , die sich über Ihrer App befinden. Sie werden nicht auf dem Sperrbildschirm oder außerhalb der App angezeigt. Stattdessen werden sie als Banner, Pop-ups oder kleine Karten angezeigt, während der Benutzer die App erkundet.
+In-App-Nachrichten werden in der Mobile App angezeigt, während ein Benutzer aktiv interagiert. Diese Nachrichten im Überlagerungsstil werden als Banner, Popup-Fenster oder Karten direkt über der Programmoberfläche angezeigt. Sie werden weder auf dem Sperrbildschirm noch außerhalb der App-Umgebung angezeigt.
 
-In-App-Nachrichten werden durch bestimmte Benutzeraktionen oder -bedingungen ausgelöst, z. B. das Anzeigen einer bestimmten Seite, das Abschließen eines Kaufs oder die Zugehörigkeit zu einem Zielgruppensegment.
+In-App-Nachrichten werden durch bestimmte Benutzeraktionen oder -bedingungen ausgelöst, z. B. das Anzeigen eines bestimmten Bildschirms, das Abschließen eines Kaufs oder die Qualifizierung für ein Zielgruppensegment.
 
 
-Beispiel:
+Zu den Beispielen gehören:
 
-* Ein Spiel könnte ein Pop-up zeigen, in dem eine neue Funktion erklärt wird, sobald der Benutzer sie freischaltet.
-* Eine Shopping-App zeigt beim Durchsuchen von Elementen möglicherweise ein Banner mit einem Couponcode an.
-* Eine Social-Media-App könnte eine Nachricht anzeigen, die den Benutzer auffordert, neuen Konten zu folgen.
+* Ein Spiel, das ein Popup-Fenster zeigt, in dem eine neue Funktion eingeführt wird, sobald der Benutzer sie freischaltet.
+* Eine Shopping-App, die ein Banner mit einem Couponcode anzeigt, während der Benutzer Produkte durchsucht.
+* Eine soziale App, die basierend auf der aktuellen Aktivität neue Konten vorschlägt
 
 ## Anwendungsfälle
 

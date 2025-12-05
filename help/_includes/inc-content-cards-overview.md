@@ -1,20 +1,19 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '296'
 ht-degree: 2%
 
 ---
 # Inhaltskarten - Übersicht
 
->[!VIDEO](https://video.tv.adobe.com/v/3460095/?learn=on&enablevpops&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
 
 ## Was ist das?
 
-**Inhaltskarten** sind persistente In-App-Nachrichten, die in einem dedizierten Posteingang oder Feed in Ihrer App vorhanden sind. Im Gegensatz zu Push-Benachrichtigungen unterbrechen sie den Benutzer nicht und können nach Belieben angezeigt werden.\
-Sie eignen sich ideal für die Bereitstellung **nicht dringenden**, **informativen** oder **Werbeinhalten**, die im Laufe der Zeit von der Sichtbarkeit profitieren.
+**Inhaltskarten** sind persistente In-App-Nachrichten, die in einem dedizierten Posteingang oder Feed in Ihrer App angezeigt werden. Im Gegensatz zu Push-Benachrichtigungen unterbrechen sie den Benutzer nicht und können angezeigt werden, wann immer der Benutzer dies wünscht.
 
-Stellen Sie sich Inhaltskarten als In-App-„Message-Center“ oder personalisierten Newsfeed vor.
+Sie eignen sich ideal für **nicht dringende**, **informative** oder **Werbeinhalte** die von längerer Sichtbarkeit und wiederholter Exposition profitieren. Stellen Sie sich Inhaltskarten als In-App-„Message-Center“ oder personalisierten Content-Feed vor, in dem Benutzer in ihrem eigenen Tempo nach Updates suchen können.“
 
 ### Beispiele:
 

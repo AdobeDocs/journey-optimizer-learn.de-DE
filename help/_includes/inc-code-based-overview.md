@@ -1,7 +1,7 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '301'
 ht-degree: 4%
 
 ---
@@ -9,8 +9,9 @@ ht-degree: 4%
 
 ## Was ist es?
 
-**Code-basierte Erlebnisse** beziehen sich auf personalisierte, dynamische Inhalte oder Nachrichten, die mit benutzerdefiniertem Code (JavaScript, APIs oder Vorlagensprachen) in Plattformen wie Adobe Journey Optimizer erstellt wurden.\
-Auf diese Weise können Sie über die standardmäßigen Drag-and-Drop-Tools hinaus hochgradig maßgeschneiderte, datengesteuerte Kunden-Journey und Messaging erstellen.
+Codebasierte Erlebnisse ermöglichen es Ihnen, personalisierte, dynamische Inhalte und Nachrichten mithilfe von benutzerdefiniertem Code - wie JavaScript, APIs oder Vorlagensprachen - in Adobe Journey Optimizer bereitzustellen.
+
+Dieser Kanal eignet sich ideal zum Erstellen hochgradig maßgeschneiderter, datengesteuerter Interaktionen, die über standardmäßige visuelle Authoring-Tools (WYSIWYG-Editoren) hinausgehen, und gibt Entwickelnden und Optimierungs-Managern volle Flexibilität beim Entwerfen benutzerdefinierter Personalisierungslogiken und Inhalts-Layouts.
 
 Beispiele:
 
