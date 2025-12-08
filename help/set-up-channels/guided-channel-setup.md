@@ -24,7 +24,7 @@ Die Anleitung zur Kanaleinrichtung hilft Ihnen dabei, Web- und Mobile-Kanäle sc
 
 Erfahren Sie, wie Sie eine Push-Kanal-Benachrichtigung in einer Beispiel-Marketing-App für iOS einrichten und validieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449631/?captions=ger&learn=on)
 
 Weitere Informationen finden Sie in der Produktdokumentation:
 
