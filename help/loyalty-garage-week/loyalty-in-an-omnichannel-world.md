@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 1cdf8be6fc76e3e67f0180fad6a0979ab2e6b07b
+source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
@@ -38,8 +38,6 @@ Der dritte Fehlerpunkt ist **Batch-basierte Datensynchronisation**. Viele Enterp
 Der vierte Fehlerpunkt ist **Treueprogramm-Erlebnisse, die nicht in alle Kunden-Touchpoints eingebettet sind**. Viele Programme zeigen Treue nur in der App oder in E-Mail-Nachrichten an. Aber Kunden engagieren sich überall. Der Treuewert muss auf der Homepage, auf den Produktdetailseiten, im Warenkorb, in Push-Benachrichtigungen, in SMS-Threads, digitalen Quittungen, in Callcenter-Schnittstellen und in physischen Ladenbeschilderungen sichtbar sein. Wenn Loyalität unsichtbar ist oder nicht konsequent zum Vorschein kommt, nehmen Kunden weniger Wert wahr und treten seltener auf.
 
 Die Kombination dieser Fehler führt zu dem, was man **Loyalitätsdissonanz** nennen kann - der psychologischen Lücke zwischen dem, was der Kunde erwartet und dem, was die Marke liefert. Omnichannel-Loyalität löst dies, indem Identität, Daten, Entscheidungsfindung, Journey-Orchestrierung und Benutzererlebnis auf einer einzigen, fortlaufenden Erzählung ausgerichtet werden.
-
-&#x200B;---
 
 ## &#x200B;2. Was Omnichannel-Loyalität wirklich bedeutet
 
