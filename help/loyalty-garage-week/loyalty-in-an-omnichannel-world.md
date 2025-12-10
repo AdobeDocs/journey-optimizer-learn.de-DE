@@ -39,7 +39,7 @@ Der vierte Fehlerpunkt ist **Treueprogramm-Erlebnisse, die nicht in alle Kunden-
 
 Die Kombination dieser Fehler führt zu dem, was man **Loyalitätsdissonanz** nennen kann - der psychologischen Lücke zwischen dem, was der Kunde erwartet und dem, was die Marke liefert. Omnichannel-Loyalität löst dies, indem Identität, Daten, Entscheidungsfindung, Journey-Orchestrierung und Benutzererlebnis auf einer einzigen, fortlaufenden Erzählung ausgerichtet werden.
 
----
+&#x200B;---
 
 ## &#x200B;2. Was Omnichannel-Loyalität wirklich bedeutet
 
