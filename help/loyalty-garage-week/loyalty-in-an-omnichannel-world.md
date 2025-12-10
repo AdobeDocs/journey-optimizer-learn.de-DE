@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
+source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
@@ -13,10 +13,11 @@ ht-degree: 0%
 ---
 
 
+# Loyalität in einer Omni-Channel-Welt
 
-# Loyalität in einer Omni-Channel-Welt - Aufbau eines einheitlichen, prädiktiven Echtzeit-Treueerlebnisses für alle Kunden-Touchpoints
+## Erstellen Sie ein einheitliches, prädiktives Echtzeit-Treueprogramm für alle Kunden-Touchpoints
 
-## Zusammenfassung
+### Zusammenfassung
 
 Die moderne Kunden-Journey ist gebrochen, nichtlinear und stark kanalübergreifend. Verbraucher können problemlos zwischen Mobile Apps, Desktop-Browsern, Erlebnissen in Geschäften, Callcentern, E-Mail, SMS, Push-Benachrichtigungen, sozialen Kanälen, vernetzten Geräten und Retargeting für bezahlte Medien wechseln. Die meisten Treueprogramme funktionieren jedoch nach wie vor mit isolierten Systemen, kanalorientierten Anreizen und einer Batch-basierten Verarbeitung, die nicht mit den Kundenerwartungen in Bezug auf Unmittelbarkeit, Kontinuität und Personalisierung Schritt halten kann. Das Ergebnis ist ein uneinheitliches Treueerlebnis: In der E-Mail wird angegeben, dass eine Belohnung verfügbar ist, während in der App veraltete Informationen angezeigt werden. In-Store-Mitarbeiter können die Berechtigung für Stufen oder Vorteile nicht sehen, Push-Benachrichtigungen werden nicht synchron mit E-Mail-Journey ausgelöst, Kunden erhalten widersprüchliche Angebote, Identitätskonflikte verursachen einen Fortschrittsverlust und der Treuewert ist auf Markenoberflächen nicht konsistent sichtbar.
 

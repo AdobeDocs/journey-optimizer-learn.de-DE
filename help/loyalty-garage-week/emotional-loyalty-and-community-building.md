@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
+source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
 workflow-type: tm+mt
 source-wordcount: '2156'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # Emotionale Loyalität &amp; Community-Aufbau
 
-Wie Marken durch erlebnisbasierte Treue Identität, Zugehörigkeit und Interessenvertretung schaffen
+## Wie Marken durch erlebnisbasierte Treue Identität, Zugehörigkeit und Interessenvertretung schaffen
 
-## Zusammenfassung
+### Zusammenfassung
 
 Emotionale Loyalität - das Maß, in dem sich Kunden mit der Identität, den Werten und der Community einer Marke verbunden fühlen - wird zum wichtigsten Wettbewerbsvorteil in einer modernen Loyalitätsstrategie. Herkömmliche Transaktionstreueprogramme, die auf Punkten, Rabatten und grundlegenden Verdienst-/Verbrennungsmechanismen basieren, bleiben wichtig, schaffen aber in gesättigten Märkten keine bedeutsame Differenzierung mehr. Da die Preistransparenz zunimmt, die Reibung bei einem Anbieterwechsel abnimmt und die Verbraucher immer mehr Macht besitzen, können Transaktionsprogramme allein keine langfristige Loyalität oder Interessenvertretung aufrechterhalten. Stattdessen sind die Marken, die eine übergroße Treueprogramm-Performance erzielen, diejenigen, **(Communities** und nicht Programme - Marken, die Kunden dabei helfen, ihre Identität auszudrücken, ehrgeizige Ziele zu verfolgen, mit anderen Mitgliedern zu interagieren und an gemeinsamen Ritualen teilzunehmen, die eine emotionale Bindung schaffen.
 
