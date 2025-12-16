@@ -12,7 +12,7 @@ hidefromtoc: false
 hide: false
 exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
 source-git-commit: ee24c9920e4374631c006f13fdd8d2950d680aec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ Die Anleitung zur Kanaleinrichtung hilft Ihnen dabei, Web- und Mobile-Kanäle sc
 
 Erfahren Sie, wie Sie eine Push-Kanal-Benachrichtigung in einer Beispiel-Marketing-App für iOS einrichten und validieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449631/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 Weitere Informationen finden Sie in der Produktdokumentation:
 
