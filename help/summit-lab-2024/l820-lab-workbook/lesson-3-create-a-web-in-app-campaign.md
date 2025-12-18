@@ -150,7 +150,7 @@ In diesem Abschnitt definieren Sie Inhalt, Design und Layout Ihrer Nachricht.
 **Anleitungsvideos:**
 
 * [Erstellen einer In-App-Kampagne](/help/channels/create-an-in-app-campaign.md)
-* [Verfassen einer In-App-Nachricht ](/help/channels/author-in-app-messages.md)
+* [Verfassen einer In-App-Nachricht &#x200B;](/help/channels/author-in-app-messages.md)
 
 **Produktdokumentation:**
 

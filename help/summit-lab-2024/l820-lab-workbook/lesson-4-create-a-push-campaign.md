@@ -80,7 +80,7 @@ Wenn Ihre Sitznummer beispielsweise 99: `99 - 10% Discount Campaign` lautet.
 
 In dieser Übung entwerfen und passen Sie die Push-Benachrichtigung an.
 
-1. Klicken Sie **[!UICONTROL Abschnitt]** Aktion“ auf die Schaltfläche **[!UICONTROL Inhalt ]bearbeiten**.
+1. Klicken Sie **[!UICONTROL Abschnitt]** Aktion“ auf die Schaltfläche **[!UICONTROL Inhalt &#x200B;]bearbeiten**.
 
    ![Schaltfläche „Inhalt bearbeiten“](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-action-edit-content-button.png)
 
