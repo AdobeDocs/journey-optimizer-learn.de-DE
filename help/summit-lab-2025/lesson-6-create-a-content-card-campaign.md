@@ -30,4 +30,4 @@ Erfahrung.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457973/?learn=on&enablevpops)
 
-Weitere Anleitungen [ diesem Thema finden ](/help/channels/create-content-cards.md) unter „Erstellen von Inhaltskarten“.
+Weitere Anleitungen [&#x200B; diesem Thema finden &#x200B;](/help/channels/create-content-cards.md) unter „Erstellen von Inhaltskarten“.
