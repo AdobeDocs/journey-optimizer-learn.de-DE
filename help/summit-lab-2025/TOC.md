@@ -6,7 +6,7 @@ level: Beginner,Intermediate
 breadcrumb-title: Scaling-Orchestration-to-Omni-Channel-Engagement
 breadcrumb-url: /docs/journey-optimizer-learn/summit-labs/scaling-orchestration-to-omnichannel-engagement/introduction
 auto-video-transcripts: true
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 1%
@@ -16,10 +16,10 @@ ht-degree: 1%
 
 # Skalierung der Orchestrierung auf Omni-Channel-Interaktion {#scaling-orchestration-to-omnichannel-engagement}
 
-+ [Einführung](/help/summit-labs/summit-lab-2025/introduction.md)
-+ [Lektion 1: Journey erleben](/help/summit-labs/summit-lab-2025/lesson-1-experience-the-journey.md)
-+ [Lektion 2: Erstellen einer Willkommens-Journey](/help/summit-labs/summit-lab-2025/lesson-2-create-a-welcome-journey.md)
-+ [Lektion 3: Erstellen dynamischer Inhalte](/help/summit-labs/summit-lab-2025/lesson-3-create-dynamic-content.md)
-+ [Lektion 4: Erstellen eines Inhaltsexperiments](/help/summit-labs/summit-lab-2025/lesson-4-create-a-content-experiment.md)
-+ [Lektion 5: Testen des Journey](/help/summit-labs/summit-lab-2025/lesson-5-test-your-journey.md)
-+ [Lektion 6: Erstellen einer Inhaltskarten-Kampagne](/help/summit-labs/summit-lab-2025/lesson-6-create-a-content-card-campaign.md)
++ [Einführung](/help/summit-lab-2025/introduction.md)
++ [Lektion 1: Journey erleben](/help/summit-lab-2025/lesson-1-experience-the-journey.md)
++ [Lektion 2: Erstellen einer Willkommens-Journey](/help/summit-lab-2025/lesson-2-create-a-welcome-journey.md)
++ [Lektion 3: Erstellen dynamischer Inhalte](/help/summit-lab-2025/lesson-3-create-dynamic-content.md)
++ [Lektion 4: Erstellen eines Inhaltsexperiments](/help/summit-lab-2025/lesson-4-create-a-content-experiment.md)
++ [Lektion 5: Testen des Journey](/help/summit-lab-2025/lesson-5-test-your-journey.md)
++ [Lektion 6: Erstellen einer Inhaltskarten-Kampagne](/help/summit-lab-2025/lesson-6-create-a-content-card-campaign.md)

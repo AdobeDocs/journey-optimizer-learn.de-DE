@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '699'
 ht-degree: 2%
@@ -34,7 +34,7 @@ In dieser Übung erstellen Sie die Kampagne und definieren, auf welcher Web-Seit
 
 1. Klicken Sie **Kampagne erstellen**.
 
-   ![CreateCampaign](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-create-campaign.png)
+   ![CreateCampaign](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-create-campaign.png)
 
 1. Aktivieren Sie auf **Seite** Kampagne erstellen“ im Abschnitt **Aktion** das Kontrollkästchen **In-App-**.
 
@@ -42,7 +42,7 @@ In dieser Übung erstellen Sie die Kampagne und definieren, auf welcher Web-Seit
 
 1. Geben Sie die folgende URL ein: **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *Dies ist die Webseite, auf der Ihre Nachricht angezeigt wird.*
 
-   ![In-App-URL](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
+   ![In-App-URL](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
 1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
@@ -60,7 +60,7 @@ Trigger Auf dieser Seite definieren Sie die Eigenschaften der Kampagne und das E
    > 
    > Wenn Ihre Sitznummer beispielsweise 99 lautet: 
    >
-   > ![Eigenschaftsname](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
+   > ![Eigenschaftsname](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
 
 
 ### 3.2.2 Benutzerdefinierte Trigger-Regel einrichten
@@ -69,18 +69,18 @@ In diesem Abschnitt legen Sie fest, welche Trigger die Nachricht auf der Website
 
 1. Scrollen Sie nach unten zum Abschnitt **[!UICONTROL Trigger]** klicken Sie dann auf **[!UICONTROL Trigger bearbeiten]**.
 
-   ![Ändern](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
+   ![Ändern](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
 
 1. Klicken Sie im Regel-Builder auf **[!UICONTROL Anwendungsstart]** und wählen Sie aus der Dropdown-Liste *Daten an Platform gesendet*.
-   ![Dropdown für Trigger-Ereignis](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
+   ![Dropdown für Trigger-Ereignis](/help/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
 1. Fügen Sie eine Bedingung hinzu, indem Sie auf **[!UICONTROL + Bedingung hinzufügen]**.
 
-   ![Schaltfläche „Bedingung hinzufügen“](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
+   ![Schaltfläche „Bedingung hinzufügen“](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
 1. Wählen Sie in der **[!UICONTROL Eigenschaft auswählen]** die Option **[!UICONTROL XDM-Ereignistyp]** aus.
 
-   ![XDM-Ereignistyp](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
+   ![XDM-Ereignistyp](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 
 1. Fügen Sie im folgenden Textfeld einen *`<custom string value>`* hinzu, an den Sie sich erinnern können, und drücken Sie **[!UICONTROL Hinzufügen]** `<custom string value>`, um den Wert zu speichern.
@@ -93,7 +93,7 @@ In diesem Abschnitt legen Sie fest, welche Trigger die Nachricht auf der Website
    > Beispiel: `99web`
    > 
 
-   ![Benutzerdefinierten Trigger-Zeichenfolgenwert hinzufügen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
+   ![Benutzerdefinierten Trigger-Zeichenfolgenwert hinzufügen](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
 
 1. Klicken Sie **[!UICONTROL oben rechts]** die Schaltfläche „Fertig“.
 
@@ -101,7 +101,7 @@ In diesem Abschnitt legen Sie fest, welche Trigger die Nachricht auf der Website
 >
 >Sie haben jetzt Ihre Web-In-App-Nachricht mit einem benutzerdefinierten Trigger-Ereignis definiert.
 >
->![Web-Kampagne mit benutzerdefiniertem Trigger definiert](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
+>![Web-Kampagne mit benutzerdefiniertem Trigger definiert](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
 
 
 ### 3.2.3 Bearbeiten des Inhalts der In-App-Nachricht
@@ -110,7 +110,7 @@ In diesem Abschnitt definieren Sie Inhalt, Design und Layout Ihrer Nachricht.
 
 1. Klicken Sie auf **Schaltfläche** Inhalt bearbeiten“ im Abschnitt **Aktion**, um auf das Authoring-Konstrukt zuzugreifen.
 
-   ![Schaltfläche „Inhalt bearbeiten“](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
+   ![Schaltfläche „Inhalt bearbeiten“](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
 1. Der Authoring-Prozess ist derselbe Prozess, den Sie in den obigen Mobile-In-App-Übungen abgeschlossen haben. Nehmen Sie sich Zeit, um Ihre Nachricht mit Ihrem eigenen Titel, Textkörper und Medieninhalt frei zu bearbeiten.
 
@@ -128,13 +128,13 @@ In diesem Abschnitt definieren Sie Inhalt, Design und Layout Ihrer Nachricht.
 
 1. Rufen Sie die Fréscopa-Website auf und navigieren Sie in Ihrem Browser zur **Übung**-Seite.
 
-   ![Link für Webübungen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
+   ![Link für Webübungen](/help/summit-lab-2024/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
 
 1. Stellen Sie sicher, dass Sie die Web-Seite aktualisieren.
 
 1. Geben Sie den eindeutigen Zeichenfolgenwert ein, den Sie in Ihrer Kampagne definiert haben.
 
-   ![Übungsseite](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-2-exercise-page.png)
+   ![Übungsseite](/help/summit-lab-2024/l820-lab-workbook/assets/4-2-exercise-page.png)
 
 1. Klicken Sie auf **[!UICONTROL Senden]**.
 
@@ -150,11 +150,11 @@ In diesem Abschnitt definieren Sie Inhalt, Design und Layout Ihrer Nachricht.
 **Anleitungsvideos:**
 
 * [Erstellen einer In-App-Kampagne](/help/channels/create-an-in-app-campaign.md)
-* [Verfassen einer In-App-Nachricht &#x200B;](/help/channels/author-in-app-messages.md)
+* [Verfassen einer In-App-Nachricht ](/help/channels/author-in-app-messages.md)
 
 **Produktdokumentation:**
 
-* [Erste Schritte mit dem In-App-Kanal](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Erstellen einer Web-In-App-Nachricht](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [Gestalten Ihrer In-App-Inhalte](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/design-in-app)
-* [Überprüfen und Senden Ihrer In-App-Benachrichtigung](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/send-in-app)
+* [Erste Schritte mit dem In-App-Kanal](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Erstellen einer Web-In-App-Nachricht](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [Gestalten Ihrer In-App-Inhalte](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Überprüfen und Senden Ihrer In-App-Benachrichtigung](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

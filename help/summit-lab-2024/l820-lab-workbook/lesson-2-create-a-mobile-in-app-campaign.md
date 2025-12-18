@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
 exl-id: fe18eca7-229c-4867-ab34-1862bad63124
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '1432'
 ht-degree: 1%
@@ -36,22 +36,22 @@ In dieser Lektion erstellen und Trigger von In-App-Nachrichten für Mobilgeräte
    **Kennwort:**   Adobe2024!
    <br>
 Die Details für Ihre Anmeldung finden Sie auf Ihrem Lab-Computer-Desktop. Verwenden Sie die Adobe ID und das Kennwort.
-   ![Desktop](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/desk-top.png)
+   ![Desktop](/help/summit-lab-2024/l820-lab-workbook/assets/desk-top.png)
 
-   ![Anmeldebildschirm](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-1-1-ajo-sign-in.png)
+   ![Anmeldebildschirm](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-1-ajo-sign-in.png)
    <br>
 3. Sie können die nächsten beiden Bildschirme überspringen:
    <br>
-   ![Telefonnummer](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
+   ![Telefonnummer](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
    <br>
-   ![Personalization-Popup](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
+   ![Personalization-Popup](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
 
 
 >[!SUCCESS]
 >
 >Sie sollten bei Journey Optimizer und auf der Homepage angemeldet sein:
 >
->![AJO-Homepage](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-1-5-ajo-homepage.png)
+>![AJO-Homepage](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-5-ajo-homepage.png)
 
 
 ## Übung 2.2 Erstellen einer mobilen In-App-Kampagne
@@ -62,7 +62,7 @@ In dieser Übung erstellen Sie eine In-App-Nachrichtenkampagne, die ausgelöst w
 
 1. Klicken Sie **[!UICONTROL Kampagne erstellen]**.
 
-   ![Kampagne erstellen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
+   ![Kampagne erstellen](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-1-1-create-campaign.png)
 
 1. Aktivieren Sie auf **[!UICONTROL Seite]** Kampagne erstellen“ im Abschnitt **[!UICONTROL Aktion]** das Kontrollkästchen **[!UICONTROL In-App-]**.
 
@@ -72,13 +72,13 @@ In dieser Übung erstellen Sie eine In-App-Nachrichtenkampagne, die ausgelöst w
 
 1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
-   ![Programmoberfläche](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-1-1-create.png)
+   ![Programmoberfläche](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-1-1-create.png)
 
 >[!SUCCESS]
 >
 >Sie sollten sich jetzt in den Kampagneneigenschaften befinden:
 >
-> ![Kampagneneigenschaften](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-1-2-campaign-properties.png)
+> ![Kampagneneigenschaften](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-1-2-campaign-properties.png)
 
 ## Übung 2.3 Kampagne konfigurieren
 
@@ -88,24 +88,24 @@ Geben Sie Ihrer Kampagne einen Namen. Achten Sie darauf, den Namen mit Ihrer Sit
 
 Wenn Ihre Sitznummer beispielsweise 99: `99 - Welcome Campaign` lautet.
 
-![Eigenschaftenabschnitt](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-2-1-properties-section.png)
+![Eigenschaftenabschnitt](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-2-1-properties-section.png)
 
 ### 2.3.2 Benutzerdefinierte Trigger-Regel einrichten
 
 1. Scrollen Sie nach unten zum Abschnitt **[!UICONTROL Trigger]** klicken Sie dann auf **[!UICONTROL Trigger bearbeiten]**.
 
-   ![Ändern](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
+   ![Ändern](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
 
 1. Klicken Sie im Regel-Builder auf **[!UICONTROL Anwendungsstart]** und wählen Sie aus der Dropdown-Liste *Daten an Platform gesendet*.
-   ![An Datenplattform gesendet](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
+   ![An Datenplattform gesendet](/help/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
 1. Fügen Sie eine Bedingung hinzu, indem Sie **[!UICONTROL Bedingung hinzufügen]** klicken.
 
-   ![Schaltfläche „Bedingung hinzufügen“](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
+   ![Schaltfläche „Bedingung hinzufügen“](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
 1. Wählen Sie in der **[!UICONTROL Eigenschaft auswählen]** die Option **[!UICONTROL XDM-Ereignistyp]** aus.
 
-   ![XDM-Ereignistyp](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
+   ![XDM-Ereignistyp](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 1. Fügen Sie im folgenden Textfeld einen *`<custom string value>`* hinzu, an den Sie sich erinnern können.
 
@@ -118,7 +118,7 @@ Wenn Ihre Sitznummer beispielsweise 99: `99 - Welcome Campaign` lautet.
    > 
    > Beispiel: `99exerciseTrigger`
 
-   ![Benutzerdefinierten Trigger-Zeichenfolgenwert hinzufügen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-2-2-add-custom-trigger.png)
+   ![Benutzerdefinierten Trigger-Zeichenfolgenwert hinzufügen](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-2-2-add-custom-trigger.png)
 
 1. Klicken **[!UICONTROL oben]** auf „Fertig“.
 
@@ -126,14 +126,14 @@ Wenn Ihre Sitznummer beispielsweise 99: `99 - Welcome Campaign` lautet.
 >
 >Sie haben nun Ihre In-App-Nachricht mit einem benutzerdefinierten Trigger-Ereignis definiert.
 >
->![Kampagne mit benutzerdefiniertem Trigger definiert](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-2-2-campaign-with-custom-trigger.png)
+>![Kampagne mit benutzerdefiniertem Trigger definiert](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-2-2-campaign-with-custom-trigger.png)
 
 
 ### 2.3.3 Bearbeiten des Inhalts der In-App-Nachricht
 
 Klicken Sie **[!UICONTROL Abschnitt]** Aktion“ auf **[!UICONTROL Inhalt bearbeiten]**.
 
-![Schaltfläche „Inhalt bearbeiten“](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
+![Schaltfläche „Inhalt bearbeiten“](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
 Der [!UICONTROL In-App]Nachrichteneditor wird angezeigt, in dem Sie den Inhalt der In-App-Nachricht konfigurieren.
 
@@ -143,7 +143,7 @@ Auswählen, welches Layout auf Ihre Nachricht angewendet werden soll.
 
 Klicken Sie beispielsweise auf **[!UICONTROL Modal]**, damit Ihre In-App-Nachricht ein modales Layout erhält.
 
-![modale Schaltfläche](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
+![modale Schaltfläche](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-modal-button.png)
 
 #### 2.3.3.2 Verfassen Ihrer Nachricht und Veröffentlichen Ihrer Kampagne
 
@@ -151,16 +151,16 @@ Klicken Sie beispielsweise auf **[!UICONTROL Modal]**, damit Ihre In-App-Nachric
    <br>
 Wenn Sie aus dem Wertefeld klicken, sollte Ihr Bild angezeigt werden.
 
-   ![In der Vorschau angezeigte Medien](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-media.png)
+   ![In der Vorschau angezeigte Medien](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-media.png)
 
 2. Fügen Sie im folgenden **[!UICONTROL Inhalt]**-Abschnitt Ihren eigenen benutzerdefinierten Text hinzu, den Sie in Ihrer Nachricht für die **[!UICONTROL Kopfzeile]** und (**[!UICONTROL )]** möchten.
 
-   ![Kopfzeile und Hauptteil](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-content.png)
+   ![Kopfzeile und Hauptteil](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-content.png)
 
 3. Zusätzliche Optionen:
    1. **Schaltflächen:**
 
-      ![Abschnitt Schaltflächen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-buttons.png)
+      ![Abschnitt Schaltflächen](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-buttons.png)
 
       1. In diesem Abschnitt des Editors können Sie den Text für Ihre CTA-Schaltfläche anpassen, indem Sie das Textfeld Schaltfläche bearbeiten.
 
@@ -175,7 +175,7 @@ Wenn Sie aus dem Wertefeld klicken, sollte Ihr Bild angezeigt werden.
 
    2. **Erweiterte Formatierung**
 
-      ![Umschalter für erweiterte Formatierung](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-toggle.png)
+      ![Umschalter für erweiterte Formatierung](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-toggle.png)
 
       Durch Aktivieren dieses Umschalters erhalten Sie zusätzliche Anpassungsoptionen im Editor.
 
@@ -185,13 +185,13 @@ Wenn Sie aus dem Wertefeld klicken, sollte Ihr Bild angezeigt werden.
       1. Schriftfarbe
       1. Ausrichtung
 
-      ![Erweiterte Formatierungsoptionen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-options.png)
+      ![Erweiterte Formatierungsoptionen](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-advanced-formatting-options.png)
 
    3. **Registerkarte „Einstellungen**
 
       Durch Wechsel zu dieser Registerkarte und im Abschnitt **[!UICONTROL Vorschau]** können Sie die &quot;**-Vorschau“**.
       <br>\
-      ![Registerkarte „Einstellungen](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-settings-tab.png)
+      ![Registerkarte „Einstellungen](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-settings-tab.png)
       <br>
 
       1. Im **[!UICONTROL Layout]** haben Sie die Möglichkeit, ein Bild als Hintergrund oder eine Volltonfarbe zu verwenden.
@@ -211,7 +211,7 @@ Wenn Sie aus dem Wertefeld klicken, sollte Ihr Bild angezeigt werden.
    >
    > Sie haben jetzt das Verfassen Ihrer In-App-Nachricht für Mobilgeräte abgeschlossen. Sie sollten sich jetzt auf der Seite **[!UICONTROL Zur Aktivierung überprüfen]** befinden.
    >
-   >![Überprüfen und aktivieren](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-4-1-review-and-activate.png)
+   >![Überprüfen und aktivieren](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-4-1-review-and-activate.png)
    >
    > Hier können Sie eine vollständige Zusammenfassung Ihrer Nachricht sehen.
    >
@@ -222,14 +222,14 @@ Wenn Sie aus dem Wertefeld klicken, sollte Ihr Bild angezeigt werden.
 
 5. Wenn Sie mit der Überprüfung Ihrer Kampagne fertig sind, klicken Sie auf die Schaltfläche Aktivieren , um die Kampagne zu veröffentlichen.
    <br>
-   ![aktivieren](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-4-2-activate.png)
+   ![aktivieren](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-4-2-activate.png)
 
 
 >[!SUCCESS]
 >
 > Jetzt sollte das Kampagnen-Dashboard angezeigt werden. Suchen Sie Ihre Kampagne, indem Sie scrollen oder die Suchfunktion verwenden. Wenn Ihre Kampagne den Status in **[!UICONTROL Live]** (~1 Min.) ändert, ist Ihre Kampagne jetzt veröffentlicht.
 >
-> ![Veröffentlichte Kampagne](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-published-campaign.png)
+> ![Veröffentlichte Kampagne](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-published-campaign.png)
 >
 
 
@@ -241,18 +241,18 @@ So aktualisieren Sie die Payload und laden Ihre neu veröffentlichte Kampagne he
 2. Öffnen Sie die Fréscopa-App erneut.
 3. Navigieren Sie nun in der App zur Registerkarte Übungen .
 
-   ![Übungsknopf](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-3-app-exercise-button.png)
+   ![Übungsknopf](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-3-app-exercise-button.png)
 
 4. Geben Sie in das Textfeld den Wert für den benutzerdefinierten Trigger ein, den Sie in Campaign definiert haben. Klicken Sie dann auf Senden.
 
 
-   ![Ändern](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-2-1-app-condition.PNG){width="250" align="center" zoomable="yes"}
+   ![Ändern](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-2-1-app-condition.PNG){width="250" align="center" zoomable="yes"}
 
 >[!SUCCESS]
 >
 >Wenn Sie auf „Senden“ klicken, haben Sie manuell einen Trigger ausgelöst und die von Ihnen erstellte In-App-Benachrichtigung erscheint:
 >
->![In-App-Nachricht](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-3-in-app-message.png)
+>![In-App-Nachricht](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-3-in-app-message.png)
 >
 > *Wenn beim Auslösen Ihrer Nachricht Probleme auftreten, überprüfen Sie Folgendes:*
 > 
@@ -270,24 +270,24 @@ Die Funktionen **Kampagne duplizieren** und **Vorschau auf Gerät** sind vorkonf
 1. Öffnen Sie die soeben erstellte Kampagne, indem Sie auf den Namen der Kampagne auf der Seite Kampagnen-Dashboard klicken, um die Kampagne zu öffnen. Dadurch gelangen Sie zurück zur Seite **[!UICONTROL Kampagne überprüfen]**.
 1. Drücken Sie die **[!UICONTROL Duplizieren]**. Dadurch wird eine neue Eingabeaufforderung mit dem Namen der neuen Kampagne geöffnet, die dupliziert wird. Fügen Sie einen neuen Namen hinzu, den Sie sich leicht merken können, oder verwenden Sie den Standardnamen, bei dem **[!DNL _copy]** standardmäßig hinzugefügt wird.
 
-   ![Kampagne duplizieren](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-duplicate-campaign.png)
+   ![Kampagne duplizieren](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-duplicate-campaign.png)
 
 1. Sobald Sie auf die Schaltfläche Duplizieren klicken, wird Ihre doppelte Kampagne erstellt und Sie gelangen zurück zum Kampagnen-Dashboard.
 1. Nachdem Ihre Kampagne dupliziert wurde, öffnen Sie Ihre neue Kampagne.
 
 1. Sie können auf die Funktion Vorschau auf Gerät auf der Seite **[!UICONTROL Kampagnenüberprüfung]** oder im Schritt **[!UICONTROL Kampagnenautor]** zugreifen.
 
-   ![Schaltfläche „Vorschau auf Gerät“](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-3-1-1-preview-on-device-button.png)
+   ![Schaltfläche „Vorschau auf Gerät“](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-1-preview-on-device-button.png)
    <br>
 
 1. Klicken Sie als Nächstes auf **[!UICONTROL Start]** im Bildschirm Mit Gerät verbinden .
 
-   ![Start-Schaltfläche](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-3-1-2-connect-to-device-start.png)
+   ![Start-Schaltfläche](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-2-connect-to-device-start.png)
    <br>
 
 1. Geben Sie die Basis-URL ein, die für den Start der Fréscopa-App konfiguriert wurde: `dxdemo://`
 
-   ![Vorschau-URL](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-3-1-3-preview-url.png)
+   ![Vorschau-URL](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-3-preview-url.png)
 
    <br>
 
@@ -296,11 +296,11 @@ Die Funktionen **Kampagne duplizieren** und **Vorschau auf Gerät** sind vorkonf
    2. Geben Sie auf Ihrem Gerät die in AJO auf dem Assurance-Bildschirm angezeigte Pin ein und klicken Sie auf die Schaltfläche Verbinden, die unten rechts angezeigt wird, nachdem Sie die Pin eingegeben haben.
 
 
-   ![PIN eingeben](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG){width="250" align="center" zoomable="yes"}
+   ![PIN eingeben](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG){width="250" align="center" zoomable="yes"}
    <br>
 1. Dieses Popup erscheint auf Ihrem Computerbildschirm
 
-   ![Popup](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-3-pop-up.png)
+   ![Popup](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-pop-up.png)
 
 1. Klicken Sie auf die Schaltfläche Fertig . Dadurch wird das Dialogfeld geschlossen und Ihr Telefon ist jetzt mit der Vorschau auf dem Gerät verbunden.
 
@@ -316,11 +316,11 @@ Die Funktionen **Kampagne duplizieren** und **Vorschau auf Gerät** sind vorkonf
 **Anleitungsvideos:**
 
 * [Erstellen einer In-App-Kampagne](/help/channels/create-an-in-app-campaign.md)
-* [Verfassen einer In-App-Nachricht &#x200B;](/help/channels/author-in-app-messages.md)
+* [Verfassen einer In-App-Nachricht ](/help/channels/author-in-app-messages.md)
 
 **Produktdokumentation:**
 
-* [Erste Schritte mit dem In-App-Kanal](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Erstellen einer mobilen In-App-Nachricht](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/create-in-app)
-* [Gestalten Ihrer In-App-Inhalte](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/design-in-app)
-* [Überprüfen und Senden Ihrer In-App-Benachrichtigung](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/send-in-app)
+* [Erste Schritte mit dem In-App-Kanal](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Erstellen einer mobilen In-App-Nachricht](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
+* [Gestalten Ihrer In-App-Inhalte](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Überprüfen und Senden Ihrer In-App-Benachrichtigung](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

@@ -10,7 +10,7 @@ jira: KT-14977
 thumbnail: KT-14977.jpeg
 last-substantial-update: 2024-03-26T00:00:00Z
 exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # LABORARBEITSMAPPE
 
-![Adobe Summit - ALT-Text](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
+![Adobe Summit - ALT-Text](/help/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
 ## L820 - Erstellen personalisierter Mobile-Momente mit Adobe Journey Optimizer
 
@@ -51,7 +51,7 @@ In diesem praxisorientierten Labor erkunden Sie verschiedene Szenarien für Mobi
 
 * Ermitteln Sie Ihre Sitznummer: Sie finden Ihre Sitznummer auf dem Schreibtisch des Laborgeräts:
 
-![Sitznummer](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
+![Sitznummer](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 Sie benötigen Zugriff auf:
 
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} - Anmeldedaten werden bei den Übungen bereitgestellt.
