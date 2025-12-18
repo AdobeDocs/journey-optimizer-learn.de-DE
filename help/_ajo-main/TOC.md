@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 8d6fce4d2605d44e9abb1c9003edbf759cf89316
-workflow-type: ht
-source-wordcount: '965'
-ht-degree: 100%
+source-git-commit: b93a715d5ef1fec814035fa1f86c082d041cf666
+workflow-type: tm+mt
+source-wordcount: '963'
+ht-degree: 99%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 100%
    + [Erstellen von Zielgruppen mit dem Regel-Builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Erstellen einer Zielgruppe durch Hochladen einer CSV-Datei](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Erstellen von Zielgruppen mit Web SDK (Tutorial)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [Auswerten von Zielgruppen nach Bedarf](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
+   + [Auswerten von Zielgruppen nach Bedarf](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [Abonnements und Landingpages](/help/subscriptions-and-landing-pages.md)
 + Kanäle {#channels}
    + [Mobile-App-Optimierung – Überblick](/help/channels/mobile-app-optimization-overview.md)
@@ -239,7 +239,7 @@ ht-degree: 100%
    + [Konfigurieren einer Trainings-Sandbox](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [Herausforderungen](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
    + Summit Labs {#summit-labs}
-      + [Erstellen personalisierter Mobile-Momente mit Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-      + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+      + [Erstellen personalisierter Mobile-Momente mit Adobe Journey Optimizer (2024)](/help/summit-labs/summit-lab-2024/l820-lab-workbook/lab-overview.md){target="_blank"}
+      + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion in Adobe Journey Optimizer (2025)](/help/summit-labs/summit-lab-2025/introduction.md){target="_blank"}
 + Live-Sessions und umfassende Einblicke {#live-sessions-and-deep-dives}
    + [Aufnahmen von Experience League LIVE-Shows](/help/_ajo-main/experience-league-live-show-recordings.md)
