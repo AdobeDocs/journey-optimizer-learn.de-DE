@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: eab42c39d0e7b105ef36e2e2337539511f91440d
+source-git-commit: 11b86c189751d72e38cd3127c424a541ba663276
 workflow-type: tm+mt
-source-wordcount: '715'
-ht-degree: 92%
+source-wordcount: '713'
+ht-degree: 93%
 
 ---
 
@@ -21,12 +21,6 @@ Mit Journey Optimizer können Unternehmen einheitliche, kontextuelle und persona
 
 Dieses Benutzerhandbuch enthält Videos und Tutorials zu den Funktionen von Adobe Journey Optimizer. Üben Sie das Gelernte, indem Sie die [Journey Optimizer-Herausforderungen](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites) absolvieren.
 
-## Mobile Learning Hub
-
-[![Mobile Learning Hub](/help/assets/mobile-learning-hub.jpeg "Mobile Learning Hub"){width="50%"}{align=center}](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/mobile-learning-hub/overview)
-
-Steigern Sie Ihre mobile Interaktionsstrategie mit Adobe Journey Optimizer. Der [Mobile Learning Hub](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/mobile-learning-hub/overview) bietet Entwicklern, Administratoren, Marketing-Experten und Analysten alle Funktionen, die für die Konfiguration eingehender und ausgehender Mobilkanäle und deren nahtlose Integration in leistungsstarke Cross-Channel-Kampagnen und -Journey erforderlich sind.
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -35,17 +29,51 @@ Steigern Sie Ihre mobile Interaktionsstrategie mit Adobe Journey Optimizer. Der 
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div>
 
+## Mobile Learning Hub
+
+<!-- CARDS
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview 
+    {description = The Mobile Learning Hub equips developers, administrators, marketers, and analysts with everything needed to configure inbound and outbound mobile channels and integrate them seamlessly into powerful cross-channel campaigns and journeys.}
+    {image = /help/assets/mobile-learning-hub.jpeg}
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Mobile learning hub">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview" title="Mobiler Lern-Hub" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="/help/assets/mobile-learning-hub.jpeg" alt="Mobiler Lern-Hub"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview" target="_blank" rel="referrer" title="Mobiler Lern-Hub">Mobile Learning Hub</a>
+                    </p>
+                    <p class="is-size-6">Der Mobile Learning Hub bietet Entwicklern, Administratoren, Marketern und Analysten alles, was sie für die Konfiguration eingehender und ausgehender mobiler Kanäle benötigen, und integriert sie nahtlos in leistungsstarke Cross-Channel-Kampagnen und -Journey.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## Aktuelle Live-Events von Experience League
 
 <!-- CARDS
-* https://experienceleague.adobe.com/de/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25
     {title = The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth (October 30th 2025)}
     {description = In this Experience League Live session, we unveil Adobe Journey Optimizer Experimentation Accelerator, a new AI-first application built to transform how experimentation, product and growth teams test, learn, and optimize campaigns and customer journeys.}
-* https://experienceleague.adobe.com/de/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25
     {title = Expand your mobile reach with RCS and WhatsApp in Journey Optimizer (September 30th 2025)}
     {description = IN this show Travis Jordan and Nikhil Sharma demonstrate how Adobe Journey Optimizer has recently expanded mobile engagement with powerful new channel additions and functionality, including WhatsApp, RCS, and Custom SMS Provider.}
-* https://experienceleague.adobe.com/de/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
     {title = Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media (July 31 2025)}
     {description = In this session, Jyothitha Chandran, Chris Ivory, and Kaitlin White showcased how Adobe Journey Optimizer (AJO) integrates seamlessly with Adobe Experience Manager (AEM) Sites Content Fragments and AEM Assets Dynamic Media to deliver scalable, real-time personalization across every channel.}
 -->
@@ -56,7 +84,7 @@ Steigern Sie Ihre mobile Interaktionsstrategie mit Adobe Journey Optimizer. Der 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25" title="Die nächste Ära des Experimentierens: Wie Agent-basierte KI intelligente Tests und Wachstum fördert (30. Oktober 2025)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476426/?format=jpeg&nocache=1766091306092" alt="Die nächste Ära des Experimentierens: Wie Agent-basierte KI intelligente Tests und Wachstum fördert (30. Oktober 2025)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476426/?format=jpeg&nocache=1766093681649" alt="Die nächste Ära des Experimentierens: Wie Agent-basierte KI intelligente Tests und Wachstum fördert (30. Oktober 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -79,7 +107,7 @@ Steigern Sie Ihre mobile Interaktionsstrategie mit Adobe Journey Optimizer. Der 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" title="Erweitern der mobilen Reichweite mit RCS und WhatsApp in Journey Optimizer (30. September 2025)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475370/?format=jpeg&nocache=1766091306114" alt="Erweitern der mobilen Reichweite mit RCS und WhatsApp in Journey Optimizer (30. September 2025)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475370/?format=jpeg&nocache=1766093681655" alt="Erweitern der mobilen Reichweite mit RCS und WhatsApp in Journey Optimizer (30. September 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -102,7 +130,7 @@ Steigern Sie Ihre mobile Interaktionsstrategie mit Adobe Journey Optimizer. Der 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25" title="Unterstützen personalisierter Inhalte in Journey Optimizer mit AEM-Inhaltsfragmenten und Dynamic Media (31. Juli 2025)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470355/?format=jpeg&nocache=1766091306091" alt="Unterstützen personalisierter Inhalte in Journey Optimizer mit AEM-Inhaltsfragmenten und Dynamic Media (31. Juli 2025)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470355/?format=jpeg&nocache=1766093681641" alt="Unterstützen personalisierter Inhalte in Journey Optimizer mit AEM-Inhaltsfragmenten und Dynamic Media (31. Juli 2025)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -128,9 +156,9 @@ Steigern Sie Ihre mobile Interaktionsstrategie mit Adobe Journey Optimizer. Der 
 ## Mitarbeiterauswahl
 
 <!-- CARDS
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -139,7 +167,7 @@ Steigern Sie Ihre mobile Interaktionsstrategie mit Adobe Journey Optimizer. Der 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="Wichtige Funktionen und die Benutzeroberfläche" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432377?captions=ger&format=jpeg&nocache=1766091307034" alt="Wichtige Funktionen und die Benutzeroberfläche"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1766093682581" alt="Wichtige Funktionen und die Benutzeroberfläche"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -162,7 +190,7 @@ Steigern Sie Ihre mobile Interaktionsstrategie mit Adobe Journey Optimizer. Der 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" title="Einführung in das Erstellen einer Journey" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432378?captions=ger&format=jpeg&nocache=1766091307020" alt="Einführung in das Erstellen einer Journey"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424996?format=jpeg&nocache=1766093682576" alt="Einführung in das Erstellen einer Journey"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -185,7 +213,7 @@ Steigern Sie Ihre mobile Interaktionsstrategie mit Adobe Journey Optimizer. Der 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="Erstellen einer Zielgruppe mit dem Regel-Builder" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430326?captions=ger&format=jpeg&nocache=1766091307031" alt="Erstellen einer Zielgruppe mit dem Regel-Builder"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1766093682583" alt="Erstellen einer Zielgruppe mit dem Regel-Builder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -207,9 +235,9 @@ Steigern Sie Ihre mobile Interaktionsstrategie mit Adobe Journey Optimizer. Der 
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 <!-- CARDS
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -218,7 +246,7 @@ Steigern Sie Ihre mobile Interaktionsstrategie mit Adobe Journey Optimizer. Der 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltsgenerierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434644/?captions=ger&format=jpeg&nocache=1766091307809" alt="Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltsgenerierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1766093683226" alt="Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltsgenerierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -241,7 +269,7 @@ Steigern Sie Ihre mobile Interaktionsstrategie mit Adobe Journey Optimizer. Der 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" title="End-to-End-Anleitung für die Entscheidungsfindung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451100/?format=jpeg&nocache=1766091307814" alt="End-to-End-Anleitung für die Entscheidungsfindung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451100/?format=jpeg&nocache=1766093683220" alt="End-to-End-Anleitung für die Entscheidungsfindung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -264,7 +292,7 @@ Steigern Sie Ihre mobile Interaktionsstrategie mit Adobe Journey Optimizer. Der 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="Konfigurieren von Inhaltsexperimenten für In-App-Nachrichten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445297/?captions=ger&format=jpeg&nocache=1766091307812" alt="Konfigurieren von Inhaltsexperimenten für In-App-Nachrichten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1766093683224" alt="Konfigurieren von Inhaltsexperimenten für In-App-Nachrichten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
