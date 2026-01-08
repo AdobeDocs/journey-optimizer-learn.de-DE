@@ -9,16 +9,16 @@ last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 9c11ebd2e52de18792e9fa135db955eeeb243673
+source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
 
 # Testen der Lösung
 
-Um die Lösung durchgängig zu testen, müssen die Dateien [weather-offers.html](assets/weather-offers.html) und [weather-related-offers-script.js](assets/weather-related-offers-script.js) auf einem Webserver oder einem öffentlichen Hosting-Service wie Github Pages gehostet werden. Dies ist aus folgenden Gründen erforderlich:
+Um die Lösung durchgängig zu testen, extrahieren Sie die Datei „weather-offers.html“ und „weather-related-offers-script.js“ aus [weather-offers.zip].(assets/weather-offers.zip) Diese Dateien müssen auf einem Webserver oder einem öffentlichen Hosting-Service wie GitHub-Seiten gehostet werden. Dies ist aus folgenden Gründen erforderlich:
 - Die Geolocation-API des Browsers funktioniert nur über HTTPS oder localhost
 
 Um die Organisation beizubehalten und sicherzustellen, dass relative Pfade ordnungsgemäß funktionieren, empfehlen wir die folgende Ordnerstruktur für das Hosten der Lösung:
@@ -27,9 +27,8 @@ Um die Organisation beizubehalten und sicherzustellen, dass relative Pfade ordnu
 
 ## Herunterladen der bereitgestellten Dateien
 
-[HTML-Datei](assets/weather-offers.html)
+Laden Sie die HTML- und die JavaScript-Datei herunter und extrahieren Sie sie aus [weather-offers.zip].(assets/weather-offers.zip)
 
-[JavaScript-Datei](assets/weather-related-offers-script.js)
 
 
 ## Aktualisieren der Oberflächen-URL in der JavaScript-Datei
