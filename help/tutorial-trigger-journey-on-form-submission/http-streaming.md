@@ -19,7 +19,7 @@ ht-degree: 0%
 Konfigurieren Sie das Formular so, dass Sendedaten mithilfe einer HTTP-basierten Integration in Echtzeit an Adobe Experience Platform gesendet werden, um sicherzustellen, dass die Ereignis-Payload mit dem Schema übereinstimmt.
 
 HTTP-Streaming-Endpunkt definieren
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478505?captions=ger)
 
 
 

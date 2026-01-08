@@ -19,7 +19,7 @@ ht-degree: 0%
 Definieren Sie mithilfe des Ereignisschemas ein benutzerdefiniertes Ereignis in Adobe Journey Optimizer. Dieses Ereignis überwacht die Daten zur Formularübermittlung, die in Adobe Experience Platform eintreffen.
 
 Definieren eines benutzerdefinierten Ereignisses namens &quot;**_&quot;_**
->[!VIDEO](https://video.tv.adobe.com/v/3478483)
+>[!VIDEO](https://video.tv.adobe.com/v/3478492?captions=ger)
 
 
 
