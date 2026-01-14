@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 
 Testen der Lösung
->[!VIDEO](https://video.tv.adobe.com/v/3478555?captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3478546)
 
 ## Bereitstellen der Beispiel-Assets
 
-Wenn Node.js nicht installiert ist, laden Sie es herunter und [&#x200B; Sie es von hier](https://nodejs.org/)
+Wenn Node.js nicht installiert ist, laden Sie es herunter und [ Sie es von hier](https://nodejs.org/)
 
 Überprüfen Sie die Installation, indem Sie Folgendes ausführen:
 
@@ -51,8 +51,8 @@ Erstellen Sie mithilfe der folgenden Befehle ein neues Verzeichnis für die Beis
 * Entpacken Sie den Inhalt von [project-root.zip](assets/project-root.zip) und legen Sie ihn im `trigger-journey` ab.
 
 * Erstellen Sie im Ordner `public` den Ordner `trigger-journey` .
-* Entpacken Sie den Inhalt von [index.zip] in den öffentlichen Ordner
-* Aktualisieren Sie die `.env` Datei mit den entsprechenden Werten. Diese Werte sind über den cURL-Befehl verfügbar, der beim Erstellen der HTTP-Source-Verbindung heruntergeladen wurde
+* Aktualisieren Sie die `.env` Datei mit den entsprechenden Werten. Diese Werte sind über den cURL-Befehl verfügbar, der beim Erstellen der HTTP-Source-Verbindung heruntergeladen wurde.
+* Entpacken Sie den Inhalt von [index.zip](assets/index.zip) in den `public` Ordner
 
 ## Server ausführen
 
