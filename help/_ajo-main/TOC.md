@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
 source-git-commit: 4bf52614bd3fff34a3ec09eafc7f65a2bee74387
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '971'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 99%
    + [Mobile-Funktionen für Marketing-Fachleute](/help/channels/mobile-capabilities.md)
    + [Mobile-Funktionen für Entwickler](/help/channels/mobile-capabilities-for-developers.md)
    + [Hilfe zum KI-Assistenten](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer - Mobile Learning Hub](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
++ [Journey Optimizer – Mobiler Lern-Hub](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + Kampagnen {#create-campaigns}
    + Aktionskampagnen {#action-campaigns}
       + [Erstellen einer Kampagne](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -73,7 +73,7 @@ ht-degree: 99%
       + [Hinzufügen von Formularfeldern zu Code-basierten Erlebniskanalvorlagen](/help/channels/form-fields-in-code-based-experiences.md)
       + [Verwenden von Entscheidungsfindung im Code-basierten Kanal](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Direkt-Mail-Kanal{#direct-mail-channel}
-      + [Erstellen einer Briefpost](/help/channels/direct-mail.md)
+      + [Erstellen von Direkt-Mail](/help/channels/direct-mail.md)
    + E-Mail-Kanal{#email-channel}
       + [E-Mail-Kanal – Überblick](/help/channels/email-channel-overview.md)
       + [E-Mail-Design und Personalisierung – Überblick](/help/channels/email-design-and-personalization-overview.md)
@@ -86,7 +86,7 @@ ht-degree: 99%
       + [In-App-Nachrichten – Überblick](/help/channels/in-app-messages-overview.md)
       + [Erstellen einer In-App-Kampagne](/help/channels/create-an-in-app-campaign.md)
       + [Erstellen einer In-App-Nachricht in einer Journey](/help/channels/create-an-in-app-message-in-a-journey.md)
-      + [Verfassen einer In-App-Nachricht &#x200B;](/help/channels/author-in-app-messages.md)
+      + [Verfassen einer In-App-Nachricht ](/help/channels/author-in-app-messages.md)
       + [Konfigurieren von Inhaltsexperimenten für In-App-Nachrichten](/help/experimentation/content-experiments-for-in-app-messages.md)
    + Push-Kanal{#push-channel}
       + [Push-Benachrichtigungen – Überblick](/help/channels/push-notifications-overview.md)
@@ -197,7 +197,7 @@ ht-degree: 99%
          + [Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
          + [Einrichten von RCS](/help/set-up-channels/set-up-rcs.md)
       + Web- und Mobile-Kanäle {#web-and-mobile-channels}
-         + [Geführte Kanaleinrichtung](/help/set-up-channels/guided-channel-setup.md)
+         + [Kanaleinrichtung mit Assistent](/help/set-up-channels/guided-channel-setup.md)
       + WhatsApp-Kanal {#whatsapp-channel}
          + [Einrichten des WhatsApp-Kanals](/help/set-up-channels/set-up-whatsapp-channel.md)
    + Konfigurieren von Journeys {#journey-configuration}
@@ -209,7 +209,7 @@ ht-degree: 99%
       + [Arbeiten mit Regelsätzen](/help/business-rules/work-with-rule-sets.md)
       + [Tests und Berichte zu Häufigkeitsregeln](/help/business-rules/test-and-report-on-frequency-rules.md)
 + Zugriffssteuerung {#access-control}
-   + [Zugriffsverwaltung &#x200B;](/help/set-up-access/access-management.md)
+   + [Zugriffsverwaltung ](/help/set-up-access/access-management.md)
    + [Konfigurieren der attributbasierten Zugriffssteuerung](/help/administration/attribute-based-access-control.md)
    + [Verwenden von Sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
 + Data Governance und Datenschutz {#data-governance-and-privacy}
@@ -228,7 +228,7 @@ ht-degree: 99%
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
    + [Intelligente Wiederaufnahme der Interaktion – Abgebrochenes Browsen](https://experienceleague.adobe.com/de/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe eines Web SDK](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Erstellen von Berichten zu Angebots-Impressions und Klicks](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [Erstellen von Berichten zu Angebots-Impressions und Klicks ](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten in Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
