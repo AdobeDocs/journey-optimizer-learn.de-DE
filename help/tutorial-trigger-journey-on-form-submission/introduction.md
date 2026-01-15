@@ -37,7 +37,7 @@ In diesem Anwendungsbeispiel wird gezeigt, wie ein Kunde durch die Formularüber
 * Konfigurieren der Datensatzsuche, um Referenzdaten in die E-Mail einzuschließen
 
 Einführung in Anwendungsfälle und Erstellung von Ereignisschemata
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478480?captions=ger)
 
 
 

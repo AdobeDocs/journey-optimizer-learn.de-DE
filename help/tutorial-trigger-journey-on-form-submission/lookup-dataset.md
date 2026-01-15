@@ -20,7 +20,7 @@ Mit einer Datensatzsuche kann Adobe Journey Optimizer zur Journey-Laufzeit Refer
 
 In diesem Anwendungsfall sucht der Journey dynamisch nach den entsprechenden Investitionsdetails aus einem Referenzdatensatz, wenn ein Benutzer ein Investitionspräferenzformular (Aktien, Anleihen oder CDs) einreicht, und verwendet diese Informationen zum Personalisieren einer E-Mail.
 Erstellen eines Lookup-Datensatzes
->[!VIDEO](https://video.tv.adobe.com/v/3478760)
+>[!VIDEO](https://video.tv.adobe.com/v/3478769?captions=ger)
 
 Testen Sie die Datensatz-Suchfelder, indem Sie die im vorherigen Schritt eingerichtete Formulareinrichtung übermitteln
 
