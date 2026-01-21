@@ -20,7 +20,7 @@ ht-degree: 1%
 
 ## Bereitstellen der Beispiel-Assets
 
-Wenn Node.js nicht installiert ist, laden Sie es herunter und [ Sie es von hier](https://nodejs.org/)
+Wenn Node.js nicht installiert ist, laden Sie es herunter und [&#x200B; Sie es von hier](https://nodejs.org/)
 
 Überprüfen Sie die Installation, indem Sie Folgendes ausführen:
 
