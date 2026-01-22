@@ -22,4 +22,4 @@ ht-degree: 5%
 
 Erfahren Sie, wie Sie mit der Aktivität Inhaltsentscheidung auf der Journey-Arbeitsfläche AJO Decisioning für personalisierte Inhaltsangebote nutzen können. Verwenden Sie diese Funktion, um Profile basierend auf abgerufenen Angeboten zu routen oder Angebote an externe Systeme zu senden, wodurch die Effektivität und Personalisierung Ihrer Journey verbessert wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479116/?captions=ger&learn=on&enablevpops)
