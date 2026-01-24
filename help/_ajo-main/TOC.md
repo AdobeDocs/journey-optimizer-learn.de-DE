@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Dies sind die Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: dcc1eee548f7e71ee71260ba8a14e04640c3fe2a
+source-git-commit: 05fc150f0e8463def80766bd0c64bad5541d9067
 workflow-type: tm+mt
-source-wordcount: '980'
-ht-degree: 100%
+source-wordcount: '986'
+ht-degree: 99%
 
 ---
 
@@ -93,6 +93,7 @@ ht-degree: 100%
    + Push-Kanal{#push-channel}
       + [Push-Benachrichtigungen – Überblick](/help/channels/push-notifications-overview.md)
       + [Konfigurieren und Senden von Push-Kampagnen](/help/channels/create-a-push-campaign.md)
+      + [Optimieren von Push-Benachrichtigungen mit AJO Decisioning](/help/decisioning/decisioning-in-push-notifications.md)
    + SMS-/MMS-Kanal{#sms-channel}
       + [SMS-/MMS-Nachrichten – Überblick](/help/channels/sms-mms-messages-overview.md)
       + [Konfigurieren, Verfassen und Versenden von SMS-Nachrichten](/help/channels/author-sms-messages.md)
