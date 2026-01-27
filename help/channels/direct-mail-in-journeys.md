@@ -22,6 +22,6 @@ ht-degree: 20%
 
 Erfahren Sie, wie Sie den Briefpost-Kanal in Adobe Journey Optimizer nutzen können, um Briefpost-Sendungen in Ihren Journey zu automatisieren und zu planen. Entdecken Sie das Datei-Routing-Setup, konfigurieren Sie die Erstellungshäufigkeit und verwenden Sie Briefpost-Aktionen auf der Journey-Arbeitsfläche. In diesem Video wird gezeigt, wie AJO Teilnehmer in die Warteschlange stellt, in Intervallen Dateien mit Zeitstempel generiert und nach der Aktivierung automatisch sendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479171/?captions=ger&learn=on&enablevpops)
 
 Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys).
