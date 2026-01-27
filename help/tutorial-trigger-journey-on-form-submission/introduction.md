@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
+source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 3%
@@ -36,8 +36,9 @@ In diesem Anwendungsbeispiel wird gezeigt, wie ein Kunde durch die Formularüber
 * Senden von Formularübermittlungsdaten an Adobe Experience Platform
 * Konfigurieren der Datensatzsuche, um Referenzdaten in die E-Mail einzuschließen
 
-Einführung in Anwendungsfälle und Erstellung von Ereignisschemata
->[!VIDEO](https://video.tv.adobe.com/v/3478480?captions=ger)
+**Einführung in Anwendungsfälle und Erstellung von Ereignisschemata**
+
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)
 
 
 
