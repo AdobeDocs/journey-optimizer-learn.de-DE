@@ -22,7 +22,7 @@ Das Erstellen einer Journey umfasst die Erstellung der folgenden Konfigurationen
 
 **Erstellen einer E-Mail-Kanalkonfiguration**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478510)
+>[!VIDEO](https://video.tv.adobe.com/v/3478519?captions=ger)
 
 
 

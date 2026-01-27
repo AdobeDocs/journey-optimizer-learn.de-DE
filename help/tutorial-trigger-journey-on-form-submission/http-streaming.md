@@ -20,7 +20,7 @@ Konfigurieren Sie das Formular so, dass Sendedaten mithilfe einer HTTP-basierten
 
 **Definieren des HTTP-Streaming-Endpunkts**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478505?captions=ger)
 
 
 

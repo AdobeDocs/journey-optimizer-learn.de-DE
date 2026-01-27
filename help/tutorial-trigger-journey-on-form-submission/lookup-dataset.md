@@ -22,7 +22,7 @@ In diesem Anwendungsfall sucht der Journey dynamisch nach den entsprechenden Inv
 
 **Erstellen eines Lookup-Datensatzes**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478760)
+>[!VIDEO](https://video.tv.adobe.com/v/3478769?captions=ger)
 
 Testen Sie die Datensatz-Suchfelder, indem Sie die im vorherigen Schritt eingerichtete Formulareinrichtung übermitteln
 
