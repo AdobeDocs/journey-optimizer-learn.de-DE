@@ -11,7 +11,7 @@ jira: KT-20141
 hide: true
 hidefromtoc: true
 source-git-commit: d5f7fe98ec18b55f82520f461106bb18860d49c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 
@@ -22,5 +22,5 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie mit der Aktivität „Inhaltsentscheidung“ auf der Journey-Arbeitsfläche die AJO-Entscheidungsfindung für personalisierte Inhaltsangebote nutzen. Verwenden Sie diese Funktion, um Profile basierend auf abgerufenen Angeboten weiterzuleiten oder Angebote an externe Systeme zu senden, wodurch die Effektivität und Personalisierung der Journey verbessert wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479116/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
 
