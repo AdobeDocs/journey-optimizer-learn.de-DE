@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Mit Web-Push können Websites Benachrichtigungen direkt an das Gerät eines Benutzers senden, auch wenn der Browser im Hintergrund läuft. Erfahren Sie, wie Sie Web-Push-Benachrichtigungen in Adobe Journey Optimizer erstellen und senden. Dieses Tutorial führt Sie durch die Auswahl von Kanalkonfigurationen, das Verfassen von Nachrichten, die Auswahl von Audiences und das Veröffentlichen von Kampagnen, um Ihre Reichweite über Mobilgeräte hinaus zu erweitern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479341/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479350/?captions=ger&learn=on&enablevpops)
