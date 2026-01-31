@@ -151,10 +151,10 @@ ht-degree: 97%
       + [Anleitung für die Entscheidungsfindung](/help/decisioning/decisioning-end-to-end.md)
       + [Navigieren in der Formel-Builder-Benutzeroberfläche](/help/decisioning/formula-builder-ui.md)
       + [Wiederverwendbare Regeln](/help/decisioning/reusable-targeting-rules.md)
-      + [Trigger-Journey bei Formularübermittlung](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [Trigger-Journey bei Formularübermittlung](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [Verwenden von Decisioning im E-Mail-Kanal](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [Verwenden von Decisioning im E-Mail-Kanal](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
       + [Verwenden der Entscheidungsfindung in Push-Benachrichtigungen](/help/decisioning/decisioning-in-push-notifications.md)
       + [Verwenden der Entscheidungsfindung in einer SMS-Nachricht](/help/decisioning/use-decisioning-in-an-sms-message.md)
    + Entscheidungs-Management {#decision-management}
