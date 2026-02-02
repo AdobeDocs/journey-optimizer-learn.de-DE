@@ -1,6 +1,6 @@
 ---
-title: Optimieren von Push-Benachrichtigungen mit AJO Decisioning
-description: Verbessern Sie die Interaktion mit personalisierten Push-Benachrichtigungen mithilfe von AJO Decisioning. Erstellen Sie maßgeschneiderte Angebote und analysieren Sie die Kampagnenleistung.
+title: Optimieren von Push-Benachrichtigungen mit der AJO-Entscheidungsfindung
+description: Verwenden Sie die AJO-Entscheidungsfindung, um mit personalisierten Push-Benachrichtigungen die Interaktion zu verbessern. Erstellen Sie maßgeschneiderte Angebote und analysieren Sie die Kampagnen-Leistung.
 feature: Decisioning, Push
 role: User
 level: Intermediate
@@ -11,15 +11,15 @@ jira: KT-20180
 hidefromtoc: false
 hide: false
 source-git-commit: 31a43b91fe3281a7de2aacb04e7714106d43cf89
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Optimieren von Push-Benachrichtigungen mit AJO Decisioning
+# Optimieren von Push-Benachrichtigungen mit der AJO-Entscheidungsfindung
 
-Erfahren Sie, wie Sie mit AJO Decisioning Push-Benachrichtigungen für Ihre Zielgruppe personalisieren können. Erstellen Sie ansprechende Angebote basierend auf Empfängerprofilen, um den Umsatz zu steigern. Verstehen Sie Entscheidungsstrategien, testen Sie Kampagnen und analysieren Sie Metriken für eine effektive Kommunikation. Verbessern Sie die Interaktion und liefern Sie Ihren Kunden die relevantesten Angebote.
+Erfahren Sie, wie Sie mit der AJO-Entscheidungsfindung Push-Benachrichtigungen für Ihre Zielgruppe personalisieren. Erstellen Sie ansprechende Angebote basierend auf Empfängerprofilen, um den Umsatz zu steigern. Verstehen Sie Entscheidungsstrategien, testen Sie Kampagnen und analysieren Sie Metriken für eine effektive Kommunikation. Verbessern Sie die Interaktion und bieten Sie Ihrer Kundschaft die relevantesten Promotions.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479219/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479199/?learn=on&enablevpops)
