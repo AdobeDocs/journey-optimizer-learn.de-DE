@@ -34,7 +34,7 @@ Erkunden Sie reale Marketing-Szenarien, die auf Adobe Journey Optimizer basieren
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" title="Anwendungsfall: Kunden-Onboarding (Tutorial)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440650/?format=jpeg&nocache=1770161593376" alt="Anwendungsfall: Kunden-Onboarding (Tutorial)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440659/?captions=ger&format=jpeg&nocache=1770161593376" alt="Anwendungsfall: Kunden-Onboarding (Tutorial)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -57,7 +57,7 @@ Erkunden Sie reale Marketing-Szenarien, die auf Adobe Journey Optimizer basieren
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart" title="Playbook für Anwendungsfälle – Abgebrochener Warenkorb" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443964/?format=jpeg&nocache=1770161593189" alt="Playbook für Anwendungsfälle – Abgebrochener Warenkorb"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443973/?captions=ger&format=jpeg&nocache=1770161593189" alt="Playbook für Anwendungsfälle – Abgebrochener Warenkorb"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -80,7 +80,7 @@ Erkunden Sie reale Marketing-Szenarien, die auf Adobe Journey Optimizer basieren
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma" title="Intelligente Rückgewinnung von Kundschaft – Luma-Beispiele" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425184/?format=jpeg&nocache=1770161592925" alt="Intelligente Rückgewinnung von Kundschaft – Luma-Beispiele"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454282/?captions=ger&format=jpeg&nocache=1770161592925" alt="Intelligente Rückgewinnung von Kundschaft – Luma-Beispiele"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
