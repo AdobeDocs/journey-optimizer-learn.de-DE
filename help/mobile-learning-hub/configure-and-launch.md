@@ -67,7 +67,7 @@ Für neue mobile In-App- und Push-Implementierungen ist die Einrichtung geführt
 > * Administratorrechte in AJO für Kanal- und Konfigurationseinstellungen.
 > * Zugriff auf den Quellcode Ihrer Mobile App (iOS, Android oder plattformübergreifendes Framework).
 > * Für Ihre App sind die erforderlichen Funktionen auf Betriebssystemebene aktiviert (z. B. Push-Berechtigungen, Erweiterungen des Benachrichtigungs-Service, Hintergrundmodi).
-> * Wenn Sie die vorhandene Konfigurationsoption verwenden, stellen Sie sicher, dass Sie die ([ Adobe Experience Platform Mobile SDK-Versionen verwenden](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}
+> * Wenn Sie die vorhandene Konfigurationsoption verwenden, stellen Sie sicher, dass Sie die ([&#x200B; Adobe Experience Platform Mobile SDK-Versionen verwenden](https://developer.adobe.com/client-sdks/home/current-sdk-versions/){target="_blank"}
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
@@ -586,7 +586,7 @@ Die meisten Probleme mit Mobilgeräten haben ihren Ursprung in der **SDK- oder D
 
 **Was zu überprüfen**
 
-* Verwenden Sie die für die Einrichtung **geführten Kanals erforderlichen Erweiterungsversionen Mobile Core** und {2 **Journey Optimizer)?**
+* Verwenden Sie die für die Einrichtung **geführten Kanals erforderlichen Erweiterungsversionen Mobile Core** und &lbrace;2 **Journey Optimizer)?**
 * In **Assurance** unter „Erweiterungen und Ereignisse“:
    * Werden die erwarteten Erweiterungen geladen?
    * Werden Ereignisse an die Edge Network gesendet und quittiert?
