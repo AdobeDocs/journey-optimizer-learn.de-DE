@@ -22,7 +22,7 @@ Erfahren Sie, wie Sie den Betriebszustand und die Leistung von HTTP-Aufrufen von
 
 Dieser Bericht hilft, Probleme zu identifizieren, die Journey-Leistung zu verbessern und einen reibungslosen Betrieb sicherzustellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479550/?captions=ger&learn=on&enablevpops)
 
 In der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) finden Sie weitere Informationen zu dieser Funktion.
 
