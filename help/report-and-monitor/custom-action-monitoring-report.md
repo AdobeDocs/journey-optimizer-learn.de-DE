@@ -24,5 +24,5 @@ Dieser Bericht hilft, Probleme zu identifizieren, die Journey-Leistung zu verbes
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
-In der [Produktdokumentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) finden Sie weitere Informationen zu dieser Funktion.
+In der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) finden Sie weitere Informationen zu dieser Funktion.
 
