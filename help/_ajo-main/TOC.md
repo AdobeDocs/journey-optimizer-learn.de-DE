@@ -43,7 +43,7 @@ ht-degree: 98%
    + [Einführung in das Erstellen einer Journey](/help/journeys/introduction-to-building-a-journey.md)
    + [Erstellen eines Testprofils](/help/journeys/test-a-journey.md)
    + [Veröffentlichen einer Journey](/help/journeys/publish-a-journey.md)
-   + [Aktivität „Inhaltsentscheidung“ &#x200B;](/help/journeys/content-decision-activity.md)
+   + [Aktivität „Inhaltsentscheidung“ ](/help/journeys/content-decision-activity.md)
    + [Anwendungsfall: Transaktions-Journey](/help/journeys/use-case-transactional-journey.md)
    + [Anwendungsfall: Geschäftsereignis](/help/journeys/use-case-business-event.md)
    + [Anwendungsfall: Zielgruppe lesen](/help/journeys/use-case-read-audience.md)
@@ -88,7 +88,7 @@ ht-degree: 98%
       + [In-App-Nachrichten – Überblick](/help/channels/in-app-messages-overview.md)
       + [Erstellen einer In-App-Kampagne](/help/channels/create-an-in-app-campaign.md)
       + [Erstellen einer In-App-Nachricht in einer Journey](/help/channels/create-an-in-app-message-in-a-journey.md)
-      + [Verfassen einer In-App-Nachricht &#x200B;](/help/channels/author-in-app-messages.md)
+      + [Verfassen einer In-App-Nachricht ](/help/channels/author-in-app-messages.md)
       + [Konfigurieren von Inhaltsexperimenten für In-App-Nachrichten](/help/experimentation/content-experiments-for-in-app-messages.md)
    + Push-Kanal{#push-channel}
       + [Push-Benachrichtigungen – Überblick](/help/channels/push-notifications-overview.md)
@@ -217,7 +217,7 @@ ht-degree: 98%
       + [Arbeiten mit Regelsätzen](/help/business-rules/work-with-rule-sets.md)
       + [Tests und Berichte zu Häufigkeitsregeln](/help/business-rules/test-and-report-on-frequency-rules.md)
 + Zugriffssteuerung {#access-control}
-   + [Zugriffsverwaltung &#x200B;](/help/set-up-access/access-management.md)
+   + [Zugriffsverwaltung ](/help/set-up-access/access-management.md)
    + [Konfigurieren der attributbasierten Zugriffssteuerung](/help/administration/attribute-based-access-control.md)
    + [Verwenden von Sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
 + Data Governance und Datenschutz {#data-governance-and-privacy}
@@ -236,7 +236,7 @@ ht-degree: 98%
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
    + [Intelligente Wiederaufnahme der Interaktion – Abgebrochenes Browsen](https://experienceleague.adobe.com/de/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe eines Web SDK](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [Erstellen von Berichten zu Angebots-Impressions und Klicks](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
+   + [Erstellen von Berichten zu Angebots-Impressions und Klicks ](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten in Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
