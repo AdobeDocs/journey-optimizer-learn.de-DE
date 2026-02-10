@@ -11,10 +11,10 @@ jira: KT-16267
 hide: false
 hidefromtoc: false
 exl-id: 0aaf116d-e8e9-449d-99b5-800fee8c3c0a
-source-git-commit: 5ed78b3a8effd376662f5218a660ce8627206ced
+source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -28,6 +28,6 @@ Informationen darüber, wie sich Richtlinien zur Datennutzung erstellen und verw
 >
 >In diesem [Tutorial](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md) erfahren Sie, wie Richtlinien in Journey Optimizer-Kanälen durchgesetzt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/37126/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
-Weitere Informationen zum [Arbeiten mit Einverständnisrichtlinien](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/privacy/consent/consent-restricted) in Journey Optimizer sind in der Produktdokumentation enthalten.
+Weitere Informationen zum [Arbeiten mit Einverständnisrichtlinien](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) in Journey Optimizer sind in der Produktdokumentation enthalten.

@@ -1,6 +1,6 @@
 ---
 title: Verwenden von Warnhinweisen
-description: Erfahren Sie, wie Sie vordefinierte Warnhinweise für unerwartete Verhaltensweisen von Journeys abonnieren und per E-Mail, in Journey Optimizer oder mithilfe einer API benachrichtigt werden können.
+description: Erfahren Sie, wie Sie vordefinierte Warnhinweise für unerwartete Verhaltensweisen einer Journey abonnieren und sich per E-Mail, in Journey Optimizer oder über eine API benachrichtigen lassen können.
 jira: KT-11081
 thumbnail: 336218.jpg
 feature: Alerts
@@ -10,16 +10,16 @@ role: Admin
 level: Beginner
 last-substantial-update: 2022-09-28T00:00:00Z
 exl-id: f4979b56-ee11-45f6-b538-b93a94f6ac41
-source-git-commit: dfbf246c95cf89afebd7460361791d1c33aa9e6e
-workflow-type: ht
+source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
+workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
 # Verwenden von Warnhinweisen
 
-Erfahren Sie, wie Sie vordefinierte Warnhinweise für unerwartete Verhaltensweisen von Journeys abonnieren und per E-Mail, in Journey Optimizer oder mithilfe einer API benachrichtigt werden können.
+Erfahren Sie, wie Sie vordefinierte Warnhinweise für unerwartete Verhaltensweisen einer Journey abonnieren und sich per E-Mail, in Journey Optimizer oder über eine API benachrichtigen lassen können.
 
 >[!NOTE]
 >
@@ -30,4 +30,4 @@ Erfahren Sie, wie Sie vordefinierte Warnhinweise für unerwartete Verhaltensweis
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
-Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/test/alerts){target="_blank"}.
+Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"}.
