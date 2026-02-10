@@ -96,11 +96,11 @@ Die JavaScript ruft Wetterinformationen basierend auf dem Standort der Benutzeri
 
 6. **Angebote abrufen und rendern**
 
-* Erhält von AJO Decisioning zurückgegebene Angebote.
+&#x200B;* Erhält von AJO Decisioning zurückgegebene Angebote.
 
-* Decodiert den HTML-Inhalt.
+&#x200B;* Decodiert den HTML-Inhalt.
 
-* fügt die Angebote dynamisch in die <div id="offerContainer"> Element.
+&#x200B;* fügt die Angebote dynamisch in die <div id="offerContainer"> Element.
 
 ## Nächste Schritte
 
