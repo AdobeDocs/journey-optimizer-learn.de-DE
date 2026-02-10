@@ -30,4 +30,4 @@ Erfahren Sie, wie Sie vordefinierte Warnhinweise für unerwartete Verhaltensweis
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
-Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"}.
+Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"}.

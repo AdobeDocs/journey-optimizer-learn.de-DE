@@ -30,4 +30,4 @@ Informationen darüber, wie sich Richtlinien zur Datennutzung erstellen und verw
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
-Weitere Informationen zum [Arbeiten mit Einverständnisrichtlinien](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) in Journey Optimizer sind in der Produktdokumentation enthalten.
+Weitere Informationen zum [Arbeiten mit Einverständnisrichtlinien](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/privacy/consent/consent) in Journey Optimizer sind in der Produktdokumentation enthalten.

@@ -25,4 +25,4 @@ Informationen zur Durchsetzung von Datennutzungsrichtlinien in Journey Optimizer
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
-Weitere Informationen zu [Data Governance](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/privacy/action-privacy-restricted) und zum [Arbeiten mit Einverständnisrichtlinien](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent) in Journey Optimizer sind in der Produktdokumentation zu finden.
+Weitere Informationen zu [Data Governance](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/privacy/action-privacy-restricted) und zum [Arbeiten mit Einverständnisrichtlinien](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/privacy/consent/consent) in Journey Optimizer sind in der Produktdokumentation zu finden.
