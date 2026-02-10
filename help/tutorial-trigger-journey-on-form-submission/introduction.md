@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 040b444f8f3a612081615016def92999bf8fff53
+exl-id: 52a506d0-cc1b-4d8d-a634-b66c7c7673ed
+source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 3%
@@ -22,9 +23,7 @@ In diesem Anwendungsbeispiel wird gezeigt, wie ein Kunde durch die Formularüber
 ## Voraussetzungen für dieses Tutorial
 
 * Zugriff auf Experience Platform
-
 * Grundlegendes zu Experience Platform-Konzepten (Profile, Audiences, Datensätze)
-
 * Vertrautheit mit Journey Optimizer
 
 ## Implementierungsschritte
@@ -38,7 +37,4 @@ In diesem Anwendungsbeispiel wird gezeigt, wie ein Kunde durch die Formularüber
 
 **Einführung in Anwendungsfälle und Erstellung von Ereignisschemata**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478480?captions=ger)
-
-
-
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)

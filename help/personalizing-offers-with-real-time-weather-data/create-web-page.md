@@ -9,7 +9,7 @@ last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -42,8 +42,6 @@ Laden Sie die HTML- und die JavaScript-Datei herunter und extrahieren Sie sie au
 ```
 <script src="https://assets.adobedtm.com/AEM_TAGS/launch-ENabcd1234.min.js" async></script>
 ```
-
-
 
 ## Funktionsweise der Web-Seite
 
@@ -98,13 +96,13 @@ Die JavaScript ruft Wetterinformationen basierend auf dem Standort der Benutzeri
 
 6. **Angebote abrufen und rendern**
 
-   Erhält von AJO Decisioning zurückgegebene Angebote.
+* Erhält von AJO Decisioning zurückgegebene Angebote.
 
-   Decodiert den HTML-Inhalt.
+* Decodiert den HTML-Inhalt.
 
-   fügt die Angebote dynamisch in die <div id="offerContainer"> Element.
+* fügt die Angebote dynamisch in die <div id="offerContainer"> Element.
 
 ## Nächste Schritte
 
-[Auswirkungen von AJO Decisioning messen und melden.](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
+[Auswirkungen von AJO Decisioning messen und melden.](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 
