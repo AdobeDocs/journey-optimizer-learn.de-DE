@@ -8,18 +8,18 @@ doc-type: Feature Video
 duration: 123
 last-substantial-update: 2026-01-22T00:00:00Z
 jira: KT-20141
-hide: true
-hidefromtoc: true
+hide: false
+hidefromtoc: false
 exl-id: 4455d0d1-b6d5-4407-8dd7-7b1dc7f336dd
-source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
+source-git-commit: 307f59c543bed9b8d21e530d733fa2bfd15874ad
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 100%
+source-wordcount: '62'
+ht-degree: 64%
 
 ---
 
 # Aktivität „Inhaltsentscheidung“ 
 
-Erfahren Sie, wie Sie mit der Aktivität „Inhaltsentscheidung“ auf der Journey-Arbeitsfläche die AJO-Entscheidungsfindung für personalisierte Inhaltsangebote nutzen. Verwenden Sie diese Funktion, um Profile basierend auf abgerufenen Angeboten weiterzuleiten oder Angebote an externe Systeme zu senden, wodurch die Effektivität und Personalisierung der Journey verbessert wird.
+Erfahren Sie, wie Sie mit der Aktivität Inhaltsentscheidung auf der Journey-Arbeitsfläche Adobe Journey Optimizer Decisioning für personalisierte Inhaltsangebote nutzen können. Verwenden Sie diese Funktion, um Profile basierend auf abgerufenen Angeboten weiterzuleiten oder Angebote an externe Systeme zu senden, wodurch die Effektivität und Personalisierung der Journey verbessert wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479116/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
