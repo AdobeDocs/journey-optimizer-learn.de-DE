@@ -11,7 +11,7 @@ hidefromtoc: true
 hide: true
 last-substantial-update: 2026-02-13T00:00:00Z
 jira: KT-20313
-source-git-commit: 4fe31620f48ad8a121256775fdaf5cbc115e2b98
+source-git-commit: d7dedf356471641440d6b0ee24257e20f19c6d3b
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -23,4 +23,5 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie den Trainings-Status, die Traffic-Zuordnung und die Leistung von KI-Modellen analysieren, um personalisierte Entscheidungen in Journey Optimizer zu optimieren. Erfahren Sie, wie Sie mithilfe von KI-Funktionen Probleme identifizieren, Modelle auf Fehler beheben und Konversionsraten steigern können. In diesem Video erfahren Sie, wie Sie KI-Modelle effektiv verwalten, um die Geschäftsauswirkungen zu steigern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479858/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)
+
