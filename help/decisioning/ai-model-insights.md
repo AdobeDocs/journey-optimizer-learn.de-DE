@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie den Trainings-Status, die Traffic-Zuordnung und die Leistung von KI-Modellen analysieren, um personalisierte Entscheidungen in Journey Optimizer zu optimieren. Erfahren Sie, wie Sie mithilfe von KI-Funktionen Probleme identifizieren, Modelle auf Fehler beheben und Konversionsraten steigern können. In diesem Video erfahren Sie, wie Sie KI-Modelle effektiv verwalten, um die Geschäftsauswirkungen zu steigern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479858/?captions=ger&learn=on&enablevpops)
