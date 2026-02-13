@@ -43,7 +43,7 @@ ht-degree: 98%
    + [Einführung in das Erstellen einer Journey](/help/journeys/introduction-to-building-a-journey.md)
    + [Erstellen eines Testprofils](/help/journeys/test-a-journey.md)
    + [Veröffentlichen einer Journey](/help/journeys/publish-a-journey.md)
-   + [Aktivität „Inhaltsentscheidung“ ](/help/journeys/content-decision-activity.md)
+   + [Aktivität „Inhaltsentscheidung“ &#x200B;](/help/journeys/content-decision-activity.md)
    + [Anwendungsfall: Transaktions-Journey](/help/journeys/use-case-transactional-journey.md)
    + [Anwendungsfall: Geschäftsereignis](/help/journeys/use-case-business-event.md)
    + [Anwendungsfall: Zielgruppe lesen](/help/journeys/use-case-read-audience.md)
@@ -88,7 +88,7 @@ ht-degree: 98%
       + [In-App-Nachrichten – Überblick](/help/channels/in-app-messages-overview.md)
       + [Erstellen einer In-App-Kampagne](/help/channels/create-an-in-app-campaign.md)
       + [Erstellen einer In-App-Nachricht in einer Journey](/help/channels/create-an-in-app-message-in-a-journey.md)
-      + [Verfassen einer In-App-Nachricht ](/help/channels/author-in-app-messages.md)
+      + [Verfassen einer In-App-Nachricht &#x200B;](/help/channels/author-in-app-messages.md)
       + [Konfigurieren von Inhaltsexperimenten für In-App-Nachrichten](/help/experimentation/content-experiments-for-in-app-messages.md)
    + Live-Aktivitäten {#live-activities}
       + [iOS Live-Aktivitäten](/help/channels/ios-live-activities.md)
@@ -218,7 +218,7 @@ ht-degree: 98%
       + [Arbeiten mit Regelsätzen](/help/business-rules/work-with-rule-sets.md)
       + [Tests und Berichte zu Häufigkeitsregeln](/help/business-rules/test-and-report-on-frequency-rules.md)
 + Zugriffssteuerung {#access-control}
-   + [Zugriffsverwaltung ](/help/set-up-access/access-management.md)
+   + [Zugriffsverwaltung &#x200B;](/help/set-up-access/access-management.md)
    + [Konfigurieren der attributbasierten Zugriffssteuerung](/help/administration/attribute-based-access-control.md)
    + [Verwenden von Sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
 + Data Governance und Datenschutz {#data-governance-and-privacy}
