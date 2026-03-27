@@ -20,4 +20,4 @@ ht-degree: 0%
 Erfahren Sie, wie Sie datensatzbasierte Datensätze für personalisierte Nachrichten verwenden, ohne die Kundenprofile in Adobe Journey Optimizer aufblähen zu müssen.
 
 <!-- 62_S522_3442522_70_enhancing-personalization-with-ajo-lookups -->
->[!VIDEO](https://video.tv.adobe.com/v/3458226/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460340/?captions=ger&learn=on&enablevpops=true)

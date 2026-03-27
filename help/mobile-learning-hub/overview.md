@@ -21,7 +21,7 @@ Bauen Sie auf Adobe Journey Optimizer, um Ihre mobile Interaktionsstrategie sofo
 
 Erfahren Sie mehr über Best Practices, die Förderung der Akzeptanz und die Einrichtung zentralisierter Reporting-Workflows - alles an einem Ort, um wirkungsvolle, datengesteuerte mobile Erlebnisse bereitzustellen, die Kunden jederzeit und überall erreichen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3477007?captions=ger&quality=12&learn=on){transcript=true}
 
 
 ## Mobile-Kanal - Übersicht
