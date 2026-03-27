@@ -10,7 +10,7 @@ last-substantial-update: 2025-05-01T00:00:00Z
 jira: KT-17874
 index: false
 exl-id: c4f9447b-e79f-45ea-bd93-ed299da7aef6
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -23,4 +23,4 @@ In dieser Übung beginnen Sie mit dem Erstellen der Begrüßungs-Journey, die au
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)
 
-Journey Weitere [&#x200B; zu diesem Thema finden Sie unter &#x200B;](/help/journeys/introduction-to-building-a-journey.md) zum Erstellen einer [&#x200B; und &#x200B;](/help/journeys/use-case-audience-qualification.md)Anwendungsfall - Zielgruppenqualifizierung .
+Weitere [ zu diesem Thema finden Sie unter ](/help/journeys/introduction-to-building-a-journey.md) zum Erstellen einer [ und ](/help/journeys/use-case-audience-qualification.md)Anwendungsfall - Zielgruppenqualifizierung .

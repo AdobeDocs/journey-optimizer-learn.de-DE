@@ -7,17 +7,17 @@ index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: e52cdba2a9203497d97cbd1e75c81e3e4e556ac4
+exl-id: 591d06fb-4537-4103-bc35-670564f9465e
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-
 # Zielgruppenorientierte Erstellung mit Adobe-Agenten
 
 Sehen Sie sich an, wie Audience Agent von Adobe KI verwendet, um präzise, zielgerichtete Zielgruppen zu erstellen, indem Echtzeitdaten und Modelle für maschinelles Lernen genutzt werden.
 
 <!-- 62_S653_3442539_281_goaldriven-audience-creation-with-adobe-agents -->
->[!VIDEO](https://video.tv.adobe.com/v/3460306/?learn=on&enablevpops=true&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3458193/?learn=on&enablevpops=true)

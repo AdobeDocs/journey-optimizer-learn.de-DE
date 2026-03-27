@@ -2,7 +2,7 @@
 title: Übersicht über das Data-Governance-Framework
 description: Machen Sie sich mit den Governance-Funktionen in Adobe Experience Platform vertraut.
 feature: Governance, Privacy
-role: Data Architect, User
+role: Developer, User
 level: Intermediate
 doc-type: Feature Video
 duration: 474
@@ -11,7 +11,7 @@ jira: KT-16263
 hide: false
 hidefromtoc: false
 exl-id: e78350c0-543e-4a68-9551-df0c7d9a7be0
-source-git-commit: 5ed78b3a8effd376662f5218a660ce8627206ced
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Machen Sie sich mit dem Data-Governance-Framework in Adobe Experience Platform vertraut.
 
->[!VIDEO](https://video.tv.adobe.com/v/33153/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
 Weitere Informationen zu [Data Governance](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/privacy/action-privacy-restricted) in Journey Optimizer finden Sie in der Produktdokumentation.
 

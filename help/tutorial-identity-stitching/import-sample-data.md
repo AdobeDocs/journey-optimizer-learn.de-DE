@@ -9,7 +9,7 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
-source-git-commit: 667f146639635515a5572e9ace41d83ab4452bb8
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 6%
@@ -51,7 +51,7 @@ Aktualisieren Sie die Platzhalter-E-Mail-Adressen auf echte. Diese werden späte
 * Erstellen Sie einen Datensatz mit dem Namen **_FinWiseCustomerDataSetWithAnnualIncome_**, basierend auf dem **_FinWiseProfileSchema_**, das zuvor erstellt wurde. Stellen Sie sicher, dass der Datensatz für das Profil aktiviert ist.
 
 * Navigieren Sie zu Verbindungen > Quellen > Lokales System
-* Wählen Sie **_Daten hinzufügen_** unter Lokaler Datei-Upload aus. Wählen Sie unbedingt _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ als Zieldatensatz aus.
+* Wählen Sie **_Daten hinzufügen_** unter Lokaler Datei-Upload aus. Wählen Sie unbedingt _**FinWiseCustomerDataSetWithAnnualIncome**_ als Zieldatensatz aus.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * Navigieren Sie zum nächsten Bildschirm. Laden Sie die [CSV-Datei](assets/finwise_profiles.csv) hoch und überprüfen Sie die Zuordnungen
   ![Zuordnungen](assets/mappings.png)

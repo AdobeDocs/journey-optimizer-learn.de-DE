@@ -5,13 +5,13 @@ feature: Overview
 role: User
 hide: true
 index: false
-source-git-commit: ea0030d0742adf0058c8bb9ad3950ae9d96f8892
+exl-id: 3706c5ad-9a80-4799-8880-c45eda082f22
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '2156'
 ht-degree: 0%
 
 ---
-
 
 # Emotionale Loyalität &amp; Community-Aufbau
 
@@ -102,7 +102,7 @@ Diese Marken veranschaulichen, wie emotionale Loyalität Transaktionen überschr
 
 ## &#x200B;6. Ermöglichen emotionaler Loyalität mit moderner Technologie
 
-Moderne emotionale Treueprogramme basieren in hohem Maße auf den Orchestrierungsfunktionen von Plattformen wie Adobe Journey Optimizer, Salesforce Loyalty Management, Braze und Community-Plattformen wie Khoros oder benutzerdefinierten App-Ökosystemen. Daten- und Identitätsinfrastrukturen spielen eine wesentliche Rolle. Ein einheitliches Kundenprofil muss nicht nur das Transaktionsverhalten, sondern auch emotionale Signale verfolgen: Challenge-Teilnahme, Inhaltsinteraktionen, Community-Aktivität, Stimmung, Voreinstellungen, kreative Einsendungen oder Streak-Länge.
+Moderne emotionale Treueprogramme basieren in hohem Maße auf den Orchestrierungsfunktionen von Plattformen wie Adobe Journey Optimizer, Salesforce Loyalty Management, Braze und Community-Plattformen wie Khoros oder benutzerdefinierten App-Ökosystemen. Daten- und Identitätsinfrastrukturen spielen eine wesentliche Rolle. Ein einheitliches Kundenprofil muss nicht nur das Transaktionsverhalten, sondern auch emotionale Signale verfolgen: Challenge-Teilnahme, Inhaltsinteraktionen, Community-Aktivität, Sentiment, Voreinstellungen, kreative Einsendungen oder Streak-Länge.
 
 Orchestrierungsplattformen müssen eine personalisierte Erkennung zum richtigen Zeitpunkt bereitstellen. Dies bedeutet, dass Meilensteinfeiern ausgelöst werden, sobald ein Benutzer eine Challenge abschließt, App-Abzeichen sofort aktualisiert werden oder personalisierte Treuemodule über App und Web angezeigt werden. Die Visualisierung des Echtzeit-Fortschritts ist von entscheidender Bedeutung für die Aufrechterhaltung der emotionalen Interaktion. Indem sie Fortschrittsindikatoren überall dort anzeigen, wo Kunden interagieren, verstärken Marken das Narrativ, dass der Kunde auf einem aussagekräftigen Journey ist.
 

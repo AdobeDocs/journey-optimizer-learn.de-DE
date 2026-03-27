@@ -2,7 +2,7 @@
 title: Klassifizieren von Daten mithilfe von Labels
 description: Informationen darüber, wie Schemata und Datensätze mit Labels versehen können.
 feature: Governance, Privacy, Data Management, Access Management
-role: Data Architect, Admin
+role: Developer, Admin
 level: Beginner
 jira: KT-16266
 thumbnail: 29709.jpg
@@ -10,7 +10,7 @@ last-substantial-update: 2024-10-01T00:00:00Z
 hide: false
 hidefromtoc: false
 exl-id: 52930777-3231-4156-b1fe-a2d82003629a
-source-git-commit: 5ed78b3a8effd376662f5218a660ce8627206ced
+source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 100%
@@ -25,4 +25,4 @@ Informationen darüber, wie Schemata und Datensätze mit Labels versehen können
 >
 >Das Video zeigt diese Funktion in der Benutzeroberfläche von Adobe Experience Platform. Dieselbe Funktion ist auch in der Journey Optimizer-Benutzeroberfläche im linken Navigationsbereich im Abschnitt DATEN-MANAGEMENT verfügbar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422789?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/29709?learn=on)

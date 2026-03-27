@@ -7,17 +7,17 @@ index: false
 hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
-source-git-commit: 28e2477974df6d22cff87eb9c242657e23569b15
+exl-id: 17f2e783-597e-48f3-8edd-392cba3af5a6
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
-
 
 # Grundlegendes zum Kern von Adobe Journey Optimizer
 
 Erfahren Sie, wie Adobe Journey Optimizer (AJO) Echtzeit-Kundendaten nutzt, um kanalübergreifend konsistente und relevante Erlebnisse bereitzustellen.
 
 <!-- 62_S522_3442522_82_understanding-the-core-of-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3460495/?learn=on&enablevpops=true&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3458249/?learn=on&enablevpops=true)
