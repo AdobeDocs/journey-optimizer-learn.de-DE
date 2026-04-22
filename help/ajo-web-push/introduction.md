@@ -24,7 +24,7 @@ Beispiel-Webseite, auf der Benutzer Benachrichtigungen auswählen können
 
 Beispiel einer Web-Seite für ein Preisabsenkungsereignis eines Triggers
 
-![Preisverfall beim Trigger ](assets/trigger-price-drop-event.png)
+![Preisverfall beim Trigger &#x200B;](assets/trigger-price-drop-event.png)
 
 ## Voraussetzungen
 
