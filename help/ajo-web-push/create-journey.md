@@ -54,7 +54,7 @@ Fügen Sie der Push-Benachrichtigung mithilfe des Personalisierungseditors eine 
 To begin composing the message, click on `Content` to open the content tab, where you can define both the fixed text and the dynamic fields derived from the event data.
 ![content-push](assets/compose-message.png)
 
-Specify the title of the push message, then open the personalization editor to compose the message body. The content will dynamically include the names of the product(s) whose prices have dropped. To achieve this, use the each [helper function](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
+Specify the title of the push message, then open the personalization editor to compose the message body. The content will dynamically include the names of the product(s) whose prices have dropped. To achieve this, use the each [helper function](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
 to iterate over the list of products and render their names within the message.
 
 ## Nachrichtentext erstellen
