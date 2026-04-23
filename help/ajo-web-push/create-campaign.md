@@ -1,63 +1,60 @@
 ---
-title: Create campaign
-description: Create a campaign to target users who have opted in to receive push notifications and delivers the message at the scheduled time.
+title: Kampagne erstellen
+description: Erstellen Sie eine Kampagne, um Benutzende anzusprechen, die sich für den Empfang von Push-Benachrichtigungen entschieden haben, und versenden Sie die Nachricht zum geplanten Zeitpunkt.
 feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 45f86aeb8fca071436785cc55225d853bb21998f
+exl-id: 94fda23f-e26a-494b-8e5c-6c442bae61c4
+source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 1%
 
 ---
 
-# Create Campaign
+# Kampagne erstellen
 
-In this step, you will create a campaign in Adobe Journey Optimizer to send scheduled web push notifications to users who have opted in. The campaign targets an eligible audience and delivers messages at a predefined time, enabling planned and audience-based engagement.
+In diesem Schritt erstellen Sie eine Kampagne in Adobe Journey Optimizer, um geplante Web-Push-Benachrichtigungen an Benutzer zu senden, die sich angemeldet haben. Die Kampagne richtet sich an eine geeignete Audience und sendet Nachrichten zu einem vordefinierten Zeitpunkt, was eine geplante und zielgruppenbasierte Interaktion ermöglicht.
 
-* Log in to Journey Optimizer
-* Navigate to Journey Management | Campaigns | Create Campaigns
+* Bei Journey Optimizer anmelden
+* Navigieren Sie zur Journey-Verwaltung | Kampagnen | Kampagnen erstellen
 
-## Specify  Campaign Settings
+## Angeben der Kampagneneinstellungen
 
 
-Specify the campaign name
+Geben Sie den Kampagnennamen an
 
 ![campaign-name](assets/campign-push-notification.png)
 
-## Associate Action with the campaign
+## Aktion mit der Kampagne verknüpfen
 
-Associate the push channel configuration created earlier in this tutorial
+Verknüpfen Sie die zuvor in diesem Tutorial erstellte Konfiguration des Push-Kanals
 
 ![campaign-action](assets/campign-push-notification-action.png)
 
-## Associate Audience with the campaign
+## Zielgruppe mit der Kampagne verknüpfen
 
 Audience-`AudienceForPush` mit der Kampagne verknüpfen
 
 ![campaign-audience](assets/campign-push-notification-audience.png)
 
-## Create content for the push notification
+## Inhalt für die Push-Benachrichtigung erstellen
 
-Create basic push content for testing the push notification. Specify title and body of the message as shown below
+Erstellen Sie grundlegende Push-Inhalte zum Testen der Push-Benachrichtigung. Geben Sie Titel und Text der Nachricht an, wie unten dargestellt
 
 ![content-for-push-notification](assets/campign-push-notification-content.png)
 
 ## Planen der Kampagne
 
-Schedule the campaign as per your needs
+Planung der Kampagne gemäß Ihren Anforderungen
 
-![schedule-campaing](assets/campign-push-notification-schedule.png)
+![schedule-campaign](assets/campign-push-notification-schedule.png)
 
-Finally make sure you activate the campaign.
+Stellen Sie abschließend sicher, dass Sie die Kampagne aktivieren.
 
-## Test the campaign
+## Testen der Kampagne
 
-To test the campaign, first enable notifications on the[web page by opting in](http://localhost:3000) when prompted. Warten Sie nach dem Opt-in, bis die Kampagne zum geplanten Zeitpunkt ausgeführt wird. Wenn die Kampagne ausgeführt wird, sollten Sie die Push-Benachrichtigung in Ihrem Browser erhalten.
-
-
-
-
+Um die Kampagne zu testen, aktivieren Sie zunächst Benachrichtigungen auf der [Webseite, indem Sie sich anmelden](http://localhost:3000) wenn Sie dazu aufgefordert werden. Warten Sie nach dem Opt-in, bis die Kampagne zum geplanten Zeitpunkt ausgeführt wird. Wenn die Kampagne ausgeführt wird, sollten Sie die Push-Benachrichtigung in Ihrem Browser erhalten.

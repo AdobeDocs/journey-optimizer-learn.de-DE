@@ -7,7 +7,7 @@ solution: Journey Optimizer
 role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/ajo-web-push/introduction
-source-git-commit: cd96c5cce9682807d453159898ad94e9ca7575b8
+source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 7%
@@ -18,9 +18,9 @@ ht-degree: 7%
 # Web-Push in Adobe Journey Optimizer{#ajo-web-push}
 
 + [Einführung](./introduction.md)
-+ [Lokales Setup](./run-application-locally.md)
 + [Push-Konfiguration erstellen](./create-push-configuration.md)
 + [Datenstrom erstellen](./create-data-stream.md)
++ [Lokales Setup](./run-application-locally.md)
 + [Benutzerberechtigung erfassen](./capture-user-persmission.md)
 + [Zielgruppe erstellen](./create-audience.md)
 + [Kampagne erstellen](./create-campaign.md)
