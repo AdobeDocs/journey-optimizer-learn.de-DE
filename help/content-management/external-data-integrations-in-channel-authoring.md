@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie externe Daten und Inhalte in Adobe Journey Optimizer integ
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
-Weitere Informationen finden Sie in [ Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/vendor-integration)Produktdokumentation).
+Weitere Informationen finden Sie in [&#x200B; Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/vendor-integration)Produktdokumentation).
