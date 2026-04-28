@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie ein einheitliches Profil erstellen und anschließend Segmente basierend auf Profilattributen erstellen, um Customer Journeys zu personalisieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/342114?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410297?captions=ger&quality=12&learn=on){transcript=true}

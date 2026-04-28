@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie die Funktion „Ruhezeiten“ in Adobe Journey Optimizer nutzen können, um zu verhindern, dass Nachrichten während bestimmter Zeitfenster an Kundinnen und Kunden gesendet werden. So vermeiden Marketing-Fachleute das Versenden von Nachrichten zu ungeeigneten Zeiten und verbessern die Kundeninteraktion.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475861/?captions=ger&learn=on&enablevpops)

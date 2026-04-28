@@ -20,4 +20,4 @@ ht-degree: 0%
 Explore how Adobe Journey Optimizer supports RCS messaging, offering branded, interactive, and app-like experiences directly in users&#39; message inboxes.
 
 <!-- 72_S520_3442520_186_rcs-messaging-the-future-of-rich-communication -->
->[!VIDEO](https://video.tv.adobe.com/v/3458209/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460375/?captions=ger&learn=on&enablevpops=true)

@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie mit der AJO-Entscheidungsfindung Push-Benachrichtigungen für Ihre Zielgruppe personalisieren. Erstellen Sie ansprechende Angebote basierend auf Empfängerprofilen, um den Umsatz zu steigern. Verstehen Sie Entscheidungsstrategien, testen Sie Kampagnen und analysieren Sie Metriken für eine effektive Kommunikation. Verbessern Sie die Interaktion und bieten Sie Ihrer Kundschaft die relevantesten Promotions.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479199/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479219/?captions=ger&learn=on&enablevpops)
