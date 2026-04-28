@@ -1,6 +1,6 @@
 ---
-title: RCS Messaging - Die Zukunft der Rich-Kommunikation
-description: Erfahren Sie, wie Adobe Journey Optimizer RCS-Messaging unterstützt und markenspezifische, interaktive und App-ähnliche Erlebnisse direkt in den Nachrichten-Posteingängen der Benutzer anbietet.
+title: RCS Messaging - The Future of Rich Communication
+description: Explore how Adobe Journey Optimizer supports RCS messaging, offering branded, interactive, and app-like experiences directly in users' message inboxes.
 doc-type: Short Video
 duration: 187
 index: false
@@ -8,16 +8,16 @@ hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: a337533d-8acc-4e37-9df3-d57930d3dde7
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-# RCS Messaging: Die Zukunft der Rich-Kommunikation
+# RCS Messaging: The Future of Rich Communication
 
-Erfahren Sie, wie Adobe Journey Optimizer RCS-Messaging unterstützt und markenspezifische, interaktive und App-ähnliche Erlebnisse direkt in den Nachrichten-Posteingängen der Benutzer anbietet.
+Explore how Adobe Journey Optimizer supports RCS messaging, offering branded, interactive, and app-like experiences directly in users&#39; message inboxes.
 
 <!-- 72_S520_3442520_186_rcs-messaging-the-future-of-rich-communication -->
->[!VIDEO](https://video.tv.adobe.com/v/3460375/?captions=ger&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458209/?learn=on&enablevpops=true)
