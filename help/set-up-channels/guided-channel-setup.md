@@ -14,7 +14,7 @@ exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ Die Anleitung zur Kanaleinrichtung hilft Ihnen dabei, Web- und Mobile-Kanäle sc
 
 Erfahren Sie, wie Sie eine Push-Kanal-Benachrichtigung in einer Beispiel-Marketing-App für iOS einrichten und validieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449631/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 Weitere Informationen finden Sie in der Produktdokumentation:
 
-* [Get started with guided channel setup](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=de){target="_blank"}
-* [Create a channel setup](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=de){target="_blank"}
+* [Erste Schritte mit der Anleitung zur Kanaleinrichtung](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=de){target="_blank"}
+* [Erstellen einer Kanaleinrichtung](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=de){target="_blank"}

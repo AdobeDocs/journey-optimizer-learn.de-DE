@@ -14,13 +14,13 @@ exl-id: 4455d0d1-b6d5-4407-8dd7-7b1dc7f336dd
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# Aktivität zur Inhaltsentscheidung auf der Journey-Arbeitsfläche
+# Aktivität „Inhaltsentscheidung“ auf der Journey-Arbeitsfläche
 
-Erfahren Sie, wie Sie mit der Aktivität Inhaltsentscheidung auf der Journey-Arbeitsfläche Adobe Journey Optimizer Decisioning für personalisierte Inhaltsangebote nutzen können. Verwenden Sie diese Funktion, um Profile basierend auf abgerufenen Angeboten weiterzuleiten oder Angebote an externe Systeme zu senden, wodurch die Effektivität und Personalisierung der Journey verbessert wird.
+Erfahren Sie, wie Sie mit der Aktivität „Inhaltsentscheidung“ auf der Journey-Arbeitsfläche Adobe Journey Optimizer Decisioning für personalisierte Inhaltsangebote nutzen können. Verwenden Sie diese Funktion, um Profile basierend auf abgerufenen Angeboten weiterzuleiten oder Angebote an externe Systeme zu senden, wodurch die Effektivität und Personalisierung der Journey verbessert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479116/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
 

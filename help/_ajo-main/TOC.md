@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: c6f5a9c78193f6540456ff0e1062970000f832b7
 workflow-type: tm+mt
 source-wordcount: '1380'
-ht-degree: 93%
+ht-degree: 99%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 93%
       + [Erstellen einer In-App-Kampagne](/help/campaigns/action-campaigns/in-app.md)
       + [Konfigurieren und Senden von Push-Kampagnen](/help/campaigns/action-campaigns/push-campaign.md)
       + [Erstellen einer Web-Kampagne](/help/campaigns/action-campaigns/web-campaign.md)
-      + [Erstellen einer Code-basierte Erlebniskampagne](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
+      + [Erstellen einer Code-basierten Erlebniskampagne](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [Nutzen der Nachrichtenoptimierung in einer Kampagne](/help/campaigns/action-campaigns/leverage-message-optimization-in-a-campaign.md)
    + Durch API ausgelöste Kampagnen {#api-triggered-campaigns}
       + [Auslösen von Kampagnen mit APIs](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
@@ -56,7 +56,7 @@ ht-degree: 93%
    + [Kopieren einer Journey in eine andere Sandbox](/help/journeys/copy-a-journey.md)
    + [Auslösen täglicher Journey-Ausführungen nach der Batch-Segmentierung](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
 + Treue {#loyalty}
-   + [Erstellen einer Herausforderung für das Treueprogramm](/help/loyalty/create-a-loyalty-challenge.md)
+   + [Erstellen einer Challenge für das Treueprogramm](/help/loyalty/create-a-loyalty-challenge.md)
 + Konflikt-Management und Priorisierung {#conflict-management}
    + [Identifizieren potenzieller Konflikte](/help/conflict-management/identify-potential-conflicts.md)
    + [Zuweisen von Prioritätswerten](/help/conflict-management/assign-priority-score.md)
@@ -74,9 +74,9 @@ ht-degree: 93%
 + Kanäle {#channels}
    + [Mobile-App-Optimierung – Überblick](/help/channels/mobile-app-optimization-overview.md)
    + Code-basierter Erlebniskanal{#code-based-experience-channel}
-      + [Erstellen einer Code-basierte Erlebniskampagne](/help/channels/create-a-code-based-experience-campaign.md)
+      + [Erstellen einer Code-basierten Erlebniskampagne](/help/channels/create-a-code-based-experience-campaign.md)
       + [Hinzufügen von Formularfeldern zu Code-basierten Erlebniskanalvorlagen](/help/channels/form-fields-in-code-based-experiences.md)
-      + [Verwenden von Decisioning im Code-basierten Kanal](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
+      + [Verwenden von Entscheidungsfindung im Code-basierten Kanal](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + Direkt-Mail-Kanal{#direct-mail-channel}
       + [Erstellen von Direkt-Mail](/help/channels/direct-mail.md)
       + [Senden von Direkt-Mail-Nachrichten mit Journeys](/help/channels/direct-mail-in-journeys.md)
@@ -95,7 +95,7 @@ ht-degree: 93%
       + [Verfassen einer In-App-Nachricht](/help/channels/author-in-app-messages.md)
       + [Konfigurieren von Inhaltsexperimenten für In-App-Nachrichten](/help/experimentation/content-experiments-for-in-app-messages.md)
    + Live-Aktivitäten {#live-activities}
-      + [iOS Live-Aktivitäten](/help/channels/ios-live-activities.md)
+      + [iOS-Live-Aktivitäten](/help/channels/ios-live-activities.md)
    + Push-Kanal{#push-channel}
       + [Push-Benachrichtigungen – Überblick](/help/channels/push-notifications-overview.md)
       + [Konfigurieren und Senden von Push-Kampagnen](/help/channels/create-a-push-campaign.md)
@@ -157,13 +157,13 @@ ht-degree: 93%
       + [Anleitung für die Entscheidungsfindung](/help/decisioning/decisioning-end-to-end.md)
       + [Navigieren in der Formel-Builder-Benutzeroberfläche](/help/decisioning/formula-builder-ui.md)
       + [Wiederverwendbare Regeln](/help/decisioning/reusable-targeting-rules.md)
-      + [Trigger-Journey bei Formularübermittlung](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-      + [Angebote mit Echtzeit-Wetterdaten personalisieren](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [Rangfolgenformel zur Bereitstellung personalisierter Angebote verwenden](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [KI-Modelleinblicke](/help/decisioning/ai-model-insights.md)
-      + [Verwenden von Decisioning im E-Mail-Kanal](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [Auslösen einer Journey bei der Formularübermittlung](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [KI-Modellerkenntnisse](/help/decisioning/ai-model-insights.md)
+      + [Verwenden von Entscheidungsfindung im E-Mail-Kanal](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
       + [Verwenden von Entscheidungsfindung in Push-Benachrichtigungen](/help/decisioning/decisioning-in-push-notifications.md)
-      + [Verwenden der Entscheidungsfindung in einer SMS-Nachricht](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + [Verwenden von Entscheidungsfindung in einer SMS-Nachricht](/help/decisioning/use-decisioning-in-an-sms-message.md)
    + Entscheidungs-Management {#decision-management}
       + [Einführung in das Entscheidungs-Management](/help/decision-management/introduction-to-decision-management.md)
       + [Demo der Entscheidungs-Management-Funktionen](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -242,15 +242,15 @@ ht-degree: 93%
    + [Onboarding von Kundinnen und Kunden](/help/use-cases/customer-onboarding.md)
    + [Abgebrochener Warenkorb](/help/use-cases/abandoned-cart.md)
    + [Intelligente Wiederaufnahme der Interaktion – Abgebrochenes Browsen](https://experienceleague.adobe.com/de/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
-   + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe von Web SDK](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe eines Web SDK](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten in Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
    + Anwendungsfall-Playbooks {#use-case-playbooks}
       + [Überblick](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-      + [Playbook-Sandbox konfigurieren](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-      + [Playbook-Instanzen erstellen und veröffentlichen](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
-+ Übungen, Labs und Herausforderungen {#exercises-and-challenges}
+      + [Konfigurieren einer Playbook-Sandbox](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+      + [Erstellen und Veröffentlichen von Playbook-Instanzen](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
++ Übungen, Labs und Challenges {#exercises-and-challenges}
    + [Konfigurieren einer Trainings-Sandbox](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [Challenges](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
    + Summit Labs {#summit-labs}
