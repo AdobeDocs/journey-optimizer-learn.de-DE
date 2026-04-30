@@ -1,21 +1,21 @@
 ---
 title: Journey Optimizer-Herausforderungen – Einführung und Voraussetzungen
-description: Herausforderungen bieten ein Szenario und die Voraussetzungen, die zum Üben des Gelernten erforderlich sind. Jede Herausforderung in diesem Abschnitt behandelt einen einzigartigen Anwendungsfall, den Sie implementieren.
+description: Challenges bieten ein Szenario und die Voraussetzungen, die zum Üben des Gelernten erforderlich sind. Jede Challenge in diesem Abschnitt behandelt einen einzigartigen Anwendungsfall, den Sie implementieren.
 feature: Journeys
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
-source-wordcount: '411'
+workflow-type: ht
+source-wordcount: '547'
 ht-degree: 100%
 
 ---
 
 # Journey Optimizer-Herausforderungen – Einführung und Voraussetzungen
 
-Herausforderungen bieten ein Szenario und die Voraussetzungen, die zum Üben des Gelernten erforderlich sind. Herausforderungen helfen Ihnen dabei, Ihr Qualifikationsniveau auszuwerten und Wissenslücken zu erkennen.
+Challenges bieten ein Szenario und die Voraussetzungen, die zum Üben des Gelernten erforderlich sind. Herausforderungen helfen Ihnen dabei, Ihr Qualifikationsniveau auszuwerten und Wissenslücken zu erkennen.
 
 Jede Challenge in diesem Abschnitt behandelt einen einzigartigen Anwendungsfall, den Sie implementieren. Die Zielgruppe (Persona) und die erforderlichen Fähigkeiten werden zu Beginn jeder Herausforderung aufgelistet.
 
@@ -61,8 +61,8 @@ Luma möchte für die neueste Bekleidungs- und Ausrüstungskollektion werben und
       </div>
   </td>
   <td>
-   <strong><a href="summer-collection-announcement-challenge.md">Erstellen einer Ankündigung der Sommerkollektion </strong>
- </a>
+   <strong><a href="summer-collection-announcement-challenge.md">Erstellen einer Ankündigung der Sommerkollektion </strong> 
+    </a>
       <p>
       <em>Erstellen Sie eine Journey, die eine E-Mail zur Ankündigung der Sommerkollektion an eine Zielgruppe bestehender Kundinnen und Kunden sendet. </em>
       <p>
@@ -82,8 +82,8 @@ Luma möchte für die neueste Bekleidungs- und Ausrüstungskollektion werben und
     <td>
     <div >
       <a>
- <strong><a href="loyalty-status-welcome-email-challenge.md">Erstellen einer Willkommens-E-Mail zum Treuestatus </strong>
- </a>
+    <strong><a href="loyalty-status-welcome-email-challenge.md">Erstellen einer Willkommens-E-Mail zum Treuestatus </strong> 
+    </a>
     </div>
     <p>
     <em>Senden Sie eine E-Mail, wenn eine Person, die als Kundin oder Kunde am Kundentreueprogramm teilnimmt, auf eine neue Stufe aufsteigt, um der Person zu gratulieren und sie über ihre neuen Vorteile zu informieren.</em>
@@ -103,12 +103,12 @@ Luma möchte für die neueste Bekleidungs- und Ausrüstungskollektion werben und
   </td>
   <td>
       <a href="order-confirmation-challenge.md">
- <strong><a href="order-confirmation-challenge.md">Erstellen einer Bestellbestätigung</strong>
- </a>
+    <strong><a href="order-confirmation-challenge.md">Erstellen einer Bestellbestätigung</strong>
+    </a>
     <div>
     <p>
     <em>Testen Sie Ihr Wissen über das Erstellen und Personalisieren von Transaktionsnachrichten
- </em>
+    </em>
     <p>
     <b>Erforderliche Fähigkeiten:</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=de"> Erstellen von E-Mail-Inhalten mit dem Nachrichten-Editor</li>

@@ -8,8 +8,8 @@ role: Admin
 level: Beginner
 auto-video-transcripts: true
 source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
-workflow-type: tm+mt
-source-wordcount: '63'
+workflow-type: ht
+source-wordcount: '87'
 ht-degree: 100%
 
 ---
@@ -24,4 +24,4 @@ ht-degree: 100%
    + [Beispieldaten importieren (manuell)](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)
 + [Schritt 2: Konfigurieren von Ereignissen](/help/tutorial-configure-a-training-sandbox/configure-events.md)
 + [Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=de)
-+ [Herausforderungen](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=de)
++ [Challenges](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=de)

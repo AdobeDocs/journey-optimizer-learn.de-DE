@@ -9,8 +9,8 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: tm+mt
-source-wordcount: '160'
+workflow-type: ht
+source-wordcount: '158'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ In diesem Abschnitt richten Sie die drei Ereignisse ein, die für die praktische
 
 Im folgenden Video wird erläutert, wie Ereignisse erstellt werden:
 
->[!VIDEO](https://video.tv.adobe.com/v/3431515?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
 
 ## Erstellen des Online-Kaufereignisses von Luma
 
@@ -59,7 +59,7 @@ Bei Verwendung dieses Ereignisses erhält Journey Optimizer Informationen, wenn 
 | [!UICONTROL NAME] | `LumaProductRestock` |
 | [!UICONTROL TYP] | [!UICONTROL Business] |
 | [!UICONTROL Schema] | [!DNL Luma Product Inventory Event Schema] |
-| [!UICONTROL Felder] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganizationID.product :</b> <br>Name<br>Preis<br> ImageURL<br>Beschreibung |
+| [!UICONTROL Felder] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganizationID.product :</b> <br>Name<br>Preis<br> ImageURL<br>Beschreibung |
 | [!UICONTROL Bedingung] | LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType ist die Wiederverfügbarkeit |
 
 Herzlichen Glückwunsch! Ihre Sandbox kann jetzt verwendet werden.

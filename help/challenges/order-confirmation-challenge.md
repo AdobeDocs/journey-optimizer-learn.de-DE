@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 98%
+workflow-type: ht
+source-wordcount: '688'
+ht-degree: 100%
 
 ---
 
@@ -70,8 +70,8 @@ Die E-Mail sollte wie folgt strukturiert sein:
   <tr>
   <td>
   <div>
-    <strong>Abschnitt mit der Bestellbestätigung
- </strong>
+    <strong>Abschnitt mit der Bestellbestätigung 
+    </strong>
   </td>
   <td>
     <p>
@@ -90,7 +90,7 @@ Die E-Mail sollte wie folgt strukturiert sein:
       </div>
       <p>
       <li>Vorname und Nachname stammen aus dem Profil
-      <li>Ersetzen Sie die hartcodierte Adresse in der Vorlage durch die <b>Lieferadresse</b>
+      <li>Ersetzen Sie die hartcodierte Adresse in der Vorlage durch die <b>Versandadresse</b>
       <li>Die Adressdetails sind kontextuelle Attribute des Ereignisses (Straße 1, Stadt, Postleitzahl, Bundesland)
       <li> Entfernen Sie <i>Rabatt, Gesamtsumme und Lieferung</i></p>
   </td>
@@ -105,7 +105,7 @@ Die E-Mail sollte wie folgt strukturiert sein:
   <div>
      <strong>Abschnitt mit den Bestelldetails</strong>
       </div>
-       <p><li>Fügen Sie diesen Abschnitt unterhalb des <b>Versand an</b>-Abschnitts ein.
+       <p><li>Fügen Sie diesen Abschnitt unterhalb des Abschnitts <b>Versand an</b> ein.
       </p><br>
       <p><b>Tipps:</b>
       <li>Verwenden Sie für diesen Abschnitt die Strukturkomponente <b>1:2 Spalte links</b>
@@ -118,8 +118,8 @@ Die E-Mail sollte wie folgt strukturiert sein:
     <p>
   Bestellung: <em>{purchaseOrderNumber}</em>
     </p>
-    <strong>Liste der bestellten Produkte:
- </strong>
+    <strong>Liste der bestellten Produkte: 
+  </strong>
   <p>Führen Sie jedes Produkt in der Bestellung mit seinem Bild, dem Preis und dem Namen auf.
   <p>Das Layout der einzelnen Artikel sollte wie folgt aussehen:
    <img alt="Bestellung" src="./assets/c2-order.png"> 

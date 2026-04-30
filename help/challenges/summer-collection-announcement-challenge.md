@@ -9,7 +9,7 @@ last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: ht
-source-wordcount: '1108'
+source-wordcount: '1154'
 ht-degree: 100%
 
 ---
@@ -151,7 +151,7 @@ Senden Sie sich selbst einen Testversand:
 3. Führen Sie einen Testversand an Sie selbst durch.
 
 Ergebnis:\
-Sie sollten eine E-Mail erhalten. Die Betreffzeile sollte lauten: *Stanleigh, erkunden Sie die neue Sportbekleidung für Herren!* und der Textkörper der E-Mail sollten mit dem übereinstimmen, was Sie in der Vorschau gesehen haben.
+Sie sollten eine E-Mail erhalten. Die Betreffzeile sollte lauten: *Stanleigh, erkunden Sie die neue Sportbekleidung für Herren* und der Textkörper der E-Mail sollten mit dem übereinstimmen, was Sie in der Vorschau gesehen haben.
 
 >[!NOTE]
 >Es kann einige Minuten dauern, bis Sie den Testversand erhalten.
@@ -168,7 +168,7 @@ Zeigen Sie eine Vorschau der E-Mail mit dem Testprofil *Louise Petti* an.
 
 * Die Betreffzeile sollte lauten: *Louise, erhalten Sie 20% Rabatt auf Ihre Käufe!*
 
-#### Testen der Journey
+#### Journeys testen
 
 >[!IMPORTANT]
 >
@@ -199,9 +199,9 @@ Testen Sie die Journey und lassen Sie die E-Mails an Ihr eigenes Konto senden:
 1. Nachdem Sie den Profileintritt ausgelöst haben, sollten Sie die erste E-Mail erhalten. Die Kopfzeile sollte entsprechend dem ausgewählten Profil personalisiert sein.
 1. Die Journey sollte in der entsprechenden Verzweigung fortgesetzt werden, und Sie sollten die entsprechende E-Mail erhalten (wenn Sie beispielsweise *Jenna* auswählen, sollten Sie die E-Mail *Damenkollektion von Luma* erhalten).
 1. Öffnen Sie die zweite E-Mail, und die Journey sollte enden.
-1. Sie können Schritt 4 wiederholen. - 7. für alle drei Profile, um zu überprüfen, ob Ihre Verzweigungen ordnungsgemäß funktionieren.
+1. Sie können Schritt 4 wiederholen. Bis Schritt 7.für alle drei Profile, um zu überprüfen, ob Ihre Verzweigungen ordnungsgemäß funktionieren.
 1. Um die Zeitüberschreitungen zu testen, setzen Sie die Wartezeit auf 30 Sekunden und lösen Sie den Eintritt erneut aus.
-1. Öffnen Sie die empfangenen E-Mails nicht (E-Mail nicht in der Vorschau anzeigen) und lassen Sie die Wartezeit verstreichen.
+1. Öffnen Sie die empfangenen E-Mails nicht (E-Mail nicht in der Vorschau anzeigen)und lassen Sie die Wartezeit verstreichen.
 
 Sie sollten die folgenden E-Mails erhalten:
 

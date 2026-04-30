@@ -1,6 +1,6 @@
 ---
 title: Überwachen benutzerdefinierter Aktionen
-description: Erfahren Sie, wie Sie den Betriebszustand und die Leistung von HTTP-Aufrufen von Ihren Journey-Endpunkten an Drittanbieter-Endpunkte über benutzerdefinierte Aktionen effektiv überwachen können. Erhalten Sie Einblicke in HTTP-Fehler, Latenzengpässe und Begrenzungsprobleme, die sich auf die Bereitstellung auswirken können
+description: Erfahren Sie, wie Sie den Betriebszustand und die Leistung von HTTP-Aufrufen von Ihren Journeys an Drittanbieter-Endpunkte über benutzerdefinierte Aktionen effektiv überwachen können. Erhalten von Einblicken in HTTP-Fehler, Latenzengpässe und Begrenzungsprobleme, die sich auf den Versand auswirken können
 feature: Custom Actions, Reporting
 role: Admin
 level: Intermediate, Experienced
@@ -8,21 +8,20 @@ doc-type: Feature Video
 duration: 164
 last-substantial-update: 2026-02-03T00:00:00Z
 jira: KT-20238
-source-git-commit: 6b732078afdde597f35d764d27064640fc05f44e
-workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 16%
+exl-id: ec9745d1-714a-4934-aa93-a37815f6b26f
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
+workflow-type: ht
+source-wordcount: '119'
+ht-degree: 100%
 
 ---
 
-
 # Überwachen benutzerdefinierter Aktionen
 
-Erfahren Sie, wie Sie den Betriebszustand und die Leistung von HTTP-Aufrufen von Ihren Journey-Endpunkten an Drittanbieter-Endpunkte über benutzerdefinierte Aktionen effektiv überwachen können. Erhalten Sie Einblicke in HTTP-Fehler, Latenzengpässe und Begrenzungsprobleme, die sich auf den Versand auswirken können.
+Erfahren Sie, wie Sie den Betriebszustand und die Leistung von HTTP-Aufrufen von Ihren Journeys an Drittanbieter-Endpunkte über benutzerdefinierte Aktionen effektiv überwachen können. Erhalten Sie Einblicke in HTTP-Fehler, Latenzengpässe und Begrenzungsprobleme, die sich auf den Versand auswirken können.
 
-Dieser Bericht hilft, Probleme zu identifizieren, die Journey-Leistung zu verbessern und einen reibungslosen Betrieb sicherzustellen.
+Dieser Bericht hilft Ihnen, Probleme zu identifizieren, die Journey-Leistung zu verbessern und einen reibungslosen Betrieb sicherzustellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479550/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
 In der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) finden Sie weitere Informationen zu dieser Funktion.
-
