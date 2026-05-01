@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: c6f5a9c78193f6540456ff0e1062970000f832b7
+source-git-commit: d394b0e73b0606d68c19bc97e40869a4e41c4dde
 workflow-type: tm+mt
-source-wordcount: '1380'
-ht-degree: 99%
+source-wordcount: '1422'
+ht-degree: 96%
 
 ---
 
@@ -45,23 +45,25 @@ ht-degree: 99%
    + [Erstellen eines Testprofils](/help/journeys/test-a-journey.md)
    + [Veröffentlichen einer Journey](/help/journeys/publish-a-journey.md)
    + [Aktivität „Inhaltsentscheidung“](/help/journeys/content-decision-activity.md)
-   + [Anwendungsfall: Transaktions-Journey](/help/journeys/use-case-transactional-journey.md)
-   + [Anwendungsfall: Geschäftsereignis](/help/journeys/use-case-business-event.md)
-   + [Anwendungsfall: Zielgruppe lesen](/help/journeys/use-case-read-audience.md)
-   + [Anwendungsfall: Zielgruppenqualifizierung](/help/journeys/use-case-audience-qualification.md)
    + [Beherrschen der Filterung mehrerer Attribute](/help/journeys/mastering-multi-attribute-filtering.md)
    + [Validieren der Journey-Logik mit einem Journey-Probelauf](/help/journeys/journey-dry-run.md)
    + [Entsperren des erneuten Journey-Eintritts mit zusätzlichen IDs](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Aktualisieren von Inhalten in einer Live-Journey](/help/journeys/update-content-in-live-journey.md)
    + [Kopieren einer Journey in eine andere Sandbox](/help/journeys/copy-a-journey.md)
    + [Auslösen täglicher Journey-Ausführungen nach der Batch-Segmentierung](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+   + [Anwendungsfälle] {#use-cases}
+      + [Anwendungsfall: Transaktions-Journey](/help/journeys/use-case-transactional-journey.md)
+      + [Anwendungsfall: Geschäftsereignis](/help/journeys/use-case-business-event.md)
+      + [Anwendungsfall: Zielgruppe lesen](/help/journeys/use-case-read-audience.md)
+      + [Anwendungsfall: Zielgruppenqualifizierung](/help/journeys/use-case-audience-qualification.md)
+   + [Tutorials]{#tutorials}
+      + [Trigger einer Journey bei der Formularübermittlung](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + Treue {#loyalty}
    + [Erstellen einer Challenge für das Treueprogramm](/help/loyalty/create-a-loyalty-challenge.md)
 + Konflikt-Management und Priorisierung {#conflict-management}
    + [Identifizieren potenzieller Konflikte](/help/conflict-management/identify-potential-conflicts.md)
    + [Zuweisen von Prioritätswerten](/help/conflict-management/assign-priority-score.md)
    + [Journey-Frequenzbegrenzung und Priorisierung](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-
    + [Ruhezeiten](/help/business-rules/configure-and-apply-quiet-hours.md)
 + Profile, Zielgruppen und Abonnements {#profiles-audiences-subscriptions}
    + [Profile und Zielgruppen – Überblick](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
@@ -153,17 +155,22 @@ ht-degree: 99%
    + [Experimentation Agent – Überblick](/help/ai-agents/experimentation-agent-overview.md)
 + Entscheidungsfunktionen{#decision-capabilities}
    + Entscheidungsfindung {#decisioning}
-      + [Einführung in die Entscheidungsfindung](/help/decisioning/introduction-to-decisioning.md)
-      + [Anleitung für die Entscheidungsfindung](/help/decisioning/decisioning-end-to-end.md)
-      + [Navigieren in der Formel-Builder-Benutzeroberfläche](/help/decisioning/formula-builder-ui.md)
-      + [Wiederverwendbare Regeln](/help/decisioning/reusable-targeting-rules.md)
-      + [Auslösen einer Journey bei der Formularübermittlung](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-      + [Personalisieren von Angeboten mit Echtzeit-Wetterdaten](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [KI-Modellerkenntnisse](/help/decisioning/ai-model-insights.md)
-      + [Verwenden von Entscheidungsfindung im E-Mail-Kanal](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
-      + [Verwenden von Entscheidungsfindung in Push-Benachrichtigungen](/help/decisioning/decisioning-in-push-notifications.md)
-      + [Verwenden von Entscheidungsfindung in einer SMS-Nachricht](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + Entscheidungsgrundlagen {#fundamentals}
+         + [Einführung in die Entscheidungsfindung](/help/decisioning/introduction-to-decisioning.md)
+         + [Anleitung für die Entscheidungsfindung](/help/decisioning/decisioning-end-to-end.md)
+         + [Navigieren in der Formel-Builder-Benutzeroberfläche](/help/decisioning/formula-builder-ui.md)
+         + [Wiederverwendbare Regeln](/help/decisioning/reusable-targeting-rules.md)
+         + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+         + [KI-Modellerkenntnisse](/help/decisioning/ai-model-insights.md)
+      + Entscheidungsfindung zur Personalisierung von Nachrichten anwenden {#content-and-offers}
+         + [Einführung in die Entscheidungsfindung in E-Mails](/help/decisioning/introduction-to-decisioning-in-emails.md)
+         + [Verwenden von Decisioning zum Personalisieren von E-Mails (Tutorial)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+         + [Verwenden von Entscheidungsfindung in Push-Benachrichtigungen](/help/decisioning/decisioning-in-push-notifications.md)
+         + [Verwenden von Entscheidungsfindung in einer SMS-Nachricht](/help/decisioning/use-decisioning-in-an-sms-message.md)
+         + [Verwenden der Entscheidungsfindung zur Personalisierung von Web-Angeboten (Tutorial)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+      + Auslösen von Entscheidungen durch externe Trigger und Interaktionen
+         + [Auslösen einer Journey bei der Formularübermittlung](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+         + [Angebote mit Echtzeit-Wetterdaten personalisieren](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
    + Entscheidungs-Management {#decision-management}
       + [Einführung in das Entscheidungs-Management](/help/decision-management/introduction-to-decision-management.md)
       + [Demo der Entscheidungs-Management-Funktionen](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -177,7 +184,6 @@ ht-degree: 99%
       + [Erstellen von Entscheidungen](/help/decision-management/create-decisions.md)
       + [Unterbreiten von Angeboten mithilfe der Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [Frequenzbegrenzung](/help/decision-management/frequency-capping.md)
-   + [Verwenden der Entscheidungsfindung zur Personalisierung von Web-Angeboten (Tutorial)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 + Daten-Management {#data-management}
    + [Übersicht](/help/data-management/set-up-data-overview.md)
    + [Erstellen eines Schemas](/help/data-management/create-schema.md)
