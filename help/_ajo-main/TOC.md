@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: d394b0e73b0606d68c19bc97e40869a4e41c4dde
+source-git-commit: 1a5852226764c45bbcc4c7e2a9c698d3d6447e9b
 workflow-type: tm+mt
 source-wordcount: '1422'
 ht-degree: 96%
@@ -168,7 +168,7 @@ ht-degree: 96%
          + [Verwenden von Entscheidungsfindung in Push-Benachrichtigungen](/help/decisioning/decisioning-in-push-notifications.md)
          + [Verwenden von Entscheidungsfindung in einer SMS-Nachricht](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [Verwenden der Entscheidungsfindung zur Personalisierung von Web-Angeboten (Tutorial)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
-      + Auslösen von Entscheidungen durch externe Trigger und Interaktionen
+      + Entscheidungen von Triggern aus externen Triggern und Interaktionen {#triggers}
          + [Auslösen einer Journey bei der Formularübermittlung](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
          + [Angebote mit Echtzeit-Wetterdaten personalisieren](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
    + Entscheidungs-Management {#decision-management}
