@@ -2,19 +2,19 @@
 title: Einrichten von Schemata und Datensätzen für Kampagnen
 description: Erfahren Sie, wie Sie für Adobe Journey Optimizer-Kampagnen Schemata definieren, Daten aufnehmen und Datensätze validieren. Erhalten Sie in Minuten Einblicke in Personalisierung und Ausführung.
 feature: Campaigns
-role: Data Engineer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 502
 last-substantial-update: 2026-05-02T00:00:00Z
 jira: KT-20979
-source-git-commit: 0105cb737db3f7ca87302a114806fff251c11c49
+exl-id: 4ff6cf29-181e-4e43-9ad7-922bc0d93304
+source-git-commit: 5f75345cf169e36ae2f1aff577e00df5feed82df
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
-
 
 # Einrichten von Schemata und Datensätzen für Kampagnen
 
