@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 0105cb737db3f7ca87302a114806fff251c11c49
+source-git-commit: 5952c9421ea5138783bc6493a7b79c0494936b45
 workflow-type: tm+mt
 source-wordcount: '1434'
 ht-degree: 96%
@@ -164,7 +164,7 @@ ht-degree: 96%
          + [Wiederverwendbare Regeln](/help/decisioning/reusable-targeting-rules.md)
          + [Verwenden von Rangfolgenformeln zum Bereitstellen von personalisierten Angeboten](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
          + [KI-Modellerkenntnisse](/help/decisioning/ai-model-insights.md)
-      + Entscheidungsfindung zur Personalisierung von Nachrichten anwenden {#content-and-offers}
+      + Verwenden von Decisioning zum Personalisieren von Nachrichten {#use-decisioning}
          + [Einführung in die Entscheidungsfindung in E-Mails](/help/decisioning/introduction-to-decisioning-in-emails.md)
          + [Verwenden von Decisioning zum Personalisieren von E-Mails (Tutorial)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
          + [Verwenden von Entscheidungsfindung in Push-Benachrichtigungen](/help/decisioning/decisioning-in-push-notifications.md)
