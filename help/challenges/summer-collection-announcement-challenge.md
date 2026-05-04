@@ -7,8 +7,8 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
+source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
+workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 100%
 
@@ -117,9 +117,9 @@ Eine Agentur hat Ihnen vier HTML-Dateien mit dem Design für die E-Mails zur Ver
          * Betreffzeile: *(Vorname der Empfängerin), erkunden Sie die Damenkollektion von Luma!*
          * Textkörper der E-Mail: `WomensCollectionEmail.html`
       * Andere Kundinnen und Kunden sollten die E-Mail **Luma – 20 % Rabatt auf die Kollektion** erhalten.
-      * Titel der Nachricht: *Luma – 20 % Rabatt auf die Kollektion*
-      * Betreffzeile: *(Vorname des Empfängers/der Empfängerin), erhalten Sie 20 % Rabatt auf Ihre Käufe!*
-      * Textkörper der E-Mail: `20OOffCollectionEmail.html`
+         * Titel der Nachricht: *Luma – 20 % Rabatt auf die Kollektion*
+         * Betreffzeile: *(Vorname des Empfängers/der Empfängerin), erhalten Sie 20 % Rabatt auf Ihre Käufe!*
+         * Textkörper der E-Mail: `20OOffCollectionEmail.html`
    1. Warten Sie nach dem Versand der oben genannten zielgerichteten E-Mails zwei Tage, bis die E-Mail geöffnet wird.
    1. Wenn die zielgerichtete E-Mail nicht innerhalb von 2 Tagen geöffnet wird, senden Sie die E-Mail **Luma – 20 % Rabatt auf die Kollektion** als letzten Retargeting-Versuch
 
@@ -199,9 +199,9 @@ Testen Sie die Journey und lassen Sie die E-Mails an Ihr eigenes Konto senden:
 1. Nachdem Sie den Profileintritt ausgelöst haben, sollten Sie die erste E-Mail erhalten. Die Kopfzeile sollte entsprechend dem ausgewählten Profil personalisiert sein.
 1. Die Journey sollte in der entsprechenden Verzweigung fortgesetzt werden, und Sie sollten die entsprechende E-Mail erhalten (wenn Sie beispielsweise *Jenna* auswählen, sollten Sie die E-Mail *Damenkollektion von Luma* erhalten).
 1. Öffnen Sie die zweite E-Mail, und die Journey sollte enden.
-1. Sie können Schritt 4 wiederholen. Bis Schritt 7.für alle drei Profile, um zu überprüfen, ob Ihre Verzweigungen ordnungsgemäß funktionieren.
+1. Sie können Schritt 4 wiederholen. - 7. für alle drei Profile, um zu überprüfen, ob Ihre Verzweigungen ordnungsgemäß funktionieren.
 1. Um die Zeitüberschreitungen zu testen, setzen Sie die Wartezeit auf 30 Sekunden und lösen Sie den Eintritt erneut aus.
-1. Öffnen Sie die empfangenen E-Mails nicht (E-Mail nicht in der Vorschau anzeigen)und lassen Sie die Wartezeit verstreichen.
+1. Öffnen Sie die empfangenen E-Mails nicht (E-Mail nicht in der Vorschau anzeigen) und lassen Sie die Wartezeit verstreichen.
 
 Sie sollten die folgenden E-Mails erhalten:
 
