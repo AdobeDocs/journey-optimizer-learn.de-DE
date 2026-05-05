@@ -1,24 +1,23 @@
 ---
-title: Journey Agent – Überblick
-description: Journey Agent verwendet KI, um B2B- und B2C-Journeys über eine dialogbasierte Oberfläche zu erstellen, zu analysieren und zu optimieren.
-feature: AI Assistant, Journeys
-feature-set: Journey Optimizer, Experience Platform
-role: User, Developer, Leader, Admin
+title: Analysieren von Journey mit KI-gestützter Journey Agent
+description: Erfahren Sie, wie Journey Agent in Adobe Journey Optimizer Live-Journey analysiert, Probleme identifiziert und mehrstufige Journey mit umsetzbaren Einblicken erstellt.
+feature: null
+role: User
 level: Beginner
-last-substantial-update: 2025-10-08T00:00:00Z
-jira: KT-19109
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+doc-type: Feature Video
+duration: 308
+last-substantial-update: 2026-05-05T00:00:00Z
+jira: KT-21114
+source-git-commit: 0a4f552baab06a7d8269692269ba23010bb71fda
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
-# Journey Agent – Überblick
 
-Erfahren Sie, was Sie mit dem KI-Assistenten in auf Adobe Experience Platform basierenden Anwendungen wie Real-Time Customer Data Platform, Journey Optimizer und Customer Journey Analytics alles tun können.
+# Analysieren und Erstellen von Journey mit Journey Agent
 
->[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
+Erfahren Sie, wie Sie mit Journey Agent, einem in Adobe Journey Optimizer integrierten KI-gestützten Assistenten, Live-Journey-Konflikte analysieren, Zielgruppenkonflikte und Profil-Fallout identifizieren und mit natürlicher Sprache vollständige mehrstufige Journey-Profile erstellen können. In diesem Video erfahren Sie, wie Journey Agent transparente Einblicke, umsetzbare Empfehlungen und geführte Genehmigungen bereitstellt, damit Sie Probleme mit bestehenden Journey beheben und neue schneller erstellen können, ohne den KI-Assistenten verlassen zu müssen
 
-Weitere Informationen zu den in Journey Optimizer unterstützten Anwendungsfällen finden Sie unter [Arbeiten mit dem KI-Assistenten](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/get-started/ai-assistant). Eine ausführliche Dokumentation finden Sie in der Dokumentation zum [KI-Assistenten in Adobe Experience Platform](https://experienceleague.adobe.com/de/docs/experience-platform/ai-assistant/home).
-
+>[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)
