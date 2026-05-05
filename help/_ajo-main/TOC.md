@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 1ac487c9207703fb89cbc0bd1f1b7113f2ee18e8
+source-git-commit: 26f6ddfc8a6395635038d0efdce9aa5c23122bca
 workflow-type: tm+mt
 source-wordcount: '1448'
 ht-degree: 93%
@@ -53,12 +53,12 @@ ht-degree: 93%
    + [Aktualisieren von Inhalten in einer Live-Journey](/help/journeys/update-content-in-live-journey.md)
    + [Kopieren einer Journey in eine andere Sandbox](/help/journeys/copy-a-journey.md)
    + [Auslösen täglicher Journey-Ausführungen nach der Batch-Segmentierung](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [Anwendungsfälle] {#use-cases}
+   + Anwendungsfälle {#use-cases}
       + [Anwendungsfall: Transaktions-Journey](/help/journeys/use-case-transactional-journey.md)
       + [Anwendungsfall: Geschäftsereignis](/help/journeys/use-case-business-event.md)
       + [Anwendungsfall: Zielgruppe lesen](/help/journeys/use-case-read-audience.md)
       + [Anwendungsfall: Zielgruppenqualifizierung](/help/journeys/use-case-audience-qualification.md)
-   + [Tutorials]{#tutorials}
+   + Tutorials{#tutorials}
       + [Trigger einer Journey bei der Formularübermittlung](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + Treue {#loyalty}
    + [Erstellen einer Challenge für das Treueprogramm](/help/loyalty/create-a-loyalty-challenge.md)
@@ -244,7 +244,7 @@ ht-degree: 93%
 + KI-Assistenten und -Agenten {#ai-assistant}
    + [KI-Assistent](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [KI-Assistent für die Inhaltsgenerierung](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Analysieren und Erstellen von Journey mit Journey Agent](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Analysieren und Erstellen von Journey mit Journey Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation Agent – Überblick](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Anwendungsfälle und Best Practices{#use-cases}
    + [Onboarding von Kundinnen und Kunden](/help/use-cases/customer-onboarding.md)
