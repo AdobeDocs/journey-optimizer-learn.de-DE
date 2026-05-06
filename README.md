@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # ARCHIVIERT
 
-Dieses Repository wurde nach <https://github.com/Adobe-Enterprise-Docs/journey-optimizer-learn.en> migriert.
+Dieses Repository wurde nach <https://github.com/Adobe-Enterprise-Docs/journey-optimizer-learn.de-DE> migriert.
