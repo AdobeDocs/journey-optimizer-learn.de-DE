@@ -29,4 +29,4 @@ In diesem Tutorial erfahren Sie, wie Sie:
 
 Ideal für Marketing-Fachleute, die ihre Reichweite und Interaktion durch eine der weltweit beliebtesten Messaging-Plattformen erweitern möchten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470244/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470253/?captions=ger&learn=on&enablevpops)
