@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 26f6ddfc8a6395635038d0efdce9aa5c23122bca
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '1448'
-ht-degree: 93%
+ht-degree: 91%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 93%
    + [Journey Optimizer – Überblick](/help/introduction/journey-optimizer-overview.md)
    + [Einführung in Journey Optimizer](/help/introduction/introduction.md)
    + [Wichtige Funktionen und die Benutzeroberfläche](/help/introduction/key-capabilities-and-user-interface.md)
-   + [Architektur](/help/introduction/architecture.md)
+   + {hide-from-toc}[Architektur](/help/introduction/architecture.md)
    + [Mobile-Funktionen für Marketing-Fachleute](/help/channels/mobile-capabilities.md)
    + [Mobile-Funktionen für Entwickler](/help/channels/mobile-capabilities-for-developers.md)
    + [Hilfe zum KI-Assistenten](/help/ai-agents/ai-assistant.md)
@@ -41,7 +41,7 @@ ht-degree: 93%
 + Journeys {#journeys}
    + [Journey Designer – Überblick](/help/journeys/journey-designer-overview.md)
    + [Analysieren und Erstellen von Journey mit Journey Agent](/help/ai-agents/journey-agent-overview.md)
-   + [Der neue Journey-Designer](/help/journeys/new-journey-designer.md)
+   + {hide-from-toc}[Entdecken Sie die neue Journey Designer](/help/journeys/new-journey-designer.md)
    + [Einführung in das Erstellen einer Journey](/help/journeys/introduction-to-building-a-journey.md)
    + [Verwenden der Datensatzsuche in einer Journey](/help/journeys/lookup-dataset.md)
    + [Erstellen eines Testprofils](/help/journeys/test-a-journey.md)
@@ -61,7 +61,7 @@ ht-degree: 93%
    + Tutorials{#tutorials}
       + [Trigger einer Journey bei der Formularübermittlung](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + Treue {#loyalty}
-   + [Erstellen einer Challenge für das Treueprogramm](/help/loyalty/create-a-loyalty-challenge.md)
+   + {hide-from-toc}[Erstellen einer Herausforderung zur Treue](/help/loyalty/create-a-loyalty-challenge.md)
 + Konflikt-Management und Priorisierung {#conflict-management}
    + [Identifizieren potenzieller Konflikte](/help/conflict-management/identify-potential-conflicts.md)
    + [Zuweisen von Prioritätswerten](/help/conflict-management/assign-priority-score.md)
@@ -69,7 +69,7 @@ ht-degree: 93%
    + [Ruhezeiten](/help/business-rules/configure-and-apply-quiet-hours.md)
 + Profile, Zielgruppen und Abonnements {#profiles-audiences-subscriptions}
    + [Profile und Zielgruppen – Überblick](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
-   + [Einheitliches Profil und Segmentierung – Übersicht](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + {hide-from-toc}[Einheitliches Profil und Segmentierung - Übersicht](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [Erstellen von Zielgruppen mit dem Regel-Builder](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [Erstellen einer Zielgruppe durch Hochladen einer CSV-Datei](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Erstellen von Zielgruppen mit Web SDK (Tutorial)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
@@ -115,7 +115,7 @@ ht-degree: 93%
       + [Erstellen einer Web-Kampagne](/help/channels/author-a-web-campaign.md)
       + [SPA-Unterstützung im Web-Editor](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
-      + [Erste Schritte mit WhatsApp (End-to-End)](/help/channels/get-started-with-whatsapp-in-ajo.md)
+      + {hide-from-toc}[Erste Schritte mit WhatsApp (End-to-End)](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [Einführung in den WhatsApp-Kanal](/help/channels/whatsapp-introduction.md)
       + [Einrichten des WhatsApp-Kanals](/help/channels/set-up-whatsapp.md)
       + [Erstellen einer WhatsApp-Journey](/help/channels/create-a-whatsapp-journey.md)
@@ -230,9 +230,9 @@ ht-degree: 93%
    + Geschäftsregeln {#business-rules}
       + [Konfigurieren von Regeln für die Frequenzbegrenzung](/help/business-rules/configure-frequency-capping-rules.md)
       + [Arbeiten mit Regelsätzen](/help/business-rules/work-with-rule-sets.md)
-      + [Tests und Berichte zu Häufigkeitsregeln](/help/business-rules/test-and-report-on-frequency-rules.md)
+      + {hide-from-toc}[Testen und Erstellen von Berichten zu Häufigkeitsregeln](/help/business-rules/test-and-report-on-frequency-rules.md)
 + Zugriffssteuerung {#access-control}
-   + [Zugriffsverwaltung](/help/set-up-access/access-management.md)
+   + {hide-from-toc}[Zugriffsverwaltung](/help/set-up-access/access-management.md)
    + [Konfigurieren der attributbasierten Zugriffssteuerung](/help/administration/attribute-based-access-control.md)
    + [Verwenden von Sandboxes](/help/set-up-access/create-and-manage-sandboxes.md)
 + Data Governance und Datenschutz {#data-governance-and-privacy}
@@ -244,7 +244,7 @@ ht-degree: 93%
 + KI-Assistenten und -Agenten {#ai-assistant}
    + [KI-Assistent](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [KI-Assistent für die Inhaltsgenerierung](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Analysieren und Erstellen von Journey mit Journey Agent](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Analysieren und Erstellen von Journey mit Journey Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation Agent – Überblick](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Anwendungsfälle und Best Practices{#use-cases}
    + [Onboarding von Kundinnen und Kunden](/help/use-cases/customer-onboarding.md)
