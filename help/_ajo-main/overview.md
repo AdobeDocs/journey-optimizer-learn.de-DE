@@ -144,7 +144,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="Wichtige Funktionen und die Benutzeroberfläche" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1775837204145" alt="Wichtige Funktionen und die Benutzeroberfläche"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432377?captions=ger&format=jpeg&nocache=1775837204145" alt="Wichtige Funktionen und die Benutzeroberfläche"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -167,7 +167,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" title="Einführung in das Erstellen einer Journey" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424996?format=jpeg&nocache=1775837204133" alt="Einführung in das Erstellen einer Journey"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432378?captions=ger&format=jpeg&nocache=1775837204133" alt="Einführung in das Erstellen einer Journey"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -190,7 +190,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="Erstellen einer Zielgruppe mit dem Regel-Builder" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1775837204142" alt="Erstellen einer Zielgruppe mit dem Regel-Builder"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430326?captions=ger&format=jpeg&nocache=1775837204142" alt="Erstellen einer Zielgruppe mit dem Regel-Builder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -224,7 +224,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltsgenerierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1775837204583" alt="Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltsgenerierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434644/?captions=ger&format=jpeg&nocache=1775837204583" alt="Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltsgenerierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -270,7 +270,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="Konfigurieren von Inhaltsexperimenten für In-App-Nachrichten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1775837204584" alt="Konfigurieren von Inhaltsexperimenten für In-App-Nachrichten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445297/?captions=ger&format=jpeg&nocache=1775837204584" alt="Konfigurieren von Inhaltsexperimenten für In-App-Nachrichten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
