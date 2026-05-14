@@ -36,4 +36,4 @@ ht-degree: 0%
 
 Erkunden Sie das End-to-End-Kundenerlebnis auf der SecurFinancial-Demoseite - vom anonymen Besucher bis zum registrierten Benutzer mit einem personalisierten Produktangebot über einen Kreditantrag, der eine Echtzeit-SMS Trigger, alles von Adobe Journey Optimizer orchestriert.
 
->[!VIDEO](https://video.tv.adobe.com/v/3489999/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3490195/?captions=ger&learn=on&enablevpops)

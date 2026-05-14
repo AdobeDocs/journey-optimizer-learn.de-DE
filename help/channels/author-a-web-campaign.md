@@ -31,4 +31,4 @@ Erfahren Sie, wie Sie in Journey Optimizer Kampagnen mithilfe des visuellen Web-
 >[!NOTE]
 > Sie müssen die [Chrome-Erweiterung Adobe Experience Cloud Visual Editing Helper](https://chrome.google.com/webstore/detail/adobe-experience-cloud-vi/kgmjjkfjacffaebgpkpcllakjifppnca) installieren, um Ihre Website in Adobe Journey Optimizer laden zu können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418803/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452644/?captions=ger&quality=12&learn=on){transcript=true}

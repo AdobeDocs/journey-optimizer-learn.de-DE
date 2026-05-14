@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Angebote, Sammlungen und Eignungsregeln in Adobe Journey Optimizer Decisioning konfiguriert werden, um zu steuern, welche Kundinnen und Kunden sich für welches Produktangebot qualifizieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491099/?captions=ger&learn=on&enablevpops)
