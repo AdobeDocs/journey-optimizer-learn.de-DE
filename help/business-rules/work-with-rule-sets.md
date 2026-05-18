@@ -32,6 +32,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie einen Regelsatz zur Frequenzbegrenzung für Kundschaft erstellen, um die Anzahl der an die Kundschaft gesendeten Mitteilungen je nach Kommunikationstyp zu begrenzen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444735/?captions=ger&learn=on&enablevpops)
 
 Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/configuration/rule-sets).

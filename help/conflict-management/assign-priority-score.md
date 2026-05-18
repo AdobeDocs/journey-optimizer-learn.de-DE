@@ -33,6 +33,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie eingehende Aktionen priorisieren und sicherstellen können, dass Inhalte mit der höchsten Priorität an eine Kundin oder einen Kunden gesendet werden, wenn sie bzw. er für mehrere eingehende Aktionen mit derselben Kanalkonfiguration qualifiziert ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445010/?captions=ger&learn=on&enablevpops)
 
 Weitere Informationen finden Sie in der Produktdokumentation zum Thema [Zuweisen von Prioritätswerten zu Journeys und Kampagnen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/conflict-prioritization/priority-scores).

@@ -29,6 +29,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie eingehende Aktionen priorisieren und sicherstellen können, dass Inhalte mit der höchsten Priorität an eine Kundin oder einen Kunden gesendet werden, wenn sie bzw. er für mehrere eingehende Aktionen mit derselben Kanalkonfiguration qualifiziert ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447624/?captions=ger&learn=on&enablevpops)
 
 In der Produktdokumentation finden Sie weitere Informationen zu [Journey-Begrenzung und Arbitration](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping).
