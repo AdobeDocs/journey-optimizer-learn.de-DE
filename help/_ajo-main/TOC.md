@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+source-git-commit: 1c3f167bb1a734802d705ebce7ca3f9833b9ca5a
 workflow-type: tm+mt
-source-wordcount: '1448'
+source-wordcount: '1453'
 ht-degree: 91%
 
 ---
@@ -53,6 +53,7 @@ ht-degree: 91%
    + [Aktualisieren von Inhalten in einer Live-Journey](/help/journeys/update-content-in-live-journey.md)
    + [Kopieren einer Journey in eine andere Sandbox](/help/journeys/copy-a-journey.md)
    + [Auslösen täglicher Journey-Ausführungen nach der Batch-Segmentierung](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+   + [Speichern von Journey-Knoten als Fragmente](/help/journeys/journey-fragments.md)
    + Anwendungsfälle {#use-cases}
       + [Anwendungsfall: Transaktions-Journey](/help/journeys/use-case-transactional-journey.md)
       + [Anwendungsfall: Geschäftsereignis](/help/journeys/use-case-business-event.md)
