@@ -16,9 +16,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-12T21:22:53.986Z'
-source-git-commit: e978831d1e9c711412018fd0d1f8b546779c971c
+source-git-commit: cb02fd66d9e499a6c7031684c946a19492cf0788
 workflow-type: tm+mt
-source-wordcount: 111
+source-wordcount: 116
 ht-degree: 0%
 
 ---
@@ -31,6 +31,7 @@ ht-degree: 0%
 + [Übung 1: Erleben Sie die Kunden-Journey](/help/summit-lab-2026/exercise-1-experience-the-customer-journey.md)
 + [Vorlesung 1: Funktionsweise von Experience Decisioning](/help/summit-lab-2026/lecture-1-how-experience-decisioning-works.md)
 + [Übung 2 - Unter der Haube - Regeln für Angebote, Sammlungen und Entscheidungen](/help/summit-lab-2026/exercise-2-under-the-hood.md)
++ [Vorlesung 3 - Verstehen von Ranking-Methoden](/help/summit-lab-2026/lecture-2-understand-ranking-methods.md)
 + [Übung 3: Erstellen einer Rangfolgenmethode und einer Auswahlstrategie](/help/summit-lab-2026/exercise-3-create-a-ranking-method-and-selection-strategy.md)
 + [Übung 4: Erstellen einer Kampagne](/help/summit-lab-2026/exercise-4-create-a-campaign.md)
 + [Übung 5: Erstellen einer Journey](/help/summit-lab-2026/exercise-5-create-a-journey.md)
