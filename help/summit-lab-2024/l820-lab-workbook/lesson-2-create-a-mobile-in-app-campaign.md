@@ -12,8 +12,8 @@ thumbnail: KT-14983.jpeg
 exl-id: fe18eca7-229c-4867-ab34-1862bad63124
 source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
-source-wordcount: '1432'
-ht-degree: 1%
+source-wordcount: '1520'
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ In dieser Lektion erstellen und Trigger von In-App-Nachrichten für Mobilgeräte
 2. Melden Sie sich mit den folgenden Details an:
    <br>
    **Benutzername:** L820+**`<your seat number>`**@adobeeventlab.com
-   **Kennwort:**   Adobe2024!
+   **Kennwort:** Adobe2024!
    <br>
 Die Details für Ihre Anmeldung finden Sie auf Ihrem Lab-Computer-Desktop. Verwenden Sie die Adobe ID und das Kennwort.
    ![Desktop](/help/summit-lab-2024/l820-lab-workbook/assets/desk-top.png)
@@ -42,7 +42,7 @@ Die Details für Ihre Anmeldung finden Sie auf Ihrem Lab-Computer-Desktop. Verwe
    <br>
 3. Sie können die nächsten beiden Bildschirme überspringen:
    <br>
-   ![Telefonnummer](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
+   ![ Telefonnummer](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
    <br>
    ![Personalization-Popup](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
 
@@ -147,7 +147,7 @@ Klicken Sie beispielsweise auf **[!UICONTROL Modal]**, damit Ihre In-App-Nachric
 
 #### 2.3.3.2 Verfassen Ihrer Nachricht und Veröffentlichen Ihrer Kampagne
 
-1. Fügen Sie im Abschnitt „Medien“ die folgende URL ein: `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
+1. Fügen Sie im Abschnitt „Medien“ die folgende URL ein:  `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
    <br>
 Wenn Sie aus dem Wertefeld klicken, sollte Ihr Bild angezeigt werden.
 
@@ -191,7 +191,7 @@ Wenn Sie aus dem Wertefeld klicken, sollte Ihr Bild angezeigt werden.
 
       Durch Wechsel zu dieser Registerkarte und im Abschnitt **[!UICONTROL Vorschau]** können Sie die &quot;**-Vorschau“**.
       <br>\
-      ![Registerkarte „Einstellungen](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-settings-tab.png)
+      ![Registerkarte Einstellungen](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-settings-tab.png)
       <br>
 
       1. Im **[!UICONTROL Layout]** haben Sie die Möglichkeit, ein Bild als Hintergrund oder eine Volltonfarbe zu verwenden.
@@ -296,7 +296,7 @@ Die Funktionen **Kampagne duplizieren** und **Vorschau auf Gerät** sind vorkonf
    2. Geben Sie auf Ihrem Gerät die in AJO auf dem Assurance-Bildschirm angezeigte Pin ein und klicken Sie auf die Schaltfläche Verbinden, die unten rechts angezeigt wird, nachdem Sie die Pin eingegeben haben.
 
 
-   ![PIN eingeben](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG){width="250" align="center" zoomable="yes"}
+   ![Pin eingeben](/help/summit-lab-2024/l820-lab-workbook/assets/3-3-1-5-enter-pin.PNG){width="250" align="center" zoomable="yes"}
    <br>
 1. Dieses Popup erscheint auf Ihrem Computerbildschirm
 
@@ -311,16 +311,16 @@ Die Funktionen **Kampagne duplizieren** und **Vorschau auf Gerät** sind vorkonf
 >
 > *Nach der Verbindung sollte Ihre In-App-Nachricht jedes Mal angezeigt werden, wenn Sie auf die Schaltfläche **[!UICONTROL Vorschau auf Gerät] klicken**.
 
-## Weitere Ressourcen
+## Zusätzliche Ressourcen
 
 **Anleitungsvideos:**
 
 * [Erstellen einer In-App-Kampagne](/help/channels/create-an-in-app-campaign.md)
-* [Verfassen einer In-App-Nachricht &#x200B;](/help/channels/author-in-app-messages.md)
+* [Verfassen einer In-App-Nachricht](/help/channels/author-in-app-messages.md)
 
 **Produktdokumentation:**
 
-* [Erste Schritte mit dem In-App-Kanal](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Erstellen einer mobilen In-App-Nachricht](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/create-in-app)
-* [Gestalten Ihrer In-App-Inhalte](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/design-in-app)
-* [Überprüfen und Senden Ihrer In-App-Benachrichtigung](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/send-in-app)
+* [Erste Schritte mit dem In-App-Kanal](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Erstellen einer mobilen In-App-Nachricht](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
+* [Gestalten der App-Inhalte](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Überprüfen und Senden von In-App-Benachrichtigungen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

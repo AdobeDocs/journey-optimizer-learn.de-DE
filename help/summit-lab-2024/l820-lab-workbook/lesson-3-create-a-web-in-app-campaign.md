@@ -12,8 +12,8 @@ thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
 source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
-source-wordcount: '699'
-ht-degree: 2%
+source-wordcount: '778'
+ht-degree: 5%
 
 ---
 
@@ -48,7 +48,7 @@ In dieser Übung erstellen Sie die Kampagne und definieren, auf welcher Web-Seit
 
 ## Übung 3.2 Kampagne konfigurieren
 
-Trigger Auf dieser Seite definieren Sie die Eigenschaften der Kampagne und das Ereignis, durch das die In-App-Nachricht auf der Web-Seite angezeigt werden soll. Belassen Sie alle anderen Einstellungen auf der Standardeinstellung. Für diese Übung müssen Sie keine bestimmte Zielgruppe definieren.
+Auf dieser Seite definieren Sie die Eigenschaften der Kampagne und das Ereignis, durch das die In-App-Nachricht auf der Web-Seite angezeigt werden soll. Belassen Sie alle anderen Einstellungen auf der Standardeinstellung. Für diese Übung müssen Sie keine bestimmte Zielgruppe definieren.
 
 ### 3.2.1 [!UICONTROL Abschnitt „Eigenschaften“]
 
@@ -145,16 +145,16 @@ In diesem Abschnitt definieren Sie Inhalt, Design und Layout Ihrer Nachricht.
 >In dieser Übung wurde ein benutzerdefiniertes XDM-Sendeereignis simuliert, das Sie durch Ihr Fréscopa-Kundenerlebnis gesehen haben.
 
 
-## Weitere Ressourcen
+## Zusätzliche Ressourcen
 
 **Anleitungsvideos:**
 
 * [Erstellen einer In-App-Kampagne](/help/channels/create-an-in-app-campaign.md)
-* [Verfassen einer In-App-Nachricht &#x200B;](/help/channels/author-in-app-messages.md)
+* [Verfassen einer In-App-Nachricht](/help/channels/author-in-app-messages.md)
 
 **Produktdokumentation:**
 
-* [Erste Schritte mit dem In-App-Kanal](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Erstellen einer Web-In-App-Nachricht](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [Gestalten Ihrer In-App-Inhalte](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/design-in-app)
-* [Überprüfen und Senden Ihrer In-App-Benachrichtigung](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/send-in-app)
+* [Erste Schritte mit dem In-App-Kanal](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Erstellen einer Web-In-App-Nachricht](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [Gestalten der App-Inhalte](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Überprüfen und Senden von In-App-Benachrichtigungen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
