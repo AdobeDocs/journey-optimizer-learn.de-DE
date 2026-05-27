@@ -35,7 +35,7 @@ In diesem Video wird der Prozess der Auswahl, Analyse und Vorbereitung von Audie
 
 Sehen Sie sich das unten eingebettete Video an, um eine Live-Demo von Adobe Marketing Agent in Aktion zu sehen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491171/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491192/?captions=ger&learn=on&enablevpops)
 
 Weitere Informationen zu den ersten Schritten finden Sie unter [Erste Schritte mit Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}.
 Um zu sehen, wie Marketing-Fachleute Adobe Marketing Agent for Microsoft 365 Copilot zur Kampagnenplanung, Leistungsüberprüfung und Überwachung der Journey-Leistung in Flugzeugen verwenden, [&#x200B; Sie sich Marketing-Workflows mit Adobe Marketing Agent for Microsoft 365 Copilot &#x200B;](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}.
