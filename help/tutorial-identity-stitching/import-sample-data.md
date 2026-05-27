@@ -51,7 +51,7 @@ Aktualisieren Sie die Platzhalter-E-Mail-Adressen auf echte. Diese werden späte
 * Erstellen Sie einen Datensatz mit dem Namen **_FinWiseCustomerDataSetWithAnnualIncome_**, basierend auf dem **_FinWiseProfileSchema_**, das zuvor erstellt wurde. Stellen Sie sicher, dass der Datensatz für das Profil aktiviert ist.
 
 * Navigieren Sie zu Verbindungen > Quellen > Lokales System
-* Wählen Sie **_Daten hinzufügen_** unter Lokaler Datei-Upload aus. Wählen Sie unbedingt _**FinWiseCustomerDataSetWithAnnualIncome**_ als Zieldatensatz aus.
+* Wählen Sie **_Daten hinzufügen_** unter Lokaler Datei-Upload aus. Wählen Sie unbedingt _&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_ als Zieldatensatz aus.
   ![ingest-csv](assets/ingest-csv-into-dataset.png)
 * Navigieren Sie zum nächsten Bildschirm. Laden Sie die [CSV-Datei](assets/finwise_profiles.csv) hoch und überprüfen Sie die Zuordnungen
   ![Zuordnungen](assets/mappings.png)
