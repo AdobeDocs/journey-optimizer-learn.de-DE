@@ -11,7 +11,7 @@ jira: KT-18451
 exl-id: 3cb280b3-71e5-4e91-9252-5679d794d4c4
 source-git-commit: 6c4f33d1f55be298781cfb0958862f9710e3647a
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '708'
 ht-degree: 4%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 4%
 
 
 
-Dieser Artikel zeigt, wie Sie Interaktionsereignisse von Angeboten (wie Impressions oder Klicks) mithilfe der Adobe Experience Platform Web SDK erfassen können, indem Sie alloy(„sendEvent“, …) direkt in Ihrem JavaScript-Code aufrufen. Die Daten werden in AEP aufgenommen und zum Trainieren von KI-Modellen in Adobe Journey Optimizer (AJO) verwendet, um das Angebotsranking auf der Grundlage des Echtzeitverhaltens zu verbessern.
+Dieser Artikel zeigt, wie Sie Interaktionsereignisse von Angeboten (wie Impressions oder Klicks) mithilfe der Adobe Experience Platform Web SDK erfassen können, indem Sie alloy(„sendEvent“, …) aufrufen. direkt in Ihrem JavaScript-Code. Die Daten werden in AEP aufgenommen und zum Trainieren von KI-Modellen in Adobe Journey Optimizer (AJO) verwendet, um das Angebotsranking auf der Grundlage des Echtzeitverhaltens zu verbessern.
 
 Um in Adobe Journey Optimizer ein KI-Modell für das Angebotsranking zu erstellen, muss Ihr Datensatz auf einem Schema basieren, das die Feldergruppe „Vorschlagsinteraktionen“ enthält. Diese Feldergruppe unterstützt wichtige Entscheidungsereignisse wie decisioning.propositionDisplay und decisioning.propositionInteract sowie erforderliche Felder wie „relatedPropositions“, „display“ und „interact“.
 
@@ -41,7 +41,7 @@ Anstatt ein neues Schema zu erstellen, wird das vorhandene Erlebnisereignisschem
 
 In Adobe Experience Platform:
 
-- Öffnen Sie das vorhandene _&#x200B;**Wetter-Schema**&#x200B;_ Erlebnisereignis-Schema, das Sie für wetterbasierte Angebote verwenden.
+- Öffnen Sie das vorhandene _**Wetter-Schema**_ Erlebnisereignis-Schema, das Sie für wetterbasierte Angebote verwenden.
 
 - Fügen Sie die Feldergruppe hinzu:
 Erlebnisereignis - Interaktionen bei Vorschlägen
@@ -161,4 +161,4 @@ Dieses KI-Modell wird in einer Rangfolgenformel oder Auswahlstrategie referenzie
 
 ## Testen der Lösung
 
-Fügen Sie die [aktualisierte JavaScript-Datei](assets/ai-model.js) in die [vorhandene Webseite“ &#x200B;](assets/weather-offers.html)
+Fügen Sie die [aktualisierte JavaScript-Datei](assets/ai-model.js) in die [vorhandene Webseite“ ](assets/weather-offers.html)
