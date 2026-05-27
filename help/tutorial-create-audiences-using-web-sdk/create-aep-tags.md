@@ -9,10 +9,10 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 244fcb09-3b16-4e3b-b335-4e84bc93095e
-source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
+source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 3%
+source-wordcount: '514'
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 Adobe Experience Platform-Tags (ehemals Adobe Launch) helfen bei der Verwaltung und Bereitstellung von Marketing- und Analysetechnologien* auf Ihrer Website, ohne den Code der Website ändern zu müssen.
 
-In [&#x200B; Video wird der Prozess der Erstellung von Adobe Experience Tags beschrieben](https://experienceleague.adobe.com/de/playlists/experience-platform-get-started-with-tags)
+In [ Video wird der Prozess der Erstellung von Adobe Experience Tags beschrieben](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 * Bei Datenerfassung anmelden
 * Klicken Sie auf Tags > Neue Eigenschaft .
@@ -80,14 +80,17 @@ Mit dem Regel-Builder in Adobe Experience Platform Tags können Sie festlegen, w
 
 
 * Erstellen Sie eine Ereigniskonfiguration mit dem Namen Bevorzugte Asset-Klasse , die wie unten dargestellt ausgewählt ist. Dieses Ereignis überwacht AssetClassSelection-Ereignisse.
-  ![rule-event](assets/rule-event.png)
+
+![rule-event](assets/rule-event.png)
 
 
 * Erstellen einer Aktion zum Senden des aktualisierten XDM-Schemas an AEP
-  ![send-event](assets/rule-send-event.png)
+
+![send-event](assets/rule-send-event.png)
 
 * Ihre endgültige Regel sollte wie folgt aussehen
-  ![Endregel](assets/final-rule.png)
+
+![Endregel](assets/final-rule.png)
 
 ## Erstellen und Bereitstellen der AEP-Tags
 
@@ -108,7 +111,7 @@ Klicken Sie dann auf die Schaltfläche Speichern und in Entwicklung erstellen , 
 
 ## AEP-Tags in die HTML-Seite einschließen
 
-Wenn Sie eine AEP Tags-Eigenschaft veröffentlichen, erhalten Sie von Adobe ein Skript-Tag, das Sie in Ihrem HTML-``` <head>``` oder am Ende der ``` <body>``` Tags platzieren müssen.
+Wenn Sie eine AEP Tags-Eigenschaft veröffentlichen, erhalten Sie von Adobe ein Skript-Tag, das Sie in Ihrem HTML-` <head>` oder am Ende der `<body>` Tags platzieren müssen.
 
 * Gehen Sie zu Ihrer Eigenschaft „Tags (Financial Advisors)“.
 

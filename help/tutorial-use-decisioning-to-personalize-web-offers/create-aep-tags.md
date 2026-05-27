@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-05T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 6823ce13-bc77-4e2b-89e0-606e403c15f2
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Das ECID-Datenelement in Experience Platform Tags wird ausschließlich zu Debugg
 
 Erstellen und veröffentlichen Sie die Adobe Experience Platform-Tags.
 
-Wenn eine AEP Tags-Eigenschaft veröffentlicht wird, stellt Adobe Ihnen ein Skript-Tag zur Verfügung, das Sie in Ihrem HTML-``` <head>``` oder am Ende der ``` <body>``` Tags platzieren müssen.
+Wenn eine AEP Tags-Eigenschaft veröffentlicht wird, stellt Adobe Ihnen ein Skript-Tag zur Verfügung, das Sie in Ihrem HTML-`<head>` oder am Ende der `<body>` Tags platzieren müssen.
 
 1. Wechseln Sie zu Ihrer Eigenschaft „Tags (ECID-Service)“.
 
@@ -52,4 +52,4 @@ Wenn eine AEP Tags-Eigenschaft veröffentlicht wird, stellt Adobe Ihnen ein Skri
 
 1. Beachten Sie den eingebetteten Code.
 
-   Dieser Code muss unmittelbar vor dem schließenden ```</body>```-Tag auf der HTML-Seite platziert werden.
+   Dieser Code muss unmittelbar vor dem schließenden -Tag `</body>` der HTML-Seite platziert werden.
