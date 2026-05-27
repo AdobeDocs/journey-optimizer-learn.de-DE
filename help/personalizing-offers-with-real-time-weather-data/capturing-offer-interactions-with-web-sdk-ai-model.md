@@ -41,7 +41,7 @@ Anstatt ein neues Schema zu erstellen, wird das vorhandene Erlebnisereignisschem
 
 In Adobe Experience Platform:
 
-- Öffnen Sie das vorhandene _**Wetter-Schema**_ Erlebnisereignis-Schema, das Sie für wetterbasierte Angebote verwenden.
+- Öffnen Sie das vorhandene _&#x200B;**Wetter-Schema**&#x200B;_ Erlebnisereignis-Schema, das Sie für wetterbasierte Angebote verwenden.
 
 - Fügen Sie die Feldergruppe hinzu:
 Erlebnisereignis - Interaktionen bei Vorschlägen
@@ -161,4 +161,4 @@ Dieses KI-Modell wird in einer Rangfolgenformel oder Auswahlstrategie referenzie
 
 ## Testen der Lösung
 
-Fügen Sie die [aktualisierte JavaScript-Datei](assets/ai-model.js) in die [vorhandene Webseite“ ](assets/weather-offers.html)
+Fügen Sie die [aktualisierte JavaScript-Datei](assets/ai-model.js) in die [vorhandene Webseite“ &#x200B;](assets/weather-offers.html)
