@@ -1,5 +1,5 @@
 ---
-title: Trigger-Journey bei Formularübermittlung
+title: Auslösen einer Journey bei der Formularübermittlung
 description: Erfahren Sie, wie Sie bei der Übermittlung eines HTML-Formulars einen Journey-Trigger erstellen
 feature: Journeys
 role: User
@@ -10,12 +10,12 @@ jira: KT-20014
 exl-id: 52a506d0-cc1b-4d8d-a634-b66c7c7673ed
 source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 3%
+source-wordcount: '128'
+ht-degree: 11%
 
 ---
 
-# Trigger-Journey bei Formularübermittlung
+# Auslösen einer Journey bei der Formularübermittlung
 
 In diesem Anwendungsbeispiel wird gezeigt, wie ein Kunde durch die Formularübermittlung in Echtzeit eine Adobe Journey Optimizer-Journey Trigger, sodass anhand der vom Benutzer bereitgestellten Informationen sofort personalisierte Folgenachrichten möglich sind.
 
@@ -37,4 +37,4 @@ In diesem Anwendungsbeispiel wird gezeigt, wie ein Kunde durch die Formularüber
 
 **Einführung in Anwendungsfälle und Erstellung von Ereignisschemata**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478480?captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)

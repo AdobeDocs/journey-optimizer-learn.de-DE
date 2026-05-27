@@ -33,9 +33,9 @@ Diese Seite enthält Text und Links, die im Summit Lab L535 verwendet werden. Da
 
 Melden Sie sich mit den folgenden Details an:
 
-E-Mail:    L535+*Ihre Sitznummer*@adobeeventlab.com
+E-Mail-Adresse: L535+*Ihre Sitznummer*@adobeeventlab.com
 
-Kennwort:       Adobe4Summit!
+Kennwort: Adobe4Summit!
 
 
 ### Übung 2.3 - E-Mail-Nachricht erstellen

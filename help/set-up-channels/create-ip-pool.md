@@ -10,7 +10,7 @@ last-substantial-update: 2025-06-03T00:00:00Z
 jira: KT-17709
 exl-id: 248c6cd8-ae73-46d7-902a-a4398d431267
 source-git-commit: b73589447a96b63d60434850000b5dd7abd176c2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 100%
 
@@ -18,6 +18,6 @@ ht-degree: 100%
 
 # Erstellen eines IP-Pools
 
-Erfahren Sie, wie Sie einen IP-Pool erstellen, um Ihre Reputation als Absender zu schützen und die E-Mail-Zustellbarkeit zu verbessern.
+Erfahren Sie, wie Sie einen IP-Pool erstellen, um Ihren Ruf als Absenderin bzw. Absender zu schützen und die E-Mail-Zustellbarkeit zu verbessern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463258/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3463145/?learn=on&enablevpops)

@@ -71,28 +71,28 @@ Die Earn-Engine bestimmt, wie viele Punkte oder Credits in den Umlauf gelangen. 
 
 ### Modellieren der Verbrennungsmaschine
 
-The burn engine forecasts redemption behavior. Burn curves often resemble inverted S-shaped patterns: minimal early redemption, followed by accelerated redemption as users hit reward thresholds, followed by slow-down periods. High-performing brands model redemption using cohort analysis. Instead of assuming a single redemption probability, they analyze each cohort&#39;s probability over time. This allows them to forecast burn with higher accuracy and to anticipate when liability spikes will occur.
+Die Verbrennungsmaschine prognostiziert das Tilgungsverhalten. Brandkurven ähneln oft umgekehrten S-förmigen Mustern: Minimale frühe Erlösung, gefolgt von beschleunigter Erlösung, wenn Benutzer Belohnungsschwellen erreichen, gefolgt von Verlangsamungsperioden. Hochleistungsfähige Marken modellieren die Einlösung mithilfe von Kohortenanalysen. Anstatt eine einzige Rückzahlungswahrscheinlichkeit anzunehmen, analysieren sie die Wahrscheinlichkeit der einzelnen Kohorten im Zeitverlauf. Auf diese Weise können sie eine Verbrennung mit höherer Genauigkeit vorhersagen und Haftungsspitzen vorhersehen.
 
-### The Earn/Burn Balance
+### Earn-/Burn-Balance
 
-An ideal loyalty program strikes a deliberate balance: earn velocity motivates customers to accumulate value, but burn velocity ensures they realize that value regularly. Programs with extremely high earn and extremely low burn are financially attractive in the short term but harm trust long-term. Conversely, programs with extremely high burn velocity can overwhelm liability budgets. Modeling is required to maintain both engagement and financial health.
+Ein ideales Treueprogramm sorgt für eine bewusste Balance: Die Umsatzgeschwindigkeit motiviert Kunden, Werte zu sammeln, aber die Brandgeschwindigkeit stellt sicher, dass sie diesen Wert regelmäßig realisieren. Programme mit extrem hohem Einkommen und extrem niedriger Verbrennung sind kurzfristig finanziell attraktiv, schaden aber langfristig dem Vertrauen. Umgekehrt können Programme mit extrem hoher Brandgeschwindigkeit die Haftungshaushalte überfordern. Die Modellierung ist erforderlich, um sowohl die Interaktion als auch die finanzielle Gesundheit zu erhalten.
 
 
-## 4. Liability Forecasting: A Deep Financial Discipline
+## &#x200B;4. Passivprognosen: eine tief greifende Finanzdisziplin
 
-Liability is the economic counterpart to loyalty engagement. As customers earn and redeem points, liability shifts accordingly. Modern liability modeling requires three layers of analysis.
+Haftung ist das wirtschaftliche Gegenstück zum Treueprogramm. Wenn Kunden Punkte sammeln und einlösen, verschiebt sich die Haftung entsprechend. Die moderne Haftungsmodellierung erfordert drei Ebenen der Analyse.
 
-### 1. Cohort-Based Liability Forecasting
+### &#x200B;1. Kohortenbasierte Verbindlichkeitsprognose
 
-Not all points behave the same. Liability models should group points into cohorts based on the month (or week) they were issued, the customer segment they belong to, and the expected time-to-burn distribution. This cohort-based structure allows finance teams to predict cash flow impact, reward stock requirements, and revenue recognition timelines.
+Nicht alle Punkte verhalten sich gleich. Haftpflichtmodelle sollten Punkte in Kohorten gruppieren, basierend auf dem Monat (oder der Woche), in dem sie ausgegeben wurden, dem Kundensegment, zu dem sie gehören, und der erwarteten Verteilung der Verbrennungszeit. Diese kohortenbasierte Struktur ermöglicht es Finanz-Teams, Cashflow-Auswirkungen, Belohnungs-Stock-Anforderungen und Zeitpläne für die Umsatzerkennung vorherzusagen.
 
-### 2. Probability-Based Redemption Modeling
+### &#x200B;2. Wahrscheinlichkeitsbasierte Rückzahlungsmodellierung
 
-Redemption probabilities differ sharply by segment. High-value customers redeem frequently, while low-value customers often accumulate points until expiration. Predictive models estimate the likelihood of redemption within defined time windows. These probabilities feed directly into liability forecasting and risk modeling.
+Die Rückzahlungswahrscheinlichkeiten unterscheiden sich stark je nach Segment. Hochwertige Kunden lösen häufig Rückzahlungen aus, während Kunden mit niedrigem Wert häufig bis zum Ablauf Punkte sammeln. Prognosemodelle schätzen die Wahrscheinlichkeit einer Rücknahme innerhalb definierter Zeitfenster. Diese Wahrscheinlichkeiten fließen direkt in die Verbindlichkeitsprognose und Risikomodellung ein.
 
-### 3. Scenario Planning &amp; Sensitivity Analysis
+### &#x200B;3. Szenarioplanung und Sensitivitätsanalyse
 
-Liability-sensitive programs must produce best-case, base-case, and worst-case scenarios. Beispielsweise kann eine Änderung des Belohnungskatalogs oder eine UX-Verbesserung die Häufigkeit der Rückzahlung über Nacht verdoppeln - was die Haftungsrisiken verdoppelt. Finanzteams benötigen eine szenariobasierte Planung, um sich vor Überraschungen zu schützen.
+Haftungsorientierte Programme müssen Szenarien mit dem besten, dem einfachsten und dem schlechtesten Fall erstellen. Beispielsweise kann eine Änderung des Belohnungskatalogs oder eine UX-Verbesserung die Häufigkeit der Rückzahlung über Nacht verdoppeln - was die Haftungsrisiken verdoppelt. Finanzteams benötigen eine szenariobasierte Planung, um sich vor Überraschungen zu schützen.
 
 Wenn Loyalitätsverantwortliche die Haftungsanalyse mit dieser Sorgfalt präsentieren können, transformiert das die Wahrnehmung auf der Führungsebene. Das Programm wird nicht mehr als Kostenstelle betrachtet, sondern als verwalteter finanzieller Vermögenswert verstanden.
 

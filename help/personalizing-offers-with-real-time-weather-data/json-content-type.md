@@ -1,6 +1,6 @@
 ---
 title: Bereitstellen von Personalization mit JSON-Inhalten in Adobe Journey Optimizer
-description: Nutzen Sie den JSON-Inhaltstyp in Adobe Journey Optimizer (AJO), um flexible, datengesteuerte Personalisierungserlebnisse zu schaffen.
+description: Nutzen Sie den Inhaltstyp JSON in Adobe Journey Optimizer (AJO), um flexible, datengesteuerte Personalisierungserlebnisse zu erstellen.
 feature: Decisioning
 role: User
 level: Beginner
@@ -8,10 +8,11 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-18T00:00:00Z
 jira: KT-18387
 recommendations: noDisplay, noCatalog
-source-git-commit: 9f5b52063605832a9b00c05fb1a93bf60ec7686f
+exl-id: a09beca4-9266-4004-9831-d3c706b631a5
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 0%
+source-wordcount: '501'
+ht-degree: 3%
 
 ---
 
