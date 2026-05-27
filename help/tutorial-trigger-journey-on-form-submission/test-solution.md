@@ -19,7 +19,7 @@ ht-degree: 1%
 
 
 Testen der Lösung
->[!VIDEO](https://video.tv.adobe.com/v/3478546)
+>[!VIDEO](https://video.tv.adobe.com/v/3478555?captions=ger)
 
 ## Bereitstellen der Beispiel-Assets
 

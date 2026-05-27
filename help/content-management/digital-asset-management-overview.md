@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Adobe Journey Optimizer die Verwaltung digitaler Assets durch die Einbettung von Adobe Experience Manager optimiert, sodass Sie Assets direkt im Repository suchen, durchsuchen und beziehen können. Erfahren Sie, wie Sie Kampagnen erstellen, E-Mails mit vorhandenen Vorlagen entwerfen und Assets mühelos hochladen oder bearbeiten und so eine leistungsstarke, wirkungsvolle Inhaltserstellung direkt zur Hand haben.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477010/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477020/?captions=ger&learn=on)
