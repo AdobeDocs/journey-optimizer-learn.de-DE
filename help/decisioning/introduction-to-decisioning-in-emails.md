@@ -24,4 +24,4 @@ Der Prozess umfasst die Erstellung einer Sammlung von Angeboten, die Zuweisung v
 
 Dieses leistungsstarke Tool verbessert die Kundeninteraktion und steigert die Wirkung von Geschäftsergebnissen. Sehen Sie sich das eingebettete Video an, um eine ausführliche Anleitung zu erhalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486201/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486210/?captions=ger&learn=on&enablevpops)

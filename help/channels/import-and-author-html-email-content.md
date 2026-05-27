@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie vorhandene HTML-Inhalte importieren, das Design anpassen, Mirrorseiten- und Abmelde-Links hinzufügen und Ihre Inhalte codieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427083?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432379?captions=ger&quality=12&learn=on){transcript=true}

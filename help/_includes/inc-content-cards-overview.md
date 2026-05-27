@@ -7,7 +7,7 @@ ht-degree: 3%
 ---
 # Inhaltskarten - Übersicht
 
->[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3460095/?captions=ger&learn=on&enablevpops){transcript=true}
 
 ## Was ist das?
 
