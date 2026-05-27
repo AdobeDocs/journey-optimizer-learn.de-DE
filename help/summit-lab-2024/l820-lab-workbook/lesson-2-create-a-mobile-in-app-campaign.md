@@ -42,7 +42,7 @@ Die Details für Ihre Anmeldung finden Sie auf Ihrem Lab-Computer-Desktop. Verwe
    <br>
 3. Sie können die nächsten beiden Bildschirme überspringen:
    <br>
-   ![ Telefonnummer](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
+   ![&#x200B; Telefonnummer](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
    <br>
    ![Personalization-Popup](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
 
