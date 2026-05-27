@@ -11,7 +11,7 @@ last-substantial-update: 2024-10-07T00:00:00Z
 jira: KT-16293
 exl-id: c00fc7fa-f72d-4cca-bd5d-0754e89de290
 source-git-commit: cf255c1611b7a5ed6ff42d55e455e3a5140c19d7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Adobe Journey Optimizer die Verwaltung digitaler Assets durch die Einbettung von Adobe Experience Manager optimiert, sodass Sie Assets direkt im Repository suchen, durchsuchen und beziehen können. Erfahren Sie, wie Sie Kampagnen erstellen, E-Mails mit vorhandenen Vorlagen entwerfen und Assets mühelos hochladen oder bearbeiten und so eine leistungsstarke, wirkungsvolle Inhaltserstellung direkt zur Hand haben.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477020/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477010/?learn=on)
