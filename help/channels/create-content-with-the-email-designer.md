@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Inhalten mit dem E-Mail-Designer
-description: Hier erfahren Sie, wie Sie E-Mails von Grund auf neu erstellen. In unserem Journey Optimizer-Support-Video erfahren Sie, wie Sie Assets aus der AEM Assets Essentials-Bibliothek verwenden, das responsive E-Mail-Design bearbeiten und E-Mails aus Vorlagen erstellen.
+description: Erfahren Sie, wie Sie E-Mails von Grund auf neu erstellen. In unserem Journey Optimizer-Support-Video erfahren Sie, wie Sie Assets aus der AEM Assets Essentials-Bibliothek verwenden, das responsive E-Mail-Design bearbeiten und E-Mails aus Vorlagen erstellen.
 jira: KT-8057
 thumbnail: 334150.jpg
 feature: Email Design
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 # Erstellen von Inhalten mit dem E-Mail-Designer
 
-Hier erfahren Sie, wie Sie E-Mails von Grund auf neu erstellen. Erfahren Sie, wie Sie Assets aus der Adobe Experience Manager Assets Essentials-Bibliothek verwenden, das responsive E-Mail-Design bearbeiten und E-Mails aus Vorlagen erstellen.
+Erfahren Sie, wie Sie E-Mails von Grund auf neu erstellen. Erfahren Sie, wie Sie Assets aus der Adobe Experience Manager Assets Essentials-Bibliothek verwenden, das responsive E-Mail-Design bearbeiten und E-Mails aus Vorlagen erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334150?quality=12&learn=on){transcript=true}
 

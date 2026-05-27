@@ -9,7 +9,7 @@ last-substantial-update: 2026-01-15T00:00:00Z
 jira: KT-20124
 exl-id: f30b7f74-644e-48e1-99ec-230f94dc56e6
 source-git-commit: 8be60011054e465b86685b626f7f924c5f6039c3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ In diesem Anwendungsfall sucht die Journey dynamisch nach den entsprechenden Inv
 
 **Erstellen eines Lookup-Datensatzes**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478769?captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3478760)

@@ -1,13 +1,13 @@
 ---
 source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 2%
+source-wordcount: '307'
+ht-degree: 3%
 
 ---
 # Inhaltskarten - Übersicht
 
->[!VIDEO](https://video.tv.adobe.com/v/3460095/?captions=ger&learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
 
 ## Was ist das?
 
@@ -27,7 +27,7 @@ Sie eignen sich ideal für **nicht dringende**, **informative** oder **Werbeinha
 
 Wählen Sie **Inhaltskarten** als bevorzugten Messaging-Kanal aus, wenn Sie Folgendes tun müssen:
 
-| # | Vorteil | Warum | Anwendungsbeispiele |
+| # | Vorteil | Warum | Beispielhafte Anwendungsfälle |
 |---|---------|-----|-------------------|
 | 1 | Persistente Sichtbarkeit | Karten bleiben sichtbar, bis sie verworfen werden - ideal für nicht dringende Aktualisierungen | <ul><li>Ankündigungen zu neuen Funktionen</li><li>Laufende Werbeaktionen</li><li>Lerntipps</li></ul> |
 | 2 | Nicht-intrusive Lieferung | Unterbricht nicht den Benutzerfluss; aktiviert, wenn er bereit ist | <ul><li>Produkt-Nudge</li><li>Statusmeldungen des Kontos</li><li>Nicht kritische Erinnerungen</li></ul> |

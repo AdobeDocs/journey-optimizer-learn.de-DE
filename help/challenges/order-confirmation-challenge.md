@@ -8,7 +8,7 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 100%
 
@@ -70,7 +70,7 @@ Die E-Mail sollte wie folgt strukturiert sein:
   <tr>
   <td>
   <div>
-    <strong>Abschnitt mit der Bestellbestätigung 
+    <strong>Abschnitt mit der Bestellbestätigung
     </strong>
   </td>
   <td>
@@ -118,7 +118,7 @@ Die E-Mail sollte wie folgt strukturiert sein:
     <p>
   Bestellung: <em>{purchaseOrderNumber}</em>
     </p>
-    <strong>Liste der bestellten Produkte: 
+    <strong>Liste der bestellten Produkte:
   </strong>
   <p>Führen Sie jedes Produkt in der Bestellung mit seinem Bild, dem Preis und dem Namen auf.
   <p>Das Layout der einzelnen Artikel sollte wie folgt aussehen:

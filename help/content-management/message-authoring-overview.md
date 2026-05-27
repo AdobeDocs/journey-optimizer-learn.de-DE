@@ -1,6 +1,6 @@
 ---
-title: Nachrichtenerstellung – Überblick
-description: Informationen zu den Optionen zur E-Mail-Nachrichtenerstellung in Journey Optimizer.
+title: Nachrichtenerstellung – Überblick
+description: Informationen zu den Optionen zur Erstellung von E-Mail-Nachrichten in Journey Optimizer.
 feature: Email Design
 role: User
 level: Beginner
@@ -16,8 +16,8 @@ ht-degree: 100%
 
 ---
 
-# Nachrichtenerstellung – Überblick
+# Nachrichtenerstellung – Überblick
 
-Informationen zu den Optionen zur E-Mail-Nachrichtenerstellung in Journey Optimizer.
+Informationen zu den Optionen zur Erstellung von E-Mail-Nachrichten in Journey Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432685/?learn=on)

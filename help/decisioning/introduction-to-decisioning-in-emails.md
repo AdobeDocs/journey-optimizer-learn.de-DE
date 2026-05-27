@@ -8,13 +8,13 @@ doc-type: Feature Video
 duration: 171
 last-substantial-update: 2026-05-01T00:00:00Z
 jira: KT-21095
-source-git-commit: d394b0e73b0606d68c19bc97e40869a4e41c4dde
+exl-id: bb6533a2-4ea1-4d9a-80ff-526f70a81be4
+source-git-commit: cef9796ba122f2f26ec99a31b09d37c09990ea79
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
-
 
 # Einführung in E-Mail-Entscheidungen
 
@@ -24,4 +24,4 @@ Der Prozess umfasst die Erstellung einer Sammlung von Angeboten, die Zuweisung v
 
 Dieses leistungsstarke Tool verbessert die Kundeninteraktion und steigert die Wirkung von Geschäftsergebnissen. Sehen Sie sich das eingebettete Video an, um eine ausführliche Anleitung zu erhalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486210/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486201/?learn=on&enablevpops)

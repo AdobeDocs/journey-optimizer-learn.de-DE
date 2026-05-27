@@ -188,7 +188,7 @@ ht-degree: 91%
       + [Unterbreiten von Angeboten mithilfe der Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [Frequenzbegrenzung](/help/decision-management/frequency-capping.md)
 + Daten-Management {#data-management}
-   + [Übersicht](/help/data-management/set-up-data-overview.md)
+   + [Überblick](/help/data-management/set-up-data-overview.md)
    + [Erstellen eines Schemas](/help/data-management/create-schema.md)
    + [Zuordnen von Identitäten](/help/data-management/map-identities.md)
    + [Erstellen von Datensätzen und Aufnehmen von Daten](/help/data-management/create-datasets-and-ingest-data.md)
@@ -245,7 +245,7 @@ ht-degree: 91%
 + KI-Assistenten und -Agenten {#ai-assistant}
    + [KI-Assistent](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [KI-Assistent für die Inhaltsgenerierung](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Analysieren und Erstellen von Journey mit Journey Agent](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Analysieren und Erstellen von Journey mit Journey Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation Agent – Überblick](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + Anwendungsfälle und Best Practices{#use-cases}
    + [Onboarding von Kundinnen und Kunden](/help/use-cases/customer-onboarding.md)
@@ -256,7 +256,7 @@ ht-degree: 91%
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
    + Anwendungsfall-Playbooks {#use-case-playbooks}
-      + [Überblick](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+      + [Übersicht](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [Konfigurieren einer Playbook-Sandbox](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
       + [Erstellen und Veröffentlichen von Playbook-Instanzen](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Übungen, Labs und Challenges {#exercises-and-challenges}
