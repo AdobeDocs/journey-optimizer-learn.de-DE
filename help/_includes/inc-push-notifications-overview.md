@@ -1,8 +1,8 @@
 ---
 source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 2%
+source-wordcount: '437'
+ht-degree: 3%
 
 ---
 
@@ -24,7 +24,7 @@ Beispiel:
 
 Wählen Sie Push-Benachrichtigungen als bevorzugten Messaging-Kanal, wenn Sie Folgendes benötigen:
 
-| # | Vorteil | Warum | Anwendungsbeispiele |
+| # | Vorteil | Warum | Beispielhafte Anwendungsfälle |
 |---|---------|-----|-------------------|
 | 1 | Zeitkritische Updates | Push-Benachrichtigungen können auf dem Sperrbildschirm oder als Banner angezeigt werden, ohne dass der Benutzer die App öffnen muss. | <ul><li> Dringende Warnmeldungen (Service-Ausfälle, Sicherheitswarnungen)</li><li>Zeitkritische Angebote (Flash-Verkäufe)</li><li> Echtzeit-Updates (Sportergebnisse, Bestellübermittlung)</ul> |
 | 2 | Rückgewinnung | Push-Benachrichtigungen können inaktive Benutzende zurück in die App bringen, indem sie personalisierte und relevante Eingabeaufforderungen bereitstellen. | <ul><li> Warenkorbabbruch oder Erinnerungen zum Durchsuchen — z. B. „Sie haben Artikel in Ihrem Warenkorb gelassen — jetzt für 10 % Rabatt zur Kasse gehen.“</li></ul> |

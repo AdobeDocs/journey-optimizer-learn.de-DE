@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
 source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
-source-wordcount: '1011'
+source-wordcount: '1033'
 ht-degree: 100%
 
 ---
@@ -158,7 +158,7 @@ Die neue, leere Feldergruppe wird Ihrem Schema hinzugefügt. Mit den Schaltfläc
 
 #### Festlegen von Identitäten
 
-Sie haben jetzt den [!UICONTROL Namespace] und das [!DNL Luma Loyalty schema] konfiguriert. Bevor Sie Daten aufnehmen können, müssen Sie die Identitätsfelder beschriften. Jedes Schema, das mit [!UICONTROL Echtzeit-Kundenprofil] verwendet wird, muss über eine primäre Identität verfügen und jeder aufgenommene Datensatz muss einen Wert für dieses Feld haben.
+Sie haben jetzt den [!UICONTROL Namespace] und das [!DNL Luma Loyalty schema] konfiguriert. Bevor Sie Daten aufnehmen können, müssen Sie die Identitätsfelder beschriften. Jedes Schema, das mit [!UICONTROL Echtzeit-Kundenprofil] verwendet wird, muss über eine primäre Identität verfügen und jeder aufgenommene Eintrag muss einen Wert für dieses Feld haben.
 
 1. Legen Sie die **primäre Identität** fest:
 
@@ -276,7 +276,7 @@ Sie haben jetzt den [!UICONTROL Namespace] und das [!DNL Luma Loyalty schema] ko
 
 1. Fügen Sie den **[!UICONTROL Anzeigenamen]** `Luma Product Inventory Event Schema` zum Schema hinzu.
 
-1. Fügen Sie das folgende Feld zur **[!DNL Luma Product Inventory Event Details Field Group]** hinzu: 
+1. Fügen Sie das folgende Feld zur **[!DNL Luma Product Inventory Event Details Field Group]** hinzu:
 
    * Feldname: `inventoryEvent`
 
@@ -299,11 +299,11 @@ Sie haben jetzt den [!UICONTROL Namespace] und das [!DNL Luma Loyalty schema] ko
 
    3. Aktivieren Sie **[!UICONTROL Aufzählung]**.
 
-   4. Geben Sie **[!UICONTROL Werte] ([!UICONTROL Beschriftung)]** ein: `restock` (`Restock`).
+   4. Geben Sie **[!UICONTROL Werte] ([!UICONTROL Label)]** ein: `restock` (`Restock`).
 
    5. Klicken Sie auf **[!UICONTROL Zeile hinzufügen]**.
 
-   6. Geben Sie **[!UICONTROL Werte] ([!UICONTROL Beschriftung)]** ein: `outOfStock` (`Out of Stock`).
+   6. Geben Sie **[!UICONTROL Werte] ([!UICONTROL Label)]** ein: `outOfStock` (`Out of Stock`).
 
    7. Wählen Sie **[!UICONTROL Anwenden]** aus.
 

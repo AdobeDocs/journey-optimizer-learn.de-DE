@@ -1,6 +1,6 @@
 ---
 title: Importieren und Erstellen von HTML-E-Mail-Inhalten mit dem Nachrichten-Editor
-description: Erfahren Sie, wie Sie vorhandenen HTML-Inhalt importieren, das Design anpassen, Mirrorseiten- und Abmelde-Links hinzufügen und Ihren Inhalt codieren können.
+description: Erfahren Sie, wie Sie vorhandene HTML-Inhalte importieren, das Design anpassen, Mirrorseiten- und Abmelde-Links hinzufügen und Ihre Inhalte codieren können.
 jira: KT-7535
 thumbnail: 334102.jpg
 feature: Email Design
@@ -18,6 +18,6 @@ ht-degree: 100%
 
 # Importieren und Erstellen von HTML-E-Mail-Inhalten mit dem Nachrichten-Editor
 
-Erfahren Sie, wie Sie vorhandenen HTML-Inhalt importieren, das Design anpassen, Mirrorseiten- und Abmelde-Links hinzufügen und Ihren Inhalt codieren können.
+Erfahren Sie, wie Sie vorhandene HTML-Inhalte importieren, das Design anpassen, Mirrorseiten- und Abmelde-Links hinzufügen und Ihre Inhalte codieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432379?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432379?captions=ger&quality=12&learn=on){transcript=true}

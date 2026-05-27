@@ -7,7 +7,7 @@ level: Beginner, Intermediate, Experienced
 doc-type: Overview
 last-substantial-update: 2025-08-28T00:00:00Z
 source-git-commit: 1c8bcba7b46b6fc88ba93b2bad7ca3ed5f621e86
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 100%
 
@@ -45,7 +45,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" target="_blank" rel="referrer" title="Anwendungsfall: Kunden-Onboarding (Tutorial)">Anwendungsfall: Kunden-Onboarding (Tutorial)</a>
                     </p>
-                    <p class="is-size-6">Erfahren Sie, wie Sie in Adobe Journey Optimizer (AJO) eine Kunden-Onboarding-Journey implementieren. Der Prozess richtet sich an neue Mitglieder des Treueprogramms. Es werden personalisierte E-Mails und SMS versendet, um zum Herunterladen von Apps zu ermutigen. Dazu gehören das Senden einer Begrüßungs-E-Mail, das Überprüfen der App-Installation und das Nachfassen mit Erinnerungen.In diesem Tutorial erfahren Sie auch, wie Sie mit dem KI-Inhaltsassistenten Inhalte erstellen und personalisieren können.</p>
+                    <p class="is-size-6">Erfahren Sie, wie Sie in Adobe Journey Optimizer (AJO) eine Kunden-Onboarding-Journey implementieren. Der Prozess richtet sich an neue Mitglieder des Treueprogramms. Es werden personalisierte E-Mails und SMS versendet, um zum Herunterladen von Apps zu ermutigen. Dazu gehören das Senden einer Begrüßungs-E-Mail, das Überprüfen der App-Installation und das Nachfassen mit Erinnerungen. In diesem Tutorial erfahren Sie auch, wie Sie mit dem KI-Inhaltsassistenten Inhalte erstellen und personalisieren können.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>

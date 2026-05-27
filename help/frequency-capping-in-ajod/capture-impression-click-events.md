@@ -11,8 +11,8 @@ jira: KT-18526
 exl-id: 7e6014b5-c5a6-467b-8e31-58c5d966464c
 source-git-commit: bef6d831c639d40514552dae3ff20132626a4a09
 workflow-type: tm+mt
-source-wordcount: '451'
-ht-degree: 0%
+source-wordcount: '472'
+ht-degree: 12%
 
 ---
 
@@ -29,9 +29,9 @@ Um das Reporting zu Angebotsimpressionen und Klicks aus AJO Decisioning zu aktiv
 
 Das Schema muss `Web Details` Feldergruppe enthalten, die die Seiten-URL, den Referrer usw. erfasst.
 
-## &#x200B;2. Konfiguration des Datenstroms
+## &#x200B;2. Datenstromkonfiguration
 
-- Adobe Experience Platform In **muss** Datenstrom erstellt werden.
+- In **muss** Datenstrom erstellt werden.
 - Dieser Datenstrom muss mit dem oben konfigurierten Datensatz verknüpft sein, um sicherzustellen, dass alle Web SDK-Ereignisse ordnungsgemäß in das richtige Ziel aufgenommen werden.
 
 ## &#x200B;3. Adobe Experience Platform Tags-Eigenschaft
@@ -122,4 +122,4 @@ alloy("sendEvent", {
 
 Die Einbindung von Vorschlägen in Klick- und Impressionsereignisse ist für ein präzises Angebotsreporting in Adobe Journey Optimizer unerlässlich. Diese Vorschläge stellen die exakten Angebote dar, die den Benutzenden unterbreitet wurden, sodass Adobe Benutzerinteraktionen (z. B. Impressionen oder Klicks) wieder den spezifischen Entscheidungen des Systems zuordnen kann.
 
-Jedes Angebot in einem Vorschlag enthält ein Tracking-Token, bei dem es sich um eine eindeutige Kennung handelt, die von Adobe generiert wird. Dieses Token muss genau so übergeben werden, wie es im entsprechenden Klick- oder Impressionsereignis empfangen wurde - ohne Änderung. Durch übereinstimmende Tracking-Token wird sichergestellt, dass Adobe die Benutzeraktion präzise mit der richtigen Angebotsentscheidung verknüpfen kann, was nachgelagertes Reporting und KI-basierte Optimierung ermöglicht.
+Jedes Angebot in einem Vorschlag enthält ein Tracking-Token, bei dem es sich um eine eindeutige Kennung handelt, die von Adobe generiert wird. Dieses Token muss unverändert genau so übergeben werden, wie es im entsprechenden Klick- oder Impression-Ereignis empfangen wurde. Durch übereinstimmende Tracking-Token wird sichergestellt, dass Adobe die Benutzeraktion präzise mit der richtigen Angebotsentscheidung verknüpfen kann, was nachgelagertes Reporting und KI-basierte Optimierung ermöglicht.

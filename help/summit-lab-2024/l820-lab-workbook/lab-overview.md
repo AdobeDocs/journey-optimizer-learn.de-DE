@@ -12,7 +12,7 @@ last-substantial-update: 2024-03-26T00:00:00Z
 exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
 source-git-commit: 1de5297037b9ec707fca7f28e65ae6149f7ad076
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '529'
 ht-degree: 0%
 
 ---
@@ -29,17 +29,15 @@ In diesem praxisorientierten Labor erkunden Sie verschiedene Szenarien für Mobi
 >[!IMPORTANT]
 >
 >Bitte verzichten Sie darauf, Fotos oder Screenshots aus der Sitzung in den sozialen Medien zu posten.
-><br>
->**Vertraulichkeit von Adobe**
+><br>>**Adobe - Vertraulichkeit**
 >Die Informationen und Produktinformationen, die heute in diesem Labor veröffentlicht werden, sind vertrauliche Informationen von Adobe.
 >Die Teilnehmer dürfen vertrauliche Informationen weder reproduzieren noch verwenden, verbreiten oder weitergeben.
 >Produktangaben dienen nur zu Informationszwecken, stellen keine Garantie für zukünftige Funktionen dar und können jederzeit geändert werden. Daher sind solche Produktfunktionen in keiner Weise Teil Ihrer Vereinbarung mit Adobe oder anderweitig an Sie gebunden.
-><br>
->**Haftungsausschluss**
+><br>>**Haftungsausschluss**
 >Adobe bietet Ihnen frühzeitigen Zugriff auf die Funktionen, die generative KI-Technologie nutzen. Beachten Sie, dass diese Funktionen noch in der Entwicklung sind und zu unerwarteten oder ungenauen Antworten führen können. Wir freuen uns über Ihr Feedback, da wir diese Funktion auf den Markt bringen.
 
 
-### Wichtige Erkenntnisse
+### Wichtige Schlussfolgerungen
 
 * Machen Sie sich mit der Vielfalt der unterstützten mobilen Erlebnisse vertraut.
 * Konfigurieren Sie eine Push-Kampagne.

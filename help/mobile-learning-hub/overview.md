@@ -1,6 +1,6 @@
 ---
 title: Mobiler Lern-Hub
-description: The mobile learning hub equips developers, administrators, marketers, and analysts with everything needed to configure inbound and outbound mobile channels and integrate them seamlessly into powerful cross-channel campaigns and journeys in Journey Optimizer.
+description: Der mobile Lern-Hub bietet Entwicklern, Administratoren, Marketing-Experten und Analysten alles, was erforderlich ist, um eingehende und ausgehende mobile Kanäle zu konfigurieren und sie nahtlos in leistungsstarke Cross-Channel-Kampagnen und Journey-Programme in Journey Optimizer zu integrieren.
 feature: Overview
 role: User, Admin, Developer
 hide: false
@@ -19,31 +19,31 @@ ht-degree: 7%
 
 Bauen Sie auf Adobe Journey Optimizer, um Ihre mobile Interaktionsstrategie sofort umzusetzen oder aufzuwerten. Der mobile Lern-Hub bietet Entwickelnden, Admins, Marketing-Fachleuten sowie Analystinnen und Analysten alles, was sie für die Konfiguration eingehender und ausgehender mobiler Kanäle benötigen, und integriert diese Kanäle nahtlos in leistungsstarke Cross-Channel-Kampagnen und -Journeys.
 
-Explore best practices, learn how to drive adoption, and setup centralized reporting workflows — all in one place — to deliver impactful, data-driven mobile experiences that reach customers anytime, anywhere.
+Erfahren Sie mehr über Best Practices, die Förderung der Akzeptanz und die Einrichtung zentralisierter Reporting-Workflows - alles an einem Ort, um wirkungsvolle, datengesteuerte mobile Erlebnisse bereitzustellen, die Kunden jederzeit und überall erreichen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477007?captions=ger&quality=12&learn=on){transcript=true}
 
 
-## Mobile channel overview
+## Mobile-Kanal - Übersicht
 
-Journey Optimizer supports both inbound and outbound mobile channels:
+Journey Optimizer unterstützt sowohl eingehende als auch ausgehende Mobile-Kanäle:
 
 ### Outbound-Kanäle
 
-Outbound channels let you proactively deliver messages to customers without requiring a prior interaction. These interactions are ideal for campaigns, promotions, or transactional events.
+Ausgehende Kanäle ermöglichen den proaktiven Versand von Nachrichten an Kunden, ohne dass eine vorherige Interaktion erforderlich ist. Diese Interaktionen eignen sich ideal für Kampagnen, Promotions oder Transaktionsereignisse.
 
-All outbound channels in Adobe Journey Optimizer enforce Custom Consent Policies at message send time. If consent is not granted for a specific marketing action, the message is automatically suppressed to ensure compliant delivery.
+Alle ausgehenden Kanäle in Adobe Journey Optimizer erzwingen benutzerdefinierte Einverständnisrichtlinien zum Zeitpunkt des Nachrichtenversands. Wenn für eine bestimmte Marketing-Aktion kein Einverständnis erteilt wird, wird die Nachricht automatisch unterdrückt, um einen konformen Versand sicherzustellen.
 
-| ![Push Notifications](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Push Notifications](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[SMS / MMS / RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
+| ![Push-Benachrichtigungen](/help/mobile-learning-hub/assets/mobile-phone.webp){width=„250“, height=„250“}<br> **[Push-Benachrichtigungen](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=„250“, height=„250“}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=„250“, height=„250“}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
-| Sent outside the app, push messages grab attention immediately. They&#39;re ideal for time-sensitive updates and encouraging users to return to your app. | Direct messages sent to users&#39; mobile phones without needing the app. Great for urgent alerts, reminders, and rich media content like images or videos. | Conversational channel through a widely used messaging app, allowing personalized, two-way communication and interactive campaigns. |
+| Außerhalb der App gesendet, erhalten Push-Nachrichten sofort Aufmerksamkeit. Sie eignen sich ideal für zeitkritische Updates und ermutigen Benutzer, zu Ihrer App zurückzukehren. | Direkte Nachrichten werden an die Mobiltelefone der Benutzer gesendet, ohne dass die App benötigt wird. Ideal für dringende Warnungen, Erinnerungen und Rich-Media-Inhalte wie Bilder oder Videos. | Konversationskanal über eine weit verbreitete Messaging-App, die personalisierte, bidirektionale Kommunikation und interaktive Kampagnen ermöglicht. |
 
 ### Eingehende Kanäle
 
-Inbound channels support customer-initiated interactions, allowing you to deliver personalized experiences the moment users engage with your brand. They enable real-time personalization and data capture—such as landing page forms or on-site behaviors—that feed directly into Adobe Experience Platform (AEP) for segmentation, targeting, and activation across journeys.
+Eingehende Kanäle unterstützen kundeninitiierte Interaktionen und ermöglichen es Ihnen, personalisierte Erlebnisse bereitzustellen, sobald Benutzer mit Ihrer Marke interagieren. Sie ermöglichen die Echtzeit-Personalisierung und Datenerfassung, z. B. Landingpage-Formulare oder Onsite-Verhaltensweisen, die direkt in Adobe Experience Platform (AEP) zur Segmentierung, Zielgruppenbestimmung und Aktivierung in allen Journey-Ländern einfließen.
 
 
-| ![In-App Messages](/help/mobile-learning-hub/assets/frescopa-in-app.png){width=&quot;250&quot;,height=&quot;50%&quot;}<br> **[In-App Messages](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![Content Cards](/help/mobile-learning-hub/assets/content-card.jpeg){width=&quot;250&quot;, height=&quot;250&quot;}<br> **[Content Cards](/help/mobile-learning-hub/channels/content-cards-overview.md)** | ![Code-basiertes Erlebnis](/help/mobile-learning-hub/assets/code-based.png){width=„250“, height=„250“}<br> **[Code-basiertes Erlebnis](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |
+| ![In-App-Nachrichten](/help/mobile-learning-hub/assets/frescopa-in-app.png){width=„250“,height=„50%&quot;}<br> **[In-App-Nachrichten](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![Inhaltskarten](/help/mobile-learning-hub/assets/content-card.jpeg){width=„250“, height=„250“}<br> **[Inhaltskarten](/help/mobile-learning-hub/channels/content-cards-overview.md)** | ![Code-basiertes Erlebnis](/help/mobile-learning-hub/assets/code-based.png){width=„250“, height=„250“}<br> **[Code-basiertes Erlebnis](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
 | Diese Nachrichten werden bereitgestellt, während Benutzende Ihre App aktiv verwenden, und sind in Echtzeit und interaktiv. Sie eignen sich perfekt, um Kunden im Moment anzusprechen. | Benutzerinnen und Benutzer können jederzeit innerhalb der App auf nicht aufdringliche, persistente Nachrichten zugreifen. Inhaltskarten eignen sich gut für die Freigabe fortlaufender Angebote oder hilfreicher Informationen. | Benutzerdefinierte Nachrichten ermöglichen hochgradig personalisierte und dynamische Kampagnen, die Echtzeitdaten und komplexe Journey von Kunden integrieren. |
 

@@ -12,7 +12,7 @@ thumbnail: KT-14978.jpeg
 exl-id: 1bbb978b-0401-4383-b507-48b46d84d19f
 source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '581'
 ht-degree: 1%
 
 ---
@@ -87,7 +87,7 @@ Nach der Installation der App müssen Sie Adobe Enterprise Developer vertrauen:
 
 1. Wählen Sie **Adobe Systems Inc** und **Adobe Systems Inc**.
 
-   ![Auswahlbildschirm für Adobe-](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "-Systeme"){width="250" align="center" zoomable="yes"}
+   ![Auswahlbildschirm für Adobe](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "SystemeAuswahlbildschirm für Adobe-Systeme"){width="250" align="center" zoomable="yes"}
    <br>
 
    ![Bildschirm „Adobe-Systeme vertrauen“](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
@@ -148,7 +148,7 @@ Für jede dieser Aktivitäten erhalten Sie Abzeichen.
 >
 > Sie können sehen, welche Abzeichen Sie verdient haben:
 > 
-> ![Badges](/help/summit-lab-2024/l820-lab-workbook/assets/1-3-badges.png) 
+> ![Badges](/help/summit-lab-2024/l820-lab-workbook/assets/1-3-badges.png)
 
 In den folgenden Lektionen erfahren Sie, wie Sie mobile und Web-Erlebnisse in Adobe Journey Optimizer erstellen.
 
