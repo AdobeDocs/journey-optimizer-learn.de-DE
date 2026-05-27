@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie einen IP-Pool erstellen, um Ihren Ruf als Absenderin bzw. Absender zu schützen und die E-Mail-Zustellbarkeit zu verbessern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463145/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463258/?captions=ger&learn=on&enablevpops)
