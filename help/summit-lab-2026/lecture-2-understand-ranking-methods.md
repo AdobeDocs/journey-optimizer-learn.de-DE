@@ -36,4 +36,4 @@ ht-degree: 0%
 
 Erfahren Sie mehr über die verschiedenen Ranking-Methoden, die in Adobe Journey Optimizer Decisioning verfügbar sind, einschließlich regelbasierter Ranking-Formeln und KI-Optimierungsmodellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491465/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491474/?captions=ger&learn=on&enablevpops)
