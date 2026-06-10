@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: debae556440c9bd902b0adb7590db960f42b3bf2
+source-git-commit: a69447a58313dc109ea82d6af2746341aff90b8b
 workflow-type: tm+mt
-source-wordcount: '1459'
-ht-degree: 91%
+source-wordcount: '1468'
+ht-degree: 90%
 
 ---
 
@@ -48,6 +48,7 @@ ht-degree: 91%
    + [Veröffentlichen einer Journey](/help/journeys/publish-a-journey.md)
    + [Aktivität „Inhaltsentscheidung“](/help/journeys/content-decision-activity.md)
    + [Beherrschen der Filterung mehrerer Attribute](/help/journeys/mastering-multi-attribute-filtering.md)
+   + [Verwenden von Targeting mit mehreren Entitäten mit Federated Audiences in Journey](/help/journeys/multi-entity-targeting-in-journeys.md)
    + [Validieren der Journey-Logik mit einem Journey-Probelauf](/help/journeys/journey-dry-run.md)
    + [Entsperren des erneuten Journey-Eintritts mit zusätzlichen IDs](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [Aktualisieren von Inhalten in einer Live-Journey](/help/journeys/update-content-in-live-journey.md)
@@ -75,7 +76,7 @@ ht-degree: 91%
    + [Erstellen einer Zielgruppe durch Hochladen einer CSV-Datei](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [Erstellen von Zielgruppen mit Web SDK (Tutorial)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
    + [Zielgruppen nach Bedarf auswerten](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
-   + [Abonnements und Landingpages](/help/subscriptions-and-landing-pages.md)
+   + [Abonnements und Landingpages](/help/profiles-audiences-subscriptions/subscriptions-and-landing-pages.md)
 + Kanäle {#channels}
    + [Mobile-App-Optimierung – Überblick](/help/channels/mobile-app-optimization-overview.md)
    + Code-basierter Erlebniskanal{#code-based-experience-channel}
@@ -268,5 +269,3 @@ ht-degree: 91%
       + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Live-Sessions und umfassende Einblicke {#live-sessions-and-deep-dives}
    + [Aufnahmen von Experience League LIVE-Shows](/help/_ajo-main/experience-league-live-show-recordings.md)
-
-
