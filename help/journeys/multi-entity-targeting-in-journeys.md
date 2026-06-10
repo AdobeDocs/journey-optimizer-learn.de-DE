@@ -31,5 +31,5 @@ In diesem Video erfahren Sie, wie Sie Journey nach Abonnement-ID, Konto-ID oder 
 
 Weitere Informationen zu dieser Funktion finden Sie unter [Dokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491835/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491842/?captions=ger&learn=on)
 
