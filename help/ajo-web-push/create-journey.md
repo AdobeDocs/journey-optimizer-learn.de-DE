@@ -1,15 +1,16 @@
 ---
-title: Create journey
-description: Create journey that is triggered on price.drop event
+title: Journey erstellen
+description: Journey erstellen, die beim price.drop-Ereignis ausgelöst wird
 feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 3d342c5c4de4dda221ce4427b1e4aef7ef8c22cc
+exl-id: 14342b47-5485-4f7f-9312-cff1ee0f8972
+source-git-commit: fe5ce1bd62e4cf628d0adf67389e4301660a223a
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
@@ -27,15 +28,15 @@ Um eine Journey zu erstellen, die beim price.drop-Ereignis ausgelöst wird, füh
 
 ## PriceDropEvent hinzufügen
 
-Ziehen Sie die `PriceDropEvent` aus dem Abschnitt Ereignisse auf die Arbeitsfläche
+Ziehen Sie die `PriceDropEvent` aus dem Abschnitt Ereignisse auf die Arbeitsfläche.
 ![price-drop-event](assets/add-price-drop-event.png)
 
 ## Push-Aktion hinzufügen
 
-Expand the Actions section. Drag and drop the `Action` activity on to the canvas and select Push as the action type
-![push-action](assets/add-push-action.png)
+Erweitern Sie den Abschnitt Aktionen . Ziehen Sie die Aktivität `Action` auf die Arbeitsfläche und wählen Sie als Aktionstyp Push aus
+![Push-Aktion](assets/add-push-action.png)
 
-## Configure the Push Action
+## Konfigurieren der Push-Aktion
 
 Wählen Sie die Aktivität Push-Benachrichtigung aus und klicken Sie auf Aktion konfigurieren .
 
@@ -51,11 +52,11 @@ Verknüpfen Sie `MyFirstWebPushChannel` zuvor im Tutorial erstellte Konfiguratio
 
 Fügen Sie der Push-Benachrichtigung mithilfe des Personalisierungseditors eine Kombination aus statischem und dynamischem Inhalt hinzu, um die Nachricht ansprechender und relevanter zu gestalten.
 
-To begin composing the message, click on `Content` to open the content tab, where you can define both the fixed text and the dynamic fields derived from the event data.
+Um mit dem Verfassen der Nachricht zu beginnen, klicken Sie auf `Content` , um die Registerkarte Inhalt zu öffnen, auf der Sie sowohl den festen Text als auch die dynamischen Felder definieren können, die aus den Ereignisdaten abgeleitet werden.
 ![content-push](assets/compose-message.png)
 
-Specify the title of the push message, then open the personalization editor to compose the message body. The content will dynamically include the names of the product(s) whose prices have dropped. To achieve this, use the each [helper function](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
-to iterate over the list of products and render their names within the message.
+Geben Sie den Titel der Push-Nachricht an und öffnen Sie dann den Personalisierungseditor, um den Nachrichtentext zu erstellen. Der Inhalt enthält dynamisch die Namen der Produkte, deren Preise gefallen sind. Verwenden Sie dazu die Funktion each [helper .](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
+Gehen Sie wie folgt vor, um die Liste der Produkte zu durchlaufen und ihre Namen in der Nachricht zu rendern.
 
 ## Nachrichtentext erstellen
 
@@ -68,11 +69,8 @@ Klicken Sie auf das Symbol &quot;+&quot;, um das Array in jede Schleife im Perso
 
 ![context-attributes](assets/journey-content-context-attributes.png)
 
-Speichern Sie abschließend alle Ihre Änderungen und veröffentlichen Sie die Journey. Nach der Veröffentlichung wird die Journey aktiv und überwacht eingehende price.drop-Ereignisse. Whenever such an event is received, the journey is triggered in real time, and a push notification is sent to users who have opted in to receive notifications, ensuring timely and relevant engagement.
+Speichern Sie abschließend alle Ihre Änderungen und veröffentlichen Sie die Journey. Nach der Veröffentlichung wird die Journey aktiv und überwacht eingehende price.drop-Ereignisse. Wenn ein solches Ereignis eingeht, wird der Journey in Echtzeit ausgelöst und eine Push-Benachrichtigung wird an Benutzerinnen und Benutzer gesendet, die sich für den Empfang von Benachrichtigungen entschieden haben, wodurch eine rechtzeitige und relevante Interaktion sichergestellt wird.
 
-## Test the solution
+## Testen der Lösung
 
-To trigger the price.drop event, open the [price drop trigger page,](http://localhost:3000/price-drop-trigger.html) select one or more products, and click Trigger Price Drop. This sends the event through the Adobe Data Layer using AEP Tags, which then initiates the journey and delivers the push notification in real time.
-
-
-
+Um den Trigger des price.drop-Ereignisses auszuführen, öffnen Sie die [price drop Trigger&quot;, wählen ](http://localhost:3000/price-drop-trigger.html) ein oder mehrere Produkte aus und klicken Sie auf Trigger Price Drop. Dadurch wird das Ereignis über die Adobe-Datenschicht mithilfe von AEP-Tags gesendet, die dann die Journey initiieren und die Push-Benachrichtigung in Echtzeit bereitstellen.

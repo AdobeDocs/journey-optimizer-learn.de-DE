@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-01-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 3d342c5c4de4dda221ce4427b1e4aef7ef8c22cc
+exl-id: 0a8be7eb-9962-466a-9fcc-022cb84c7b0a
+source-git-commit: 108686aa75358f940b5d7d83e7f04bf55f72978f
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -20,18 +21,19 @@ Der erste Schritt besteht darin, in Adobe Journey Optimizer einen Push-Kanal zu 
 
 ## Generieren von VAPID-Schlüsseln
 
-VAPID (Voluntary Application Server Identification) ist ein Web-Push-Standard, mit dem sich Ihr Server gegenüber Push-Services (wie Chrome, Edge usw.) identifizieren kann, die öffentliche/private Schlüsselpaare verwenden, sodass der Push-Anbieter weiß, wer die Benachrichtigung sendet.
+VAPID (Voluntary Application Server Identification) ist ein Web-Push-Standard, mit dem sich Ihr Server für Push-Services (wie Chrome, Edge usw.) identifizieren kann Verwendung von öffentlichen/privaten Schlüsselpaaren, sodass der Push-Anbieter weiß, wer die Benachrichtigung sendet.
 
 Sie wird mithilfe eines Tools wie web-push-generate-valid-keys generiert, das einen öffentlichen Schlüssel (der mit dem Browser freigegeben wird) und einen privaten Schlüssel (auf dem Server gespeichert) erstellt, die zusammen zur Authentifizierung und zum sicheren Senden von Push-Nachrichten verwendet werden.
 
 Für dieses Tutorial haben wir Node.js verwendet, um die gültigen Schlüssel zu generieren.
 
 Stellen Sie sicher, dass Node.js installiert ist. Geben Sie dann den folgenden Befehl ein
-```npm install web-push -g ```
+
+`npm install web-push -g `
 
 ![Web-Push](assets/install-web-push.png)
 
-```web-push generate-vapid-keys```
+`web-push generate-vapid-keys`
 
 ![Vapid](assets/vapid-keys.png)
 
