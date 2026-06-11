@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Adobe Experience Manager-Inhaltsfragmente mit Adobe Journey verwenden können, um den Inhalt in Ihrer agilen Kommunikation zu personalisieren und zu optimieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492215/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492222/?captions=ger&learn=on&enablevpops)
