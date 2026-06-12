@@ -24,4 +24,4 @@ ht-degree: 12%
 
 Erfahren Sie, wie Sie durch das Einrichten von Aufgaben, Belohnungen und Zeitplänen eine Herausforderung für das Treueprogramm erstellen. Erfahren Sie, wie Sie Inhalte, Messaging und Zielgruppen konfigurieren, während im Hintergrund automatisch eine vollständige Kunden-Journey generiert wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480335/?captions=ger&learn=on&enablevpops)
