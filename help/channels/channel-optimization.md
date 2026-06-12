@@ -1,6 +1,6 @@
 ---
 title: Optimieren von Kanälen basierend auf Profilvoreinstellungen oder Tendenzwerten
-description: Erfahren Sie, wie Sie mit der Kanaloptimierungsfunktion von Adobe Journey Optimizer Kunden im effizientesten Kanal erreichen können - sei es über manuelle Priorität, Profilattribute oder das KI-Modell von Adobe -, um sicherzustellen, dass Ihre Nachricht dort zugestellt wird, wo die Interaktion mit jedem Kunden am wahrscheinlichsten ist.
+description: Erfahren Sie, wie Sie mit der Kanaloptimierungsfunktion von Adobe Journey Optimizer Kundinnen und Kunden mit der effektivsten Kanalpriorität, Profilattributen oder dem KI-Modell von Adobe erreichen können, sodass Ihre Nachricht dort landet, wo sich jeder Kunde am ehesten engagiert.
 feature: Channels
 role: Developer
 level: Beginner, Intermediate, Experienced
@@ -25,9 +25,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: df7a7efd87137cd9bca0e3efca39f12a18b7990c
+source-git-commit: 19b32f3289b422a3fa778b0af07319be1b032287
 workflow-type: tm+mt
-source-wordcount: 100
+source-wordcount: 96
 ht-degree: 2%
 
 ---
@@ -37,6 +37,6 @@ ht-degree: 2%
 
 {{limited-availability}}
 
-Erfahren Sie, wie Sie mit der Kanaloptimierungsfunktion von Adobe Journey Optimizer Kunden im effizientesten Kanal erreichen können - sei es über manuelle Priorität, Profilattribute oder das KI-Modell von Adobe -, um sicherzustellen, dass Ihre Nachricht dort zugestellt wird, wo die Interaktion mit jedem Kunden am wahrscheinlichsten ist.
+Erfahren Sie, wie Sie mit der Kanaloptimierungsfunktion von Adobe Journey Optimizer Kundinnen und Kunden mit der effektivsten Kanalpriorität, Profilattributen oder dem KI-Modell von Adobe erreichen können, sodass Ihre Nachricht dort landet, wo sich jeder Kunde am ehesten engagiert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492139/?captions=ger&learn=on&enablevpops)
