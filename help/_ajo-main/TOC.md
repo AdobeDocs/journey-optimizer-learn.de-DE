@@ -248,7 +248,7 @@ ht-degree: 89%
 + KI-Assistenten und -Agenten {#ai-assistant}
    + [KI-Assistent](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [KI-Assistent für die Inhaltsgenerierung](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Analysieren und Erstellen von Journey mit Journey Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [Analysieren und Erstellen von Journey mit Journey Agent](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation Agent – Überblick](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
    + [Planen von Audiences mit Adobe Marketing Agent](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + Anwendungsfälle und Best Practices{#use-cases}
