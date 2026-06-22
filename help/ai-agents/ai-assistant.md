@@ -1,6 +1,6 @@
 ---
 title: KI-Assistent
-description: Erfahren Sie, was Sie mit dem KI-Assistenten in auf Adobe Experience Platform basierenden Anwendungen wie Real-Time Customer Data Platform, Journey Optimizer und Customer Journey Analytics alles tun können.
+description: Erfahren Sie mehr über den KI-Assistenten in Adobe Experience Platform-Apps, einschließlich Real-Time Customer Data Platform, Journey Optimizer und Customer Journey Analytics.
 feature: Overview
 role: Admin, Developer, User
 level: Beginner
@@ -11,24 +11,20 @@ jira: KT-15789
 exl-id: 6c2134ec-7d0c-4fe2-9281-22a10ace1890
 autotag-review: '2026-05-18T17:14:46.340Z'
 TQID: 'https://experienceleague.adobe.com/8RiX51WRVl6eua18TfPLGgNgWB3Eh1rURNxGQ52KXp4'
-product_v2:
-  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: b519aa58085d08dd492c1b59a7267b31d6339f00
 workflow-type: tm+mt
-source-wordcount: 104
-ht-degree: 100%
+source-wordcount: 101
+ht-degree: 66%
 
 ---
 
 # KI-Assistent
 
-Erfahren Sie, was Sie mit dem KI-Assistenten in auf Adobe Experience Platform basierenden Anwendungen wie Real-Time Customer Data Platform, Journey Optimizer und Customer Journey Analytics alles tun können.
+Erfahren Sie, was Sie mit dem KI-Assistenten in auf Adobe Experience Platform basierenden Anwendungen wie Real-time Customer Data Platform, Journey Optimizer und Customer Journey Analytics alles tun können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-Weitere Informationen zu den in Journey Optimizer unterstützten Anwendungsfällen finden Sie unter [Arbeiten mit dem KI-Assistenten](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/get-started/ai-assistant). Eine ausführliche Dokumentation finden Sie in der Dokumentation zum [KI-Assistenten in Adobe Experience Platform](https://experienceleague.adobe.com/de/docs/experience-platform/ai-assistant/home).
+Weitere Informationen zu den in Journey Optimizer unterstützten Anwendungsfällen finden Sie unter [Arbeiten mit dem KI-Assistenten](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/work-efficiently/ai-features). Eine ausführliche Dokumentation finden Sie in der Dokumentation zum [KI-Assistenten in Adobe Experience Platform](https://experienceleague.adobe.com/de/docs/experience-platform/ai-assistant/home).
 
