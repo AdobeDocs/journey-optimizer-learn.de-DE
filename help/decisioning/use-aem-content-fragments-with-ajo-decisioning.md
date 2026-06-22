@@ -1,6 +1,6 @@
 ---
-title: Verwenden von Experience Manager-Inhaltsfragmenten mit Journey Optimizer Decisioning
-description: Erfahren Sie, wie Sie Adobe Experience Manager-Inhaltsfragmente mit Adobe Journey verwenden können, um den Inhalt in Ihrer agilen Kommunikation zu personalisieren und zu optimieren.
+title: Verwenden von Experience Manager-Inhaltsfragmenten mit Journey Optimizer-Entscheidungsfindung
+description: Erfahren Sie, wie Sie Adobe Experience Manager-Inhaltsfragmente mit Adobe-Journeys verwenden können, um den Inhalt in Ihrer Agile-Kommunikation zu personalisieren und zu optimieren.
 feature: Decisioning
 role: User
 level: Beginner, Intermediate
@@ -23,15 +23,15 @@ topic_v2:
   - id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
   - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
 source-git-commit: 56a1d7868c410dc2f9811194c52cffc5c627b461
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 66
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Verwenden von Experience Manager-Inhaltsfragmenten mit Journey Optimizer Decisioning
+# Verwenden von Experience Manager-Inhaltsfragmenten mit Journey Optimizer-Entscheidungsfindung
 
-Erfahren Sie, wie Sie Adobe Experience Manager-Inhaltsfragmente mit Adobe Journey verwenden können, um den Inhalt in Ihrer agilen Kommunikation zu personalisieren und zu optimieren.
+Erfahren Sie, wie Sie Adobe Experience Manager-Inhaltsfragmente mit Adobe-Journeys verwenden können, um den Inhalt in Ihrer Agile-Kommunikation zu personalisieren und zu optimieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492222/?captions=ger&learn=on&enablevpops)

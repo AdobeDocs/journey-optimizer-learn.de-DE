@@ -1,6 +1,6 @@
 ---
 title: Speichern von Journey-Knoten als Fragmente
-description: Erfahren Sie, wie Sie Journey-Knoten in Adobe Journey Optimizer als wiederverwendbare Fragmente speichern. Optimieren Sie Workflows und stellen Sie Konsistenz über mehrere Journey hinweg sicher.
+description: Erfahren Sie, wie Sie Journey-Knoten in Adobe Journey Optimizer als wiederverwendbare Fragmente speichern. Optimieren Sie Workflows und stellen Sie Konsistenz über mehrere Journeys hinweg sicher.
 feature: Journeys
 role: User
 level: Beginner
@@ -19,16 +19,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: 2949be4c0b1ff5c6b4374c2f1c5b13ce20866f1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 84
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # Speichern von Journey-Knoten als Fragmente
 
-Erfahren Sie, wie Sie wiederverwendbare Journey-Fragmente in Adobe Journey Optimizer erstellen. Mit dieser Funktion können Benutzende eine Reihe von Journey-Knoten als Fragmente speichern, was eine schnelle Wiederverwendung in anderen Journey ermöglicht. Durch die Verwendung von Fragmenten sparen Sie Zeit, optimieren Workflows und stellen die Konsistenz über mehrere Journey hinweg sicher. Sehen Sie sich das eingebettete Video an, um eine ausführliche Anleitung und praktische Beispiele zu erhalten.
+Erfahren Sie, wie Sie wiederverwendbare Journey-Fragmente in Adobe Journey Optimizer erstellen. Mit dieser Funktion können Benutzende eine Reihe von Journey-Knoten als Fragmente speichern und so ermöglichen, dass diese schnell in anderen Journeys wiederverwendet werden können. Durch die Verwendung von Fragmenten können Sie Zeit sparen, Workflows optimieren und Konsistenz über mehrere Journeys hinweg sicherstellen. Sehen Sie sich das eingebettete Video an, um eine ausführliche Anleitung und praktische Beispiele zu erhalten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491396/?captions=ger&learn=on&enablevpops)
 

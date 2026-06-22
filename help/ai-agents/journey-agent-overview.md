@@ -1,6 +1,6 @@
 ---
-title: Analysieren und Erstellen von Journey mit Journey Agent
-description: Erfahren Sie, wie Journey Agent in Adobe Journey Optimizer Live-Journey analysiert, Probleme identifiziert und mehrstufige Journey mit umsetzbaren Einblicken erstellt.
+title: Analysieren und Erstellen von Journeys mit Journey Agent
+description: Erfahren Sie, wie Journey Agent in Adobe Journey Optimizer Live-Journeys analysiert, Probleme identifiziert und mehrstufige Journeys mit verwertbaren Erkenntnissen erstellt.
 feature: Journeys
 role: User
 level: Beginner
@@ -18,15 +18,15 @@ feature_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 71a7ad7aac7d9fc317a6f2e002723bdd48442902
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 103
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Analysieren und Erstellen von Journey mit Journey Agent
+# Analysieren und Erstellen von Journeys mit Journey Agent
 
-Erfahren Sie, wie Sie mit Journey Agent, einem in Adobe Journey Optimizer integrierten KI-gestützten Assistenten, Live-Journey-Konflikte analysieren, Zielgruppenkonflikte und Profil-Fallout identifizieren und mit natürlicher Sprache vollständige mehrstufige Journey-Profile erstellen können. In diesem Video erfahren Sie, wie Journey Agent transparente Einblicke, umsetzbare Empfehlungen und geführte Genehmigungen bereitstellt, damit Sie Probleme mit bestehenden Journey beheben und neue schneller erstellen können, ohne den KI-Assistenten verlassen zu müssen
+Erfahren Sie, wie Sie mit Journey Agent, einem in Adobe Journey Optimizer integrierten KI-gestützten Assistenten, unter Verwendung von natürlicher Sprache Live-Journeys analysieren, Zielgruppenkonflikte und Profilausstiege identifizieren sowie vollständige mehrstufige Journeys erstellen können.In diesem Video erfahren Sie, wie Journey Agent transparente Erkenntnisse, verwertbare Empfehlungen und geführte Genehmigungen bereitstellt, damit Sie Probleme bei bestehenden Journeys beheben und neue Journeys schneller erstellen können, ohne den KI-Assistenten verlassen zu müssen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486303/?captions=ger&learn=on&enablevpops)
