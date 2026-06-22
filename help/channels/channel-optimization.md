@@ -39,4 +39,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie mit der Kanaloptimierungsfunktion von Adobe Journey Optimizer Kundinnen und Kunden über die effektivsten Kanäle mithilfe von manueller Priorität, Profilattributen oder dem KI-Modell von Adobe erreichen können, damit Ihre Nachricht dort ankommt, wo jede Kundin bzw. jeder Kunde am ehesten mit ihr interagiert.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492132/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492139/?captions=ger&learn=on&enablevpops)

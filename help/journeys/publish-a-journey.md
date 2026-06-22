@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Machen Sie sich mit den verschiedenen Status einer Journey und der Wirkung der Veröffentlichung vertraut.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3427932?captions=ger&quality=12&learn=on){transcript=true}

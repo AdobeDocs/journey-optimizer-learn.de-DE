@@ -30,5 +30,5 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie wiederverwendbare Journey-Fragmente in Adobe Journey Optimizer erstellen. Mit dieser Funktion können Benutzende eine Reihe von Journey-Knoten als Fragmente speichern und so ermöglichen, dass diese schnell in anderen Journeys wiederverwendet werden können. Durch die Verwendung von Fragmenten können Sie Zeit sparen, Workflows optimieren und Konsistenz über mehrere Journeys hinweg sicherstellen. Sehen Sie sich das eingebettete Video an, um eine ausführliche Anleitung und praktische Beispiele zu erhalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491387/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491396/?captions=ger&learn=on&enablevpops)
 

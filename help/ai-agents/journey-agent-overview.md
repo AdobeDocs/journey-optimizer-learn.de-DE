@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie mit Journey Agent, einem in Adobe Journey Optimizer integrierten KI-gestützten Assistenten, unter Verwendung von natürlicher Sprache Live-Journeys analysieren, Zielgruppenkonflikte und Profilausstiege identifizieren sowie vollständige mehrstufige Journeys erstellen können.In diesem Video erfahren Sie, wie Journey Agent transparente Erkenntnisse, verwertbare Empfehlungen und geführte Genehmigungen bereitstellt, damit Sie Probleme bei bestehenden Journeys beheben und neue Journeys schneller erstellen können, ohne den KI-Assistenten verlassen zu müssen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486303/?captions=ger&learn=on&enablevpops)
