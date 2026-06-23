@@ -34,4 +34,4 @@ Erfahren Sie, wie Sie die Managed Services-Integrationen von Adobe Experience Ma
 
 Dieses Tutorial führt Sie durch die Einrichtung von Repository-Verbindungen, die Validierung von Konfigurationen mit Content Advisor und die Auswahl von Inhaltsfragmenten direkt im Personalisierungseditor, sodass Marketing-Experten AEM-Inhalte in ihren Kampagnen effizient wiederverwenden und in der Vorschau anzeigen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492536/?captions=ger&learn=on&enablevpops)
