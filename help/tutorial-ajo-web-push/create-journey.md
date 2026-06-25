@@ -73,4 +73,4 @@ Speichern Sie abschließend alle Ihre Änderungen und veröffentlichen Sie die J
 
 ## Testen der Lösung
 
-Um den Trigger des price.drop-Ereignisses auszuführen, öffnen Sie die [price drop Trigger&quot;, wählen ](http://localhost:3000/price-drop-trigger.html) ein oder mehrere Produkte aus und klicken Sie auf Trigger Price Drop. Dadurch wird das Ereignis über die Adobe-Datenschicht mithilfe von AEP-Tags gesendet, die dann die Journey initiieren und die Push-Benachrichtigung in Echtzeit bereitstellen.
+Um den Trigger des price.drop-Ereignisses auszuführen, öffnen Sie die [price drop Trigger&quot;, wählen &#x200B;](http://localhost:3000/price-drop-trigger.html) ein oder mehrere Produkte aus und klicken Sie auf Trigger Price Drop. Dadurch wird das Ereignis über die Adobe-Datenschicht mithilfe von AEP-Tags gesendet, die dann die Journey initiieren und die Push-Benachrichtigung in Echtzeit bereitstellen.
