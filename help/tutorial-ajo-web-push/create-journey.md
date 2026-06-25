@@ -55,7 +55,7 @@ Fügen Sie der Push-Benachrichtigung mithilfe des Personalisierungseditors eine 
 Um mit dem Verfassen der Nachricht zu beginnen, klicken Sie auf `Content` , um die Registerkarte Inhalt zu öffnen, auf der Sie sowohl den festen Text als auch die dynamischen Felder definieren können, die aus den Ereignisdaten abgeleitet werden.
 ![content-push](assets/compose-message.png)
 
-Geben Sie den Titel der Push-Nachricht an und öffnen Sie dann den Personalisierungseditor, um den Nachrichtentext zu erstellen. Der Inhalt enthält dynamisch die Namen der Produkte, deren Preise gefallen sind. Verwenden Sie dazu die Funktion each [helper .](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
+Geben Sie den Titel der Push-Nachricht an und öffnen Sie dann den Personalisierungseditor, um den Nachrichtentext zu erstellen. Der Inhalt enthält dynamisch die Namen der Produkte, deren Preise gefallen sind. Verwenden Sie dazu die Funktion each [helper .](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
 Gehen Sie wie folgt vor, um die Liste der Produkte zu durchlaufen und ihre Namen in der Nachricht zu rendern.
 
 ## Nachrichtentext erstellen
