@@ -8,9 +8,9 @@ doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
 exl-id: 94fda23f-e26a-494b-8e5c-6c442bae61c4
-source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
+source-git-commit: 136459518341f00af69fcbf2e629bf0ccc2bd27f
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '218'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,6 @@ In diesem Schritt erstellen Sie eine Kampagne in Adobe Journey Optimizer, um gep
 * Navigieren Sie zur Journey-Verwaltung | Kampagnen | Kampagnen erstellen
 
 ## Angeben der Kampagneneinstellungen
-
 
 Geben Sie den Kampagnennamen an
 
