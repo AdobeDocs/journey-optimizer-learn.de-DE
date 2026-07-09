@@ -7,9 +7,9 @@ role: User
 level: Intermediate
 doc-type: overview-page
 last-substantial-update: 2026-07-08T00:00:00Z
-source-git-commit: f9fe2ea192af9c163f032f9161002a6577b06d2d
+source-git-commit: 9181c5a4999ee49eb86b33eebf8083a460e527c1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '233'
 ht-degree: 1%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 1%
 
 Erfahren Sie, wie Sie mit KI in Adobe Journey Optimizer markeninterne Inhalte auf der gesamten Kunden-Journey erstellen, verfeinern und skalieren können.
 
-Dieser Kurs führt Sie durch alle Schritte, von der Erstellung und Konfiguration von Markenrichtlinien bis hin zur Erstellung vollständiger Kampagnen, zur Bearbeitung einzelner Inhaltskomponenten, zur Verbesserung der visuellen Darstellung und zur Schaffung mehrsprachiger Erlebnisse.
-
-Außerdem erfahren Sie, wie Sie automatisierte Qualitätsprüfungen durchführen, die Markenausrichtung sicherstellen und die Governance in allen Kommunikationsbereichen aufrechterhalten können. Am Ende sind Sie in der Lage, die Inhaltserstellung zu optimieren, die Konsistenz zu verbessern und kanalübergreifend hochwertige, personalisierte Erlebnisse bereitzustellen.
+Dieser Kurs führt Sie durch alle Schritte, von der Erstellung und Konfiguration von Markenrichtlinien bis hin zur Erstellung vollständiger Kampagnen, zur Bearbeitung einzelner Inhaltskomponenten, zur Verbesserung der visuellen Darstellung und zur Schaffung mehrsprachiger Erlebnisse.Außerdem erfahren Sie, wie Sie automatisierte Qualitätsprüfungen durchführen, die Markenausrichtung sicherstellen und die Governance in allen Kommunikationsbereichen aufrechterhalten können. Am Ende sind Sie in der Lage, die Inhaltserstellung zu optimieren, die Konsistenz zu verbessern und kanalübergreifend hochwertige, personalisierte Erlebnisse bereitzustellen.
 
 ## Was Sie lernen werden
 
