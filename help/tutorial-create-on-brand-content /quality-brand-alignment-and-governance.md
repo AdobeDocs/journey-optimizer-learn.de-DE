@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die Qualität von Inhalten bewerten und verbessern können, während Sie gleichzeitig eine starke Markenausrichtung mithilfe von KI-gestützten Tools aufrechterhalten.Diese Übersicht zeigt, wie Sie Markenrichtlinien sowohl auf generierte als auch auf manuell erstellte Inhalte anwenden. Außerdem erfahren Sie, wie Sie Qualitätsprüfungen automatisieren und Verbesserungsmöglichkeiten für Schreibstile und visuelle Elemente identifizieren können. Erfahren Sie abschließend, wie Sie mit der Echtzeit-Bewertung und umsetzbaren Empfehlungen alle Assets konform, konsistent und bereit für die Bereitstellung halten können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494652/?captions=ger&learn=on&enablevpops)

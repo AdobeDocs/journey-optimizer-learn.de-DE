@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Markenrichtlinien in Adobe Journey Optimizer konfigurieren, um eine konsistente und markeninterne Kommunikation über alle Kanäle hinweg sicherzustellen. In diesem Handbuch wird das Hochladen von Markendokumenten und die Strukturierung wichtiger Markenelemente behandelt, einschließlich der Erstellung von Stilen, Visualisierungen und Identitätsdetails. Außerdem erfahren Sie, wie Sie diese Richtlinien verfeinern können, um die Inhaltserstellung zu verbessern und Qualitätsprüfungen zu automatisieren, sodass Ihre Markenidentität stark und effektiv bleibt. Sehen Sie sich das folgende Video an, um eine schrittweise Anleitung zu erhalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494374/?captions=ger&learn=on&enablevpops)

@@ -23,4 +23,4 @@ Erfahren Sie, wie Sie visuelle Inhalte mithilfe von KI-gestützten Tools verbess
 
 In diesem Video erfahren Sie, wie Sie Infografiken generieren, Überlagerungen hinzufügen und Bilder direkt in Ihrem Workflow verfeinern können. Außerdem erfahren Sie, wie Sie Integrationen nutzen können, um Ihre Bearbeitungsfunktionen zu erweitern. Anschließend erfahren Sie, wie Sie Markenelemente wie Logos, Farben und Schriftarten anwenden und nahtlos zwischen Tools wechseln können, um Konsistenz und Kontrolle zu gewährleisten. Dadurch wird sichergestellt, dass jedes visuelle Asset mit Ihrer Markenidentität übereinstimmt, von der Erstellung bis zum endgültigen Design.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494537/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494643/?captions=ger&learn=on&enablevpops)

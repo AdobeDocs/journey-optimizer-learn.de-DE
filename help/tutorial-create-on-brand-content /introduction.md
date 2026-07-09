@@ -20,5 +20,5 @@ ht-degree: 2%
 
 In dieser Einführung erfahren Sie, wie KI-gestützte Tools Ihnen bei der Erstellung von E-Mail-Inhalten und der Anwendung von Markenrichtlinien helfen. Sie erfahren, wie Sie die Personalisierung mithilfe von Vorlagen, Eingabeaufforderungen und Referenzinhalten skalieren können. Außerdem erfahren Sie, wie AI Assistant sowohl die Inhaltserstellung als auch die Qualitätssicherung unterstützt, sodass Ihr Messaging konsistent und konform bleibt und von Anfang an mit Ihrer Marke abgestimmt ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494365/?captions=ger&learn=on&enablevpops)
 
