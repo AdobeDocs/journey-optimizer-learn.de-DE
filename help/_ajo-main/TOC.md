@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 auto-video-transcripts: true
 source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1507'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -262,7 +262,7 @@ ht-degree: 98%
    + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
    + Anwendungsfall-Playbooks {#use-case-playbooks}
-      + [Übersicht](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+      + [Überblick](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [Konfigurieren einer Playbook-Sandbox](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
       + [Erstellen und Veröffentlichen von Playbook-Instanzen](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Übungen, Labs und Challenges {#exercises-and-challenges}
@@ -272,4 +272,4 @@ ht-degree: 98%
       + [Erstellen personalisierter Mobile-Momente mit Adobe Journey Optimizer (2024)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
       + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion in Adobe Journey Optimizer (2025)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Live-Sessions und umfassende Einblicke {#live-sessions-and-deep-dives}
-   + [Aufnahmen von Experience League LIVE-Shows](/help/_ajo-main/experience-league-live-show-recordings.md)
+   + [Aufnahmen von Experience League-LIVE-Shows](/help/_ajo-main/experience-league-live-show-recordings.md)
