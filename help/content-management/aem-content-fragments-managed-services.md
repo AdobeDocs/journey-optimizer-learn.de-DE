@@ -1,6 +1,6 @@
 ---
 title: Verwenden von AEM-Inhaltsfragmenten (Managed Services) in Journey Optimizer
-description: Erfahren Sie, wie Sie die Managed Services-Integrationen von Adobe Experience Manager (AEM) in Journey Optimizer konfigurieren und verwenden, um Inhaltsfragmente in Ihre Authoring-Workflows zu integrieren. Dieses Tutorial führt Sie durch die Einrichtung von Repository-Verbindungen, die Validierung von Konfigurationen mit Content Advisor und die Auswahl von Inhaltsfragmenten direkt im Personalisierungseditor, sodass Marketing-Experten AEM-Inhalte in ihren Kampagnen effizient wiederverwenden und in der Vorschau anzeigen können.
+description: Erfahren Sie, wie Sie die Managed Services-Integrationen von Adobe Experience Manager (AEM) in Journey Optimizer konfigurieren und verwenden können, um Inhaltsfragmente in Ihre Authoring-Workflows zu integrieren. Dieses Tutorial führt Sie durch die Einrichtung von Repository-Verbindungen, die Validierung von Konfigurationen mit Content Advisor und die Auswahl von Inhaltsfragmenten direkt im Personalisierungseditor, sodass Marketing-Fachleute AEM-Inhalte in ihren Kampagnen effizient wiederverwenden und in der Vorschau anzeigen können.
 feature: Integrations, Fragments
 topic: Content Management, Integrations
 role: User
@@ -22,16 +22,16 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a734b1fca9bae1ed8252e5493ca410ef6665a827
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 136
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Verwenden von AEM-Inhaltsfragmenten (Managed Services) in Journey Optimizer
 
-Erfahren Sie, wie Sie die Managed Services-Integrationen von Adobe Experience Manager (AEM) in Journey Optimizer konfigurieren und verwenden, um Inhaltsfragmente in Ihre Authoring-Workflows zu integrieren.
+Erfahren Sie, wie Sie die Managed Services-Integrationen von Adobe Experience Manager (AEM) in Journey Optimizer konfigurieren und verwenden können, um Inhaltsfragmente in Ihre Authoring-Workflows zu integrieren.
 
-Dieses Tutorial führt Sie durch die Einrichtung von Repository-Verbindungen, die Validierung von Konfigurationen mit Content Advisor und die Auswahl von Inhaltsfragmenten direkt im Personalisierungseditor, sodass Marketing-Experten AEM-Inhalte in ihren Kampagnen effizient wiederverwenden und in der Vorschau anzeigen können.
+Dieses Tutorial führt Sie durch die Einrichtung von Repository-Verbindungen, die Validierung von Konfigurationen mit Content Advisor und die Auswahl von Inhaltsfragmenten direkt im Personalisierungseditor, sodass Marketing-Fachleute AEM-Inhalte in ihren Kampagnen effizient wiederverwenden und in der Vorschau anzeigen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492536/?captions=ger&learn=on&enablevpops)

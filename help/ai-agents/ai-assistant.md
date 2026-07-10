@@ -1,6 +1,6 @@
 ---
 title: KI-Assistent
-description: Erfahren Sie mehr über den KI-Assistenten in Adobe Experience Platform-Apps, einschließlich Real-Time Customer Data Platform, Journey Optimizer und Customer Journey Analytics.
+description: Erfahren Sie mehr über den KI-Assistenten in Adobe Experience Platform-Anwendungen wie Real-Time Customer Data Platform, Journey Optimizer und Customer Journey Analytics.
 feature: Overview
 role: Admin, Developer, User
 level: Beginner
@@ -18,9 +18,9 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: b519aa58085d08dd492c1b59a7267b31d6339f00
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 101
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -30,5 +30,5 @@ Erfahren Sie, was Sie mit dem KI-Assistenten in auf Adobe Experience Platform ba
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-Weitere Informationen zu den in Journey Optimizer unterstützten Anwendungsfällen finden Sie unter [Arbeiten mit dem KI-Assistenten](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/work-efficiently/ai-features). Eine ausführliche Dokumentation finden Sie in der Dokumentation zum [KI-Assistenten in Adobe Experience Platform](https://experienceleague.adobe.com/de/docs/experience-platform/ai-assistant/home).
+Weitere Informationen zu den in Journey Optimizer unterstützten Anwendungsfällen finden Sie unter [Arbeiten mit dem KI-Assistenten](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/get-started/work-efficiently/ai-features). Eine ausführliche Dokumentation finden Sie in der Dokumentation zum [KI-Assistenten in Adobe Experience Platform](https://experienceleague.adobe.com/de/docs/experience-platform/ai-assistant/home).
 

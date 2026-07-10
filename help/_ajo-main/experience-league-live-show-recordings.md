@@ -1,11 +1,11 @@
 ---
-title: Aufnahmen von Experience League LIVE-Shows
+title: Aufnahmen von Experience League-LIVE-Shows
 description: Experience League LIVE ist eine vom Experience League-Team veranstaltete Live-Streaming-Show. Sie bietet Ihnen eine Gelegenheit, sich mit Produktfachleuten von Adobe auszutauschen und praktische Tipps, Tricks und Strategien für die Arbeit mit den Anwendungen rund um Adobe Experience Cloud zu erhalten.
 feature: Overview
 doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
 source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2456'
 ht-degree: 100%
 
