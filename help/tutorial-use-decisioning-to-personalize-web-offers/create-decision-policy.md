@@ -11,12 +11,12 @@ jira: KT-17728
 exl-id: 186e4a7d-6077-401f-9958-2f955214bc35
 source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 6%
+source-wordcount: '246'
+ht-degree: 8%
 
 ---
 
-# Entscheidungsrichtlinie erstellen
+# Erstellen einer Entscheidungsrichtlinie
 
 Entscheidungsrichtlinien sind Container für Ihre Angebote, die die [!UICONTROL Decisioning]-Engine nutzen, um je nach Zielgruppe die besten bereitzustellenden Inhalte auszuwählen.
 
