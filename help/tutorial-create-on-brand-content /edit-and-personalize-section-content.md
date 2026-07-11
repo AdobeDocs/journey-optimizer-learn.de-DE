@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie einzelne Abschnitte Ihrer Inhalte mithilfe von KI-Fähigkeiten verfeinern und personalisieren können. In diesem Video erfahren Sie, wie Sie Betreffzeilen, Preheader, Textblöcke und Bilder in einer vorhandenen Vorlage bearbeiten und gleichzeitig die Markenkonsistenz wahren. Sie erfahren, wie Sie Eingabeaufforderungen anwenden, Referenzinhalte nutzen, Ton und Messaging anpassen und neue Visualisierungen generieren können. Gleichzeitig verwenden Sie Markenrichtlinien, um in allen Komponenten Ihrer Kommunikation hochwertige, konforme Ergebnisse zu erzielen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495868/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495885/?captions=ger&learn=on&enablevpops)
