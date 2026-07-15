@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die Inhaltsqualität bewerten und verbessern können, während Sie sie mit Ihren Markenrichtlinien für geschriebene und visuelle Assets vergleichen. Sie bewerten die Markenausrichtung sowohl für KI-generierte als auch für manuell erstellte Inhalte mithilfe automatisierter Qualitätsprüfungen zusammen mit Echtzeit-Bewertungen und umsetzbaren Empfehlungen. Sie identifizieren und beheben Probleme in den Bereichen Kopieren, Bilder, Symbole und Compliance, indem Sie automatisierte QS als Helper innerhalb der Governance- und Überprüfungsprozesse Ihres Teams verwenden, bevor Inhalte live gehen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494636/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494652/?captions=ger&learn=on)
