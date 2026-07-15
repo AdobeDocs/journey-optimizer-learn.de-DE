@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In diesem Schritt optimieren und passen Sie Bilder und Grafiken mit KI-Tools in Adobe Journey Optimizer an. Sie generieren Infografiken, fügen Überlagerungen hinzu und verfeinern Bilder, während Sie Logos, Farben und Schriftarten an Ihre Marke anpassen. Sie verschieben Assets zwischen Adobe Journey Optimizer und Adobe Express, um die Bearbeitung zu erweitern und die Konsistenz zu wahren. Am Ende dieses Schritts speichern Sie markeninterne Visualisierungen in Ihrem Repository, um sie kampagnenübergreifend wiederzuverwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494537/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494643/?captions=ger&learn=on)
