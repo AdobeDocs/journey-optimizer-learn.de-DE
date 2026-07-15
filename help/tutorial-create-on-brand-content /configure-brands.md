@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In diesem Video wird erläutert, wie Sie Dokumente zu Markenrichtlinien hochladen, wichtige Markenelemente strukturieren und Schreibstil, visuelle Inhalte und Identitätsdetails definieren. Außerdem erfahren Sie, wie Sie diese Richtlinien verfeinern und anpassen können, um KI-generierte Inhalte und automatisierte Qualitätsprüfungen zu ermöglichen und so eine konsistente, markeninterne Kommunikation über jeden Kanal hinweg sicherzustellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494374/?captions=ger&learn=on)

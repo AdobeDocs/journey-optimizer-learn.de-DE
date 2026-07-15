@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Ihre Inhalte in verschiedenen Sprachen übersetzen und anpassen und dabei die Markenkonsistenz wahren können. Dieser Überblick zeigt, wie Sie mehrsprachige Versionen Ihrer Kampagnen erstellen, KI-gestützte Übersetzung verwenden, um schnell lokalisierte Inhalte zu generieren, und den Ton und die Botschaften verfeinern, um Ihre Markenrichtlinien zu erfüllen. Außerdem erfahren Sie, wie Sie automatisierte Workflows und Übersetzungen direkt in der Anwendung kombinieren, um die globale Kommunikation effizient über verschiedene Kanäle hinweg zu skalieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494538/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494633/?captions=ger&learn=on)

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In diesem Video erfahren Sie, wie Sie mit einer Vorlage beginnen, Markenrichtlinien anwenden und einfache Eingabeaufforderungen verwenden, um E-Mails, Push-Benachrichtigungen und In-App-Nachrichten von Grund auf neu zu erstellen. Außerdem erfahren Sie, wie Sie Ton, Bilder und Messaging verfeinern und dabei KI-gesteuerte Varianten und Bewertungen nutzen können, um schnell hochwertige, konsistente Inhalte für Ihre Omni-Channel-Erlebnisse zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434644/?captions=ger&learn=on)

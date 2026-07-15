@@ -20,4 +20,4 @@ ht-degree: 2%
 
 In dieser Einführung erfahren Sie, wie KI-gestützte Tools Ihnen dabei helfen, E-Mail-Inhalte zu generieren, Markenrichtlinien anzuwenden und die Personalisierung mithilfe von Vorlagen, Eingabeaufforderungen und Referenzinhalten zu skalieren. Außerdem erfahren Sie, wie die KI-Funktionen sowohl die Inhaltserstellung als auch die Qualitätssicherung unterstützen und so sicherstellen, dass Ihr Messaging konsistent und konform bleibt und von Anfang an mit Ihrer Marke abgestimmt ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494282/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494365/?captions=ger&learn=on)

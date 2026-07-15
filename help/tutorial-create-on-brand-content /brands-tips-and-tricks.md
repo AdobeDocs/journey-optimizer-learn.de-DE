@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Entdecken Sie praktische Tipps, wie Sie Markenrichtlinien über Journey Optimizer hinaus auf Tools wie GenStudio und Adobe Express erweitern und dabei Schreibstile, visuelle Elemente und KI-unterstützte Ausgaben verfeinern können. In diesem Video erfahren Sie außerdem, wie Sie detaillierte Markenspezifikationen erstellen, Beispiele zur Inhaltserstellung verwenden und mehrere Marken verwalten, um verschiedene Teams und Kommunikationsstrategien zu unterstützen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494272/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494289/?captions=ger&learn=on)
