@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit den KI-Funktionen in Adobe Journey Optimizer markeninterne E-Mail-Inhalte skaliert erstellen können. In dieser exemplarischen Vorgehensweise wird eine vollständige E-Mail angezeigt, die über eine einzelne Eingabeaufforderung generiert wurde. Dabei werden Markenrichtlinien und Referenzinhalte als Leitfaden für die Generierung verwendet, ein Generierungsmodell ausgewählt und KI-generierter Text und Bilder direkt in die Vorlage eingefügt. Dieselben Marken-Assets ermöglichen auch automatisierte Qualitätsprüfungen und bewerten jede Variante auf Konformität, Ton und Markenausrichtung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494282/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494365/?captions=ger&learn=on)
