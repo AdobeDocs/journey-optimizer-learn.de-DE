@@ -1,17 +1,17 @@
 ---
 title: Erstellen und Verfeinern mehrsprachiger Versionen Ihrer Inhalte
-description: Erfahren Sie, wie Sie Ihre Inhalte in verschiedenen Sprachen übersetzen und anpassen und dabei die Markenkonsistenz wahren können.
+description: In diesem Schritt übersetzen und passen Sie Nachrichten mithilfe von Adobe Journey Optimizer in andere Sprachen an.
 feature: Multilingual Content
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 191
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-20389
-source-git-commit: ff729095a5631700d23b33906deb351c729aea90
+source-git-commit: 0498282fc8b8906999b10c94409908931c7bb8c1
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Erstellen und Verfeinern mehrsprachiger Versionen Ihrer Inhalte
 
-Erfahren Sie, wie Sie Ihre Inhalte in verschiedenen Sprachen übersetzen und anpassen und dabei die Markenkonsistenz wahren können. Dieser Überblick zeigt, wie Sie mehrsprachige Versionen Ihrer Kampagnen erstellen, KI-gestützte Übersetzung verwenden, um schnell lokalisierte Inhalte zu generieren, und den Ton und die Botschaften verfeinern, um Ihre Markenrichtlinien zu erfüllen. Außerdem erfahren Sie, wie Sie automatisierte Workflows und Übersetzungen direkt in der Anwendung kombinieren, um die globale Kommunikation effizient über verschiedene Kanäle hinweg zu skalieren.
+In diesem Schritt übersetzen Sie mithilfe von Adobe Journey Optimizer Nachrichten und passen sie an. Als Beispiel verwenden Sie dabei Spanisch und Französisch. Sie kopieren einen vorhandenen Touchpoint in Gebietsschema-Vorlagen und verwenden KI-Funktionen zur Erstellung von markeninternen Übersetzungen zusammen mit Ihren anderen manuellen oder automatisierten Übersetzungs-Workflows. Sie können die Bewertung überprüfen, den Ton und die Botschaften verfeinern und die übersetzten Inhalte an Ihren Markenrichtlinien ausrichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494633/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494538/?learn=on)
