@@ -1,17 +1,17 @@
 ---
-title: Konfigurieren von Marken in Journey Optimizer
-description: Erfahren Sie, wie Sie Markenrichtlinien hochladen, Stile definieren und eine konsistente, markeninterne Kommunikation über alle Kanäle hinweg in Adobe Journey Optimizer sicherstellen.
+title: Konfigurieren von Marken in Adobe Journey Optimizer
+description: In diesem Video erfahren Sie, wie Sie Dokumente zu Markenrichtlinien hochladen, wichtige Markenelemente strukturieren und den Schreibstil sowie visuelle Inhalte definieren.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 227
-last-substantial-update: 2026-07-09T00:00:00Z
+last-substantial-update: 2026-07-14T00:00:00Z
 jira: KT-21952
-source-git-commit: 935e14c72ee3c912fb0071c9eaee03f3cfb2e597
+source-git-commit: 02e7231661fcd254f89ffcbbfd6ee6039ededffa
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Konfigurieren von Marken in Adobe Journey Optimizer
 
-Erfahren Sie, wie Sie Markenrichtlinien in Adobe Journey Optimizer konfigurieren, um eine konsistente und markeninterne Kommunikation über alle Kanäle hinweg sicherzustellen. In diesem Handbuch wird das Hochladen von Markendokumenten und die Strukturierung wichtiger Markenelemente behandelt, einschließlich der Erstellung von Stilen, Visualisierungen und Identitätsdetails. Außerdem erfahren Sie, wie Sie diese Richtlinien verfeinern können, um die Inhaltserstellung zu verbessern und Qualitätsprüfungen zu automatisieren, sodass Ihre Markenidentität stark und effektiv bleibt. Sehen Sie sich das folgende Video an, um eine schrittweise Anleitung zu erhalten.
+In diesem Video wird erläutert, wie Sie Dokumente zu Markenrichtlinien hochladen, wichtige Markenelemente strukturieren und Schreibstil, visuelle Inhalte und Identitätsdetails definieren. Außerdem erfahren Sie, wie Sie diese Richtlinien verfeinern und anpassen können, um KI-generierte Inhalte und automatisierte Qualitätsprüfungen zu ermöglichen und so eine konsistente, markeninterne Kommunikation über jeden Kanal hinweg sicherzustellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494374/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on)
