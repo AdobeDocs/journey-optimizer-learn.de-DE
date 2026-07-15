@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Bearbeiten und personalisieren Sie einzelne Abschnitte einer E-Mail-Vorlage mit KI-Funktionen in Adobe Journey Optimizer. Ändern Sie Betreffzeilen, Preheader, Textblöcke und Bilder, während Sie die Markenfarben, die Stimme und die Compliance-Regeln beibehalten. Verwenden Sie Eingabeaufforderungen und Referenzinhalte, um den Ton anzupassen, den Text neu zu formulieren, die Sprache zu übersetzen und markeninterne Visualisierungen für jede Komponente zu generieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3495868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495885/?captions=ger&learn=on)
