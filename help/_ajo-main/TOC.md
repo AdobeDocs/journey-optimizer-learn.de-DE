@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 0069f593c0a73f0d7b25421cfd5fb72c99032110
+source-git-commit: 07ded5be8302aeb2df77ecafb8f1bfdd747702a1
 workflow-type: tm+mt
-source-wordcount: '1527'
-ht-degree: 98%
+source-wordcount: '1546'
+ht-degree: 97%
 
 ---
 
@@ -92,6 +92,7 @@ ht-degree: 98%
       + [Erstellen von Inhalten mit dem E-Mail-Designer](/help/channels/create-content-with-the-email-designer.md)
       + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/channels/import-and-author-html-email-content.md)
       + [Vorschau, Testversand und Veröffentlichung](/help/channels/preview-proof-and-publish.md)
+      + [KI-gestützte, markeninterne Inhaltserstellung - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
    + Inhaltskarten{#content-cards}
       + [Erstellen von Inhaltskarten](/help/channels/create-content-cards.md)
    + In-App-Kanal{#in-app-channel}
@@ -147,7 +148,7 @@ ht-degree: 98%
    + [Optimieren von Kanälen basierend auf Profilvoreinstellungen oder Tendenzwerten](/help/channels/channel-optimization.md)
    + [Erstellen von E-Mails mit GenStudio](/help/content-management/create-an-email-using-genstudio.md)
    + [Aktivieren von Integrationen externer Daten bei der Kanalerstellung](/help/content-management/external-data-integrations-in-channel-authoring.md)
-   + [Erstellen von markeninternen Inhalten in Journey Optimizer - Tutorial](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/create-on-brand-content/overview)
+   + [Erstellen von markeninternen Inhalten in Journey Optimizer - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalisieren von Inhalten {#personalize-content}
    + [Personalisierungseditor – Überblick](/help/personalize-content/personalization-editor-overview.md)
    + [Profil- und zielgruppenspezifische Personalisierung](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
