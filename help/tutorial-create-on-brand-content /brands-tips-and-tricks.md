@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In diesem Schritt erfahren Sie, wie Sie eine in Adobe Journey Optimizer konfigurierte Marke auf andere Adobe-Tools wie GenStudio und Adobe Express anwenden. Sie können Stileinstellungen und visuelle Spezifikationen verfeinern und Text- und Bildbeispiele direkt in Adobe Journey Optimizer hinzufügen, um KI-generierte Inhalte und automatisierte Qualitätsprüfungen zu verbessern. Sie verwalten auch mehrere Marken, um verschiedene Abteilungen und Kommunikationsstrategien zu unterstützen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494272/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494289/?captions=ger&learn=on)
