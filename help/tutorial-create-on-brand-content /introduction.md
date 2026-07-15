@@ -1,23 +1,23 @@
 ---
-title: Einleitung
-description: Diese Einführung erläutert, wie KI-gestützte Tools dazu beitragen, E-Mail-Inhalte zu generieren, Markenrichtlinien anzuwenden und die Personalisierung zu skalieren.
+title: Erstellen von markeninternen E-Mail-Inhalten mit KI
+description: Erfahren Sie, wie Sie mit den KI-Funktionen in Adobe Journey Optimizer markeninterne E-Mail-Inhalte skaliert erstellen können.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 362
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-21951
-source-git-commit: 275d51229bde149e2ce617be47685c6ac3d65ad1
+source-git-commit: 79297344b8a35e642f619ef123a676caf58e3bf7
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 2%
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
-# Einführung
+# Erstellen von markeninternen E-Mail-Inhalten mit KI
 
-In dieser Einführung erfahren Sie, wie KI-gestützte Tools Ihnen dabei helfen, E-Mail-Inhalte zu generieren, Markenrichtlinien anzuwenden und die Personalisierung mithilfe von Vorlagen, Eingabeaufforderungen und Referenzinhalten zu skalieren. Außerdem erfahren Sie, wie die KI-Funktionen sowohl die Inhaltserstellung als auch die Qualitätssicherung unterstützen und so sicherstellen, dass Ihr Messaging konsistent und konform bleibt und von Anfang an mit Ihrer Marke abgestimmt ist.
+Erfahren Sie, wie Sie mit den KI-Funktionen in Adobe Journey Optimizer markeninterne E-Mail-Inhalte skaliert erstellen können. In dieser exemplarischen Vorgehensweise wird eine vollständige E-Mail angezeigt, die über eine einzelne Eingabeaufforderung generiert wurde. Dabei werden Markenrichtlinien und Referenzinhalte als Leitfaden für die Generierung verwendet, ein Generierungsmodell ausgewählt und KI-generierter Text und Bilder direkt in die Vorlage eingefügt. Dieselben Marken-Assets ermöglichen auch automatisierte Qualitätsprüfungen und bewerten jede Variante auf Konformität, Ton und Markenausrichtung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494365/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494282/?learn=on)
