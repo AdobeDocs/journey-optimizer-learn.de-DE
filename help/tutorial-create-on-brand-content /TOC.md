@@ -6,10 +6,10 @@ level: Intermediate
 breadcrumb-title: create-on-brand-content
 breadcrumb-url: /docs/journey-optimizer-learn/create-on-brand-content/overview
 auto-video-transcripts: true
-source-git-commit: a3d5313e85480df4d027143d6e3285ac239f9692
+source-git-commit: 8b1bcb574398f3d904ab0aefd26e6267d247b15d
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 1%
+source-wordcount: '112'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 + [KI-gestützte On-Brand-Inhaltserstellung in Adobe Journey Optimizer für Marketing-Experten](./overview.md)
 + Einführung und Markeneinrichtung {#introduction-and-brand-setup}
    + [Erstellen von markeninternen E-Mail-Inhalten mit KI](./introduction.md)
-   + [Konfigurieren von Marken](./configure-brands.md)
+   + [Konfigurieren einer Marke für KI-gestützte Inhalte](./configure-brands.md)
    + [Tipps zu Markenrichtlinien](./brands-tips-and-tricks.md)
 + Verwenden von KI zum Generieren von Inhalten {#generate-content}
    + [Inhalte von Grund auf neu erstellen](./create-content-from-scratch.md)
