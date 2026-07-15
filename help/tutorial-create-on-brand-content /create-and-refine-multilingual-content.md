@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In diesem Schritt übersetzen Sie mithilfe von Adobe Journey Optimizer Nachrichten und passen sie an. Als Beispiel verwenden Sie dabei Spanisch und Französisch. Sie kopieren einen vorhandenen Touchpoint in Gebietsschema-Vorlagen und verwenden KI-Funktionen zur Erstellung von markeninternen Übersetzungen zusammen mit Ihren anderen manuellen oder automatisierten Übersetzungs-Workflows. Sie können die Bewertung überprüfen, den Ton und die Botschaften verfeinern und die übersetzten Inhalte an Ihren Markenrichtlinien ausrichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494538/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494633/?captions=ger&learn=on)
