@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In diesem Schritt beginnen Sie mit einer vorhandenen Inhaltsvorlage und generieren ein vollständiges Asset - wie eine E-Mail, eine Push-Benachrichtigung oder eine In-App-Nachricht - mithilfe von KI-Funktionen. Sie wenden Markenrichtlinien an und konfigurieren Sprach-, Ton- und Bildeinstellungen, um Inhalte auf der Marke zu halten. Sie können mehrere KI-gesteuerte Varianten generieren, die Markenbewertung überprüfen und Inhalte manuell oder mit einem zweiten KI-Durchlauf bearbeiten, um Messaging und Visualisierungen zu verfeinern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434644/?captions=ger&learn=on)
