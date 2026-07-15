@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Sie erfahren, wie Sie eine Marke erstellen und konfigurieren, die KI-Funktionen zum Generieren und Validieren von Inhalten in Adobe Journey Optimizer verwenden. Sie laden Dokumente zu Markenrichtlinien hoch und ordnen Schlüsselelemente wie Tonfall, Slogans, rechtliche Einschränkungen, Bildregeln und CTA-Formatierung zu. Sie bearbeiten Anleitungen auf Kanal- und Elementebene, um die Generierungsgenauigkeit und automatisierte Qualitätsprüfungen zu verbessern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494374/?captions=ger&learn=on)
