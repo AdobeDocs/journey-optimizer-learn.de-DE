@@ -1,24 +1,24 @@
 ---
-title: Gewährleistung von Qualität, Markenausrichtung und Governance
-description: Erfahren Sie, wie Sie die Qualität von Inhalten bewerten und verbessern können, während Sie gleichzeitig eine starke Markenausrichtung mithilfe von KI-gestützten Tools aufrechterhalten.
+title: Sicherstellung von Inhaltsqualität, Markenausrichtung und Governance
+description: Erfahren Sie, wie Sie die Inhaltsqualität bewerten und verbessern können, während Sie sie mit Ihren Markenrichtlinien für geschriebene und visuelle Assets vergleichen.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 282
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-20391
-source-git-commit: a9ad56300dec0e1f17280a2d26fa9c8f63d453a3
+source-git-commit: 7f82406c2a2a486f0b18e5180e0be9326d0b62fa
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 
-# Gewährleistung von Qualität, Markenausrichtung und Governance
+# Sicherstellung von Inhaltsqualität, Markenausrichtung und Governance
 
-Erfahren Sie, wie Sie die Qualität von Inhalten bewerten und verbessern können, während Sie gleichzeitig eine starke Markenausrichtung mithilfe von KI-gestützten Tools aufrechterhalten. Diese Übersicht zeigt, wie Sie Markenrichtlinien auf generierte und manuell erstellte Inhalte anwenden, Qualitätsprüfungen automatisieren und Verbesserungsmöglichkeiten für Schreibstile und visuelle Elemente identifizieren. Außerdem erfahren Sie, wie Sie mit Echtzeit-Bewertungen und umsetzbaren Empfehlungen dafür sorgen, dass alle Assets konform, konsistent und bereit für die Bereitstellung sind.
+Erfahren Sie, wie Sie die Inhaltsqualität bewerten und verbessern können, während Sie sie mit Ihren Markenrichtlinien für geschriebene und visuelle Assets vergleichen. Sie bewerten die Markenausrichtung sowohl für KI-generierte als auch für manuell erstellte Inhalte mithilfe automatisierter Qualitätsprüfungen zusammen mit Echtzeit-Bewertungen und umsetzbaren Empfehlungen. Sie identifizieren und beheben Probleme in den Bereichen Kopieren, Bilder, Symbole und Compliance, indem Sie automatisierte QS als Helper innerhalb der Governance- und Überprüfungsprozesse Ihres Teams verwenden, bevor Inhalte live gehen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3494652/?captions=ger&learn=on)

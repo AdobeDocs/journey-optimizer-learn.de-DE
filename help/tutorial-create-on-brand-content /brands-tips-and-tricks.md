@@ -1,24 +1,24 @@
 ---
-title: Tipps zu Markenrichtlinien für Adobe-Tools
-description: Hier finden Sie Tipps, wie Sie Markenrichtlinien über Journey Optimizer hinaus auf Tools wie GenStudio und Adobe Express erweitern können.
+title: Erweiterte Markenrichtlinien für Kreativ-Tools
+description: Erfahren Sie, wie Sie eine in Adobe Journey Optimizer konfigurierte Marke auf andere Adobe-Tools wie GenStudio und Adobe Express anwenden.
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 216
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-20382
-source-git-commit: 4d2ce3bb5093deefdf317200a60628949d53eeb0
+source-git-commit: e998ff7cc7d2e977c507974e2c765507e7f1d788
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 
-# Tipps zu Markenrichtlinien für Adobe-Tools
+# Erweiterte Markenrichtlinien für Kreativ-Tools
 
-Entdecken Sie praktische Tipps, wie Sie Markenrichtlinien über Journey Optimizer hinaus auf Tools wie GenStudio und Adobe Express erweitern und dabei Schreibstile, visuelle Elemente und KI-unterstützte Ausgaben verfeinern können. In diesem Video erfahren Sie außerdem, wie Sie detaillierte Markenspezifikationen erstellen, Beispiele zur Inhaltserstellung verwenden und mehrere Marken verwalten, um verschiedene Teams und Kommunikationsstrategien zu unterstützen.
+In diesem Schritt erfahren Sie, wie Sie eine in Adobe Journey Optimizer konfigurierte Marke auf andere Adobe-Tools wie GenStudio und Adobe Express anwenden. Sie können Stileinstellungen und visuelle Spezifikationen verfeinern und Text- und Bildbeispiele direkt in Adobe Journey Optimizer hinzufügen, um KI-generierte Inhalte und automatisierte Qualitätsprüfungen zu verbessern. Sie verwalten auch mehrere Marken, um verschiedene Abteilungen und Kommunikationsstrategien zu unterstützen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3494289/?captions=ger&learn=on)
