@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: c2595614a6d78b3877b12f3d2d0b5040364bd1ee
+source-git-commit: 2a17c140eaa72c4421691a27589b7edac99add92
 workflow-type: tm+mt
-source-wordcount: '1552'
-ht-degree: 97%
+source-wordcount: '1562'
+ht-degree: 95%
 
 ---
 
@@ -41,14 +41,14 @@ ht-degree: 97%
 + Journeys {#journeys}
   + [Journey Designer – Überblick](/help/journeys/journey-designer-overview.md)
   + [Einführung in die neue Journey-Arbeitsfläche](/help/journeys/introduction-to-the-new-journey-canvas.md)
-  + [Analysieren und Erstellen von Journeys mit Journey Agent](/help/ai-agents/journey-agent-overview.md)
-  + {hide-from-toc}[Kennenlernen des neuen Journey-Designers](/help/journeys/new-journey-designer.md)
   + [Einführung in das Erstellen einer Journey](/help/journeys/introduction-to-building-a-journey.md)
-  + [Verwenden der Datensatzsuche in einer Journey](/help/journeys/lookup-dataset.md)
+  + [Analysieren und Erstellen von Journey mit KI](/help/ai-agents/journey-agent-overview.md)
   + [Erstellen eines Testprofils](/help/journeys/test-a-journey.md)
+  + {hide-from-toc}[Journey mit externen Zielgruppen simulieren](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Veröffentlichen einer Journey](/help/journeys/publish-a-journey.md)
   + [Aktivität „Inhaltsentscheidung“](/help/journeys/content-decision-activity.md)
-  + [Beherrschen der Filterung mehrerer Attribute](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [Verwenden der Datensatzsuche in einer Journey](/help/journeys/lookup-dataset.md)
+  + [Übergeordnete Filterung mit mehreren Attributen](/help/journeys/mastering-multi-attribute-filtering.md)
   + [Verwenden von Targeting mit mehreren Entitäten mit föderierten Zielgruppen in Journeys](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [Validieren der Journey-Logik mit einem Journey-Probelauf](/help/journeys/journey-dry-run.md)
   + [Entsperren des erneuten Journey-Eintritts mit zusätzlichen IDs](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
@@ -124,6 +124,7 @@ ht-degree: 97%
     + [Einführung in den WhatsApp-Kanal](/help/channels/whatsapp-introduction.md)
     + [Einrichten des WhatsApp-Kanals](/help/channels/set-up-whatsapp.md)
     + [Erstellen einer WhatsApp-Journey](/help/channels/create-a-whatsapp-journey.md)
+  + {hide-from-toc}[Konfigurieren und Verwenden benutzerdefinierter Kanäle](/help/channels/configure-and-use-custom-channels.md)
 + Content-Management{#content-management}
   + [Nachrichtenerstellung – Überblick](/help/content-management/message-authoring-overview.md)
   + Verwalten von Assets {#assets}
@@ -177,6 +178,7 @@ ht-degree: 97%
       + [Verwenden der Entscheidungsfindung zum Personalisieren von E-Mails](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [Verwenden von Entscheidungsfindung in Push-Benachrichtigungen](/help/decisioning/decisioning-in-push-notifications.md)
       + [Verwenden von Entscheidungsfindung in einer SMS-Nachricht](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + {hide-from-toc}[Verwenden von Decisioning im visuellen Web-Editor](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [Verwenden der Entscheidungsfindung zur Personalisierung von Web-Angeboten (Tutorial)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [Verwenden von Experience Manager-Inhaltsfragmenten mit Entscheidungsfindung](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + Auslösen von Entscheidungen durch externe Trigger und Interaktionen {#trigger}
