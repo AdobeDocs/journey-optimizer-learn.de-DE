@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: c2595614a6d78b3877b12f3d2d0b5040364bd1ee
+source-git-commit: 40ceb7f4414af6b2d311491f03be4daff1c72c19
 workflow-type: tm+mt
-source-wordcount: '1552'
-ht-degree: 97%
+source-wordcount: '1550'
+ht-degree: 95%
 
 ---
 
@@ -41,14 +41,14 @@ ht-degree: 97%
 + Journeys {#journeys}
   + [Journey Designer – Überblick](/help/journeys/journey-designer-overview.md)
   + [Einführung in die neue Journey-Arbeitsfläche](/help/journeys/introduction-to-the-new-journey-canvas.md)
-  + [Analysieren und Erstellen von Journeys mit Journey Agent](/help/ai-agents/journey-agent-overview.md)
-  + {hide-from-toc}[Kennenlernen des neuen Journey-Designers](/help/journeys/new-journey-designer.md)
   + [Einführung in das Erstellen einer Journey](/help/journeys/introduction-to-building-a-journey.md)
-  + [Verwenden der Datensatzsuche in einer Journey](/help/journeys/lookup-dataset.md)
+  + [Analysieren und Erstellen von Journey mit KI](/help/ai-agents/journey-agent-overview.md)
   + [Erstellen eines Testprofils](/help/journeys/test-a-journey.md)
+  + [Journey mit externen Audiences simulieren](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Veröffentlichen einer Journey](/help/journeys/publish-a-journey.md)
   + [Aktivität „Inhaltsentscheidung“](/help/journeys/content-decision-activity.md)
-  + [Beherrschen der Filterung mehrerer Attribute](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [Verwenden der Datensatzsuche in einer Journey](/help/journeys/lookup-dataset.md)
+  + [Übergeordnete Filterung mit mehreren Attributen](/help/journeys/mastering-multi-attribute-filtering.md)
   + [Verwenden von Targeting mit mehreren Entitäten mit föderierten Zielgruppen in Journeys](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [Validieren der Journey-Logik mit einem Journey-Probelauf](/help/journeys/journey-dry-run.md)
   + [Entsperren des erneuten Journey-Eintritts mit zusätzlichen IDs](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
@@ -93,7 +93,7 @@ ht-degree: 97%
     + [Erstellen von Inhalten mit dem E-Mail-Designer](/help/channels/create-content-with-the-email-designer.md)
     + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/channels/import-and-author-html-email-content.md)
     + [Vorschau, Testversand und Veröffentlichung](/help/channels/preview-proof-and-publish.md)
-    + [KI-gestützte, markeninterne Inhaltserstellung - Tutorial](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [KI-gestützte, markeninterne Inhaltserstellung - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + Inhaltskarten{#content-cards}
     + [Erstellen von Inhaltskarten](/help/channels/create-content-cards.md)
   + In-App-Kanal{#in-app-channel}
@@ -149,7 +149,7 @@ ht-degree: 97%
   + [Optimieren von Kanälen basierend auf Profilvoreinstellungen oder Tendenzwerten](/help/channels/channel-optimization.md)
   + [Erstellen von E-Mails mit GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + [Aktivieren von Integrationen externer Daten bei der Kanalerstellung](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Erstellen von markeninternen Inhalten in Journey Optimizer - Tutorial](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Erstellen von markeninternen Inhalten in Journey Optimizer - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalisieren von Inhalten {#personalize-content}
   + [Personalisierungseditor – Überblick](/help/personalize-content/personalization-editor-overview.md)
   + [Profil- und zielgruppenspezifische Personalisierung](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
