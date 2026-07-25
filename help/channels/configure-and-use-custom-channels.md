@@ -31,4 +31,4 @@ Erfahren Sie, wie Sie mithilfe von benutzerdefinierten Kanälen Nachrichtenkanä
 
 In diesem Video wird erläutert, wie Sie einen benutzerdefinierten ausgehenden Kanal End-to-End erstellen und in einer Journey verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496286/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496293/?captions=ger&learn=on&enablevpops)
