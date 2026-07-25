@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Ihre Web-Seite im visuellen Web-Editor mit Decisioning personalisieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496300/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496310/?captions=ger&learn=on&enablevpops)
