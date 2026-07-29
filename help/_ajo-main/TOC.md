@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 2a17c140eaa72c4421691a27589b7edac99add92
+source-git-commit: b8b058d92e642d5a7787115b3ee7218d5d12c46f
 workflow-type: tm+mt
-source-wordcount: '1562'
-ht-degree: 95%
+source-wordcount: '1557'
+ht-degree: 94%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 95%
   + [Einführung in das Erstellen einer Journey](/help/journeys/introduction-to-building-a-journey.md)
   + [Analysieren und Erstellen von Journey mit KI](/help/ai-agents/journey-agent-overview.md)
   + [Erstellen eines Testprofils](/help/journeys/test-a-journey.md)
-  + {hide-from-toc}[Journey mit externen Zielgruppen simulieren](/help/journeys/simulate-journeys-with-external-audiences.md)
+  + [Journey mit externen Audiences simulieren](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Veröffentlichen einer Journey](/help/journeys/publish-a-journey.md)
   + [Aktivität „Inhaltsentscheidung“](/help/journeys/content-decision-activity.md)
   + [Verwenden der Datensatzsuche in einer Journey](/help/journeys/lookup-dataset.md)
@@ -63,8 +63,6 @@ ht-degree: 95%
     + [Anwendungsfall: Zielgruppenqualifizierung](/help/journeys/use-case-audience-qualification.md)
   + Tutorials{#tutorials}
     + [Auslösen einer Journey bei der Formularübermittlung](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ Treue {#loyalty}
-  + {hide-from-toc}[Erstellen einer Challenge für das Treueprogramm](/help/loyalty/create-a-loyalty-challenge.md)
 + Konflikt-Management und Priorisierung {#conflict-management}
   + [Identifizieren potenzieller Konflikte](/help/conflict-management/identify-potential-conflicts.md)
   + [Zuweisen von Prioritätswerten](/help/conflict-management/assign-priority-score.md)
@@ -124,7 +122,7 @@ ht-degree: 95%
     + [Einführung in den WhatsApp-Kanal](/help/channels/whatsapp-introduction.md)
     + [Einrichten des WhatsApp-Kanals](/help/channels/set-up-whatsapp.md)
     + [Erstellen einer WhatsApp-Journey](/help/channels/create-a-whatsapp-journey.md)
-  + {hide-from-toc}[Konfigurieren und Verwenden benutzerdefinierter Kanäle](/help/channels/configure-and-use-custom-channels.md)
+  + [Konfigurieren und Verwenden benutzerdefinierter Kanäle](/help/channels/configure-and-use-custom-channels.md)
 + Content-Management{#content-management}
   + [Nachrichtenerstellung – Überblick](/help/content-management/message-authoring-overview.md)
   + Verwalten von Assets {#assets}
