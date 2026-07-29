@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit Adobe Journey Optimizer Loyalty-Daten in personalisierte Erlebnisse mit KI-gestützten Einblicken, adaptiven gamification und einheitlichen Kundenprofilen umwandeln können, die die Interaktion und Treueergebnisse fördern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496441/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496458/?captions=ger&learn=on&enablevpops)
