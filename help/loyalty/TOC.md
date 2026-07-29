@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: Loyalität
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 579c0852d1157519780768270521029879d52d30
+source-git-commit: b173f9353a11fa2b5b3b5316a2601ac2be695891
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 + Einführung in die Treue {#introduction-to-loyalty}
   + [Erfahren Sie, was Journey Optimizer-Treue ist](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 + Herausforderung konfigurieren {#configure-your-challenge}
-  + [Erstellen und Veröffentlichen der ersten Herausforderung zur Treue](./configure-your-challenge/create-and-publish-your-first-loyalty-challenge.md)
+  + [Herausforderung „Treue“ einrichten](./configure-your-challenge/set-up-a-loyalty-challenge.md)
   + [Aufgaben für die Herausforderung „Treue“ erstellen](./configure-your-challenge/create-tasks.md)
   + [Prämien für die Herausforderung „Treue“ konfigurieren](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
   + [Erstellen Sie Herausforderungen und erhalten Sie Einblicke mit dem KI-Agenten für das Treueprogramm](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)

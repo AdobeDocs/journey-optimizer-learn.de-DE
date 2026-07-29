@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 35dcb7e021fa57e88131d1ea1fd47112a22674f5
+source-git-commit: b173f9353a11fa2b5b3b5316a2601ac2be695891
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -37,8 +37,8 @@ Erfahren Sie, was Journey Optimizer Loyalty ist, wo sie unter AJO steht und wie 
 
 Dieses Modul führt Sie schrittweise durch die Erstellung und Konfiguration einer Herausforderung zum Treueprogramm: Typ, Struktur und Zeitplan, Aufgaben und Belohnungen.
 
-* [Erstellen und Veröffentlichen der ersten Herausforderung zur Treue](./configure-your-challenge/create-and-publish-your-first-loyalty-challenge.md)
-Erfahren Sie, wie Sie eine Challenge erstellen können: Typen (Standard / Streak / Sequenziell), Struktur und Zeitplan, Speichern und Veröffentlichen einer Challenge (ohne Journey).
+* [Richten Sie eine Herausforderung für die Treue ein](./configure-your-challenge/set-up-a-loyalty-challenge.md)
+Erfahren Sie, wie Sie eine Herausforderung für das Treueprogramm einrichten, indem Sie den richtigen Herausforderungstyp auswählen, Audiences und Zeitpläne konfigurieren, Teilnahmeregeln definieren und steuern, wie der Fortschritt verfolgt und belohnt wird.
 * [Richten Sie Aufgaben für Ihre Herausforderung bezüglich der Treue ein.](./configure-your-challenge/create-tasks.md)
 Erfahren Sie, wie Sie Aufgaben einrichten: Einkauf und Ausgaben, Mengen, geeignete Artikel und Ausschlüsse sowie Wiederverwendung.
 * [Prämien für die Herausforderung „Treue“ konfigurieren](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
