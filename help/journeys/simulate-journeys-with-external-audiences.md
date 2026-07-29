@@ -26,4 +26,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Journey simuliert werden, die Profile für externe Zielgruppen aus einer CSV-Datei oder einer zusammengeführten Zielgruppenkomposition verwenden, einschließlich Attributen, die nicht im Profil gespeichert sind, wie Ticket-ID oder Reisedatum. In diesem Video werden die Filterung einer Zielgruppe, die Personalisierung von Nachrichten mit externen Attributen, die Erstellung eines simulierten Benutzers und das Mocking von Zielgruppendaten erläutert, um den richtigen Pfad zu überprüfen, bevor der Journey live geschaltet wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496269/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496276/?captions=ger&learn=on&enablevpops)
