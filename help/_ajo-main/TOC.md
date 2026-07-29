@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: 2a17c140eaa72c4421691a27589b7edac99add92
+source-git-commit: 375545aa89523d2e9b6a8975b0f2a459274fb2b4
 workflow-type: tm+mt
 source-wordcount: '1562'
 ht-degree: 95%
@@ -44,7 +44,7 @@ ht-degree: 95%
   + [Einführung in das Erstellen einer Journey](/help/journeys/introduction-to-building-a-journey.md)
   + [Analysieren und Erstellen von Journey mit KI](/help/ai-agents/journey-agent-overview.md)
   + [Erstellen eines Testprofils](/help/journeys/test-a-journey.md)
-  + {hide-from-toc}[Journey mit externen Zielgruppen simulieren](/help/journeys/simulate-journeys-with-external-audiences.md)
+  + [Journey mit externen Audiences simulieren](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Veröffentlichen einer Journey](/help/journeys/publish-a-journey.md)
   + [Aktivität „Inhaltsentscheidung“](/help/journeys/content-decision-activity.md)
   + [Verwenden der Datensatzsuche in einer Journey](/help/journeys/lookup-dataset.md)
@@ -93,7 +93,7 @@ ht-degree: 95%
     + [Erstellen von Inhalten mit dem E-Mail-Designer](/help/channels/create-content-with-the-email-designer.md)
     + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/channels/import-and-author-html-email-content.md)
     + [Vorschau, Testversand und Veröffentlichung](/help/channels/preview-proof-and-publish.md)
-    + [KI-gestützte, markeninterne Inhaltserstellung - Tutorial](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [KI-gestützte, markeninterne Inhaltserstellung - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + Inhaltskarten{#content-cards}
     + [Erstellen von Inhaltskarten](/help/channels/create-content-cards.md)
   + In-App-Kanal{#in-app-channel}
@@ -124,7 +124,7 @@ ht-degree: 95%
     + [Einführung in den WhatsApp-Kanal](/help/channels/whatsapp-introduction.md)
     + [Einrichten des WhatsApp-Kanals](/help/channels/set-up-whatsapp.md)
     + [Erstellen einer WhatsApp-Journey](/help/channels/create-a-whatsapp-journey.md)
-  + {hide-from-toc}[Konfigurieren und Verwenden benutzerdefinierter Kanäle](/help/channels/configure-and-use-custom-channels.md)
+  + [Konfigurieren und Verwenden benutzerdefinierter Kanäle](/help/channels/configure-and-use-custom-channels.md)
 + Content-Management{#content-management}
   + [Nachrichtenerstellung – Überblick](/help/content-management/message-authoring-overview.md)
   + Verwalten von Assets {#assets}
@@ -150,7 +150,7 @@ ht-degree: 95%
   + [Optimieren von Kanälen basierend auf Profilvoreinstellungen oder Tendenzwerten](/help/channels/channel-optimization.md)
   + [Erstellen von E-Mails mit GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + [Aktivieren von Integrationen externer Daten bei der Kanalerstellung](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Erstellen von markeninternen Inhalten in Journey Optimizer - Tutorial](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Erstellen von markeninternen Inhalten in Journey Optimizer - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalisieren von Inhalten {#personalize-content}
   + [Personalisierungseditor – Überblick](/help/personalize-content/personalization-editor-overview.md)
   + [Profil- und zielgruppenspezifische Personalisierung](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
