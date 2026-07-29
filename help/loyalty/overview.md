@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: b173f9353a11fa2b5b3b5316a2601ac2be695891
+source-git-commit: 7523b27390c4d3a5447a0ee340eee07086d22be8
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Dieses Modul führt Sie schrittweise durch die Erstellung und Konfiguration eine
 Erfahren Sie, wie Sie eine Herausforderung für das Treueprogramm einrichten, indem Sie den richtigen Herausforderungstyp auswählen, Audiences und Zeitpläne konfigurieren, Teilnahmeregeln definieren und steuern, wie der Fortschritt verfolgt und belohnt wird.
 * [Richten Sie Aufgaben für Ihre Herausforderung bezüglich der Treue ein.](./configure-your-challenge/create-tasks.md)
 Erfahren Sie, wie Sie Aufgaben einrichten: Einkauf und Ausgaben, Mengen, geeignete Artikel und Ausschlüsse sowie Wiederverwendung.
-* [Prämien für die Herausforderung „Treue“ konfigurieren](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
+* [Prämien für die Herausforderung „Treue“ konfigurieren](./configure-your-challenge/configure-rewards.md)
 Erfahren Sie, wie Sie Belohnungen konfigurieren: Anbieter, Meilenstein vs. Abschluss des Versands, Belohnungstypen und Gutscheine.
 * [Erstellen Sie Herausforderungen und erhalten Sie Erkenntnisse mit dem KI-Agenten für das Treueprogramm.](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
 Erfahren Sie, wie Sie mit dem KI-Agenten für das Treueprogramm Herausforderungen schaffen und Erkenntnisse gewinnen können.
