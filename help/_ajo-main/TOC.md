@@ -63,7 +63,7 @@ ht-degree: 94%
     + [Anwendungsfall: Zielgruppenqualifizierung](/help/journeys/use-case-audience-qualification.md)
   + Tutorials{#tutorials}
     + [Auslösen einer Journey bei der Formularübermittlung](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ [Treue](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction-to-loyalty/discover-journey-optimizer-loyalty)
++ [Treue](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/loyalty/introduction-to-loyalty/discover-journey-optimizer-loyalty)
 + Konflikt-Management und Priorisierung {#conflict-management}
   + [Identifizieren potenzieller Konflikte](/help/conflict-management/identify-potential-conflicts.md)
   + [Zuweisen von Prioritätswerten](/help/conflict-management/assign-priority-score.md)
@@ -92,7 +92,7 @@ ht-degree: 94%
     + [Erstellen von Inhalten mit dem E-Mail-Designer](/help/channels/create-content-with-the-email-designer.md)
     + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/channels/import-and-author-html-email-content.md)
     + [Vorschau, Testversand und Veröffentlichung](/help/channels/preview-proof-and-publish.md)
-    + [KI-gestützte, markeninterne Inhaltserstellung - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [KI-gestützte, markeninterne Inhaltserstellung - Tutorial](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + Inhaltskarten{#content-cards}
     + [Erstellen von Inhaltskarten](/help/channels/create-content-cards.md)
   + In-App-Kanal{#in-app-channel}
@@ -149,7 +149,7 @@ ht-degree: 94%
   + [Optimieren von Kanälen basierend auf Profilvoreinstellungen oder Tendenzwerten](/help/channels/channel-optimization.md)
   + [Erstellen von E-Mails mit GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + [Aktivieren von Integrationen externer Daten bei der Kanalerstellung](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Erstellen von markeninternen Inhalten in Journey Optimizer - Tutorial](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Erstellen von markeninternen Inhalten in Journey Optimizer - Tutorial](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalisieren von Inhalten {#personalize-content}
   + [Personalisierungseditor – Überblick](/help/personalize-content/personalization-editor-overview.md)
   + [Profil- und zielgruppenspezifische Personalisierung](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
