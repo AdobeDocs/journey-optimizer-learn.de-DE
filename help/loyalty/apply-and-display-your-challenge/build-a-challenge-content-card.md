@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit vordefinierten Vorlagen, Bildern, Schaltflächen und App-Konfigurationen eine Challenge-Inhaltskarte erstellen, um Herausforderungen im Zusammenhang mit der Treue zu bewerben und den Fortschritt der Teilnehmer in Ihrer App anzuzeigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496536/?captions=ger&learn=on&enablevpops)
