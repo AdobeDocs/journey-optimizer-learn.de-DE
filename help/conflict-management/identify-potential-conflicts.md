@@ -30,6 +30,6 @@ ht-degree: 100%
 
 Entdecken Sie, wie Sie potenzielle Konflikte identifizieren und verwalten können – z. B. sich überschneidende Zielgruppen, gleichzeitige Timelines, freigegebene Kommunikationskanäle und Häufigkeitsbeschränkungen in Journeys und Kampagnen, um ein nahtloses und benutzerfreundliches Kommunikationserlebnis zu gewährleisten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445653/?captions=ger&learn=on&enablevpops)
 
 Weitere Informationen finden Sie in der Produktdokumentation zum Thema [Erkennen potenzieller Konflikte in Journeys und Kampagnen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/conflict-prioritization/conflicts).

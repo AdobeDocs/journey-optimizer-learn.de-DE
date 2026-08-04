@@ -21,4 +21,4 @@ ht-degree: 100%
 Erfahren Sie, wie Sie ein KI-Modell für Angebotsentscheidung erstellen und wie es auf eine Entscheidung angewendet wird.
 Funktion: Angebote
 
->[!VIDEO](https://video.tv.adobe.com/v/3419959/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444680/?captions=ger&learn=on){transcript=true}
