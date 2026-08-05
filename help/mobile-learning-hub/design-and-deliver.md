@@ -1,6 +1,6 @@
 ---
-title: Design and deliver
-description: Discover how to build and deliver impactful mobile communications using Adobe Journey Optimizer. Learn to create, design, and send a variety of message types—including push notifications, in-app messages, content cards, SMS/MMS/RCS, WhatsApp marketing messages, and code-based experiences—tailored to your audience and optimized for mobile engagement.
+title: Entwurf und Bereitstellung
+description: Erfahren Sie, wie Sie mit Adobe Journey Optimizer wirkungsvolle Mobilkommunikation aufbauen und bereitstellen können. Erfahren Sie, wie Sie eine Vielzahl von Nachrichtentypen erstellen, entwerfen und senden - einschließlich Push-Benachrichtigungen, In-App-Nachrichten, Inhaltskarten, SMS/MMS/RCS, WhatsApp-Marketing-Nachrichten und Code-basierten Erlebnissen -, die auf Ihre Audience zugeschnitten und für mobile Interaktion optimiert sind.
 role: User
 level: Beginner, Intermediate
 hide: false
@@ -10,12 +10,12 @@ last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '2669'
-ht-degree: 54%
+source-wordcount: '3509'
+ht-degree: 69%
 
 ---
 
-# Design and deliver
+# Entwurf und Bereitstellung
 
 Erfahren Sie, wie Sie mit Adobe Journey Optimizer wirkungsvolle Mobilkommunikation aufbauen und bereitstellen können. Erfahren Sie, wie Sie eine Vielzahl von Nachrichtentypen erstellen, entwerfen und senden - einschließlich Push-Benachrichtigungen, In-App-Nachrichten, Inhaltskarten, SMS/MMS/RCS, WhatsApp-Marketing-Nachrichten und Code-basierten Erlebnissen, die auf Ihre Zielgruppe zugeschnitten und für mobile Interaktion optimiert sind.
 
@@ -81,7 +81,7 @@ CARDS
                     <p class="is-size-6">Informationen zur Erstellung von Push-Benachrichtigungen, um Benutzerinnen und Benutzer von Mobile Apps jederzeit mit personalisierten, zielgerichteten Nachrichten zu erreichen.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/push-channel/push-notifications-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -104,7 +104,7 @@ CARDS
                     <p class="is-size-6">Erfahren Sie, wie Sie eine Push-Benachrichtigung mit einer Kampagne konfigurieren und senden.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -122,12 +122,12 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications" target="_blank" rel="referrer" title="Optimieren von Push-Benachrichtigungen mit der AJO-Entscheidungsfindung">Optimieren von Push-Benachrichtigungen mit AJO Decisioning</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications" target="_blank" rel="referrer" title="Optimieren von Push-Benachrichtigungen mit der AJO-Entscheidungsfindung">Optimieren von Push-Benachrichtigungen mit der AJO-Entscheidungsfindung</a>
                     </p>
                     <p class="is-size-6">Verwenden Sie die AJO-Entscheidungsfindung, um mit personalisierten Push-Benachrichtigungen die Interaktion zu verbessern. Erstellen Sie maßgeschneiderte Angebote und analysieren Sie die Kampagnen-Leistung.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -260,7 +260,7 @@ CARDS
                     <p class="is-size-6">Erfahren Sie, wie Sie Inhaltskarten für Ihre Anwendung erstellen.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -310,7 +310,7 @@ CARDS
                     <p class="is-size-6">Information darüber, wie sich SMS- und MMS-Nachrichten erstellen, zeitlich planen und versenden lassen, um auch von unterwegs bequem Ihre Kundinnen und Kunden zu erreichen.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-mms-messages-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -356,7 +356,7 @@ CARDS
                     <p class="is-size-6">Erfahren Sie, wie Sie Double-Opt-in für SMS konfigurieren.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -391,7 +391,7 @@ CARDS
                     <p class="is-size-6">Erfahren Sie, wie Sie Journey Optimizer mit einem MMS-Dienstanbieter verbinden und wie Sie eine MMS-Kanaloberfläche erstellen.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -414,7 +414,7 @@ CARDS
                     <p class="is-size-6">Erfahren Sie, wie Sie an Ihre Marke angepasste, interaktive RCS-Nachrichten in Adobe Journey Optimizer mithilfe eines benutzerdefinierten SMS-Anbieters konfigurieren und senden. Dieses Tutorial führt Sie durch die Einrichtung von API-Anmeldedaten, Webhooks und Kanalkonfigurationen sowie anschließend durch die Erstellung einer Journey für umfassende, personalisierte Messaging-Erlebnisse – und all dies innerhalb der nativen Messaging-App.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -462,7 +462,7 @@ CARDS
                     <p class="is-size-6">Erfahren Sie, wie Sie eine Code-basierte Erlebniskampagne erstellen, um Personalisierung mithilfe von Server-seitigen, API-oder SDK-basierten Implementierungsmethoden zu skalieren und nahtlos in Entwicklungsumgebungen zu integrieren.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -485,7 +485,7 @@ CARDS
                     <p class="is-size-6">Entdecken Sie, wie Entwickelnde die Zusammenarbeit mit Marketing-Teams optimieren können, indem sie bearbeitbare Felder in Code-basierten Erlebniskanälen aktivieren.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -535,7 +535,7 @@ CARDS
                     <p class="is-size-6">Das Video bietet einen allgemeinen Überblick über die Vorteile der Integration von WhatsApp mit Adobe Journey Optimizer. Er hebt die globale Reichweite und die Interaktionsvorteile von WhatsApp hervor und fasst wichtige Voraussetzungen zusammen, wie die Einrichtung eines WhatsApp-Unternehmenskontos, die Generierung von Zugriffs-Token und die Erstellung von Nachrichtenvorlagen.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -558,7 +558,7 @@ CARDS
                     <p class="is-size-6">Dieses Tutorial führt Sie durch die Erstellung einer mehrstufigen WhatsApp-Journey mit Adobe Journey Optimizer.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -588,7 +588,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts" title="Identifizieren potenzieller Konflikte" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435528/?format=jpeg&nocache=1770071087955" alt="Identifizieren potenzieller Konflikte"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445653/?captions=ger&format=jpeg&nocache=1770071087955" alt="Identifizieren potenzieller Konflikte"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -601,7 +601,7 @@ CARDS
                     <p class="is-size-6">Entdecken Sie, wie Sie potenzielle Konflikte identifizieren und verwalten können – z. B. sich überschneidende Zielgruppen, gleichzeitige Timelines, freigegebene Kommunikationskanäle und Häufigkeitsbeschränkungen in Journeys und Kampagnen, um ein nahtloses und benutzerfreundliches Kommunikationserlebnis zu gewährleisten.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -638,7 +638,7 @@ CARDS
                     <p class="is-size-6">Informationen über die Inhalte, die in Journey Optimizer personalisiert werden können.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -661,7 +661,7 @@ CARDS
                     <p class="is-size-6">Erfahren Sie, wie Sie Personalisierungswerte mithilfe von Hilfsfunktionen zur Personalisierung umwandeln und lernen Sie verschiedene Anwendungsfälle für Hilfsfunktionen kennen.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -719,7 +719,7 @@ CARDS
                     <p class="is-size-6">Erfahren Sie, wie Sie eingehende Aktionen priorisieren und sicherstellen können, dass Inhalte mit der höchsten Priorität an eine Kundin oder einen Kunden gesendet werden, wenn sie bzw. er für mehrere eingehende Aktionen mit derselben Kanalkonfiguration qualifiziert ist.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -742,7 +742,7 @@ CARDS
                     <p class="is-size-6">Erfahren Sie, wie Sie eingehende Aktionen priorisieren und sicherstellen können, dass Inhalte mit der höchsten Priorität an eine Kundin oder einen Kunden gesendet werden, wenn sie bzw. er für mehrere eingehende Aktionen mit derselben Kanalkonfiguration qualifiziert ist.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
