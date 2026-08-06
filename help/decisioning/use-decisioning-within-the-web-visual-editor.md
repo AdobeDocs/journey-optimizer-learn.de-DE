@@ -1,6 +1,6 @@
 ---
-title: Verwenden von Decisioning zur Personalisierung Ihrer Web-Seite im visuellen Web-Editor
-description: Erfahren Sie, wie Sie Ihre Web-Seite im visuellen Web-Editor mit Decisioning personalisieren können.
+title: Verwenden der Entscheidungsfindung zur Personalisierung Ihrer Web-Seite im visuellen Web-Editor
+description: Erfahren Sie, wie Sie Ihre Web-Seite im visuellen Web-Editor mithilfe der Entscheidungsfindung personalisieren können.
 feature: Decisioning, Web Channel
 role: User
 level: Beginner
@@ -19,15 +19,15 @@ feature_v2:
 subfeature_v2:
   - id: c618a0dc-1818-4c6d-9916-0d92e6796f24
 source-git-commit: 0e0dc8b1e62c73e3597c8f62cffc71e3be35aa14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 54
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Verwenden von Decisioning zur Personalisierung Ihrer Web-Seite im visuellen Web-Editor
+# Verwenden der Entscheidungsfindung zur Personalisierung Ihrer Web-Seite im visuellen Web-Editor
 
-Erfahren Sie, wie Sie Ihre Web-Seite im visuellen Web-Editor mit Decisioning personalisieren können.
+Erfahren Sie, wie Sie Ihre Web-Seite im visuellen Web-Editor mithilfe der Entscheidungsfindung personalisieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496310/?captions=ger&learn=on&enablevpops)

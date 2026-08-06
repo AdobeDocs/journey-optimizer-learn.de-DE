@@ -16,9 +16,9 @@ product_v2:
 feature_v2:
   - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
 source-git-commit: 507316431c32151c0b07499c60a261fed57f391e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 80
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
@@ -29,6 +29,6 @@ ht-degree: 2%
 
 Erfahren Sie, wie Sie mithilfe von benutzerdefinierten Kanälen Nachrichtenkanäle verbinden, die in Adobe Journey Optimizer nicht nativ unterstützt werden, z. B. Slack, WeChat, Telegram oder Ihre eigene proprietäre Plattform.
 
-In diesem Video wird erläutert, wie Sie einen benutzerdefinierten ausgehenden Kanal End-to-End erstellen und in einer Journey verwenden.
+In diesem Video wird erläutert, wie Sie einen benutzerdefinierten ausgehenden Kanal durchgängig erstellen und in einer Journey verwenden können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496293/?captions=ger&learn=on&enablevpops)

@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 auto-video-transcripts: true
 source-git-commit: f48d568f64c413c5fc1ae9b4de48735d207af7e3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1567'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -42,9 +42,9 @@ ht-degree: 94%
   + [Journey Designer – Überblick](/help/journeys/journey-designer-overview.md)
   + [Einführung in die neue Journey-Arbeitsfläche](/help/journeys/introduction-to-the-new-journey-canvas.md)
   + [Einführung in das Erstellen einer Journey](/help/journeys/introduction-to-building-a-journey.md)
-  + [Analysieren und Erstellen von Journey mit KI](/help/ai-agents/journey-agent-overview.md)
+  + [Analysieren und Erstellen von Journeys mit KI](/help/ai-agents/journey-agent-overview.md)
   + [Erstellen eines Testprofils](/help/journeys/test-a-journey.md)
-  + [Journey mit externen Audiences simulieren](/help/journeys/simulate-journeys-with-external-audiences.md)
+  + [Simulieren von Journeys mit externen Zielgruppen](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [Veröffentlichen einer Journey](/help/journeys/publish-a-journey.md)
   + [Aktivität „Inhaltsentscheidung“](/help/journeys/content-decision-activity.md)
   + [Verwenden der Datensatzsuche in einer Journey](/help/journeys/lookup-dataset.md)
@@ -92,7 +92,7 @@ ht-degree: 94%
     + [Erstellen von Inhalten mit dem E-Mail-Designer](/help/channels/create-content-with-the-email-designer.md)
     + [Importieren und Erstellen von HTML-E-Mail-Inhalten](/help/channels/import-and-author-html-email-content.md)
     + [Vorschau, Testversand und Veröffentlichung](/help/channels/preview-proof-and-publish.md)
-    + [KI-gestützte, markeninterne Inhaltserstellung - Tutorial](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [KI-gestützte, markenkonforme Inhaltserstellung – Tutorial](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + Inhaltskarten{#content-cards}
     + [Erstellen von Inhaltskarten](/help/channels/create-content-cards.md)
   + In-App-Kanal{#in-app-channel}
@@ -149,7 +149,7 @@ ht-degree: 94%
   + [Optimieren von Kanälen basierend auf Profilvoreinstellungen oder Tendenzwerten](/help/channels/channel-optimization.md)
   + [Erstellen von E-Mails mit GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + [Aktivieren von Integrationen externer Daten bei der Kanalerstellung](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [Erstellen von markeninternen Inhalten in Journey Optimizer - Tutorial](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [Erstellen von markenkonformen Inhalten in Journey Optimizer – Tutorial](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalisieren von Inhalten {#personalize-content}
   + [Personalisierungseditor – Überblick](/help/personalize-content/personalization-editor-overview.md)
   + [Profil- und zielgruppenspezifische Personalisierung](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -177,7 +177,7 @@ ht-degree: 94%
       + [Verwenden der Entscheidungsfindung zum Personalisieren von E-Mails](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [Verwenden von Entscheidungsfindung in Push-Benachrichtigungen](/help/decisioning/decisioning-in-push-notifications.md)
       + [Verwenden von Entscheidungsfindung in einer SMS-Nachricht](/help/decisioning/use-decisioning-in-an-sms-message.md)
-      + {hide-from-toc}[Verwenden von Decisioning im visuellen Web-Editor](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
+      + {hide-from-toc}[Verwenden der Entscheidungsfindung im visuellen Web-Editor](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [Verwenden der Entscheidungsfindung zur Personalisierung von Web-Angeboten (Tutorial)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [Verwenden von Experience Manager-Inhaltsfragmenten mit Entscheidungsfindung](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + Auslösen von Entscheidungen durch externe Trigger und Interaktionen {#trigger}
@@ -197,7 +197,7 @@ ht-degree: 94%
     + [Unterbreiten von Angeboten mithilfe der Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
     + [Frequenzbegrenzung](/help/decision-management/frequency-capping.md)
 + Daten-Management {#data-management}
-  + [Überblick](/help/data-management/set-up-data-overview.md)
+  + [Übersicht](/help/data-management/set-up-data-overview.md)
   + [Erstellen eines Schemas](/help/data-management/create-schema.md)
   + [Zuordnen von Identitäten](/help/data-management/map-identities.md)
   + [Erstellen von Datensätzen und Aufnehmen von Daten](/help/data-management/create-datasets-and-ingest-data.md)
@@ -266,7 +266,7 @@ ht-degree: 94%
   + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
   + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
   + Anwendungsfall-Playbooks {#use-case-playbooks}
-    + [Übersicht](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+    + [Überblick](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
     + [Konfigurieren einer Playbook-Sandbox](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
     + [Erstellen und Veröffentlichen von Playbook-Instanzen](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Übungen, Labs und Challenges {#exercises-and-challenges}

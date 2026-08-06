@@ -1,6 +1,6 @@
 ---
 title: Einführung in die neue Journey-Arbeitsfläche
-description: Entdecken Sie die neue Journey-Arbeitsfläche in Adobe Journey Optimizer. Dieses Update führt eine moderne Rendering-Engine ein, die die Journey-Arbeitsfläche antreibt und sie an das Erlebnis anpasst, das bereits in orchestrierten Kampagnen und bei der Audience-Komposition verwendet wird.
+description: Entdecken Sie das neue Journey-Arbeitsflächenerlebnis in Adobe Journey Optimizer. Dieses Update führt eine moderne Render-Engine ein, die die Journey-Arbeitsfläche unterstützt und sie an das Erlebnis anpasst, das bereits in orchestrierten Kampagnen und bei der Zielgruppenkomposition verwendet wird.
 feature: Journeys
 role: User
 level: Beginner, Intermediate, Experienced
@@ -15,15 +15,15 @@ product_v2:
 feature_v2:
   - id: d998adac-2f81-400b-a669-d07bb196e4eb
 source-git-commit: aada6451a411d6e29f34399dc1cb8f397f71029b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 82
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # Einführung in die neue Journey-Arbeitsfläche
 
-Entdecken Sie die neue Journey-Arbeitsfläche in Adobe Journey Optimizer. Dieses Update führt eine moderne Rendering-Engine ein, die die Journey-Arbeitsfläche antreibt und sie an das Erlebnis anpasst, das bereits in orchestrierten Kampagnen und bei der Audience-Komposition verwendet wird.
+Entdecken Sie das neue Journey-Arbeitsflächenerlebnis in Adobe Journey Optimizer. Dieses Update führt eine moderne Render-Engine ein, die die Journey-Arbeitsfläche unterstützt und sie an das Erlebnis anpasst, das bereits in orchestrierten Kampagnen und bei der Zielgruppenkomposition verwendet wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496200/?captions=ger&learn=on&enablevpops)
