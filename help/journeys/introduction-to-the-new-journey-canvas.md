@@ -26,4 +26,4 @@ ht-degree: 100%
 
 Entdecken Sie das neue Journey-Arbeitsflächenerlebnis in Adobe Journey Optimizer. Dieses Update führt eine moderne Render-Engine ein, die die Journey-Arbeitsfläche unterstützt und sie an das Erlebnis anpasst, das bereits in orchestrierten Kampagnen und bei der Zielgruppenkomposition verwendet wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496193/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496200/?captions=ger&learn=on&enablevpops)
