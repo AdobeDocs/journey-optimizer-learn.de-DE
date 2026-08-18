@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: Loyalität
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: fce0679771726c36f758ae8c244d6691be71a573
+source-git-commit: 9cf282f2c9f448648852931bfe0f3f7bb789205d
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
   + [Prämien für die Herausforderung „Treue“ konfigurieren](./configure-your-challenge/configure-rewards.md)
   + [Erstellen Sie Herausforderungen und erhalten Sie Einblicke mit dem KI-Agenten für das Treueprogramm](./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md)
 + Herausforderung anwenden und anzeigen {#apply-and-display-your-challenge}
-  + [Erstellen einer Challenge-Inhaltskarte mit einem Code-basierten Erlebnis](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
+  + [Erstellen einer Challenge-Inhaltskarte](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
   + [Einrichten von Lifecycle-Messaging für Ihre Herausforderung](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 + Analyse und Bericht {#analyze-and-report}
   + {hide-from-toc}[Verfolgen Sie die Leistung mit dem Challenge-Bericht](./analyze-and-report/track-performance-with-the-challenge-report.md)
