@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: f48d568f64c413c5fc1ae9b4de48735d207af7e3
-workflow-type: ht
-source-wordcount: '1567'
-ht-degree: 100%
+source-git-commit: 9a3164399d0a0e0f1434650e1f7a7bca55eb9793
+workflow-type: tm+mt
+source-wordcount: '1573'
+ht-degree: 99%
 
 ---
 
@@ -45,6 +45,7 @@ ht-degree: 100%
   + [Analysieren und Erstellen von Journeys mit KI](/help/ai-agents/journey-agent-overview.md)
   + [Erstellen eines Testprofils](/help/journeys/test-a-journey.md)
   + [Simulieren von Journeys mit externen Zielgruppen](/help/journeys/simulate-journeys-with-external-audiences.md)
+  + [Beschleunigen von Journey-Tests mit Schnellsimulation](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
   + [Veröffentlichen einer Journey](/help/journeys/publish-a-journey.md)
   + [Aktivität „Inhaltsentscheidung“](/help/journeys/content-decision-activity.md)
   + [Verwenden der Datensatzsuche in einer Journey](/help/journeys/lookup-dataset.md)
@@ -197,7 +198,7 @@ ht-degree: 100%
     + [Unterbreiten von Angeboten mithilfe der Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
     + [Frequenzbegrenzung](/help/decision-management/frequency-capping.md)
 + Daten-Management {#data-management}
-  + [Übersicht](/help/data-management/set-up-data-overview.md)
+  + [Überblick](/help/data-management/set-up-data-overview.md)
   + [Erstellen eines Schemas](/help/data-management/create-schema.md)
   + [Zuordnen von Identitäten](/help/data-management/map-identities.md)
   + [Erstellen von Datensätzen und Aufnehmen von Daten](/help/data-management/create-datasets-and-ingest-data.md)
@@ -266,7 +267,7 @@ ht-degree: 100%
   + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
   + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
   + Anwendungsfall-Playbooks {#use-case-playbooks}
-    + [Überblick](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+    + [Übersicht](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
     + [Konfigurieren einer Playbook-Sandbox](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
     + [Erstellen und Veröffentlichen von Playbook-Instanzen](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Übungen, Labs und Challenges {#exercises-and-challenges}
