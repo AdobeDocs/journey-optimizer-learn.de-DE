@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: Loyalität
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: ac2e0d7217b3e0099b711c34e5793086835a3c15
+source-git-commit: 3612bdc9c50be6999eba47f3c6e68c82c2120d20
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -18,12 +18,16 @@ ht-degree: 0%
 
 + [Erste Schritte mit Journey Optimizer-Treue für Marketing-Experten](./overview.md)
 + [Journey Optimizer-Treue entdecken](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
++ Einrichten von Treue {#set-up-loyality}
+  + [Einrichten eines Anbieters für Treueprämien](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + Herausforderung konfigurieren {#configure-your-challenge}
   + [Herausforderung „Treue“ einrichten](./configure-your-challenge/set-up-a-loyalty-challenge.md)
   + [Aufgaben für die Herausforderung „Treue“ erstellen](./configure-your-challenge/create-tasks.md)
   + [Prämien für die Herausforderung „Treue“ konfigurieren](./configure-your-challenge/configure-rewards.md)
   + [Erstellen Sie Herausforderungen und erhalten Sie Einblicke mit dem KI-Agenten für das Treueprogramm](./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md)
 + Herausforderung anwenden und anzeigen {#apply-and-display-your-challenge}
-  + [Erstellen einer Challenge-Inhaltskarte mit einem Code-basierten Erlebnis](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
+  + [Erstellen einer Challenge-Inhaltskarte](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
+  + [Anzeigen von Challenge-Inhalten mit dem Code-basierten Erlebniskanal](./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md)
+  + [Einrichten von Lifecycle-Messaging für Ihre Herausforderung](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 + Analyse und Bericht {#analyze-and-report}
   + {hide-from-toc}[Verfolgen Sie die Leistung mit dem Challenge-Bericht](./analyze-and-report/track-performance-with-the-challenge-report.md)

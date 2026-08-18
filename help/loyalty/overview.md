@@ -7,10 +7,10 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: ac2e0d7217b3e0099b711c34e5793086835a3c15
+source-git-commit: 3612bdc9c50be6999eba47f3c6e68c82c2120d20
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 12%
+source-wordcount: '393'
+ht-degree: 10%
 
 ---
 
@@ -25,6 +25,13 @@ In diesem Abschnitt wird Journey Optimizer Loyalty vorgestellt: Was es ist, wo e
 
 * [Entdecken Sie die Journey Optimizer-Treue](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 Erfahren Sie, was Journey Optimizer Loyalty ist, wo sie unter AJO steht und wie der Challenge-Lebenszyklus aussieht.
+
+## Einrichten von Treue
+
+Dieser Abschnitt behandelt die anfängliche einmalige Einrichtung, die erforderlich ist, bevor Sie mit der Erstellung einer Herausforderung beginnen können.
+
+* [Einrichten eines Anbieters für Treueprämien](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
+Erfahren Sie, wie Sie einen Belohnungsanbieter einrichten, Belohnungsdefinitionen erstellen und Belohnungs-Payloads konfigurieren, damit Adobe Journey Optimizer Treueprämien über Ihr externes Belohnungssystem ausstellen kann.
 
 ## Herausforderung konfigurieren
 
@@ -44,4 +51,6 @@ Erfahren Sie, wie Sie mit CX Enterprise Coworker Treueprobleme mithilfe natürli
 In diesem Abschnitt erfahren Sie, wie Sie Ihren Kunden durch Inhaltskarten und Code-basierte Erlebnisse eine Herausforderung bieten können.
 
 * [Erstellen einer Herausforderung - Inhaltskarte](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
-Erfahren Sie, wie Sie eine Challenge-Inhaltskarte / ein Code-basiertes Erlebnis erstellen, in dem Opt-in und dynamischer Fortschritt für das Opt-in, der Fortschritt und die abgeschlossenen Phasen sowie Belohnungen und die Kanalkonfiguration behandelt werden.
+Erfahren Sie, wie Sie eine Challenge-Inhaltskarte erstellen, die das Opt-in und den dynamischen Fortschritt in den Opt-in-, Fortschritt- und abgeschlossenen Phasen sowie die Belohnungen und die Kanalkonfiguration behandelt.
+* [Richten Sie Lifecycle-Messaging für Ihre Herausforderung ein.](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
+Erfahren Sie, wie Sie Multi-Channel-Messaging für jede Phase einer Herausforderung im Zusammenhang mit dem Treueprogramm konfigurieren können, von Einladungen und Interaktionsnachrichten bis hin zu Benachrichtigungen über den Abschluss und die Belohnung.
