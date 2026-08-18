@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 6313b2380e7b9a1cdd7b3ad1ba4b877fcc304000
+source-git-commit: 3612bdc9c50be6999eba47f3c6e68c82c2120d20
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '393'
 ht-degree: 10%
 
 ---
@@ -51,6 +51,6 @@ Erfahren Sie, wie Sie mit CX Enterprise Coworker Treueprobleme mithilfe natürli
 In diesem Abschnitt erfahren Sie, wie Sie Ihren Kunden durch Inhaltskarten und Code-basierte Erlebnisse eine Herausforderung bieten können.
 
 * [Erstellen einer Herausforderung - Inhaltskarte](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
-Erfahren Sie, wie Sie eine Challenge-Inhaltskarte / ein Code-basiertes Erlebnis erstellen, in dem Opt-in und dynamischer Fortschritt für das Opt-in, der Fortschritt und die abgeschlossenen Phasen sowie Belohnungen und die Kanalkonfiguration behandelt werden.
+Erfahren Sie, wie Sie eine Challenge-Inhaltskarte erstellen, die das Opt-in und den dynamischen Fortschritt in den Opt-in-, Fortschritt- und abgeschlossenen Phasen sowie die Belohnungen und die Kanalkonfiguration behandelt.
 * [Richten Sie Lifecycle-Messaging für Ihre Herausforderung ein.](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 Erfahren Sie, wie Sie Multi-Channel-Messaging für jede Phase einer Herausforderung im Zusammenhang mit dem Treueprogramm konfigurieren können, von Einladungen und Interaktionsnachrichten bis hin zu Benachrichtigungen über den Abschluss und die Belohnung.
