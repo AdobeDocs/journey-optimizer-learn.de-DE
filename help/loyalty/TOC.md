@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: Loyalität
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 96600e2e66fc410a7f265824f3e05c7511b94d25
+source-git-commit: e168e56efe575659b5f48e97af77b899f8b6c962
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,6 @@ ht-degree: 0%
   + [Erstellen einer Challenge-Inhaltskarte](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
   + [Anzeigen von Challenge-Inhalten mit dem Code-basierten Erlebniskanal](./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md)
   + [Einrichten von Lifecycle-Messaging für Ihre Herausforderung](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
+  + [Veröffentlichen einer Challenge und Generieren einer Journey](./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md)
 + Analyse und Bericht {#analyze-and-report}
   + [Challenge-Performance mit Challenge-Berichten messen](./analyze-and-report/measure-performance-with-challenge-reports.md)
