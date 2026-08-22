@@ -305,7 +305,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md" title="Veröffentlichen einer Challenge und Generieren einer Journey" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498577/?format=jpeg&nocache=1787273065792" alt="Veröffentlichen einer Challenge und Generieren einer Journey"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498584/?captions=ger&format=jpeg&nocache=1787273065792" alt="Veröffentlichen einer Challenge und Generieren einer Journey"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie einen Belohnungsanbieter einrichten, Belohnungsdefinitionen erstellen und Belohnungs-Payloads konfigurieren, damit Adobe Journey Optimizer Treueprämien über Ihr externes Belohnungssystem ausstellen kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497346/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497416/?captions=ger&learn=on&enablevpops)

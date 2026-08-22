@@ -30,4 +30,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie eine Challenge veröffentlichen und automatisch eine Journey generieren. Entdecken Sie, wie Challenge-Kommunikationen in die Journey-Orchestrierung übersetzt werden, überprüfen Sie die generierte Journey-Struktur und passen Sie sie mit zusätzlichen Bedingungen, Entscheidungslogik oder Optimierungslogik an.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498577/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3498584/?captions=ger&learn=on&enablevpops)
