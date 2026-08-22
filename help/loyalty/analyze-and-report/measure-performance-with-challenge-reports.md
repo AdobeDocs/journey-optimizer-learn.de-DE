@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Challenge-Berichte und Performance-Dashboards verwenden, um die Teilnahme, Abschlussraten, Umsatzzuordnung und die Gesamtleistung des Treueprogramms zu messen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497566/?captions=ger&learn=on&enablevpops)
