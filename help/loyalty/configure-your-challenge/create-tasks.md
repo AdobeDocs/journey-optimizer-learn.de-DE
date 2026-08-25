@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Aufgaben des Typs „Treueprogramm“ mithilfe von Kauf-, Ausgaben- und benutzerspezifischen Ereignisaktivitäten erstellen und konfigurieren, einschließlich Eignungsregeln, Ausschlüssen und wiederverwendbarer Aufgabenvorlagen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496442/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496449/?captions=ger&learn=on&enablevpops)

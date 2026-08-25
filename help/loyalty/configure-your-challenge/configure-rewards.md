@@ -31,4 +31,4 @@ ht-degree: 8%
 
 Erfahren Sie, wie Sie Challenge-Belohnungen konfigurieren können, indem Sie Belohnungstypen auswählen, Versandmethoden definieren und Teilnehmer bei wichtigen Meilensteinen oder nach Abschluss der Challenge belohnen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496481/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496488/?captions=ger&learn=on&enablevpops)

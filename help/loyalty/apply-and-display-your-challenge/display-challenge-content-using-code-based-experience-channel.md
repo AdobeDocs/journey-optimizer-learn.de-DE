@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit Code-basierten Erlebnissen Herausforderungen im Zusammenhang mit der Treue fördern, den Fortschritt bei Herausforderungen anzeigen und personalisierte Inhalte in Ihrer App mit HTML oder JSON bereitstellen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497465/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497472/?captions=ger&learn=on&enablevpops)

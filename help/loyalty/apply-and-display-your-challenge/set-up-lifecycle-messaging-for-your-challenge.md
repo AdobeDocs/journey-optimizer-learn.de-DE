@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Multi-Channel-Messaging für jede Phase einer Herausforderung im Zusammenhang mit dem Treueprogramm konfigurieren können, von Einladungen und Interaktionsnachrichten bis hin zu Benachrichtigungen über den Abschluss und die Belohnung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497455/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497462/?captions=ger&learn=on&enablevpops)

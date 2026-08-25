@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit CX Enterprise Coworker Treueprobleme mithilfe natürlicher Sprache erstellen, konfigurieren und starten können, einschließlich Zielgruppen, Belohnungen, Zeitplänen und automatisierter Journey-Einrichtung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496545/?captions=ger&learn=on&enablevpops)
