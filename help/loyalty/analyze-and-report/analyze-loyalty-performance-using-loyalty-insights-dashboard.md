@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Erfahren Sie mehr über das Dashboard „Treueprogramm-Insights“ und darüber, wie KI-generierte Insights Ihnen dabei helfen, signifikante Änderungen in der Leistung des Treueprogramms zu identifizieren, Ergebnisse basierend auf geschäftlichen KPIs zu priorisieren und Maßnahmen für die wichtigsten Metriken zu ergreifen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497566/?captions=ger&learn=on&enablevpops)
