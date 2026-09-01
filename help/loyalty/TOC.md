@@ -1,24 +1,24 @@
 ---
-user-guide-title: Erste Schritte mit der Journey Optimizer-Treue
-user-guide-description: Erfahren Sie, wie Sie sich an der Adobe Journey Optimizer-Treue beteiligen, eine Herausforderung konfigurieren, sie anwenden und anzeigen und ihre Leistung analysieren können.
+user-guide-title: Erste Schritte mit Journey Optimizer Loyalty
+user-guide-description: Erfahren Sie, wie Sie Adobe Journey Optimizer Loyalty integrieren, eine Challenge konfigurieren, anwenden und anzeigen und dessen Leistung analysieren können.
 role: User
 level: Beginner
 breadcrumb-title: Loyalität
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: ec6a72a4743d05e19d86970f54d15ef3a7eff842
+source-git-commit: 3062d3cfc74a3e6c578d9c5282ec2ac07185033a
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
 
-# Erste Schritte mit der Journey Optimizer-Treue {#loyalty}
+# Erste Schritte mit Journey Optimizer Loyalty {#loyalty}
 
-+ [Erste Schritte mit Journey Optimizer-Treue für Marketing-Experten](./overview.md)
-+ [Journey Optimizer-Treue entdecken](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
-+ {hide-from-toc}[Verstehen Sie die Konzepte der Herausforderung zur Treue](./introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
++ [Erste Schritte mit Journey Optimizer Loyalty für Marketing-Experten](./overview.md)
++ Einführung in die Treue {#introduction}
+  + [Journey Optimizer Loyalty entdecken](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 + Einrichten von Treue {#set-up-loyality}
   + [Einrichten eines Anbieters für Treueprämien](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + Herausforderung konfigurieren {#configure-your-challenge}
