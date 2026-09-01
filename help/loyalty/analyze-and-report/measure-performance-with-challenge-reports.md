@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Verwenden Sie Challenge-Berichte und Dashboards, um die Teilnahme, Abschlussraten und den Umsatz Ihres Treueprogramms zu messen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497566/?captions=ger&learn=on&enablevpops)
