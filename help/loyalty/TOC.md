@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: Loyalität
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 87eb262cf409e11959c177a54e43b3be4e16395b
+source-git-commit: ec6a72a4743d05e19d86970f54d15ef3a7eff842
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 0%
 
 + [Erste Schritte mit Journey Optimizer-Treue für Marketing-Experten](./overview.md)
 + [Journey Optimizer-Treue entdecken](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
++ {hide-from-toc}[Verstehen Sie die Konzepte der Herausforderung zur Treue](./introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
 + Einrichten von Treue {#set-up-loyality}
   + [Einrichten eines Anbieters für Treueprämien](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + Herausforderung konfigurieren {#configure-your-challenge}
