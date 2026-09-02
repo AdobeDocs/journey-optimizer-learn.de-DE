@@ -1,6 +1,6 @@
 ---
 title: Challenge-Performance mit Challenge-Berichten messen
-description: Erfahren Sie, wie Sie Challenge-Berichte und Performance-Dashboards verwenden, um die Teilnahme, Abschlussraten, Umsatzzuordnung und die Gesamtleistung des Treueprogramms zu messen.
+description: Verwenden Sie Challenge-Berichte und Dashboards, um die Teilnahme, Abschlussraten und den Umsatz Ihres Treueprogramms zu messen.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -19,9 +19,9 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b37854eacf05b80bcb24c94fe9248cfe18c7ac02
+source-git-commit: 6494b51da77e23e184d33e235fd612700b2a801d
 workflow-type: tm+mt
-source-wordcount: 54
+source-wordcount: 44
 ht-degree: 0%
 
 ---
@@ -29,6 +29,6 @@ ht-degree: 0%
 
 # Challenge-Performance mit Challenge-Berichten messen
 
-Erfahren Sie, wie Sie Challenge-Berichte und Performance-Dashboards verwenden, um die Teilnahme, Abschlussraten, Umsatzzuordnung und die Gesamtleistung des Treueprogramms zu messen.
+Verwenden Sie Challenge-Berichte und Dashboards, um die Teilnahme, Abschlussraten und den Umsatz Ihres Treueprogramms zu messen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497566/?captions=ger&learn=on&enablevpops)
