@@ -35,4 +35,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Challenge-Daten mit einer benutzerdefinierten Aktion abrufen und diese verwenden können, um Inhaltskarten und Code-basierte Erlebnisse basierend auf dem Fortschritt und den Belohnungen der Challenge-Mitglieder dynamisch zu personalisieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503375/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503391/?captions=ger&learn=on&enablevpops)
