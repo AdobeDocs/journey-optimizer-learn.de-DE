@@ -1,19 +1,18 @@
 ---
-title: Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe von Web SDK
-description: In diesem Tutorial erfahren Sie, wie Sie mithilfe von kontextuellen Echtzeitdaten und der Adobe Web SDK Personalization-API dynamische, wetterabhängige Angebote in Adobe Journey Optimizer bereitstellen können. Sie erfahren, wie Sie Wetterattribute (wie Temperatur und Bedingungen) von Ihrer Website an Adobe Experience Platform übergeben, sie Ihrem Ereignisschema zuordnen und in Entscheidungsregeln und Rangfolgeformeln verwenden können, um Angebote zum Zeitpunkt des Seitenladevorgangs zu personalisieren. Ideal für Marketing-Experten und Entwickler, die digitale Erlebnisse mit Echtzeit-Umgebungskontext verbessern möchten.
+title: Personalisieren von Angeboten mit Echtzeit-Wetterdaten in Adobe Journey Optimizer mithilfe eines Web SDK
+description: In diesem Tutorial erfahren Sie, wie Sie mithilfe von kontextuellen Echtzeitdaten und der Personalisierungs-API des Adobe Web SDK dynamische, wetterabhängige Angebote in Adobe Journey Optimizer bereitstellen können. Sie erfahren, wie Sie Wetterattribute (wie Temperatur und Bedingungen) von Ihrer Website an Adobe Experience Platform übergeben, sie Ihrem Ereignisschema zuordnen und in Entscheidungsregeln und Rangfolgenformeln verwenden, um Angebote zum Zeitpunkt des Seitenladevorgangs zu personalisieren. Ideal für Marketing-Fachleute und Entwickelnde, die digitale Erlebnisse mit Echtzeit-Umgebungskontext verbessern möchten.
 feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10
 jira: KT-18258
-source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
+exl-id: f40dd541-470c-4f42-8181-eb1c277ebaa3
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 1%
-
+source-wordcount: '230'
+ht-degree: 43%
 ---
-
 # Beschreibung der Anwendungsfälle
 
 Die Verwendung wetterbezogener Daten in Adobe Journey Optimizer (AJO) zur Bereitstellung von Angeboten ermöglicht es Unternehmen, Kundenerlebnisse auf der Grundlage realer, in Echtzeit vorhandener Umgebungsbedingungen zu personalisieren. Das Wetter ist ein starkes, kontextuelles Signal. Bedürfnisse und Verhalten der Menschen ändern sich je nach Wetter. Durch Verwendung von Wetterdaten:
