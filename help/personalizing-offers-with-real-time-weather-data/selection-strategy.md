@@ -5,16 +5,15 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10
 jira: KT-18258
 recommendations: noDisplay, noCatalog
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+exl-id: 0a249214-b6a1-4e71-99d9-8a9da0322b15
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '120'
 ht-degree: 3%
-
 ---
-
 # Erstellen einer Auswahlstrategie
 
 Eine Auswahlstrategie ist eine wiederverwendbare Konfiguration, die eine Sammlung von Angeboten mit Eignungsregeln und einer Ranking-Methode kombiniert, um zu bestimmen, welche Angebote angezeigt werden, wenn die Strategie in einer Entscheidungsrichtlinie verwendet wird.
