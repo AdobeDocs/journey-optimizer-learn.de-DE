@@ -1,5 +1,5 @@
 ---
-source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
+source-git-commit: fc279f2ff41f624e4a6a0c4c930cedfcc2745dc5
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 3%
@@ -8,14 +8,14 @@ ht-degree: 3%
 
 ## Was ist es?
 
-Mit **Live-** können Sie beständige Aktualisierungen in Echtzeit bereitstellen, die Kunden über den Fortschritt einer Aktivität informieren, z. B. eine sich in Vorbereitung befindende Bestellung, ein Versand während der Fahrt oder eine Fahrt auf dem Weg. Anstatt für jede Aktualisierung eine neue Benachrichtigung zu senden, wird eine einzelne Live-Aktivität erstellt, dann aktualisiert und beendet, wenn sich die Aktivität entwickelt, wobei der Sperrbildschirm oder die Benachrichtigungsschattierung des Kunden mit dem synchronisiert wird, was passiert.
+**Live-**: Mit können Sie beständige Aktualisierungen in Echtzeit bereitstellen, die Kunden über den Fortschritt einer Aktivität informieren, z. B. eine sich in Vorbereitung befindende Bestellung, einen Versand während der Fahrt oder eine Fahrt auf dem Weg. Anstatt für jede Aktualisierung eine neue Benachrichtigung zu senden, wird eine einzelne Live-Aktivität erstellt, dann aktualisiert und beendet, wenn sich die Aktivität entwickelt, wobei der Sperrbildschirm oder die Benachrichtigungsschattierung des Kunden mit dem synchronisiert wird, was passiert.
 
 Adobe Journey Optimizer unterstützt Live-Aktivitäten auf beiden wichtigen Mobilplattformen:
 
-* **[iOS Live-Aktivitäten](/help/channels/ios-live-activities.md)** - Umfangreiche Echtzeit-Updates auf dem iPhone-Sperrbildschirm und auf Dynamic Island.
-* **[Live-](/help/channels/android-live-updates.md)** zu Android- Persistente Echtzeit-Updates im Android-Benachrichtigungsschatten.
+* **[iOS Live-](/help/channels/ios-live-activities.md)**: Umfangreiche Echtzeit-Updates auf dem iPhone-Sperrbildschirm und auf Dynamic Island.
+* **[Live-](/help/channels/android-live-updates.md)** zu Android: Persistente Echtzeit-Updates im Android-Benachrichtigungsschatten.
 
-Informationen zum Konfigurieren der Mobile SDK und zum Verwenden der APIs zum Starten, Aktualisieren und Beenden von Live-Erlebnissen in allen Kunden-Journey finden Sie unter [Konfigurieren von Live-Aktivitäten](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}.
+Informationen zum Konfigurieren der Mobile SDK und zum Verwenden der APIs zum Starten, Aktualisieren und Beenden von Live-Erlebnissen in allen Kunden-Journey finden Sie unter [Konfigurieren von Live-Aktivitäten](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}.
 
 ## Anwendungsszenarien
 
@@ -30,7 +30,7 @@ Wählen Sie Live-Aktivitäten als bevorzugten Kanal aus, wenn Sie Folgendes ben�
 
 ## Wenn *Live* Aktivitäten verwenden möchten
 
-* Bei lang laufenden oder offenen Status ohne klares Ende: Beenden Sie die Aktivität, sobald der zugrunde liegende Prozess abgeschlossen ist.
-* Für Werbe- oder Marketing-Inhalte - verwenden Sie stattdessen Push-Benachrichtigungen, In-App-Nachrichten oder Inhaltskarten.
+* Bei lang laufenden oder offenen Status ohne klares Ende beenden Sie die Aktivität, sobald der zugrunde liegende Prozess abgeschlossen ist.
+* Für Werbe- oder Marketing-Inhalte verwenden Sie stattdessen Push-Benachrichtigungen, In-App-Nachrichten oder Inhaltskarten.
 * Wenn die Aktualisierungskadenz sehr hoch ist - häufige Aktualisierungen können vom Betriebssystem gedrosselt werden oder für den Benutzer laut sein.
 * Wenn Ihre App die für iOS Live-Aktivitäten oder Android Live-Updates erforderlichen Betriebssystemversionen nicht unterstützt.
