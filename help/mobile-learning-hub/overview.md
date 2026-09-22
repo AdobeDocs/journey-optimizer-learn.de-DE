@@ -6,15 +6,13 @@ role: User, Admin, Developer
 hide: false
 index: true
 jira: KT-19860
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 1b8691391bcbe2f8dfa8c8b7f98058933af11a15
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '973'
 ht-degree: 7%
-
 ---
-
 # Journey Optimizer - Mobile Learning Hub
 
 Bauen Sie auf Adobe Journey Optimizer, um Ihre mobile Interaktionsstrategie sofort umzusetzen oder aufzuwerten. Der mobile Lern-Hub bietet Entwickelnden, Admins, Marketing-Fachleuten sowie Analystinnen und Analysten alles, was sie für die Konfiguration eingehender und ausgehender mobiler Kanäle benötigen, und integriert diese Kanäle nahtlos in leistungsstarke Cross-Channel-Kampagnen und -Journeys.
@@ -34,9 +32,9 @@ Ausgehende Kanäle ermöglichen den proaktiven Versand von Nachrichten an Kunden
 
 Alle ausgehenden Kanäle in Adobe Journey Optimizer erzwingen benutzerdefinierte Einverständnisrichtlinien zum Zeitpunkt des Nachrichtenversands. Wenn für eine bestimmte Marketing-Aktion kein Einverständnis erteilt wird, wird die Nachricht automatisch unterdrückt, um einen konformen Versand sicherzustellen.
 
-| ![Push-Benachrichtigungen](/help/mobile-learning-hub/assets/mobile-phone.webp){width=„250“, height=„250“}<br> **[Push-Benachrichtigungen](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=„250“, height=„250“}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=„250“, height=„250“}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
-|-------------------------------------|------------------------------------|-------------------------------|
-| Außerhalb der App gesendet, erhalten Push-Nachrichten sofort Aufmerksamkeit. Sie eignen sich ideal für zeitkritische Updates und ermutigen Benutzer, zu Ihrer App zurückzukehren. | Direkte Nachrichten werden an die Mobiltelefone der Benutzer gesendet, ohne dass die App benötigt wird. Ideal für dringende Warnungen, Erinnerungen und Rich-Media-Inhalte wie Bilder oder Videos. | Konversationskanal über eine weit verbreitete Messaging-App, die personalisierte, bidirektionale Kommunikation und interaktive Kampagnen ermöglicht. |
+| ![Push-Benachrichtigungen](/help/mobile-learning-hub/assets/mobile-phone.webp){width=„250“, height=„250“}<br> **[Push-Benachrichtigungen](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=„250“, height=„250“}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=„250“, height=„250“}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** | ![Live-Aktivitäten](/help/mobile-learning-hub/assets/live-activities.png){width=„250“, height=„250“}<br> **[Live-Aktivitäten](/help/mobile-learning-hub/channels/live-activities-overview.md)** |
+|-------------------------------------|------------------------------------|-------------------------------|-------------------------------|
+| Außerhalb der App gesendet, erhalten Push-Nachrichten sofort Aufmerksamkeit. Sie eignen sich ideal für zeitkritische Updates und ermutigen Benutzer, zu Ihrer App zurückzukehren. | Direkte Nachrichten werden an die Mobiltelefone der Benutzer gesendet, ohne dass die App benötigt wird. Ideal für dringende Warnungen, Erinnerungen und Rich-Media-Inhalte wie Bilder oder Videos. | Konversationskanal über eine weit verbreitete Messaging-App, die personalisierte, bidirektionale Kommunikation und interaktive Kampagnen ermöglicht. | Dauerhafte Aktualisierungen in Echtzeit auf dem Sperrbildschirm, auf Dynamic Island oder in der Benachrichtigungsschattierung, die Kunden über den Fortschritt einer Aktivität informieren. |
 
 ### Eingehende Kanäle
 
