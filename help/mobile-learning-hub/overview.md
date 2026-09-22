@@ -8,7 +8,7 @@ index: true
 jira: KT-19860
 last-substantial-update: 2025-12-18
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
+source-git-commit: 1b8691391bcbe2f8dfa8c8b7f98058933af11a15
 workflow-type: tm+mt
 source-wordcount: '973'
 ht-degree: 7%
@@ -19,7 +19,7 @@ Bauen Sie auf Adobe Journey Optimizer, um Ihre mobile Interaktionsstrategie sofo
 
 Erfahren Sie mehr über Best Practices, die Förderung der Akzeptanz und die Einrichtung zentralisierter Reporting-Workflows - alles an einem Ort, um wirkungsvolle, datengesteuerte mobile Erlebnisse bereitzustellen, die Kunden jederzeit und überall erreichen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477007?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## Mobile-Kanal - Übersicht
@@ -32,7 +32,7 @@ Ausgehende Kanäle ermöglichen den proaktiven Versand von Nachrichten an Kunden
 
 Alle ausgehenden Kanäle in Adobe Journey Optimizer erzwingen benutzerdefinierte Einverständnisrichtlinien zum Zeitpunkt des Nachrichtenversands. Wenn für eine bestimmte Marketing-Aktion kein Einverständnis erteilt wird, wird die Nachricht automatisch unterdrückt, um einen konformen Versand sicherzustellen.
 
-| ![Push-Benachrichtigungen](/help/mobile-learning-hub/assets/mobile-phone.webp){width=„250“, height=„250“}<br> **[Push-Benachrichtigungen](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=„250“, height=„250“}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=„250“, height=„250“}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** | ![Live-Aktivitäten](/help/mobile-learning-hub/assets/live-activities.webp){width=„250“, height=„250“}<br> **[Live-Aktivitäten](/help/mobile-learning-hub/channels/live-activities-overview.md)** |
+| ![Push-Benachrichtigungen](/help/mobile-learning-hub/assets/mobile-phone.webp){width=„250“, height=„250“}<br> **[Push-Benachrichtigungen](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=„250“, height=„250“}<br> **[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=„250“, height=„250“}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** | ![Live-Aktivitäten](/help/mobile-learning-hub/assets/live-activities.png){width=„250“, height=„250“}<br> **[Live-Aktivitäten](/help/mobile-learning-hub/channels/live-activities-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|-------------------------------|
 | Außerhalb der App gesendet, erhalten Push-Nachrichten sofort Aufmerksamkeit. Sie eignen sich ideal für zeitkritische Updates und ermutigen Benutzer, zu Ihrer App zurückzukehren. | Direkte Nachrichten werden an die Mobiltelefone der Benutzer gesendet, ohne dass die App benötigt wird. Ideal für dringende Warnungen, Erinnerungen und Rich-Media-Inhalte wie Bilder oder Videos. | Konversationskanal über eine weit verbreitete Messaging-App, die personalisierte, bidirektionale Kommunikation und interaktive Kampagnen ermöglicht. | Dauerhafte Aktualisierungen in Echtzeit auf dem Sperrbildschirm, auf Dynamic Island oder in der Benachrichtigungsschattierung, die Kunden über den Fortschritt einer Aktivität informieren. |
 
@@ -97,4 +97,4 @@ Lernen Sie die Konzepte und Gewusst wie
 
 ## Kunden-Anwendungsfälle
 
-* [Personalisierung im Flug: Wie Fluggesellschaften Angebote mit Adobe Journey Optimizer erhöhen können (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=de)
+* [Personalisierung im Flug: Wie Fluggesellschaften Angebote mit Adobe Journey Optimizer erhöhen können (Blog)](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
