@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Erfahren Sie, was Adobe Journey Optimizer ist, welche geschäftlichen Herausforderungen mit dieser Anwendung gelöst werden können und welche wichtigen Anwendungsfälle es gibt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424995?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432377?captions=ger&quality=12&learn=on){transcript=true}
 
   <br>
