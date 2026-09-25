@@ -5,16 +5,14 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30T00:00:00Z
+last-substantial-update: 2025-04-30
 jira: KT-17923
 exl-id: ebaa3aa5-0a08-43fd-8d06-8e4b5d8dee05
 source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '268'
 ht-degree: 0%
-
 ---
-
 # Erstellen von Audiences mit Web SDK
 
 In diesem Tutorial erfahren Sie, wie Sie Benutzereinstellungen über ein Web-Formular erfassen, diese Daten in Echtzeit an Adobe Experience Platform (AEP) senden und Benutzer basierend auf ihrer Auswahl dynamisch für Audiences qualifizieren. Durch die Kombination von Adobe Tags (Launch), AEP Web SDK (Alloy.js) und Edge-Segmentierung ermöglichen Sie sofortige Personalisierungsmöglichkeiten für Kunden, die an Aktien, Anleihen oder Einlagenzertifikaten (CDs) interessiert sind.
