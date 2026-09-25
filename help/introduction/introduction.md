@@ -9,13 +9,11 @@ team: PM
 role: User
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: 9d4108ac6e2a300e0be06398a8f7d97d5ce879ab
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 100%
-
 ---
-
 # Einführung in Adobe Journey Optimizer
 
 Erfahren Sie, was Adobe Journey Optimizer ist, welche geschäftlichen Herausforderungen mit dieser Anwendung gelöst werden können und welche wichtigen Anwendungsfälle es gibt.
