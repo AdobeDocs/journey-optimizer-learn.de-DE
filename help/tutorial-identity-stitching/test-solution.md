@@ -5,17 +5,15 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-19T00:00:00Z
+last-substantial-update: 2025-05-19
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
 source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '342'
 ht-degree: 0%
-
 ---
-
 # Testen der Identitätszuordnung
 
 Diese Beispielanwendung simuliert einen realen Anmeldefluss, bei dem die Benutzeranmeldeinformationen Server-seitig validiert werden, bevor die CRM-ID an Adobe Experience Platform (AEP) gesendet wird. Ein lokaler Node.js-Server wird verwendet, um die Web-Seiten sicher bereitzustellen, grundlegende Authentifizierungslogik zu verarbeiten und Browser-Einschränkungen zu vermeiden (z. B. blockierter lokaler Dateizugriff oder fehlende CORS-Header), die die Funktionalität von Adobe Launch oder Web SDK beeinträchtigen könnten. Dadurch wird sichergestellt, dass das Erlebnis näher an einer echten Produktionsumgebung liegt.
