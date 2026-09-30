@@ -227,7 +227,7 @@ ht-degree: 98%
     + SMS-/MMS-/RCS-Kanal {#sms-mms-channel}
       + [Konfigurieren von SMS-API-Anmeldedaten und Kanaloberflächen](/help/set-up-channels/set-up-sms-channel.md)
       + [Konfigurieren eines benutzerdefinierten SMS-Anbieters](/help/set-up-channels/configure-custom-sms-provider.md)
-      + [Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + [Konfigurieren von MMS-API-Anmeldedaten und Kanaloberflächen](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
       + [Einrichten von RCS](/help/set-up-channels/set-up-rcs.md)
     + Web- und Mobile-Kanäle {#web-and-mobile-channels}
       + [Kanaleinrichtung mit Assistent](/help/set-up-channels/guided-channel-setup.md)
