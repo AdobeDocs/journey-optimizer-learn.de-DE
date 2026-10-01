@@ -25,4 +25,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Android-Live-Updates in Adobe Journey Optimizer erstellen und bereitstellen. Dadurch werden dauerhafte Echtzeit-Kundenerlebnisse ermöglicht, mit denen Benutzende über den Fortschritt von Aktivitäten auf dem Laufenden gehalten werden. In diesem Tutorial erfahren Sie, wie Sie den Kanal für Android-Live-Updates konfigurieren, Kampagnen erstellen und aktivieren und APIs verwenden, um Live-Erlebnisse in allen Customer Journeys zu starten, zu aktualisieren und zu beenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503653/?captions=ger&learn=on&enablevpops)
