@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 auto-video-transcripts: true
 source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1579'
-ht-degree: 98%
+ht-degree: 100%
 ---
 
 # Journey Optimizer-Tutorials {#tutorials}
@@ -43,7 +43,7 @@ ht-degree: 98%
   + [Analysieren und Erstellen von Journeys mit KI](/help/ai-agents/journey-agent-overview.md)
   + [Erstellen eines Testprofils](/help/journeys/test-a-journey.md)
   + [Simulieren von Journeys mit externen Zielgruppen](/help/journeys/simulate-journeys-with-external-audiences.md)
-  + [Beschleunigen von Journey-Tests mit Schnellsimulation](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
+  + [Beschleunigen von Journey-Tests mit der Schnellsimulation](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
   + [Veröffentlichen einer Journey](/help/journeys/publish-a-journey.md)
   + [Aktivität „Inhaltsentscheidung“](/help/journeys/content-decision-activity.md)
   + [Verwenden der Datensatzsuche in einer Journey](/help/journeys/lookup-dataset.md)
@@ -102,7 +102,7 @@ ht-degree: 98%
     + [Konfigurieren von Inhaltsexperimenten für In-App-Nachrichten](/help/experimentation/content-experiments-for-in-app-messages.md)
   + Live-Aktivitäten {#live-activities}
     + [iOS-Live-Aktivitäten](/help/channels/ios-live-activities.md)
-    + [Einrichten von Live-Aktualisierungen für Android](/help/channels/android-live-updates.md)
+    + [Einrichten von Live-Updates für Android](/help/channels/android-live-updates.md)
   + Push-Kanal{#push-channel}
     + [Push-Benachrichtigungen – Überblick](/help/channels/push-notifications-overview.md)
     + [Konfigurieren und Senden von Push-Kampagnen](/help/channels/create-a-push-campaign.md)
@@ -177,7 +177,7 @@ ht-degree: 98%
       + [Verwenden der Entscheidungsfindung zum Personalisieren von E-Mails](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [Verwenden von Entscheidungsfindung in Push-Benachrichtigungen](/help/decisioning/decisioning-in-push-notifications.md)
       + [Verwenden von Entscheidungsfindung in einer SMS-Nachricht](/help/decisioning/use-decisioning-in-an-sms-message.md)
-      + [Verwenden von Decisioning im visuellen Web-Editor](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
+      + [Verwenden der Entscheidungsfindung im visuellen Web-Editor](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [Verwenden der Entscheidungsfindung zur Personalisierung von Web-Angeboten (Tutorial)](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [Verwenden von Experience Manager-Inhaltsfragmenten mit Entscheidungsfindung](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + Auslösen von Entscheidungen durch externe Trigger und Interaktionen {#trigger}
@@ -227,7 +227,7 @@ ht-degree: 98%
     + SMS-/MMS-/RCS-Kanal {#sms-mms-channel}
       + [Konfigurieren von SMS-API-Anmeldedaten und Kanaloberflächen](/help/set-up-channels/set-up-sms-channel.md)
       + [Konfigurieren eines benutzerdefinierten SMS-Anbieters](/help/set-up-channels/configure-custom-sms-provider.md)
-      + [Konfigurieren von MMS-API-Anmeldedaten und Kanaloberflächen](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + [Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
       + [Einrichten von RCS](/help/set-up-channels/set-up-rcs.md)
     + Web- und Mobile-Kanäle {#web-and-mobile-channels}
       + [Kanaleinrichtung mit Assistent](/help/set-up-channels/guided-channel-setup.md)
@@ -266,7 +266,7 @@ ht-degree: 98%
   + [Verbessern der Kundeninteraktion](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
   + [Skalierung der Orchestrierung auf eine Omni-Channel-Interaktion](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
   + Anwendungsfall-Playbooks {#use-case-playbooks}
-    + [Übersicht](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+    + [Überblick](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
     + [Konfigurieren einer Playbook-Sandbox](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
     + [Erstellen und Veröffentlichen von Playbook-Instanzen](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Übungen, Labs und Challenges {#exercises-and-challenges}
