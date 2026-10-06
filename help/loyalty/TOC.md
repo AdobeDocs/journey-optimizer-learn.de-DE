@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: Loyalität
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 76bddb8b4e71ed4a059ec8bf808bc98a31377e28
+source-git-commit: c6d18e0a5cc1f80affb52852be6d7fcc6c832fe1
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '177'
 ht-degree: 0%
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
   + Einrichten der Erfassung von Treuedaten {#set-up-loyalty-data-ingestion}
     + [Erstellen von Profil- und Ereignisschemata und Datensätzen](./set-up-loyalty/create-profile-and-event-schemas-and-datasets.md)
     + [Konfigurieren der HTTP-API-Quelle und Zuordnen von Treueprogramm-Daten](./set-up-loyalty/configure-the-http-api-source-and-map-loyalty-data.md)
-    + [Aufnahme von Treuedaten testen](./set-up-loyalty/test-loyalty-data-ingestion.md)
+    + [Treuedaten überprüfen und Leistungsberichte konfigurieren](./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md)
   + [Einrichten eines Anbieters für Treueprämien](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + Herausforderung konfigurieren {#configure-your-challenge}
   + [Herausforderung „Treue“ einrichten](./configure-your-challenge/set-up-a-loyalty-challenge.md)
