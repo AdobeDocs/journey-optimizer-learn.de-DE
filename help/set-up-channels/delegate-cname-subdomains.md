@@ -11,13 +11,11 @@ level: Beginner
 exl-id: 758e5ea0-af6a-4a5f-ae25-2ef4212988a2
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '34'
 ht-degree: 100%
-
 ---
-
 # Delegieren von CName-Subdomains
 
 Erfahren Sie, wie Sie eine Subdomain mit CNAME erstellen, um auf Adobe-spezifische Einträge zu verweisen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412601?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/339484?quality=12&learn=on){transcript=true}
