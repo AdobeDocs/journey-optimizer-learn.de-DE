@@ -117,5 +117,5 @@ Die JavaScript ruft Wetterinformationen basierend auf dem Standort der Benutzeri
 
 ## Nächste Schritte
 
-[Auswirkungen von AJO Decisioning messen und melden.](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
+[Auswirkungen von AJO Decisioning messen und melden.](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 
