@@ -31,4 +31,4 @@ ht-degree: 100%
 
 Machen Sie sich mit den Funktionen der Journey-Arbeitsfläche vertraut.
 
->[!VIDEO](https://video.tv.adobe.com/v/342099?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409522?captions=ger&quality=12&learn=on){transcript=true}

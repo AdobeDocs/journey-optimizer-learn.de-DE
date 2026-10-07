@@ -28,6 +28,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie [Fallback-Angebote](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-fallback-offers.html?lang=de) für das Entscheidungs-Management erstellen. Fallback-Angebote sind Standardangebote, die Kunden angezeigt werden, die sich für keines Ihrer personalisierten Angebote qualifizieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/329383?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341350?captions=ger&quality=12&learn=on){transcript=true}
 
 Weitere Informationen zum Erstellen von Fallback-Angeboten mit einer API finden Sie im [Produkthandbuch](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/fallback-offers/create.html?lang=de)

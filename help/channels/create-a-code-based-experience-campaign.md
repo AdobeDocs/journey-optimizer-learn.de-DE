@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie eine Code-basierte Erlebniskampagne erstellen, um die Personalisierung mit Unterstützung für serverseitige, API-basierte oder SDK-basierte Implementierungsmethoden zu skalieren und nahtlos in Entwicklungsumgebungen zu integrieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449462/?captions=ger&learn=on)
