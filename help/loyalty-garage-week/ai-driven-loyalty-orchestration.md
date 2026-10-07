@@ -5,13 +5,23 @@ feature: Overview
 role: User
 index: false
 exl-id: 726b5620-50a9-4ecf-8e62-a10358cc772b
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '6132'
 ht-degree: 0%
-
 ---
-
 # KI-gesteuerte Orchestrierung der Treue
 
 ## Von RFM zu Real-Time Personalization
@@ -146,7 +156,7 @@ Für Loyalitätsverantwortliche, die bereit sind, eine KI-gesteuerte Orchestrier
 
 Durch die Ausführung dieser Schritte legen Marketing-Experten für die Kundentreue den Grundstein für eine erfolgreiche KI-gesteuerte Orchestrierung. Entscheidend ist, klein, aber strategisch zu beginnen - Datengrundlagen aufzubauen, schnelle Erfolge zu demonstrieren und sowohl Ihr Team als auch Führungskräfte zu schulen. Bei Treueprogrammen ging es schon immer darum **„stärkere Kundenbeziehungen aufzubauen** Mit KI als Verbündetem können Marketing-Experten dies nun in einer Tiefe und Größenordnung tun, die zuvor nicht möglich war. Es ist an der Zeit, Schritt für Schritt einen Sprung in die KI-gesteuerte Zukunft der Treue zu wagen.
 
-## Verweise
+## Referenzen
 
 - [Von reaktiv zu prädiktiv: Wie KI die Reife und den ROI von Treueprogrammen beschleunigt](https://www.linkedin.com/pulse/from-reactive-predictive-how-ai-accelerating-loyalty-guinand-ph-d--jbhhe)
 - [Unterstützung der RFM-Modellierung durch Predictive Analytics - Pecan AI](https://www.pecan.ai/blog/how-predictive-analytics-supports-rfm-modeling/)

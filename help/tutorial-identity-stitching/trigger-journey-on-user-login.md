@@ -5,17 +5,30 @@ feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-09-24T00:00:00Z
+last-substantial-update: 2025-09-24T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-19287
 exl-id: c6d4f720-3780-4012-a2bd-8eae23599144
-source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: ef9a83ca-eefa-47cf-aa34-f1a34715583a
+    internal-label: Profiles
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 10%
-
 ---
-
 # Trigger Adobe Journey Optimizer Journey mit Adobe Web SDK
 
 In dieser Erweiterung des Tutorials zum Identitätszuordnen wird die Adobe Journey Optimizer-Journey ausgelöst, die den angemeldeten Benutzer mithilfe seines zugeordneten Profils per E-Mail benachrichtigt. **In diesem Artikel wird davon ausgegangen, dass Sie mit dem E-Mail-Kanal und der Erstellung von Inhalten für den E-Mail-Kanal vertraut sind.**

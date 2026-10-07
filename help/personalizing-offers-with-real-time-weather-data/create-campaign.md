@@ -5,17 +5,30 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-30T00:00:00Z
+last-substantial-update: 2025-05-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: c3e4f760-9b10-4a99-bc53-9245e76c1bab
-source-git-commit: 95a8abd08fbf57900870826112b01a8cd375fe96
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '658'
 ht-degree: 1%
-
 ---
-
 # Erstellen einer Kampagne
 
 Um den Nutzern auf der Web-Seite personalisierte Angebote zu unterbreiten, wurde in Adobe Journey Optimizer eine Kampagne erstellt und mit dem richtigen Kanal, dem Code-basierten Erlebniskanal, konfiguriert. Diese Konfiguration stellt sicher, dass die Angebote über Echtzeit-Entscheidungsfindung an Benutzer übermittelt werden, die mit der Website interagieren.
@@ -32,11 +45,11 @@ Wenn ein Benutzer die Website besucht, erkennt das System den Standort und ruft 
 ## Allgemeine Schritte zum Erstellen einer Kampagne in AJO
 
 - Erstellen einer Kanalkonfiguration
-   - Definieren, wo und wie die Angebote angezeigt werden (z. B. eine Web-Seite mit Code-basiertem Erlebnis).
-   - Beim Journey Optimizer anmelden
-   - Navigieren Sie zu _&#x200B;**Administration -> Kanäle -> Kanalkonfiguration erstellen**&#x200B;_
-   - **Name**: `offers-by-weather`\
-     Identifiziert diese Konfiguration für die Bereitstellung personalisierter Web-Angebote.
+  - Definieren, wo und wie die Angebote angezeigt werden (z. B. eine Web-Seite mit Code-basiertem Erlebnis).
+  - Beim Journey Optimizer anmelden
+  - Navigieren Sie zu _&#x200B;**Administration -> Kanäle -> Kanalkonfiguration erstellen**&#x200B;_
+  - **Name**: `offers-by-weather`\
+    Identifiziert diese Konfiguration für die Bereitstellung personalisierter Web-Angebote.
 - **channel**:
   `Code-based experience`\
   Angebote werden nicht direkt in das DOM eingefügt. Stattdessen gibt AJO unformatierten HTML zurück, der mithilfe von benutzerdefiniertem JavaScript geparst wird.
@@ -53,23 +66,23 @@ Wenn ein Benutzer die Website besucht, erkennt das System den Standort und ruft 
 
 
 - **Neue Kampagne starten**
-   - Navigieren Sie zum Abschnitt Kampagnen und erstellen Sie eine neue geplante Marketing-Kampagne. Benennen Sie die Kampagne entsprechend.
-   - **Aktion hinzufügen**
-      - Fügen Sie die Code-basierte Erlebnisaktion hinzu und verknüpfen Sie die Aktion mit einer zuvor erstellten Kanalkonfiguration.
+  - Navigieren Sie zum Abschnitt Kampagnen und erstellen Sie eine neue geplante Marketing-Kampagne. Benennen Sie die Kampagne entsprechend.
+  - **Aktion hinzufügen**
+    - Fügen Sie die Code-basierte Erlebnisaktion hinzu und verknüpfen Sie die Aktion mit einer zuvor erstellten Kanalkonfiguration.
 
 
 
-   - **Zielgruppe**
-      - Alle Besucher (Standard).
-      - Identitätstyp: ECID (Experience Cloud ID)
-Diese Einstellung verwendet die ECID als primäre Identität zum Erkennen von Benutzern.
+  - **Zielgruppe**
+    - Alle Besucher (Standard).
+    - Identitätstyp: ECID (Experience Cloud ID)
+      Diese Einstellung verwendet die ECID als primäre Identität zum Erkennen von Benutzern.
 
 
 - **Entscheidungsrichtlinie erstellen**
-   - Die Aktion ist mit einer **Entscheidungsrichtlinie“ verknüpft** die definiert, wie Angebote ausgewählt und wie viele Angebote zur Anzeige zurückgegeben werden. Diese Richtlinie verwendet eine **Auswahlstrategie** die zuvor im Tutorial erstellt wurde.
-   - Um die Entscheidungsrichtlinie einzufügen, klicken Sie in den **_Aktionen auf_** Inhalt bearbeiten und anschließend auf **_Code bearbeiten_**, um den Personalisierungseditor zu öffnen.
-   - Wählen Sie _&#x200B;**Symbol**&#x200B;_ Entscheidungsrichtlinie“ auf der linken Seite aus und klicken Sie auf die Schaltfläche **Entscheidungsrichtlinie hinzufügen**, um den Bildschirm **Entscheidungsrichtlinie erstellen** zu öffnen. Geben Sie der Entscheidungsrichtlinie einen aussagekräftigen Namen und wählen Sie die Anzahl der Elemente aus, die die Entscheidungsrichtlinie zurückgeben soll. Der Standardwert ist 1.
-   - Klicken Sie **_Weiter_**, fügen Sie die im vorherigen Schritt erstellte Auswahlstrategie zur Entscheidungsrichtlinie hinzu und klicken Sie auf **Weiter**, um den Prozess der Erstellung der Entscheidungsrichtlinie abzuschließen. Es wurden keine Fallback-Angebote mit der Entscheidungsrichtlinie verknüpft.
+  - Die Aktion ist mit einer **Entscheidungsrichtlinie“ verknüpft** die definiert, wie Angebote ausgewählt und wie viele Angebote zur Anzeige zurückgegeben werden. Diese Richtlinie verwendet eine **Auswahlstrategie** die zuvor im Tutorial erstellt wurde.
+  - Um die Entscheidungsrichtlinie einzufügen, klicken Sie in den _&#x200B;**Aktionen auf**&#x200B;_ Inhalt bearbeiten und anschließend auf **_Code bearbeiten_**, um den Personalisierungseditor zu öffnen.
+  - Wählen Sie _&#x200B;**Symbol**&#x200B;_ Entscheidungsrichtlinie“ auf der linken Seite aus und klicken Sie auf die Schaltfläche **Entscheidungsrichtlinie hinzufügen**, um den Bildschirm **Entscheidungsrichtlinie erstellen** zu öffnen. Geben Sie der Entscheidungsrichtlinie einen aussagekräftigen Namen und wählen Sie die Anzahl der Elemente aus, die die Entscheidungsrichtlinie zurückgeben soll. Der Standardwert ist 1.
+  - Klicken Sie **_Weiter_**, fügen Sie die im vorherigen Schritt erstellte Auswahlstrategie zur Entscheidungsrichtlinie hinzu und klicken Sie auf **Weiter**, um den Prozess der Erstellung der Entscheidungsrichtlinie abzuschließen. Es wurden keine Fallback-Angebote mit der Entscheidungsrichtlinie verknüpft.
 
 
 
@@ -77,7 +90,7 @@ Diese Einstellung verwendet die ECID als primäre Identität zum Erkennen von Be
   ![personalization-editor](assets/personalization-editor.png)
 
   Fügen Sie die neu erstellte Entscheidungsrichtlinie ein, indem Sie auf die Schaltfläche _&#x200B;**Richtlinie einfügen**&#x200B;_ klicken. Dadurch wird eine for-Schleife im Personalisierungseditor auf der rechten Seite eingefügt.
-Platzieren Sie den Cursor zwischen den einzelnen Schleifen in Zeile zwei und fügen Sie den offerText ein, indem Sie durch Drilldown des `tenant name` zum Angebot navigieren. Schließen Sie das Angebot in ein Div mit dem Angebotselement der Klasse ein, wie im Screenshot gezeigt.
+  Platzieren Sie den Cursor zwischen den einzelnen Schleifen in Zeile zwei und fügen Sie den offerText ein, indem Sie durch Drilldown des `tenant name` zum Angebot navigieren. Schließen Sie das Angebot in ein Div mit dem Angebotselement der Klasse ein, wie im Screenshot gezeigt.
 
 
 

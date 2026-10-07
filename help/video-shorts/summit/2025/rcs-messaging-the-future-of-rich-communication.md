@@ -7,13 +7,14 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 0e3ffb0f-024a-44c2-a24a-efc78dec0a79
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
-
 ---
-
 # RCS Messaging: Die Zukunft der Rich-Kommunikation
 
 Erfahren Sie, wie Adobe Journey Optimizer RCS-Messaging unterstützt und markenspezifische, interaktive und App-ähnliche Erlebnisse direkt in den Nachrichten-Posteingängen der Benutzer anbietet.

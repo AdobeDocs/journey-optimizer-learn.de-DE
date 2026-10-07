@@ -1,19 +1,29 @@
 ---
-title: Loyalty Garage Week - Overview
-description: Please add a description
+title: Loyalitäts-Garage Woche - Übersicht
+description: Beschreibung hinzufügen
 feature: Overview
 role: User
 hide: true
 index: false
 exl-id: 1c8da00a-45c0-44fb-8e4e-e17a3978b4fe
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '426'
-ht-degree: 2%
-
+source-wordcount: '621'
+ht-degree: 33%
 ---
-
-# Loyalty Garage Week - Overview
+# Loyalitäts-Garage Woche - Übersicht
 
 <!--
 CARDS
@@ -29,8 +39,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html?lang=de" title="AI-Driven Loyalty Orchestration - From RFM to Real-Time Personalization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="AI-Driven Loyalty Orchestration - From RFM to Real-Time Personalization"
+                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html?lang=de" title="KI-gestützte Orchestrierung der Treue - von RFM zu Real-time Personalization" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="KI-gestützte Orchestrierung der Treue - von RFM zu Real-time Personalization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -38,9 +48,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html?lang=de" target="_blank" rel="referrer" title="AI-Driven Loyalty Orchestration - From RFM to Real-Time Personalization">AI-Driven Loyalty Orchestration - From RFM to Real-Time Personalization</a>
+                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html?lang=de" target="_blank" rel="referrer" title="KI-gestützte Orchestrierung der Treue - von RFM zu Real-time Personalization">KI-gestützte Orchestrierung der Treue - von RFM zu Real-time Personalization</a>
                     </p>
-                    <p class="is-size-6">Modern loyalty programs are undergoing an AI-powered revolution. Brands are evolving from simple, rule-based segmentation (like RFM models) to predictive analytics and autonomous decision engines that orchestrate the next best action for each customer in real time.</p>
+                    <p class="is-size-6">Moderne Treueprogramme unterliegen einer KI-gestützten Revolution. Marken entwickeln sich von einer einfachen, regelbasierten Segmentierung (wie RFM-Modelle) hin zu prädiktiven Analysen und autonomen Entscheidungs-Engines, die die nächstbeste Aktion für jeden Kunden in Echtzeit orchestrieren.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/ai-driven-loyalty-orchestration.html?lang=de" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
@@ -61,9 +71,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html?lang=de" target="_blank" rel="referrer" title="Challenge-Based Loyalty">Challenge-Based Loyalty</a>
+                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html?lang=de" target="_blank" rel="referrer" title="Challenge-Based Loyalty">Challenge-based Loyalty</a>
                     </p>
-                    <p class="is-size-6">Designing Behavioral Gamification Systems That Drive Long-Term Engagement</p>
+                    <p class="is-size-6">Entwerfen von verhaltensbezogenen Gamification-Systemen, die die langfristige Interaktion fördern</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/challenge-based-loyalty.html?lang=de" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
@@ -75,8 +85,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html?lang=de" title="Emotional Loyalty and Community Building" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="Emotional Loyalty and Community Building"
+                    <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html?lang=de" title="Emotionale Loyalität und Aufbau von Gemeinschaften" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial.png" alt="Emotionale Loyalität und Aufbau von Gemeinschaften"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -84,7 +94,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html?lang=de" target="_blank" rel="referrer" title="Emotional Loyalty and Community Building">Emotionale Loyalität und Aufbau von </a>
+                        <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/loyalty-garage-week/emotional-loyalty-and-community-building.html?lang=de" target="_blank" rel="referrer" title="Emotionale Loyalität und Aufbau von Gemeinschaften">Emotionale Loyalität und Aufbau von </a>
                     </p>
                     <p class="is-size-6">Wie Marken durch erlebnisbasierte Treue Identität, Zugehörigkeit und Interessenvertretung schaffen</p>
                 </div>

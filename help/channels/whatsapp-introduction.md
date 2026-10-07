@@ -1,23 +1,38 @@
 ---
 title: Einführung in den WhatsApp-Kanal
-description: Das Video bietet einen allgemeinen Überblick über die Vorteile der Integration von WhatsApp mit Adobe Journey Optimizer. Es hebt die globale Reichweite und die Interaktionsvorteile von WhatsApp hervor und fasst wichtige Voraussetzungen zusammen, wie die Einrichtung eines WhatsApp-Unternehmenskontos, die Generierung von Zugriffs-Token und die Erstellung von Nachrichtenvorlagen.
+description: Das Video bietet einen allgemeinen Überblick über die Vorteile der Integration von WhatsApp mit Adobe Journey Optimizer. Er hebt die globale Reichweite und die Interaktionsvorteile von WhatsApp hervor und fasst wichtige Voraussetzungen zusammen, wie die Einrichtung eines WhatsApp-Unternehmenskontos, die Generierung von Zugriffs-Token und die Erstellung von Nachrichtenvorlagen.
 feature: Whatsapp
 role: Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 133
-last-substantial-update: 2025-07-30T00:00:00Z
+last-substantial-update: 2025-07-30T00:00:00.000Z
 jira: KT-18562
 exl-id: fb6f937e-d1b5-4e15-8ed6-b070fec871d4
-source-git-commit: 20e0da0799956b246370aa04dabec958ff6b51ae
-workflow-type: ht
-source-wordcount: '94'
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: b8df23d2-98a2-4406-86cc-2babe8728d36
+    internal-label: WhatsApp channel
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
+source-wordcount: '96'
 ht-degree: 100%
-
 ---
-
 # Einführung in den WhatsApp-Kanal
 
-Das Video bietet einen allgemeinen Überblick über die Vorteile der Integration von WhatsApp mit Adobe Journey Optimizer. Es hebt die globale Reichweite und die Interaktionsvorteile von WhatsApp hervor und fasst wichtige Voraussetzungen zusammen, wie die Einrichtung eines WhatsApp-Unternehmenskontos, die Generierung von Zugriffs-Token und die Erstellung von Nachrichtenvorlagen.
+Das Video bietet einen allgemeinen Überblick über die Vorteile der Integration von WhatsApp mit Adobe Journey Optimizer. Er hebt die globale Reichweite und die Interaktionsvorteile von WhatsApp hervor und fasst wichtige Voraussetzungen zusammen, wie die Einrichtung eines WhatsApp-Unternehmenskontos, die Generierung von Zugriffs-Token und die Erstellung von Nachrichtenvorlagen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470305/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3470305/?captions=ger&learn=on&enablevpops)
