@@ -7,16 +7,17 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: ff22ce7a-55fd-4262-b2a0-e7e25479716b
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
-
 ---
-
 # Testen benutzerdefinierter Aktionen in Adobe Journey Optimizer
 
 Entdecken Sie, wie Sie benutzerdefinierte Aktionen direkt in Adobe Journey Optimizer testen können, ohne eine vollständige Journey ausführen zu müssen, was Zeit und Aufwand spart.
 
 <!-- 62_S522_3442522_39_testing-custom-actions-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3460450/?captions=ger&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458211/?learn=on&enablevpops=true)

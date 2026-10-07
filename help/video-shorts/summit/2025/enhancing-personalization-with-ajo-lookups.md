@@ -7,16 +7,17 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 46ccbbf7-3b20-496e-a0b8-073f5550a8a8
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
-
 ---
-
 # Verbessern von Personalization mit AJO Lookups
 
 Erfahren Sie, wie Sie datensatzbasierte Datensätze für personalisierte Nachrichten verwenden, ohne die Kundenprofile in Adobe Journey Optimizer aufblähen zu müssen.
 
 <!-- 62_S522_3442522_70_enhancing-personalization-with-ajo-lookups -->
->[!VIDEO](https://video.tv.adobe.com/v/3460340/?captions=ger&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458226/?learn=on&enablevpops=true)

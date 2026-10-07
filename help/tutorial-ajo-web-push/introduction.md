@@ -5,16 +5,26 @@ feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-04-21T00:00:00Z
+last-substantial-update: 2026-04-21T00:00:00.000Z
 jira: KT-20879
 exl-id: 5cda28e4-ea2f-4277-8951-a23525ca655a
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '405'
 ht-degree: 0%
-
 ---
-
 # Web-Push in Adobe Journey Optimizer
 
 Web-Push-Benachrichtigungen sind eine leistungsstarke Methode, um Benutzende in Echtzeit erneut einzubinden. Dieses Tutorial führt Sie durch die Implementierung mithilfe von Adobe Journey Optimizer (AJO). Zunächst verwenden Sie die Web-SDK, um die Opt-in-Voreinstellungen von Benutzenden für Push-Benachrichtigungen zu erfassen und so ein nahtloses und konformes Abonnementerlebnis sicherzustellen. Als Nächstes erstellen Sie eine Kampagne zum Senden von Push-Benachrichtigungen an Benutzer, die sich für die Kampagne entschieden haben, um eine zielgruppenbasierte Interaktion zu ermöglichen. Schließlich erfahren Sie, wie Sie AEP Tags nutzen können, um ein benutzerdefiniertes Preisabfallereignis zum Trigger zu bringen, das eine Journey in AJO initiiert und zeitnahe, personalisierte Push-Benachrichtigungen basierend auf dem Echtzeit-Benutzerverhalten bereitstellt.
@@ -25,7 +35,7 @@ Beispiel-Webseite, auf der Benutzer Benachrichtigungen auswählen können
 
 Beispiel einer Web-Seite für ein Preisabsenkungsereignis eines Triggers
 
-![Preisverfall beim Trigger &#x200B;](assets/trigger-price-drop-event.png)
+![Preisverfall beim Trigger ](assets/trigger-price-drop-event.png)
 
 ## Voraussetzungen
 

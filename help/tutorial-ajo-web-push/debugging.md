@@ -5,16 +5,26 @@ feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-04-21T00:00:00Z
+last-substantial-update: 2026-04-21T00:00:00.000Z
 jira: KT-20879
 exl-id: 55cb0875-2953-4d5c-a240-4277aa2f746e
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '318'
 ht-degree: 2%
-
 ---
-
 # Debugging von Web Push in AJO
 
 Auf dieser Seite finden Sie hilfreiche Tipps zum Debugging des Flusses von Web-Push-Benachrichtigungen, einschließlich der Überprüfung von Web-SDK-Anfragen, der Überprüfung der ECID und des Benutzerprofils in AEP und der Sicherstellung, dass Ereignisse wie price.drop korrekt gesendet und empfangen werden.
@@ -32,21 +42,21 @@ Mit diesem Tool können Sie:
 
 - **Verwenden Sie die Registerkarte „Netzwerk“, um Anfragen zu überprüfen**\
   Öffnen Sie **Registerkarte Netzwerk** in den Entwickler-Tools Ihres Browsers und filtern Sie nach Anfragen, die von der Web-SDK gesendet werden (suchen Sie nach `/collect` oder `interact`).
-   - Bestätigungsanfragen werden gesendet, wenn die Seite geladen wird und Aktionen ausgelöst werden
-   - Überprüfen, ob das `price.drop` Ereignis in der Payload enthalten ist
+  - Bestätigungsanfragen werden gesendet, wenn die Seite geladen wird und Aktionen ausgelöst werden
+  - Überprüfen, ob das `price.drop` Ereignis in der Payload enthalten ist
 
 - **Suchen des Benutzerprofils in AEP**\
   Verwenden Sie die ECID, um in Adobe Experience Platform nach dem Benutzerprofil zu suchen. Auf diese Weise können Sie überprüfen, ob der Benutzer erkannt wird und ob seine Daten (z. B. Push-Abonnements) korrekt gespeichert werden.
 
 - **Überprüfen Sie, ob das `price.drop` empfangen wird**\
   Nachdem Sie das Ereignis von der Web-Seite ausgelöst haben, überprüfen Sie in AEP, ob das Ereignis aufgenommen und mit derselben ECID verknüpft wurde.
-Überprüfen Sie die JSON-Datei des message.feedback-Ereignisses auf `feedback.status`. Der Statuswert sollte `sent` sein
+Überprüfen Sie die JSON-Datei des message.feedback-Ereignisses auf `feedback.status`. Der Statuswert sollte sein. `sent`
   ![Preisverfall](assets/price-drop-profile-event.png)
 
 - **Bestätigen, dass Push-Benachrichtigungen aktiviert sind**\
   Stellen Sie sicher, dass:
-   - Der Benutzer hat die Browser-Benachrichtigungsaufforderung akzeptiert
-   - Im Profil des Benutzers ist ein Push-Token vorhanden
+  - Der Benutzer hat die Browser-Benachrichtigungsaufforderung akzeptiert
+  - Im Profil des Benutzers ist ein Push-Token vorhanden
 
 - **Überprüfen Sie das Journey-Setup**\
   Stellen Sie sicher, dass die Journey veröffentlicht und so konfiguriert ist, dass sie auf das `price.drop` wartet.

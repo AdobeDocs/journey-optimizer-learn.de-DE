@@ -6,12 +6,23 @@ level: Beginner, Intermediate
 hide: false
 index: true
 jira: KT-19870
-last-substantial-update: 2025-12-18
+last-substantial-update: 2025-12-18T00:00:00.000Z
 exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be
-source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '3622'
-ht-degree: 67%
+ht-degree: 68%
 ---
 # Entwurf und Bereitstellung
 
@@ -22,8 +33,8 @@ Erfahren Sie, wie Sie mit Adobe Journey Optimizer wirkungsvolle Mobilkommunikati
 >[!NOTE]
 >
 >Wenn Sie Journey Optimizer noch nicht kennen, machen Sie sich mit Journey Optimizer vertraut, indem Sie die folgenden Kurse absolvieren:
->1. [Erstellen und Aktivieren von Zielgruppen in Adobe Journey Optimizer](https://experienceleague.adobe.com/de/courses/ajo-build-and-activate-audiences){target="_blank"}
->2. [Orchestrieren von Journey und Aktionskampagnen in Adobe Journey Optimizer](https://experienceleague.adobe.com/de/courses/ajo-design-and-manage-journeys-and-action-campaigns){target="_blank"}
+>1. [Erstellen und Aktivieren von Zielgruppen in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-build-and-activate-audiences){target="_blank"}
+>2. [Orchestrieren von Journey und Aktionskampagnen in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-design-and-manage-journeys-and-action-campaigns){target="_blank"}
 
 
 ## Nachrichten für Mobilgeräte entwerfen und versenden
@@ -38,7 +49,7 @@ Erfahren Sie, wie Sie Mobile-Nachrichten pro Kanal entwerfen, verfassen und vers
 
 Erfahren Sie, welche mobilen Kanäle Journey Optimizer unterstützt und wie Sie Nachrichten mithilfe dieser Kanäle konfigurieren und senden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430371?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426021?quality=12&learn=on){transcript=true}
 
 >[!TAB Push-Benachrichtigung]
 
@@ -48,16 +59,16 @@ Erfahren Sie, welche mobilen Kanäle Journey Optimizer unterstützt und wie Sie 
 >[!PREREQUISITES]
 >
 > 1. Stellen Sie sicher, dass die App in Mobile SDK integriert und für mobile Kanäle konfiguriert ist.
-> 2. Stellen Sie sicher, dass der [Push](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"}Kanal konfiguriert wurde.
+> 2. Stellen Sie sicher, dass der [Push](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup){target="_blank"}Kanal konfiguriert wurde.
 > 3. Stellen Sie sicher, dass die Kundenprofile und Zielgruppensegmente für das Targeting bereit sind.
 
 #### Tutorials
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/push-channel/push-notifications-overview
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/push-notifications-overview
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -88,8 +99,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" title="Konfigurieren und Senden von Push-Kampagnen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3452710/?captions=ger&format=jpeg&nocache=1770071084041" alt="Konfigurieren und Senden von Push-Kampagnen"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" title="Konfigurieren und Senden von Push-Kampagnen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422017/?format=jpeg&nocache=1770071084041" alt="Konfigurieren und Senden von Push-Kampagnen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -97,11 +108,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" target="_blank" rel="referrer" title="Konfigurieren und Senden von Push-Kampagnen">Konfigurieren und Senden einer Push-Kampagne</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" target="_blank" rel="referrer" title="Konfigurieren und Senden von Push-Kampagnen">Konfigurieren und Senden einer Push-Kampagne</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie eine Push-Benachrichtigung mit einer Kampagne konfigurieren und senden.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-a-push-campaign" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -112,7 +123,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications" title="Optimieren von Push-Benachrichtigungen mit der AJO-Entscheidungsfindung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479219/?captions=ger&format=jpeg&nocache=1770071084034" alt="Optimieren von Push-Benachrichtigungen mit der AJO-Entscheidungsfindung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479199/?format=jpeg&nocache=1770071084034" alt="Optimieren von Push-Benachrichtigungen mit der AJO-Entscheidungsfindung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -136,7 +147,7 @@ CARDS
 
 #### Produktdokumentation
 
-| ![Push erstellen &#x200B;](./assets/configuration.svg) [**Push-Benachrichtigung erstellen**](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![Push entwerfen &#x200B;](./assets/content-management.png){width="50"}[**Push-Benachrichtigung entwerfen**](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![Push senden &#x200B;](./assets/communication-channel.svg) [**Push-Benachrichtigung senden**](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
+| ![Push erstellen ](./assets/configuration.svg)[**Push-Benachrichtigung erstellen**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![Push entwerfen ](./assets/content-management.png){width="50"}[**Push-Benachrichtigung entwerfen**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![Push senden ](./assets/communication-channel.svg)[**Push-Benachrichtigung senden**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB In-App]
@@ -146,16 +157,16 @@ CARDS
 >[!PREREQUISITES]
 >
 > 1. Stellen Sie sicher, dass die App in Mobile SDK integriert und für mobile Kanäle konfiguriert ist.
-> 2. Stellen Sie sicher, dass [&#x200B; In-App](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup?lang=en)Kanal konfiguriert wurde.
+> 2. Stellen Sie sicher, dass [ In-App](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup?lang=en)Kanal konfiguriert wurde.
 > 3. Stellen Sie sicher, dass Kundenprofile und Zielgruppensegmente für das Targeting bereit sind.
 
 #### Tutorials
 
 <!--
 CARDS
-*https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/in-app-messages-overview
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html?lang=de
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app
+*https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/in-app-messages-overview
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -187,7 +198,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" title="Erstellen einer In-App-Kampagne" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451891?captions=ger&format=jpeg&nocache=1770071084761" alt="Erstellen einer In-App-Kampagne"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3410430?format=jpeg&nocache=1770071084761" alt="Erstellen einer In-App-Kampagne"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -212,13 +223,13 @@ CARDS
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html?lang=de
-* https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-experiments-for-in-app-messages.html?lang=de
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html
+* https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-experiments-for-in-app-messages.html
 -->
 
 #### Dokumentation
 
-| ![Nachricht erstellen &#x200B;](./assets/configuration.svg) [**Erstellen von In-App-Nachrichten für Mobilgeräte**](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![Design-Inhalt &#x200B;](./assets/content-management.png){width="50"}[**Design-In-App-Inhalte**](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![Benachrichtigung senden &#x200B;](./assets/communication-channel.svg) [**In-App-Benachrichtigungen senden**](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
+| ![Nachricht erstellen ](./assets/configuration.svg)[**Erstellen von In-App-Nachrichten für Mobilgeräte**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![Design-Inhalt ](./assets/content-management.png){width="50"}[**Design-In-App-Inhalte**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![Benachrichtigung senden ](./assets/communication-channel.svg)[**In-App-Benachrichtigungen senden**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB Inhaltskarten]
@@ -229,14 +240,14 @@ CARDS
 >[!PREREQUISITES]
 >
 > 1. Stellen Sie sicher, dass die App in Mobile SDK integriert und für mobile Kanäle konfiguriert ist.
-> 2. Stellen Sie sicher, [&#x200B; der In-App](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)Kanal konfiguriert wurde.
+> 2. Stellen Sie sicher, [ der In-App](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)Kanal konfiguriert wurde.
 > 3. Stellen Sie sicher, dass Kundenprofile und Zielgruppen für die Zielgruppenbestimmung bereit sind.
 
 #### Tutorials
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -245,7 +256,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards" title="Erstellen von Inhaltskarten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434792/?captions=ger&format=jpeg&nocache=1770071085465" alt="Erstellen von Inhaltskarten"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434783/?format=jpeg&nocache=1770071085465" alt="Erstellen von Inhaltskarten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -268,7 +279,7 @@ CARDS
 
 #### Produktdokumentation
 
-| ![Erstellen und Konfigurieren von Inhaltskarten &#x200B;](./assets/configuration.svg) [**Erstellen und Konfigurieren von Inhaltskarten**](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![Erstellen von Inhaltskarten &#x200B;](./assets/content-management.png){width="50"}[**Entwerfen von Inhaltskarten**](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
+| ![Erstellen und Konfigurieren von Inhaltskarten ](./assets/configuration.svg)[**Erstellen und Konfigurieren von Inhaltskarten**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![Erstellen von Inhaltskarten ](./assets/content-management.png){width="50"}[**Entwerfen von Inhaltskarten**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB Live-Aktivitäten]
@@ -277,24 +288,24 @@ CARDS
 
 >[!PREREQUISITES]
 >
-> 1. Stellen Sie sicher, dass die App in Mobile SDK integriert und mit den Live Activity Extensions konfiguriert ist (siehe [Konfigurieren von Live Activity](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}).
+> 1. Stellen Sie sicher, dass die App in Mobile SDK integriert und mit den Live Activity Extensions konfiguriert ist (siehe [Konfigurieren von Live Activity](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}).
 > 2. Stellen Sie sicher, dass Kundenprofile und Zielgruppensegmente für das Targeting bereit sind.
 
 #### iOS Live-Aktivitäten
 
 Erfahren Sie, wie Sie iOS Live-Aktivitäten mit Adobe Journey Optimizer konfigurieren, um umfangreiche Echtzeit-Updates auf dem iPhone-Sperrbildschirm und auf Dynamic Island zu liefern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479873/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479864/?learn=on&enablevpops)
 
 #### Android Live-Updates
 
-Erfahren Sie, wie Sie Android Live-Aktualisierungen in Adobe Journey Optimizer erstellen und bereitstellen, um dauerhaft dauerhafte Echtzeit-Kundenerlebnisse zu ermöglichen, mit denen Benutzende über den Fortschritt von Aktivitäten auf dem Laufenden gehalten werden.
+Erfahren Sie, wie Sie Android-Live-Updates in Adobe Journey Optimizer erstellen und bereitstellen. Dadurch werden dauerhafte Echtzeit-Kundenerlebnisse ermöglicht, mit denen Benutzende über den Fortschritt von Aktivitäten auf dem Laufenden gehalten werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503653/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
 
 #### Produktdokumentation
 
-| ![Live-Aktivität konfigurieren &#x200B;](./assets/configuration.svg) [**Live-Aktivität konfigurieren**](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"} |
+| ![Live-Aktivität konfigurieren ](./assets/configuration.svg)[**Live-Aktivität konfigurieren**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB SMS/MMS/RCS]
@@ -303,16 +314,16 @@ Erfahren Sie, wie Sie Android Live-Aktualisierungen in Adobe Journey Optimizer e
 
 >[!PREREQUISITES]
 >
-> 1. Stellen Sie sicher, dass [SMS-Anmeldeinformationen und Kanal](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel){target="_blank"} und/oder [MMS-Anmeldeinformationen und Kanal](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces){target="_blank"} konfiguriert wurden -> die RCS-Konfiguration wird im folgenden Tutorial erläutert.
+> 1. Stellen Sie sicher, dass [SMS-Anmeldeinformationen und Kanal](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel){target="_blank"} und/oder [MMS-Anmeldeinformationen und Kanal](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces){target="_blank"} konfiguriert wurden -> die RCS-Konfiguration wird im folgenden Tutorial erläutert.
 > 2. Stellen Sie sicher, dass Kundenprofile und Zielgruppensegmente für das Targeting bereit sind.
 
 #### SMS-Tutorial
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-mms-messages-overview
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-mms-messages-overview
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -343,8 +354,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" title="Konfigurieren, Verfassen und Versenden von SMS-Nachrichten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422692?captions=ger&format=jpeg&nocache=1770071085932" alt="Konfigurieren, Verfassen und Versenden von SMS-Nachrichten"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" title="Konfigurieren, Verfassen und Versenden von SMS-Nachrichten" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420509?format=jpeg&nocache=1770071085932" alt="Konfigurieren, Verfassen und Versenden von SMS-Nachrichten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -352,11 +363,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" target="_blank" rel="referrer" title="Konfigurieren, Verfassen und Versenden von SMS-Nachrichten">Konfigurieren, Verfassen und Versenden von SMS-Nachrichten</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" target="_blank" rel="referrer" title="Konfigurieren, Verfassen und Versenden von SMS-Nachrichten">Konfigurieren, Verfassen und Versenden von SMS-Nachrichten</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie SMS-Nachrichten in Kampagnen und Journeys von Journey Optimizer konfigurieren, erstellen und senden.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
                 </a>
             </div>
@@ -366,8 +377,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Double-Opt-in für Sinch und Infobip" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440289/?captions=ger&format=jpeg&nocache=1770071085934" alt="Double-Opt-in für Sinch und Infobip"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Double-Opt-in für Sinch und Infobip" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427129/?format=jpeg&nocache=1770071085934" alt="Double-Opt-in für Sinch und Infobip"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -375,11 +386,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" title="Double-Opt-in für Sinch und Infobip">Double-Opt-in für Sinch und Infobip</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" title="Double-Opt-in für Sinch und Infobip">Double-Opt-in für Sinch und Infobip</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie Double-Opt-in für SMS konfigurieren.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -392,8 +403,8 @@ CARDS
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -401,8 +412,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" title="Verfassen von MMS-Nachrichten" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3437109/?captions=ger&format=jpeg&nocache=1770071086394" alt="Verfassen von MMS-Nachrichten"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" title="Verfassen von MMS-Nachrichten" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428816/?format=jpeg&nocache=1770071086394" alt="Verfassen von MMS-Nachrichten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -410,11 +421,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" target="_blank" rel="referrer" title="Verfassen von MMS-Nachrichten">Verfassen Sie eine MMS-Nachricht</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" target="_blank" rel="referrer" title="Verfassen von MMS-Nachrichten">Verfassen Sie eine MMS-Nachricht</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie Journey Optimizer mit einem MMS-Dienstanbieter verbinden und wie Sie eine MMS-Kanaloberfläche erstellen.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -425,7 +436,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="Einrichten von RCS in Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464764/?captions=ger&format=jpeg&nocache=1770071086404" alt="Einrichten von RCS in Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1770071086404" alt="Einrichten von RCS in Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -448,7 +459,7 @@ CARDS
 
 #### Produktdokumentation
 
-| ![Erste Schritte mit Textnachrichten &#x200B;](./assets/configuration.svg) [**Erste Schritte mit Textnachrichten**](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![Inhalt gestalten &#x200B;](./assets/content-management.png){width="50"}[**Erstellen von SMS-, MMS- und RCS-Nachrichten**](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![Benachrichtigung senden &#x200B;](./assets/communication-channel.svg) [**Textnachrichten prüfen und senden**](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
+| ![Erste Schritte mit Textnachrichten ](./assets/configuration.svg)[**Erste Schritte mit Textnachrichten**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![Inhalt gestalten ](./assets/content-management.png){width="50"}[**Erstellen von SMS-, MMS- und RCS-Nachrichten**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![Benachrichtigung senden ](./assets/communication-channel.svg)[**Textnachrichten prüfen und senden**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB Code-basierte Erlebnisse]
@@ -463,8 +474,8 @@ CARDS
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -473,7 +484,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign" title="Erstellen einer Code-basierte Erlebniskampagne" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449462/?captions=ger&format=jpeg&nocache=1770071087001" alt="Erstellen einer Code-basierte Erlebniskampagne"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428868/?format=jpeg&nocache=1770071087001" alt="Erstellen einer Code-basierte Erlebniskampagne"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -496,7 +507,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences" title="Hinzufügen von Formularfeldern zu Code-basierten Erlebniskanalvorlagen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464000/?captions=ger&format=jpeg&nocache=1770071087005" alt="Hinzufügen von Formularfeldern zu Code-basierten Erlebniskanalvorlagen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463990/?format=jpeg&nocache=1770071087005" alt="Hinzufügen von Formularfeldern zu Code-basierten Erlebniskanalvorlagen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -519,7 +530,7 @@ CARDS
 
 #### Produktdokumentation
 
-| ![Code-basierte Erlebnisse erstellen &#x200B;](./assets/content-management.png){width="50"}[**Code-basierte Erlebnisse erstellen**](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
+| ![Code-basierte Erlebnisse erstellen ](./assets/content-management.png){width="50"}[**Code-basierte Erlebnisse erstellen**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/create-code-based-experiences-landing-page){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB WhatsApp]
@@ -529,15 +540,15 @@ CARDS
 
 >[!PREREQUISITES]
 >
-> 1. Stellen Sie sicher[&#x200B; dass der Kanal &#x200B;](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel)WhatsApp“ konfiguriert wurde.
+> 1. Stellen Sie sicher[ dass der Kanal ](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel)WhatsApp“ konfiguriert wurde.
 > 2. Stellen Sie sicher, dass Kundenprofile und Zielgruppen für die Zielgruppenbestimmung bereit sind.
 
 #### Tutorials
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -546,7 +557,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction" title="Einführung in den WhatsApp-Kanal" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470305/?captions=ger&format=jpeg&nocache=1770071087484" alt="Einführung in den WhatsApp-Kanal"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470296/?format=jpeg&nocache=1770071087484" alt="Einführung in den WhatsApp-Kanal"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -569,7 +580,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey" title="Erstellen einer WhatsApp-Journey" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470291/?captions=ger&format=jpeg&nocache=1770071087481" alt="Erstellen einer WhatsApp-Journey"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470282/?format=jpeg&nocache=1770071087481" alt="Erstellen einer WhatsApp-Journey"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -592,7 +603,7 @@ CARDS
 
 #### Produktdokumentation
 
-| ![WhatsApp-Nachrichten erstellen &#x200B;](./assets/configuration.svg) [*WhatsApp-Nachrichten erstellen*](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![Vorschau, Validierung und Senden von WhatsApp-Nachrichten &#x200B;](./assets/communication-channel.svg){width="50"}[**Vorschau, Validierung und Senden von WhatsApp-Nachrichten**](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
+| ![WhatsApp-Nachrichten erstellen ](./assets/configuration.svg)[*WhatsApp-Nachrichten erstellen*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![Vorschau, Validierung und Senden von WhatsApp-Nachrichten ](./assets/communication-channel.svg){width="50"}[**Vorschau, Validierung und Senden von WhatsApp-Nachrichten**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!ENDTABS]
@@ -603,7 +614,7 @@ CARDS
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -612,7 +623,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts" title="Identifizieren potenzieller Konflikte" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445653/?captions=ger&format=jpeg&nocache=1770071087955" alt="Identifizieren potenzieller Konflikte"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435528/?format=jpeg&nocache=1770071087955" alt="Identifizieren potenzieller Konflikte"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -638,9 +649,9 @@ CARDS
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-overview
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-overview
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -671,7 +682,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" title="Verwenden von Helper-Funktionen für die Personalisierung" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" title="Verwenden von Helper-Funktionen für die Personalisierung" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334244?format=jpeg&nocache=1770071088433" alt="Verwenden von Helper-Funktionen für die Personalisierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -680,11 +691,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" target="_blank" rel="referrer" title="Verwenden von Helper-Funktionen für die Personalisierung">Verwenden von Helper-Funktionen für die Personalisierung</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" target="_blank" rel="referrer" title="Verwenden von Helper-Funktionen für die Personalisierung">Verwenden von Helper-Funktionen für die Personalisierung</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie Personalisierungswerte mithilfe von Hilfsfunktionen zur Personalisierung umwandeln und lernen Sie verschiedene Anwendungsfälle für Hilfsfunktionen kennen.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -694,8 +705,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" title="Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/346217?captions=ger&format=jpeg&nocache=1770071088436" alt="Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" title="Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/340941?format=jpeg&nocache=1770071088436" alt="Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -703,11 +714,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" target="_blank" rel="referrer" title="Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek">Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" target="_blank" rel="referrer" title="Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek">Verwenden und Verwalten gespeicherter Ausdrücke in der Personalisierungsbibliothek</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie gespeicherte Elemente der Personalisierungsbibliothek in einer Nachricht verwenden und wie Sie Elemente der Personalisierungsbibliothek erstellen und verwalten.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
                 </a>
             </div>
@@ -720,8 +731,8 @@ CARDS
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score
-* https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -730,7 +741,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score" title="Zuweisen von Prioritätswerten zu eingehenden Aktionen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445010/?captions=ger&format=jpeg&nocache=1770071089058" alt="Zuweisen von Prioritätswerten zu eingehenden Aktionen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435529/?format=jpeg&nocache=1770071089058" alt="Zuweisen von Prioritätswerten zu eingehenden Aktionen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -753,7 +764,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization" title="Journey-Frequenzbegrenzung und -Priorisierung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3447624/?captions=ger&format=jpeg&nocache=1770071089055" alt="Journey-Frequenzbegrenzung und -Priorisierung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435530/?format=jpeg&nocache=1770071089055" alt="Journey-Frequenzbegrenzung und -Priorisierung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

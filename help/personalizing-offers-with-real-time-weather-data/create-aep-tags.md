@@ -5,26 +5,39 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30T00:00:00Z
+last-substantial-update: 2025-04-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 04fad076-e897-4831-9147-768721858a80
-source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: b32bb433-f8c6-4931-8e52-e657230a3bf2
+    internal-label: Audiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
-
 ---
-
 # Erstellen von Adobe Experience Platform-Tags
 
 Adobe Experience Platform-Tags (ehemals Adobe Launch) helfen bei der Verwaltung und Bereitstellung von Marketing- und Analysetechnologien* auf Ihrer Website, ohne den Code der Website ändern zu müssen.
 
-In [&#x200B; Video wird der Prozess der Erstellung von Adobe Experience Tags beschrieben](https://experienceleague.adobe.com/de/playlists/experience-platform-get-started-with-tags)
+In [ Video wird der Prozess der Erstellung von Adobe Experience Tags beschrieben](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 * Bei Datenerfassung anmelden
-* Klicken Sie auf _&#x200B;**Tags -> Neue Eigenschaft**
-* Erstellen Sie ein Adobe Experience Platform-Tag _&#x200B;**Personalisierung bei Wetter**&#x200B;_.
+* Klicken Sie auf _**Tags -> Neue Eigenschaft**
+* Erstellen Sie ein Adobe Experience Platform-Tag _**Personalisierung bei Wetter**_.
 * Fügen Sie die folgenden Erweiterungen zum -Tag hinzu
 
 ![tags-extensions](assets/tags-extensions1.png)

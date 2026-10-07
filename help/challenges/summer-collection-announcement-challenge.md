@@ -5,15 +5,32 @@ jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
 level: Beginner
-last-substantial-update: 2023-02-01T00:00:00Z
+last-substantial-update: 2023-02-01T00:00:00.000Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+  - id: fe338112-e2ce-4876-8989-fc4d497613f1
+    internal-label: Email
+  - id: fda7be7c-b81e-42c0-95a9-616e5b893c03
+    internal-label: Build expressions
+subfeature_v2:
+  - id: a9db6739-b0ee-4ac1-bf1b-d880e21c6a00
+    internal-label: Segments
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 100%
-
 ---
-
 # Erstellen einer Ankündigung zur Sommerkollektion – Herausforderung
 
 | Herausforderung | Erstellen einer Ankündigung zur Sommerkollektion |
@@ -109,17 +126,17 @@ Eine Agentur hat Ihnen vier HTML-Dateien mit dem Design für die E-Mails zur Ver
       * Verwenden Sie die bereitgestellte HTML-Datei `SeasonalCollectionEmail.html` für den Textkörper der E-Mail.
    1. Warten Sie zwei Tage und senden Sie dann eine Folgenachricht mit zielgerichteteren Inhalten:
       * Männliche Kunden sollten die E-Mail zur **Herrenkollektion von Luma** erhalten.
-         * Titel der Nachricht: *Herrenkollektion von Luma*
-         * Betreffzeile: *(Vorname des Empfängers), erkunden Sie die neue Sportbekleidung für Herren!*
-         * Textkörper der E-Mail: `MensCollectionEmail.html` für den E-Mail-Textkörper.
+        * Titel der Nachricht: *Herrenkollektion von Luma*
+        * Betreffzeile: *(Vorname des Empfängers), erkunden Sie die neue Sportbekleidung für Herren!*
+        * Textkörper der E-Mail: `MensCollectionEmail.html` für den E-Mail-Textkörper.
       * Kundinnen sollten die E-Mail zur **Damenkollektion von Luma** erhalten.
-         * Titel der Nachricht: *Damenkollektion von Luma*
-         * Betreffzeile: *(Vorname der Empfängerin), erkunden Sie die Damenkollektion von Luma!*
-         * Textkörper der E-Mail: `WomensCollectionEmail.html`
+        * Titel der Nachricht: *Damenkollektion von Luma*
+        * Betreffzeile: *(Vorname der Empfängerin), erkunden Sie die Damenkollektion von Luma!*
+        * Textkörper der E-Mail: `WomensCollectionEmail.html`
       * Andere Kundinnen und Kunden sollten die E-Mail **Luma – 20 % Rabatt auf die Kollektion** erhalten.
-         * Titel der Nachricht: *Luma – 20 % Rabatt auf die Kollektion*
-         * Betreffzeile: *(Vorname des Empfängers/der Empfängerin), erhalten Sie 20 % Rabatt auf Ihre Käufe!*
-         * Textkörper der E-Mail: `20OOffCollectionEmail.html`
+        * Titel der Nachricht: *Luma – 20 % Rabatt auf die Kollektion*
+        * Betreffzeile: *(Vorname des Empfängers/der Empfängerin), erhalten Sie 20 % Rabatt auf Ihre Käufe!*
+        * Textkörper der E-Mail: `20OOffCollectionEmail.html`
    1. Warten Sie nach dem Versand der oben genannten zielgerichteten E-Mails zwei Tage, bis die E-Mail geöffnet wird.
    1. Wenn die zielgerichtete E-Mail nicht innerhalb von 2 Tagen geöffnet wird, senden Sie die E-Mail **Luma – 20 % Rabatt auf die Kollektion** als letzten Retargeting-Versuch
 
@@ -207,9 +224,9 @@ Sie sollten die folgenden E-Mails erhalten:
 
 * Luma – Ankündigung zur neuen saisonalen Kollektion
 * Je nachdem, welches Testprofil Sie verwendet haben, sollten Sie eine der folgenden E-Mails erhalten:
-   * Leora: Damenkollektion von Luma
-   * Stanleigh: Herrenkollektion von Luma
-   * Louise: Luma – 20 % Rabatt auf die Kollektion
+  * Leora: Damenkollektion von Luma
+  * Stanleigh: Herrenkollektion von Luma
+  * Louise: Luma – 20 % Rabatt auf die Kollektion
 * Wenn Sie die zweite E-Mail nicht geöffnet haben: 20 % Rabatt auf die Kollektion von Luma
 
 >[!TAB Überprüfen Sie Ihre Arbeit]

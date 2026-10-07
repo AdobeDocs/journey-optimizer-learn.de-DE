@@ -5,20 +5,33 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '473'
 ht-degree: 0%
-
 ---
-
 # Testen der Lösung
 
-Um die Lösung durchgängig zu testen, extrahieren Sie die Datei „weather-offers.html“ und „weather-related-offers-script.js“ aus [weather-offers.zip].(assets/weather-offers.zip) Diese Dateien müssen auf einem Webserver oder einem öffentlichen Hosting-Service wie GitHub-Seiten gehostet werden. Dies ist aus folgenden Gründen erforderlich:
+Um die Lösung durchgängig zu testen, extrahieren Sie die Dateien „weather-offers.html“ und „weather-related-offers-script.js“ aus [weather-offers.zip].(assets/weather-offers.zip) Diese Dateien müssen auf einem Webserver oder einem öffentlichen Hosting-Service wie Github-Seiten gehostet werden. Dies ist aus folgenden Gründen erforderlich:
 - Die Geolocation-API des Browsers funktioniert nur über HTTPS oder localhost
 
 Um die Organisation beizubehalten und sicherzustellen, dass relative Pfade ordnungsgemäß funktionieren, empfehlen wir die folgende Ordnerstruktur für das Hosten der Lösung:
@@ -27,7 +40,7 @@ Um die Organisation beizubehalten und sicherzustellen, dass relative Pfade ordnu
 
 ## Herunterladen der bereitgestellten Dateien
 
-Laden Sie die HTML- und die JavaScript-Datei herunter und extrahieren Sie sie aus [weather-offers.zip].(assets/weather-offers.zip)
+Laden Sie HTML und die JavaScript-Datei herunter und extrahieren Sie sie aus [weather-offers.zip].(assets/weather-offers.zip)
 
 
 
@@ -96,13 +109,13 @@ Die JavaScript ruft Wetterinformationen basierend auf dem Standort der Benutzeri
 
 6. **Angebote abrufen und rendern**
 
-&#x200B;* Erhält von AJO Decisioning zurückgegebene Angebote.
+* Erhält von AJO Decisioning zurückgegebene Angebote.
 
-&#x200B;* Decodiert den HTML-Inhalt.
+* Decodiert den HTML-Inhalt.
 
-&#x200B;* fügt die Angebote dynamisch in die <div id="offerContainer"> Element.
+* fügt die Angebote dynamisch in die <div id="offerContainer"> Element.
 
 ## Nächste Schritte
 
-[Auswirkungen von AJO Decisioning messen und melden.](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
+[Auswirkungen von AJO Decisioning messen und melden.](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 

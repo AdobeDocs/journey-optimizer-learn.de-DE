@@ -5,17 +5,30 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-30T00:00:00Z
+last-substantial-update: 2025-05-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18188
 exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
-source-git-commit: 640faaf9a316b2ab3e2e7774b2c30612cf1b1dbe
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 1%
-
 ---
-
 # Erstellen einer Kampagne
 
 Um den Benutzern personalisierte Angebote auf der Web-Seite bereitzustellen, wurde eine Kampagne in Adobe Journey Optimizer erstellt und mit dem richtigen Kanal, dem Web-Kanal, konfiguriert. Diese Konfiguration stellt sicher, dass die Angebote über Echtzeit-Entscheidungsfindung an Benutzer übermittelt werden, die mit der Website interagieren.
@@ -38,7 +51,7 @@ Das Ergebnis ist ein maßgeschneiderter Satz von Angeboten, die als HTML-Inhalte
 1. **Erstellen einer Kanalkonfiguration**\
    Definieren, wo und wie die Angebote angezeigt werden (z. B. eine Web-Seite mit Code-basiertem Erlebnis).
    - Beim Journey Optimizer anmelden
-Navigieren Sie zu _&#x200B;**Administration -> Kanäle -> Kanalkonfiguration erstellen**&#x200B;_
+     Navigieren Sie zu _**Administration -> Kanäle -> Kanalkonfiguration erstellen**_
    - **Name**: `finwise-web-personalization`\
      Identifiziert diese Konfiguration für den personalisierten Web-Angebotsversand von FinWise.
 
@@ -64,30 +77,32 @@ Navigieren Sie zu _&#x200B;**Administration -> Kanäle -> Kanalkonfiguration ers
 
 
 3. **Aktion hinzufügen**\
-   Navigieren Sie zur _&#x200B;**Aktionen**&#x200B;_ Registerkarte
-Fügen Sie die Code-basierte Erlebnisaktion hinzu und verknüpfen Sie die Aktion mit einer zuvor erstellten Kanalkonfiguration.
+   Navigieren Sie zur _**Aktionen**_ Registerkarte
+   Fügen Sie die Code-basierte Erlebnisaktion hinzu und verknüpfen Sie die Aktion mit einer zuvor erstellten Kanalkonfiguration.
 
 
 
 4. **Zielgruppe**\
-   Navigieren Sie zur Registerkarte _&#x200B;**Zielgruppe**&#x200B;_ .
-Alle Besucher (Standard).
+   Navigieren Sie zur Registerkarte _**Zielgruppe**_ .
+   Alle Besucher (Standard).
 
    Identitätstyp: ECID (Experience Cloud ID)
-Diese Einstellung verwendet die ECID als primäre Identität zum Erkennen von Benutzern. Wenn eine Identitätszuordnung vorgenommen wurde, wird die ECID mit der CRM-ID für Personalized Targeting verknüpft. Wählen Sie dafür eine Entscheidungsrichtlinie aus oder erstellen Sie eine, die die Angebotslogik definiert.
+   Diese Einstellung verwendet die ECID als primäre Identität zum Erkennen von Benutzern. Wenn eine Identitätszuordnung vorgenommen wurde, wird die ECID mit der CRM-ID für Personalized Targeting verknüpft. Wählen Sie dafür eine Entscheidungsrichtlinie aus oder erstellen Sie eine, die die Angebotslogik definiert.
 
 5. **Entscheidungsrichtlinie**
 
 
    Die Aktion ist mit einer **Entscheidungsrichtlinie“ verknüpft** die definiert, wie Angebote ausgewählt und wie viele Angebote zur Anzeige zurückgegeben werden. Diese Richtlinie verwendet eine **Auswahlstrategie** die zuvor im Tutorial erstellt wurde.
 
-   Um die Entscheidungsrichtlinie einzufügen, klicken Sie auf **_Inhalt bearbeiten_** auf der Registerkarte _&#x200B;**Aktionen**&#x200B;_ und dann auf **_Code bearbeiten_**, um den Personalisierungseditor zu öffnen.
+   Um die Entscheidungsrichtlinie einzufügen, klicken Sie auf **_Inhalt bearbeiten_** auf der Registerkarte _**Aktionen**_ und dann auf **_Code bearbeiten_**, um den Personalisierungseditor zu öffnen.
 
-   Wählen Sie _&#x200B;**Symbol**&#x200B;_ Entscheidungsrichtlinie“ auf der linken Seite aus und klicken Sie auf die Schaltfläche **Entscheidungsrichtlinie hinzufügen**, um den Bildschirm **Entscheidungsrichtlinie erstellen** zu öffnen. Geben Sie der Entscheidungsrichtlinie einen aussagekräftigen Namen und wählen Sie die Anzahl der Elemente aus, die die Entscheidungsrichtlinie zurückgeben soll. Der Standardwert ist 1.Klicken Sie **_Weiter_**, fügen Sie die im vorherigen Schritt erstellte Auswahlstrategie zur Entscheidungsrichtlinie hinzu und klicken Sie auf **Weiter**, um den Prozess der Erstellung der Entscheidungsrichtlinie abzuschließen. Wählen Sie unbedingt das entsprechende Fallback-Angebot aus.
+   Wählen Sie _**Symbol**_ Entscheidungsrichtlinie“ auf der linken Seite aus und klicken Sie auf die Schaltfläche **Entscheidungsrichtlinie hinzufügen**, um den Bildschirm **Entscheidungsrichtlinie erstellen** zu öffnen. Geben Sie der Entscheidungsrichtlinie einen aussagekräftigen Namen und wählen Sie die Anzahl der Elemente aus, die die Entscheidungsrichtlinie zurückgeben soll. Der Standardwert ist 1.
+   Klicken Sie **_Weiter_**, fügen Sie die im vorherigen Schritt erstellte Auswahlstrategie zur Entscheidungsrichtlinie hinzu und klicken Sie auf **Weiter**, um den Prozess der Erstellung der Entscheidungsrichtlinie abzuschließen. Wählen Sie unbedingt das entsprechende Fallback-Angebot aus.
 
 6. **Entscheidungsrichtlinie einfügen**
 
-   Fügen Sie die neu erstellte Entscheidungsrichtlinie ein, indem Sie auf die Schaltfläche _&#x200B;**Richtlinie einfügen**&#x200B;_ klicken. Dadurch wird eine for-Schleife im Personalisierungseditor auf der rechten Seite eingefügt.Platzieren Sie den Cursor zwischen den einzelnen Schleifen in Zeile zwei und fügen Sie den offerText ein, indem Sie durch Drilldown des `tenant name` zum Angebot navigieren
+   Fügen Sie die neu erstellte Entscheidungsrichtlinie ein, indem Sie auf die Schaltfläche _**Richtlinie einfügen**_ klicken. Dadurch wird eine for-Schleife im Personalisierungseditor auf der rechten Seite eingefügt.
+   Platzieren Sie den Cursor zwischen den einzelnen Schleifen in Zeile zwei und fügen Sie den offerText ein, indem Sie durch Drilldown des `tenant name` zum Angebot navigieren
 
    In den Personalisierungseditor eingefügte Entscheidungsrichtlinie
 
@@ -99,6 +114,6 @@ Diese Einstellung verwendet die ECID als primäre Identität zum Erkennen von Be
 
 7. **Speichern Sie die Kampagne**
 
-   Speichern Sie die Kampagne, indem Sie auf die Schaltfläche _&#x200B;**Zum Aktivieren überprüfen**&#x200B;_ klicken
+   Speichern Sie die Kampagne, indem Sie auf die Schaltfläche _**Zum Aktivieren überprüfen**_ klicken
 
 

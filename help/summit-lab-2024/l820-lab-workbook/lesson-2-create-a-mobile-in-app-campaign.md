@@ -10,13 +10,26 @@ recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
 exl-id: fe18eca7-229c-4867-ab34-1862bad63124
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '1520'
 ht-degree: 2%
-
 ---
-
 # Lektion 2: Erstellen einer mobilen In-App-Kampagne
 
 In dieser Lektion erstellen und Trigger von In-App-Nachrichten für Mobilgeräte.
@@ -42,7 +55,7 @@ Die Details für Ihre Anmeldung finden Sie auf Ihrem Lab-Computer-Desktop. Verwe
    <br>
 3. Sie können die nächsten beiden Bildschirme überspringen:
    <br>
-   ![&#x200B; Telefonnummer](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
+   ![ Telefonnummer](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-3-ajo-add-phone.png)
    <br>
    ![Personalization-Popup](/help/summit-lab-2024/l820-lab-workbook/assets/2-1-4-ajo-personalization-pop-up.png)
 
@@ -149,7 +162,7 @@ Klicken Sie beispielsweise auf **[!UICONTROL Modal]**, damit Ihre In-App-Nachric
 
 1. Fügen Sie im Abschnitt „Medien“ die folgende URL ein:  `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
    <br>
-Wenn Sie aus dem Wertefeld klicken, sollte Ihr Bild angezeigt werden.
+   Wenn Sie aus dem Wertefeld klicken, sollte Ihr Bild angezeigt werden.
 
    ![In der Vorschau angezeigte Medien](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-media.png)
 
@@ -320,7 +333,7 @@ Die Funktionen **Kampagne duplizieren** und **Vorschau auf Gerät** sind vorkonf
 
 **Produktdokumentation:**
 
-* [Erste Schritte mit dem In-App-Kanal](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [Erstellen einer mobilen In-App-Nachricht](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/create-in-app)
-* [Gestalten der App-Inhalte](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/design-in-app)
-* [Überprüfen und Senden von In-App-Benachrichtigungen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/in-app/send-in-app)
+* [Erste Schritte mit dem In-App-Kanal](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [Erstellen einer mobilen In-App-Nachricht](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
+* [Gestalten der App-Inhalte](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [Überprüfen und Senden von In-App-Benachrichtigungen](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

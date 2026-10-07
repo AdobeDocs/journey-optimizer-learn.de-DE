@@ -8,15 +8,28 @@ doc-type: Tutorial
 duration: 0
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-last-substantial-update: 2024-03-26T00:00:00Z
+last-substantial-update: 2024-03-26T00:00:00.000Z
 exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
-source-git-commit: 1de5297037b9ec707fca7f28e65ae6149f7ad076
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '505'
 ht-degree: 0%
-
 ---
-
 # LABORARBEITSMAPPE
 
 ![Adobe Summit - ALT-Text](/help/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
@@ -29,11 +42,13 @@ In diesem praxisorientierten Labor erkunden Sie verschiedene Szenarien für Mobi
 >[!IMPORTANT]
 >
 >Bitte verzichten Sie darauf, Fotos oder Screenshots aus der Sitzung in den sozialen Medien zu posten.
-><br>>**Adobe - Vertraulichkeit**
+><br>
+>**Adobe - Vertraulichkeit**
 >Die Informationen und Produktinformationen, die heute in diesem Labor veröffentlicht werden, sind vertrauliche Informationen von Adobe.
 >Die Teilnehmer dürfen vertrauliche Informationen weder reproduzieren noch verwenden, verbreiten oder weitergeben.
 >Produktangaben dienen nur zu Informationszwecken, stellen keine Garantie für zukünftige Funktionen dar und können jederzeit geändert werden. Daher sind solche Produktfunktionen in keiner Weise Teil Ihrer Vereinbarung mit Adobe oder anderweitig an Sie gebunden.
-><br>>**Haftungsausschluss**
+><br>
+>**Haftungsausschluss**
 >Adobe bietet Ihnen frühzeitigen Zugriff auf die Funktionen, die generative KI-Technologie nutzen. Beachten Sie, dass diese Funktionen noch in der Entwicklung sind und zu unerwarteten oder ungenauen Antworten führen können. Wir freuen uns über Ihr Feedback, da wir diese Funktion auf den Markt bringen.
 
 

@@ -5,17 +5,30 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30T00:00:00Z
+last-substantial-update: 2025-04-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 33b084ea-e712-4de0-8836-8795efaac7e2
-source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: b32bb433-f8c6-4931-8e52-e657230a3bf2
+    internal-label: Audiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
-
 ---
-
 # Testen der Lösung
 
 Um Ihre Implementierung zu validieren, öffnen Sie zunächst die Web-Seite, die Ihr Präferenzformular enthält. Verwenden Sie die DevTools des Browsers (Registerkarten „Konsole“ und „Netzwerk„), um den Prozess der Formularübermittlung zu überwachen. Nachdem Sie eine Voreinstellung übermittelt haben (z. B. „Lager“ auswählen), bestätigen Sie, dass der AEP Web SDK (alloy.sendEvent) erfolgreich Trigger aufweist und dass die richtigen Daten an Adobe Experience Platform gesendet werden. Navigieren Sie in AEP zum Abschnitt Zielgruppen und stellen Sie mithilfe der Edge-Segmentierung innerhalb weniger Augenblicke sicher, dass Ihr Profil für die erwartete Zielgruppe qualifiziert ist (z. B. „Interesse an Aktien„). Sie können auch die eingehenden Ereignisdaten im zugehörigen Datensatz überprüfen, um sicherzustellen, dass er den richtigen Präferenzwert enthält. Wiederholung dieses Prozesses für jede Anlageklasse (Aktien, Anleihen, CDs), um sicherzustellen, dass der gesamte Workflow ordnungsgemäß funktioniert.
@@ -43,7 +56,7 @@ Der folgende Debugger-Screenshot sollte Ihnen helfen
 
 ### Abrufen der ECID
 
-Die ECID (Experience Cloud ID) ist die eindeutige, beständige Kennung von Adobe, mit der Benutzende über Experience Cloud-Lösungen und -Sitzungen hinweg erkannt und vereinheitlicht werden.
+Die ECID (Experience Cloud-ID) ist die eindeutige, beständige Kennung von Adobe, mit der Benutzende über Experience Cloud-Lösungen und -Sitzungen hinweg erkannt und vereinheitlicht werden.
 
 * Registerkarte „Netzwerk“ → Chrome Developer Tools
 

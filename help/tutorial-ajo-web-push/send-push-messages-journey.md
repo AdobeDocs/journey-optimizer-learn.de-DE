@@ -5,15 +5,28 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-01-21T00:00:00Z
+last-substantial-update: 2026-01-21T00:00:00.000Z
 jira: KT-18526
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
-
 ---
-
 # Senden von Push-Nachrichten auf einer Journey
 
 Das Auslösen eines Journey auf der Grundlage eines Preisabfallereignisses ermöglicht eine verhaltensgesteuerte Interaktion mit Benutzenden in Echtzeit. In realen Szenarien stammt dieses Ereignis normalerweise von einem Backend-Preissystem, wenn der Preis eines Produkts aktualisiert wird. In diesem Tutorial simulieren wir dieses Verhalten, indem wir ein benutzerdefiniertes price.drop-Ereignis mithilfe von AEP-Tags, einschließlich Produktdetails wie Name und SKU, durch die Adobe-Datenschicht senden. Dieses Ereignis wird in Adobe Experience Platform aufgenommen und als Einstiegs-Trigger für eine Journey in Adobe Journey Optimizer verwendet. Nach Erhalt kann der Journey sofort eine personalisierte Push-Benachrichtigung an berechtigte Nutzer senden, um sie über den Preisverfall zu informieren und zu rechtzeitigem Handeln zu ermutigen.

@@ -5,27 +5,40 @@ feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-19T00:00:00Z
+last-substantial-update: 2025-05-19T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
-source-git-commit: 667f146639635515a5572e9ace41d83ab4452bb8
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: ef9a83ca-eefa-47cf-aa34-f1a34715583a
+    internal-label: Profiles
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '240'
 ht-degree: 10%
-
 ---
-
 # Senden von CRMID an Adobe Experience Platform
 
 Adobe Experience Platform Tags wird verwendet, um die CRMID an Adobe Experience Platform (AEP) zu senden, da sie einen flexiblen, ereignisgesteuerten Mechanismus zur Übertragung von Identitätsdaten direkt aus dem Browser bietet. Durch das Senden der CRMID nach der Benutzeranmeldung kann AEP die anonyme ECID mit dem bekannten CRM-Profil verknüpfen, was eine genaue Identitätszuordnung ermöglicht. Diese Verknüpfung bildet die Grundlage für die Erstellung einheitlicher Kundenprofile, die Qualifizierung von Zielgruppen und die Bereitstellung personalisierter Erlebnisse in Echtzeit in Adobe Journey Optimizer (AJO).
 
-Eine Experience Platform Tags-Eigenschaft _&#x200B;**FinWise**&#x200B;_ wird erstellt. Die folgenden Erweiterungen wurden der Tags-Eigenschaft hinzugefügt
+Eine Experience Platform Tags-Eigenschaft _**FinWise**_ wird erstellt. Die folgenden Erweiterungen wurden der Tags-Eigenschaft hinzugefügt
 
 ![tags-extensions](assets/tags-extensions.png)
 
 Konfigurieren Sie die AEP Web SDK-Erweiterung mit dem im vorherigen Schritt erstellten DataStream von Financial Advisors .
-Der Experience Cloud ID-Dienst ist eine optionale Erweiterung, die der Tag-Eigenschaft zu Debugging-Zwecken hinzugefügt wird.
+Der Experience Cloud ID-Service ist eine optionale Erweiterung, die der Tag-Eigenschaft zu Debugging-Zwecken hinzugefügt wird.
 
 ## Tag-Datenelemente
 
@@ -34,7 +47,7 @@ Erstellen Sie die folgenden Datenelemente
 | Datenelement | Erweiterung | Datenelementtyp | Benutzerdefinierte Einstellungen |
 |--------------|-----------------------------------|---------------------------|----------------------------------------|
 | crmid | Adobe Client-Datenschicht | Berechneter Status der Datenschicht | user.crmid |
-| ECID | Experience Cloud ID Service | ECID |                                        |
+| ECID | Experience Cloud ID-Service | ECID |                                        |
 | identität | Adobe Experience Platform Web SDK | Identitätszuordnung | ![Bild](assets/identity-settings.png) |
 | XDMVariable | Adobe Experience Platform Web SDK | Variable | ![Bild](assets/xdmvariable.png) |
 
