@@ -41,6 +41,6 @@ ht-degree: 19%
 
 Erfahren Sie, wie Sie eine Standardintegration erstellen, um externe Daten und Inhalte beim Erstellen von Adobe Journey Optimizer-Kanälen zu verwenden. Dies hilft Ihnen, die Personalisierung und die Interaktion von Outbound-Kanälen zu verbessern. Sehen Sie sich das nachfolgende Video an, um mehr zu erfahren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484127/?captions=ger&learn=on&enablevpops)
 
 Weitere Informationen finden Sie in der [Dokumentation zur Standardintegration](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).
