@@ -43,4 +43,4 @@ Erfahren Sie, wie Sie eine Standardintegration erstellen, um externe Daten und I
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
-Weitere Informationen finden Sie in der [Dokumentation zur Standardintegration](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).
+Weitere Informationen finden Sie in der [Dokumentation zur Standardintegration](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).

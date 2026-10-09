@@ -43,4 +43,4 @@ Erfahren Sie, wie Sie eine Browserintegration für eine externe API konfiguriere
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504295/?learn=on&enablevpops)
 
-Weitere Informationen finden Sie in der [Dokumentation zur Browserintegration](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing).
+Weitere Informationen finden Sie in der [Dokumentation zur Browserintegration](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing).
