@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer-Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: Hier finden Sie Journey Optimizer-Tutorials.
 auto-video-transcripts: true
-source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
-workflow-type: ht
-source-wordcount: '1579'
-ht-degree: 100%
+source-git-commit: cec289fc6f0240c67a5fe6a297ba9a1512d9005f
+workflow-type: tm+mt
+source-wordcount: '1583'
+ht-degree: 99%
 ---
 
 # Journey Optimizer-Tutorials {#tutorials}
@@ -78,6 +78,7 @@ ht-degree: 100%
   + [Abonnements und Landingpages](/help/profiles-audiences-subscriptions/subscriptions-and-landing-pages.md)
 + Kanäle {#channels}
   + [Mobile-App-Optimierung – Überblick](/help/channels/mobile-app-optimization-overview.md)
+  + [Optimieren von Kanälen basierend auf Profilvoreinstellungen oder Tendenzwerten](/help/channels/channel-optimization.md)
   + Code-basierter Erlebniskanal{#code-based-experience-channel}
     + [Erstellen einer Code-basierten Erlebniskampagne](/help/channels/create-a-code-based-experience-campaign.md)
     + [Hinzufügen von Formularfeldern zu Code-basierten Erlebniskanalvorlagen](/help/channels/form-fields-in-code-based-experiences.md)
@@ -146,9 +147,10 @@ ht-degree: 100%
     + [KI-Assistent für die Inhaltsgenerierung – Überblick](/help/content-management/ai-assistant-for-content-generation-overview.md)
     + [Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltsgenerierung](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
     + [Erstellung und Verwaltung von Markenrichtlinien](/help/content-management/brand-guideline-creation-and-management.md)
-  + [Optimieren von Kanälen basierend auf Profilvoreinstellungen oder Tendenzwerten](/help/channels/channel-optimization.md)
   + [Erstellen von E-Mails mit GenStudio](/help/content-management/create-an-email-using-genstudio.md)
-  + [Aktivieren von Integrationen externer Daten bei der Kanalerstellung](/help/content-management/external-data-integrations-in-channel-authoring.md)
+  + Externe Datenintegrationen {#external-data-integrations}
+    + [Erstellen einer Standardintegration](/help/content-management/external-data-integrations/create-a-standard-integration.md)
+    + [Erstellen einer Browser-Integration](/help/content-management/external-data-integrations/create-a-browsing-integration.md)
   + [Erstellen von markenkonformen Inhalten in Journey Optimizer – Tutorial](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalisieren von Inhalten {#personalize-content}
   + [Personalisierungseditor – Überblick](/help/personalize-content/personalization-editor-overview.md)
@@ -197,7 +199,7 @@ ht-degree: 100%
     + [Unterbreiten von Angeboten mithilfe der Decisions-API](/help/decision-management/deliver-offers-with-the-decisions-api.md)
     + [Frequenzbegrenzung](/help/decision-management/frequency-capping.md)
 + Daten-Management {#data-management}
-  + [Überblick](/help/data-management/set-up-data-overview.md)
+  + [Übersicht](/help/data-management/set-up-data-overview.md)
   + [Erstellen eines Schemas](/help/data-management/create-schema.md)
   + [Zuordnen von Identitäten](/help/data-management/map-identities.md)
   + [Erstellen von Datensätzen und Aufnehmen von Daten](/help/data-management/create-datasets-and-ingest-data.md)
@@ -227,7 +229,7 @@ ht-degree: 100%
     + SMS-/MMS-/RCS-Kanal {#sms-mms-channel}
       + [Konfigurieren von SMS-API-Anmeldedaten und Kanaloberflächen](/help/set-up-channels/set-up-sms-channel.md)
       + [Konfigurieren eines benutzerdefinierten SMS-Anbieters](/help/set-up-channels/configure-custom-sms-provider.md)
-      + [Konfigurieren von MMS-API-Anmeldeinformationen und Kanaloberflächen](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + [Konfigurieren von MMS-API-Anmeldedaten und Kanaloberflächen](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
       + [Einrichten von RCS](/help/set-up-channels/set-up-rcs.md)
     + Web- und Mobile-Kanäle {#web-and-mobile-channels}
       + [Kanaleinrichtung mit Assistent](/help/set-up-channels/guided-channel-setup.md)
