@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die XDM-Schemata und profilaktivierten Datensätze einrichten, die zum Empfang von Mitglied- und Ereignisdaten des Treueprogramms in Adobe Experience Platform erforderlich sind.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504120/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504145/?captions=ger&learn=on)

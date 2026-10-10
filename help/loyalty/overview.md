@@ -133,7 +133,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./set-up-loyalty/prepare-loyalty-data-structures.md" title="Vorbereiten von Treuedatenstrukturen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504120/?format=jpeg" alt="Vorbereiten von Treuedatenstrukturen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504145/?captions=ger&format=jpeg" alt="Vorbereiten von Treuedatenstrukturen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +156,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./set-up-loyalty/connect-and-map-loyalty-data.md" title="Treuedaten verbinden und zuordnen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504118/?format=jpeg" alt="Treuedaten verbinden und zuordnen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504136/?captions=ger&format=jpeg" alt="Treuedaten verbinden und zuordnen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +179,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md" title="Treuedaten überprüfen und Leistungsberichte konfigurieren" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504119/?format=jpeg" alt="Treuedaten überprüfen und Leistungsberichte konfigurieren"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504127/?captions=ger&format=jpeg" alt="Treuedaten überprüfen und Leistungsberichte konfigurieren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
