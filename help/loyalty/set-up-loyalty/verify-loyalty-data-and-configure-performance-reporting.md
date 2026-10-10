@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Beispieldaten zu Treueprofilen und Ereignissen an Adobe Experience Platform senden, überprüfen, ob sie in den Datensätzen und im einheitlichen Kundenprofil angezeigt werden, dann die Datensätze auswählen und einen KPI in den Treueprogramm-Leistungseinstellungen priorisieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504119/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504127/?captions=ger&learn=on)

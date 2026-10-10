@@ -34,4 +34,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie eine HTTP-API-Verbindung und Datenflüsse erstellen und dann eingehende Treueprofil- und Ereignisfelder Ihren Datensätzen zuordnen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504118/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504136/?captions=ger&learn=on)
