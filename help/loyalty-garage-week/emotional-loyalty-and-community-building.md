@@ -10,9 +10,7 @@ source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '2205'
 ht-degree: 0%
-
 ---
-
 # Emotionale Loyalität &amp; Community-Aufbau
 
 ## Wie Marken durch erlebnisbasierte Treue Identität, Zugehörigkeit und Interessenvertretung schaffen
