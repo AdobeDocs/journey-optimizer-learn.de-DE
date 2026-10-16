@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Journey Optimizer Regeln zum Generieren von Zielgruppen verwendet und wie Sie Attribute, Ereignisse und vorhandene Zielgruppen zum Erstellen einer Zielgruppe verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425020?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430326?captions=ger&quality=12&learn=on){transcript=true}
