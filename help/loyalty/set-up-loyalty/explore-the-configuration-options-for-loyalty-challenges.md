@@ -32,4 +32,4 @@ ht-degree: 0%
 
 Erkunden Sie die Konfigurationsoptionen, die die Herausforderungen im Zusammenhang mit der Treue unterstützen, einschließlich globaler Einstellungen, Berichterstellung, Belohnungen, Ereigniszuordnung, Produktinventar und Ausschlüsse. Eine detaillierte Anleitung zur Einrichtung finden Sie in den entsprechenden Videos zu Belohnungsanbietern und zur Ereigniszuordnung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504405/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504421/?captions=ger&learn=on&enablevpops)
