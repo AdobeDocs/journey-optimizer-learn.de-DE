@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie die KI-Funktion von Adobe Journey Optimizer Eingabeaufforderungen in Journey-Bedingungen umwandelt, ohne die Ausdruckssprache zu schreiben. In diesem Video wird gezeigt, wie Sie mit Treueprogramm-Mitgliedschaft und Prüfungen inaktiver Benutzer relevantere Kundenpfade erstellen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504901/?captions=ger&learn=on&enablevpops)
