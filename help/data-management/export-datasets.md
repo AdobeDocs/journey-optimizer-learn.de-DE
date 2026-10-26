@@ -26,7 +26,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 ---
@@ -35,7 +35,7 @@ ht-degree: 100%
 Erfahren Sie, wie Sie einen Datensatz aus Journey Optimizer in ein Amazon S3-Ziel exportieren.
 
 >[!AVAILABILITY]
->Die Funktion zum Exportieren von Datensätzen befindet sich derzeit in der Beta-Phase und ist für alle Benutzerinnen und Benutzer von Adobe Journey Optimizer verfügbar. Wenden Sie sich an Ihre Kontaktperson bei Adobe, um Zugriff auf Ziele zu erhalten.
+>Die Funktion zum Exportieren von Datensätzen befindet sich derzeit in der Beta-Phase und ist für alle Benutzerinnen und Benutzer von Adobe Journey Optimizer verfügbar. Wenden Sie sich an den Adobe-Support, um Zugriff auf Destinations zu erhalten.
 
 >[!NOTE]
 >Während der Beta-Phase sind alle Datensätze sichtbar. Sobald diese Funktion allgemein verfügbar ist, ist sie auf die systemgenerierten Datensätze beschränkt.
