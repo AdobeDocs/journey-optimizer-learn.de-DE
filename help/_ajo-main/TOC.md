@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: a56917f03581d014c45e777437f090dba863f4a2
 workflow-type: tm+mt
 source-wordcount: '1589'
-ht-degree: 98%
+ht-degree: 99%
 ---
 
 # Journey Optimizer-Tutorials {#tutorials}
@@ -151,7 +151,7 @@ ht-degree: 98%
   + [Erstellen von E-Mails mit GenStudio](/help/content-management/create-an-email-using-genstudio.md)
   + Externe Datenintegrationen {#external-data-integrations}
     + [Erstellen einer Standardintegration](/help/content-management/external-data-integrations/create-a-standard-integration.md)
-    + [Erstellen einer Browser-Integration](/help/content-management/external-data-integrations/create-a-browsing-integration.md)
+    + [Erstellen einer Browsing-Integration](/help/content-management/external-data-integrations/create-a-browsing-integration.md)
   + [Erstellen von markenkonformen Inhalten in Journey Optimizer – Tutorial](https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + Personalisieren von Inhalten {#personalize-content}
   + [Personalisierungseditor – Überblick](/help/personalize-content/personalization-editor-overview.md)
