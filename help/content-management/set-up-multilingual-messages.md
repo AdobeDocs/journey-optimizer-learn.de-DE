@@ -36,4 +36,4 @@ Mit der Adobe Journey Optimizer-Funktion für mehrsprachige Nachrichten können 
 
 Erfahren Sie, wie Sie Übersetzungsprojekte für die automatisierte Übersetzung einrichten und welche Spracheinstellungen für die manuelle Übersetzung und automatisierte Übersetzungsprojekte für mehrsprachige Nachrichten erforderlich sind.
  
->[!VIDEO](https://video.tv.adobe.com/v/3430661/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453552/?captions=ger&learn=on)

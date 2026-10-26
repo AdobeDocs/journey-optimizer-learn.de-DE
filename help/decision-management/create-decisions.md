@@ -29,6 +29,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie [Entscheidungen](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/create-manage-activities/create-offer-activities.html?lang=de) für das Entscheidungs-Management erstellen. Eine Entscheidung fasst Ihre Platzierungen und Sammlungen zu einer Einheit zusammen, sodass dem Kunden das relevanteste Angebot unterbreitet werden kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/329606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411813?captions=ger&quality=12&learn=on){transcript=true}
 
 Weitere Informationen zum Erstellen von Entscheidungen mit der API zur Batch-Entscheidungsfindung finden Sie im [Produkthandbuch](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/api-reference/offer-delivery-api/batch-decisioning-api.html?lang=de).

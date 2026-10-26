@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie die Leistung einzelner Journeys verfolgen und wie Benutzende mit verschiedenen Schritten der Journey interagieren, einschließlich Eintritts- und Ausstiegsstatistiken, Fehlern und ausgeführten Aktionen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470710/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471472/?captions=ger&learn=on&enablevpops)

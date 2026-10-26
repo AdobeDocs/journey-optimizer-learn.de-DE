@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie kontextuelle Ereignisinformationen von einer Journey verwenden können, um eine Nachricht zu personalisieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425027?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428526?captions=ger&quality=12&learn=on){transcript=true}
