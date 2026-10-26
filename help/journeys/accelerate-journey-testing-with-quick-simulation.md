@@ -17,7 +17,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
 ht-degree: 100%
 ---
@@ -26,4 +26,4 @@ ht-degree: 100%
 
 Die Schnellsimulation vereinfacht das Testen von Customer Journeys durch die Automatisierung wichtiger Prozesse. Es werden Testprofile generiert, Ereignisse orchestriert, Wartezeiten beschleunigt und Szenarien validiert. Mit diesem Tool kann vor der Veröffentlichung sichergestellt werden, dass komplexe Journeys wie vorgesehen funktionieren. Auf diese Weise wird Zeit gespart und die Genauigkeit wird verbessert.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497482/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497475/?learn=on&enablevpops)

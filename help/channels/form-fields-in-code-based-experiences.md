@@ -25,7 +25,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
 ht-degree: 100%
 ---
@@ -33,6 +33,6 @@ ht-degree: 100%
 
 Entdecken Sie, wie Entwickelnde die Zusammenarbeit mit Marketing-Teams optimieren können, indem sie bearbeitbare Felder in Code-basierten Erlebniskanälen aktivieren. Erfahren Sie, wie Sie bearbeitbare JSON- und HTML-Felder in Inhaltsvorlagen definieren, damit Marketing-Fachleute Kampagnenelemente wie Titel und Beschreibungen aktualisieren können, ohne Code bearbeiten zu müssen. Erfahren Sie, wie eingebettete Entscheidungsrichtlinien die Personalisierung direkt in Vorlagen verbessern, indem sie die Effizienz steigern, Fehler reduzieren und die Kampagnenbereitstellung beschleunigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464000/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463990/?learn=on&enablevpops)
 
 Weitere Informationen finden Sie in der ausführlichen [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields).

@@ -29,7 +29,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
 ht-degree: 100%
 ---
@@ -39,6 +39,6 @@ Erfahren Sie, wie Sie den Betriebszustand und die Leistung von HTTP-Aufrufen von
 
 Dieser Bericht hilft Ihnen, Probleme zu identifizieren, die Journey-Leistung zu verbessern und einen reibungslosen Betrieb sicherzustellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479550/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
 In der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting) finden Sie weitere Informationen zu dieser Funktion.

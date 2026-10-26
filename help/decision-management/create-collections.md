@@ -20,7 +20,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 ---
@@ -30,4 +30,4 @@ Erfahren Sie, wie Sie Sammlungen für das Entscheidungs-Management erstellen.
 
 Sammlungen werden verwendet, um Angebote in logischen Gruppen zu verwalten und sind zum Erstellen von Aktivitäten im Entscheidungs-Management erforderlich. Mit dynamischen Sammlungen können Sie Angebote basierend auf Tags gruppieren, während Sie mit statischen Sammlungen die Angebote manuell kuratieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411812?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on){transcript=true}

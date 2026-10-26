@@ -28,7 +28,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
 ht-degree: 100%
 ---
@@ -36,6 +36,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Inhalte in Vorlagen sperren. In diesem Tutorial wird beschrieben, wie Sie Vorlagen ganz oder teilweise sperren, schreibgeschützte und Inhaltssperrmodi verwenden und bearbeitbare Bereiche in einer gesperrten Vorlage verwalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451616/?captions=ger&learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451591/?learn=on&enablevpops){transcript=true}
 
 Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/content-templates/content-locking).

@@ -35,7 +35,7 @@ topic_v2:
   - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
     internal-label: Content and assets
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 ---
@@ -44,4 +44,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Adobe Experience Manager-Inhaltsfragmente mit Adobe-Journeys verwenden können, um den Inhalt in Ihrer Agile-Kommunikation zu personalisieren und zu optimieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492222/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492215/?learn=on&enablevpops)

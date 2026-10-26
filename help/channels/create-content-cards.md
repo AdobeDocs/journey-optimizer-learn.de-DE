@@ -30,7 +30,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '24'
 ht-degree: 100%
 ---
@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Inhaltskarten für Ihre Anwendung erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434792/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434783/?learn=on)

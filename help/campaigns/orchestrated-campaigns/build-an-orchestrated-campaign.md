@@ -1,6 +1,6 @@
 ---
 title: Erstellen einer orchestrierten Kampagne
-description: Erfahren Sie, wie Sie Kampagnen mit Adobe Journey Optimizer mit Workflows für die Erstellung von Zielgruppen, Datenbearbeitung und Bereitstellung über mehrere Kanäle entwerfen und ausführen.
+description: Erfahren Sie, wie Sie mit Adobe Journey Optimizer Kampagnen mithilfe von Workflows für Zielgruppenerstellung, Datenbearbeitung und Multi-Channel-Versand entwerfen und ausführen.
 feature: Campaigns
 role: User
 level: Beginner, Intermediate
@@ -10,9 +10,9 @@ last-substantial-update: 2026-05-02
 jira: KT-20991
 exl-id: e14a4923-fbfd-4fa7-9266-ef20d22d52e2
 source-git-commit: 0db5fb0d647929c7712b69531423c5c99e2dad90
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 75%
+ht-degree: 100%
 ---
 # Erstellen einer orchestrierten Kampagne
 

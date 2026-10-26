@@ -35,7 +35,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 ---
@@ -45,10 +45,10 @@ Erfahren Sie, wie Sie vordefinierte Warnhinweise für unerwartete Verhaltensweis
 
 >[!NOTE]
 >
->Das Video zeigt die Warnhinweisfunktion in der Benutzeroberfläche von Adobe Experience Platform. Die Funktion ist in Journey Optimizer über die linke Navigationsleiste ADMINISTRATION > Warnhinweise verfügbar.
+>Das Video zeigt die Warnhinweisfunktion in der Benutzeroberfläche von Adobe Experience Platform. Die Funktion ist in Journey Optimizer über die linke Navigationsleiste „ADMINISTRATION“ > „Warnhinweise“ verfügbar.
 >
 >
->Beim Zugriff auf Warnhinweise aus Journey Optimizer werden standardmäßig nur Warnhinweise angezeigt, die speziell für Ihre Live-Journey gelten.
+>Beim Zugriff auf Warnhinweise aus Journey Optimizer werden standardmäßig nur Warnhinweise angezeigt, die speziell für Ihre Live-Journeys bestimmt sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 

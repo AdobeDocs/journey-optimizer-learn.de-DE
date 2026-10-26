@@ -26,7 +26,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 ---
@@ -34,6 +34,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie den Direkt-Mail-Kanal in Adobe Journey Optimizer nutzen, um Direkt-Mail-Sendungen in Ihren Journeys zu automatisieren und zu planen. Entdecken Sie das Datei-Routing-Setup, konfigurieren Sie die Erstellungsfrequenz und verwenden Sie Direkt-Mail-Aktionen auf der Journey-Arbeitsfläche. In diesem Video wird gezeigt, wie AJO Teilnehmende in die Warteschlange stellt, in Intervallen Dateien mit Zeitstempel generiert und nach der Aktivierung automatisch sendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479171/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
 
 Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/channels/direct-mail/create-direct-mail).

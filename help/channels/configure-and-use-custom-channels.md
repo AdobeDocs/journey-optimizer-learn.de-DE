@@ -28,7 +28,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
 ht-degree: 100%
 ---
@@ -41,4 +41,4 @@ Erfahren Sie, wie Sie mithilfe von benutzerdefinierten Kanälen Nachrichtenkanä
 
 In diesem Video wird erläutert, wie Sie einen benutzerdefinierten ausgehenden Kanal durchgängig erstellen und in einer Journey verwenden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496293/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496286/?learn=on&enablevpops)

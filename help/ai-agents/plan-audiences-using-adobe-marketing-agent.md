@@ -31,9 +31,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '226'
-ht-degree: 75%
+ht-degree: 100%
 ---
 
 # Planen von Zielgruppen mithilfe von Adobe Marketing Agent für Microsoft 365 Copilot
@@ -44,7 +44,7 @@ In diesem Video wird der Prozess der Auswahl, Analyse und Vorbereitung von Zielg
 
 Sehen Sie sich das unten eingebettete Video mit einer Live-Demo von Adobe Marketing Agent in Aktion an.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491192/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491171/?learn=on&enablevpops)
 
-Weitere Informationen zu den ersten Schritten finden Sie unter [Erste Schritte mit Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}.
-Um zu sehen, wie Marketing-Fachleute Adobe Marketing Agent for Microsoft 365 Copilot zur Kampagnenplanung, Leistungsüberprüfung und Überwachung der Journey-Leistung in Flugzeugen verwenden, [&#x200B; Sie sich Marketing-Workflows mit Adobe Marketing Agent for Microsoft 365 Copilot &#x200B;](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}.
+Weitere Informationen zu den ersten Schritten finden Sie im Video [Erste Schritte mit Adobe Marketing Agent für Microsoft 365 Copilot](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}.
+Um zu erfahren, wie Marketing-Fachleute Adobe Marketing Agent für Microsoft 365 Copilot zum Planen von Kampagnen, Überprüfen der Leistung und Überwachen von laufenden Journeys verwenden, sehen Sie sich [Marketing-Workflows mit Adobe Marketing Agent für Microsoft 365 Copilot](https://experienceleague.adobe.com/de/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"} an.

@@ -33,7 +33,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 ---
@@ -41,6 +41,6 @@ ht-degree: 100%
 
 Informationen zur Durchsetzung von Datennutzungsrichtlinien in Journey Optimizer-Kanälen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434914/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
 Weitere Informationen zu [Data Governance](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/privacy/action-privacy-restricted) und zum [Arbeiten mit Einverständnisrichtlinien](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/privacy/consent/consent) in Journey Optimizer sind in der Produktdokumentation zu finden.

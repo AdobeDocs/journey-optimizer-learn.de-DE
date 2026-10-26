@@ -1,6 +1,6 @@
 ---
 title: Erstellen einer Standardintegration
-description: Erfahren Sie, wie Sie eine Standardintegration erstellen, um externe Daten und Inhalte beim Erstellen von Adobe Journey Optimizer-Kanälen zu verwenden und die Personalisierung über ausgehende Kanäle hinweg zu verbessern.
+description: Erfahren Sie, wie Sie eine Standardintegration erstellen, um externe Daten und Inhalte bei der Kanalerstellung in Adobe Journey Optimizer zu verwenden und die Personalisierung über ausgehende Kanäle hinweg zu optimieren.
 feature: Personalization, API, Channel Configuration
 role: Admin, User
 level: Intermediate
@@ -33,14 +33,14 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 53fc4917e68a32d967633cf7188eabf997bfaf14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 19%
+ht-degree: 100%
 ---
 # Erstellen einer Standardintegration
 
-Erfahren Sie, wie Sie eine Standardintegration erstellen, um externe Daten und Inhalte beim Erstellen von Adobe Journey Optimizer-Kanälen zu verwenden. Dies hilft Ihnen, die Personalisierung und die Interaktion von Outbound-Kanälen zu verbessern. Sehen Sie sich das nachfolgende Video an, um mehr zu erfahren.
+Erfahren Sie, wie Sie eine Standardintegration erstellen, um externe Daten und Inhalte bei der Kanalerstellung in Adobe Journey Optimizer zu verwenden. Dies hilft Ihnen, die Personalisierung und die Interaktion von Outbound-Kanälen zu verbessern. Sehen Sie sich das nachfolgende Video an, um mehr zu erfahren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3484127/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
 Weitere Informationen finden Sie in der [Dokumentation zur Standardintegration](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create).
