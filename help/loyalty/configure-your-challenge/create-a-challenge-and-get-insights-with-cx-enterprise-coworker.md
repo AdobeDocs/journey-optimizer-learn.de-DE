@@ -39,4 +39,4 @@ ht-degree: 0%
 
 Verwenden Sie einfache Eingabeaufforderungen, um mit CX Enterprise Coworker Herausforderungen im Zusammenhang mit dem Treueprogramm zu erstellen, zu konfigurieren und zu starten. In diesem Video erfahren Sie, wie Sie Audiences, Belohnungen und Zeitpläne einrichten, das Journey-Setup automatisieren und Challenge-Insights überprüfen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496545/?captions=ger&learn=on&enablevpops)
