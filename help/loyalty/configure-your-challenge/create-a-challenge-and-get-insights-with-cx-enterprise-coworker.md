@@ -1,6 +1,6 @@
 ---
-title: Erstellen Sie mit CX Enterprise Coworker eine Herausforderung bezüglich der Kundentreue und gewinnen Sie Erkenntnisse.
-description: Erfahren Sie, wie Sie mit CX Enterprise Coworker Treueprobleme mithilfe natürlicher Sprache erstellen, konfigurieren und starten können, einschließlich Zielgruppen, Belohnungen, Zeitplänen und automatisierter Journey-Einrichtung.
+title: Erstellen Sie eine Treueprogramm-Herausforderung und gewinnen Sie Erkenntnisse aus CX Enterprise Coworker.
+description: Erfahren Sie, wie Sie mit CX Enterprise Coworker Herausforderungen im Bereich Kundentreue in Adobe Journey Optimizer erstellen und starten können.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -29,16 +29,14 @@ topic_v2:
     internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: b37854eacf05b80bcb24c94fe9248cfe18c7ac02
+source-git-commit: 6b3d2ad0ea5d8f185d6c8482e2f4f92f4bb75ded
 workflow-type: tm+mt
-source-wordcount: 72
+source-wordcount: '72'
 ht-degree: 0%
-
 ---
 
+# Erstellen Sie eine Treueprogramm-Herausforderung und gewinnen Sie Erkenntnisse aus CX Enterprise Coworker.
 
-# Erstellen Sie mit CX Enterprise Coworker eine Herausforderung bezüglich der Kundentreue und gewinnen Sie Erkenntnisse.
-
-Erfahren Sie, wie Sie mit CX Enterprise Coworker Treueprobleme mithilfe natürlicher Sprache erstellen, konfigurieren und starten können, einschließlich Zielgruppen, Belohnungen, Zeitplänen und automatisierter Journey-Einrichtung.
+Verwenden Sie einfache Eingabeaufforderungen, um mit CX Enterprise Coworker Herausforderungen im Zusammenhang mit dem Treueprogramm zu erstellen, zu konfigurieren und zu starten. In diesem Video erfahren Sie, wie Sie Audiences, Belohnungen und Zeitpläne einrichten, das Journey-Setup automatisieren und Challenge-Insights überprüfen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496545/?captions=ger&learn=on&enablevpops)
