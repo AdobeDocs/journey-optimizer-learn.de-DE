@@ -39,7 +39,7 @@ ht-degree: 0%
 
 In dieser Lektion wenden Sie Inhaltsexperimente auf die Push-Nachricht an.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457924/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505875/?captions=ger&learn=on&enablevpops)
 
 
 Siehe [Experimentieren - Übersicht](/help/experimentation/introduction-to-experimentation.md), [Konfigurieren von Inhaltsexperimenten für E-Mail-](/help/experimentation/content-experiments-for-emails.md) und [Push-Benachrichtigungen - Übersicht](/help/channels/push-notifications-overview.md) für weitere Anleitungen zu diesem Thema.

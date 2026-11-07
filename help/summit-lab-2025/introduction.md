@@ -37,6 +37,6 @@ Dieses Tutorial wurde ursprünglich auf der Adobe Summit 2025 als Lab L535 vorge
 
 In sechs Lektionen erfahren Sie, wie Sie die Unternehmenskommunikation von einfachen ausgehenden Nachrichten zu anspruchsvollen Omni-Channel-Erlebnissen führen können. Anhand von Praxisbeispielen erhalten Sie Erkenntnisse zur Erstellung von Customer Journeys, die proaktive Kontaktaufnahme und responsive Interaktion nahtlos verbinden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457828/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505722/?captions=ger&learn=on&enablevpops)
 
 Arbeitsmappe herunterladen [hier](/help/summit-lab-2025/assets/summit-lab-manual-l535-final-v4.pdf).

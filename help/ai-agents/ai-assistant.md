@@ -39,7 +39,7 @@ ht-degree: 100%
 
 Erfahren Sie, was Sie mit dem KI-Assistenten in auf Adobe Experience Platform basierenden Anwendungen wie Real-time Customer Data Platform, Journey Optimizer und Customer Journey Analytics alles tun können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506286/?captions=ger&learn=on)
 
 Weitere Informationen zu den in Journey Optimizer unterstützten Anwendungsfällen finden Sie unter [Arbeiten mit dem KI-Assistenten](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/get-started/work-efficiently/ai-features). Eine ausführliche Dokumentation finden Sie in der Dokumentation zum [KI-Assistenten in Adobe Experience Platform](https://experienceleague.adobe.com/de/docs/experience-platform/ai-assistant/home).
 

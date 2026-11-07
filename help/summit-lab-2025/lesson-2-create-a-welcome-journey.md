@@ -35,6 +35,6 @@ ht-degree: 0%
 
 In dieser Übung beginnen Sie mit dem Erstellen der Begrüßungs-Journey, die auf einer vorhandenen Journey basiert. Sie beginnen, indem Sie die Einstiegskriterien definieren und dann zuerst die E-Mail-Nachricht erstellen, indem Sie den KI-Inhaltsbeschleuniger verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505849/?captions=ger&learn=on&enablevpops)
 
 Weitere [&#x200B; zu diesem Thema finden Sie unter &#x200B;](/help/journeys/introduction-to-building-a-journey.md) zum Erstellen einer [&#x200B; und &#x200B;](/help/journeys/use-case-audience-qualification.md)Anwendungsfall - Zielgruppenqualifizierung .
