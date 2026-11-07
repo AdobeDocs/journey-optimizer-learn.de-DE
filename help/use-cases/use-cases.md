@@ -187,7 +187,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction" title="Skalieren der Orchestrierung auf eine Omni-Channel-Interaktion in Adobe Journey Optimizer – Einführung" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457828/?format=jpeg&nocache=1770161593112" alt="Skalieren der Orchestrierung auf eine Omni-Channel-Interaktion in Adobe Journey Optimizer – Einführung"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3505722/?captions=ger&format=jpeg&nocache=1770161593112" alt="Skalieren der Orchestrierung auf eine Omni-Channel-Interaktion in Adobe Journey Optimizer – Einführung"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

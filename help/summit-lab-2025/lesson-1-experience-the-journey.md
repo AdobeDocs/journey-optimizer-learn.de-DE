@@ -33,4 +33,4 @@ ht-degree: 0%
 
 In dieser Lektion erleben Sie die Onboarding-Journey eines neuen SecurFinancial-Kunden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457827/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505815/?captions=ger&learn=on&enablevpops)
