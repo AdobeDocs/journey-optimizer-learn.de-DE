@@ -31,4 +31,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Geschäftsereignisse in Journey Optimizer verwenden. Mit Geschäftsereignissen können Marken Journeys auf der Grundlage von Ereignissen auslösen, die nichts mit Menschen zu tun haben, wie z. B. die Benachrichtigung von Abonnierenden, wenn eine Veröffentlichung neue Inhalte hat, oder der Versand von Nachrichten während eines Sportereignisses. Erfahren Sie, wie die Daten aus Geschäftsereignissen für personalisierte Nachrichten in Journey verwendet werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/334234/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508287/?captions=ger&learn=on)
