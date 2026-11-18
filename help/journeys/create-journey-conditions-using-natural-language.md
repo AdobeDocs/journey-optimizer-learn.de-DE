@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Journey-Bedingungen in natürlicher Sprache
-description: Erfahren Sie, wie Sie mithilfe von Eingabeaufforderungen in natürlicher Sprache Journey-Bedingungen in Adobe Journey Optimizer erstellen. Verwenden Sie KI, um die Treueprogramm-Mitgliedschaft zu überprüfen und inaktive Benutzende zu identifizieren.
+description: Erfahren Sie, wie Sie Journey-Bedingungen in Adobe Journey Optimizer mithilfe von Prompts in natürlicher Sprache erstellen. Nutzen Sie KI, um die Mitgliedschaft im Treueprogramm zu überprüfen und inaktive Benutzende zu identifizieren.
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -20,13 +20,13 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: a56917f03581d014c45e777437f090dba863f4a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
 # Erstellen von Journey-Bedingungen in natürlicher Sprache
 
-Erfahren Sie, wie die KI-Funktion von Adobe Journey Optimizer Eingabeaufforderungen in Journey-Bedingungen umwandelt, ohne die Ausdruckssprache zu schreiben. In diesem Video wird gezeigt, wie Sie mit Treueprogramm-Mitgliedschaft und Prüfungen inaktiver Benutzer relevantere Kundenpfade erstellen können.
+Erfahren Sie, wie die KI-Funktionalität von Adobe Journey Optimizer Prompts in einfacher Sprache in Journey-Bedingungen umwandelt, ohne dass eine Ausdruckssprache geschrieben werden muss. In diesem Video erfahren Sie, wie Sie mithilfe von Überprüfungen der Mitgliedschaft im Treueprogramm und inaktiver Benutzender relevantere Kundenpfade erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504901/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504894/?learn=on&enablevpops)
