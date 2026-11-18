@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Erfahren Sie mehr über die wichtigsten Funktionen von Adobe Journey Optimizer, von Kundendaten und Zielgruppen über Journeys, Kanäle, Inhalte, Entscheidungsfindung und Treue bis zu den Bereichen, in denen KI Ihre Arbeit unterstützen kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424995?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432377?captions=ger&learn=on){transcript=true}

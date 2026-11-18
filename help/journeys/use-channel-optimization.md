@@ -31,4 +31,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Aktionsgruppen verwenden, um E-Mail, Push und SMS zu kombinieren, und anschließend die Kanalauswahl mithilfe manueller Priorität, Kundenpräferenzen oder KI-Interaktionsbewertungen optimieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505317/?captions=ger&learn=on&enablevpops)
