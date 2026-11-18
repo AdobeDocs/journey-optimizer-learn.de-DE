@@ -1,6 +1,6 @@
 ---
 title: Wichtigste Funktionen
-description: Erkunden Sie die Adobe Journey Optimizer-Funktionen, einschließlich Zielgruppen, Journey, Kanäle, Inhalte, Entscheidungen, Treue und KI-gestützte Workflows.
+description: Entdecken Sie die Funktionen von Adobe Journey Optimizer, darunter Zielgruppen, Journeys, Kanäle, Inhalte, Entscheidungsfindung, Treue und KI-gestützte Workflows.
 jira: KT-7606
 thumbnail: 3424995.jpeg
 feature: Overview
@@ -23,13 +23,13 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 8%
+ht-degree: 100%
 ---
 
 # Wichtigste Funktionen
 
-Erfahren Sie mehr über die wichtigsten Funktionen von Adobe Journey Optimizer, von Kundendaten und Zielgruppen bis hin zu Journey, Kanälen, Inhalten, Entscheidungen und Treue und darüber, wo KI Ihre Arbeit unterstützen kann.
+Erfahren Sie mehr über die wichtigsten Funktionen von Adobe Journey Optimizer, von Kundendaten und Zielgruppen über Journeys, Kanäle, Inhalte, Entscheidungsfindung und Treue bis zu den Bereichen, in denen KI Ihre Arbeit unterstützen kann.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432377?captions=ger&learn=on){transcript=true}

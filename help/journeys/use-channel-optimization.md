@@ -1,6 +1,6 @@
 ---
-title: Kanaloptimierung nutzen, um Kunden dort zu erreichen, wo sie interagieren
-description: Erfahren Sie, wie Sie mit Aktionsgruppen E-Mail, Push und SMS kombinieren und dann die Kanalauswahl mit manueller Priorität, Kundenvoreinstellungen oder KI-Interaktionswerten optimieren können.
+title: Verwenden von Kanaloptimierung, um Kundinnen und Kunden dort zu erreichen, wo sie interagieren
+description: Erfahren Sie, wie Sie Aktionsgruppen verwenden, um E-Mail, Push und SMS zu kombinieren, und anschließend die Kanalauswahl mithilfe manueller Priorität, Kundenpräferenzen oder KI-Interaktionsbewertungen optimieren.
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -22,13 +22,13 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 05581307a9ec85afe92c517b69bf4f4921226d03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
-# Kanaloptimierung nutzen, um Kunden dort zu erreichen, wo sie interagieren
+# Verwenden von Kanaloptimierung, um Kundinnen und Kunden dort zu erreichen, wo sie interagieren
 
-Erfahren Sie, wie Sie mit Aktionsgruppen E-Mail, Push und SMS kombinieren und dann die Kanalauswahl mit manueller Priorität, Kundenvoreinstellungen oder KI-Interaktionswerten optimieren können.
+Erfahren Sie, wie Sie Aktionsgruppen verwenden, um E-Mail, Push und SMS zu kombinieren, und anschließend die Kanalauswahl mithilfe manueller Priorität, Kundenpräferenzen oder KI-Interaktionsbewertungen optimieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3505317/?captions=ger&learn=on&enablevpops)
