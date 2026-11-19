@@ -1,13 +1,13 @@
 ---
-title: 'Übung 4: Erstellen einer Kampagne zur Bereitstellung einer Entscheidung auf der Website'
+title: 'Übung 4: Erstellen einer Kampagne zur Bereitstellung einer Web-Entscheidung'
 description: Verknüpfen einer Auswahlstrategie mit einem Code-basierten Erlebnis für die Echtzeit-Personalisierung von Webbannern.
 feature: Campaigns, Code-based Experiences
 role: User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration:
-last-substantial-update: '2026-05-12T00:00:00.000Z'
-jira: KT-
+last-substantial-update: 2026-11-18
+jira: KT-23180
 index: false
 autotag-review: '2026-05-14T18:11:56.742Z'
 TQID: 'https://experienceleague.adobe.com/OBVVI-6syh1t-svB9xPYz7xuVDsb1x6mPVzOFIZF5dE'
@@ -34,9 +34,9 @@ level_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+source-git-commit: 61aed3afd36bd2d4c37d08e0b7a1590bac86400d
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '56'
 ht-degree: 0%
 ---
 
@@ -44,4 +44,4 @@ ht-degree: 0%
 
 In dieser Übung verknüpfen Sie eine Auswahlstrategie mit einem Code-basierten Erlebnis für die Echtzeit-Personalisierung von Webbannern.
 
->[!VIDEO](https://video.tv.adobe.com/v/XXXXXXX/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508540/?learn=on)
