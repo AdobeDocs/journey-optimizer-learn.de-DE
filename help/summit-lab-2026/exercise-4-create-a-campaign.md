@@ -44,4 +44,4 @@ ht-degree: 0%
 
 In dieser Übung verknüpfen Sie eine Auswahlstrategie mit einem Code-basierten Erlebnis für die Echtzeit-Personalisierung von Webbannern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508540/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508547/?captions=ger&learn=on)

@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie in Adobe Journey Optimizer navigieren, die vier wichtigsten Benutzerrollen verstehen und die für Ihre Rolle relevanten Tools und Einstellungen finden. Erfahren Sie, wie Organisationen, Sandboxes und Berechtigungen Ihren Arbeitsbereich formen, bevor Sie Ihren ersten Anwendungsfall erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508506?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508514?captions=ger&learn=on){transcript=true}
